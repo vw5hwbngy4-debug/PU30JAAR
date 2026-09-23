@@ -1,0 +1,1108 @@
+{
+  "schema": "PU_YEAR_REVIEWER_STATS_V1",
+  "publication_year": 1993,
+  "policy": {
+    "solo_stats": "Means/medians/ranges use solo-attributed evaluations only. Joint bylines are counted separately to avoid silently double-crediting one score.",
+    "alias_grouping": "Michael Schaefer/Schaeffer grouped at year level only as HIGH-CONFIDENCE INFERENCE; source spellings preserved.",
+    "core_ranking_threshold": "20 solo evaluations."
+  },
+  "year_rankings": {
+    "statistically_strictest_core": {
+      "reviewer_identity": "Michael Schaeffer",
+      "source_labels": [
+        "Michael Schaefer",
+        "Michael Schaeffer"
+      ],
+      "identity_status": "INFERENCE_HIGH_CONFIDENCE_ALIAS_GROUP",
+      "solo_evaluation_count": 25,
+      "joint_evaluation_credit_count": 2,
+      "credited_evaluation_count": 27,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 7.388,
+      "median_score_10": 7.2,
+      "min_score_10": 4.0,
+      "max_score_10": 9.0,
+      "score_range_10": 5.0,
+      "count_9_plus": 6,
+      "count_below_7": 5,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Game Boy": 9,
+        "NES": 6,
+        "PC": 4,
+        "Sega Mega Drive": 3,
+        "Game Gear": 2,
+        "Super Nintendo": 2,
+        "NES / Super Nintendo": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 22,
+        "PREVIEW": 5
+      },
+      "unique_attributed_review_pages": 20,
+      "approx_attributed_page_text_chars": 52788,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_016",
+        "PU_1993_REVIEW_017",
+        "PU_1993_REVIEW_030",
+        "PU_1993_REVIEW_046",
+        "PU_1993_REVIEW_047",
+        "PU_1993_REVIEW_049",
+        "PU_1993_REVIEW_055",
+        "PU_1993_REVIEW_063",
+        "PU_1993_REVIEW_064",
+        "PU_1993_REVIEW_065",
+        "PU_1993_REVIEW_066",
+        "PU_1993_REVIEW_067",
+        "PU_1993_REVIEW_068",
+        "PU_1993_REVIEW_073",
+        "PU_1993_REVIEW_074",
+        "PU_1993_REVIEW_109",
+        "PU_1993_REVIEW_138",
+        "PU_1993_REVIEW_139",
+        "PU_1993_REVIEW_141",
+        "PU_1993_REVIEW_142",
+        "PU_1993_REVIEW_145",
+        "PU_1993_REVIEW_152",
+        "PU_1993_REVIEW_156",
+        "PU_1993_REVIEW_163",
+        "PU_1993_REVIEW_199"
+      ],
+      "joint_source_review_ids": [
+        "PU_1993_REVIEW_043",
+        "PU_1993_REVIEW_053"
+      ]
+    },
+    "statistically_mildest_core": {
+      "reviewer_identity": "David Lemereis",
+      "source_labels": [
+        "David Lemereis"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 21,
+      "joint_evaluation_credit_count": 0,
+      "credited_evaluation_count": 21,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 8.4,
+      "median_score_10": 8.5,
+      "min_score_10": 5.4,
+      "max_score_10": 9.8,
+      "score_range_10": 4.4,
+      "count_9_plus": 6,
+      "count_below_7": 1,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Sega Mega Drive": 5,
+        "Macintosh": 4,
+        "Neo Geo": 2,
+        "Macintosh / PC": 2,
+        "NES": 2,
+        "PC": 1,
+        "PC / Macintosh": 1,
+        "Sega CD": 1,
+        "Super Nintendo": 1,
+        "Super Nintendo / Sega Mega Drive": 1,
+        "Game Gear": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 21
+      },
+      "unique_attributed_review_pages": 19,
+      "approx_attributed_page_text_chars": 62435,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_036",
+        "PU_1993_REVIEW_054",
+        "PU_1993_REVIEW_062",
+        "PU_1993_REVIEW_076",
+        "PU_1993_REVIEW_077",
+        "PU_1993_REVIEW_097",
+        "PU_1993_REVIEW_098",
+        "PU_1993_REVIEW_121",
+        "PU_1993_REVIEW_125",
+        "PU_1993_REVIEW_143",
+        "PU_1993_REVIEW_144",
+        "PU_1993_REVIEW_153",
+        "PU_1993_REVIEW_155",
+        "PU_1993_REVIEW_158",
+        "PU_1993_REVIEW_171",
+        "PU_1993_REVIEW_176",
+        "PU_1993_REVIEW_183",
+        "PU_1993_REVIEW_194",
+        "PU_1993_REVIEW_203",
+        "PU_1993_REVIEW_204",
+        "PU_1993_REVIEW_205"
+      ],
+      "joint_source_review_ids": []
+    },
+    "widest_score_range_core": {
+      "reviewer_identity": "Bjorn Bruinsma",
+      "source_labels": [
+        "Bjorn Bruinsma"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 56,
+      "joint_evaluation_credit_count": 2,
+      "credited_evaluation_count": 58,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 7.8679,
+      "median_score_10": 8.0,
+      "min_score_10": 5.0,
+      "max_score_10": 10.0,
+      "score_range_10": 5.0,
+      "count_9_plus": 17,
+      "count_below_7": 11,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Super Nintendo": 15,
+        "CD-i": 14,
+        "Sega Mega Drive": 12,
+        "Game Gear": 5,
+        "NES": 5,
+        "Game Boy": 4,
+        "Sega CD": 2,
+        "Neo Geo": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 31,
+        "PREVIEW": 22,
+        "UNLABELED_CD_I_SCORED_EVALUATION": 3,
+        "UNLABELED_SHARED_IMPORT_EVALUATION": 2
+      },
+      "unique_attributed_review_pages": 48,
+      "approx_attributed_page_text_chars": 121805,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_003",
+        "PU_1993_REVIEW_004",
+        "PU_1993_REVIEW_005",
+        "PU_1993_REVIEW_006",
+        "PU_1993_REVIEW_010",
+        "PU_1993_REVIEW_011",
+        "PU_1993_REVIEW_012",
+        "PU_1993_REVIEW_013",
+        "PU_1993_REVIEW_014",
+        "PU_1993_REVIEW_015",
+        "PU_1993_REVIEW_026",
+        "PU_1993_REVIEW_028",
+        "PU_1993_REVIEW_031",
+        "PU_1993_REVIEW_032",
+        "PU_1993_REVIEW_033",
+        "PU_1993_REVIEW_034",
+        "PU_1993_REVIEW_035",
+        "PU_1993_REVIEW_040",
+        "PU_1993_REVIEW_042",
+        "PU_1993_REVIEW_050",
+        "PU_1993_REVIEW_069",
+        "PU_1993_REVIEW_070",
+        "PU_1993_REVIEW_071",
+        "PU_1993_REVIEW_072",
+        "PU_1993_REVIEW_075",
+        "PU_1993_REVIEW_080",
+        "PU_1993_REVIEW_081",
+        "PU_1993_REVIEW_082",
+        "PU_1993_REVIEW_083",
+        "PU_1993_REVIEW_085",
+        "PU_1993_REVIEW_086",
+        "PU_1993_REVIEW_087",
+        "PU_1993_REVIEW_100",
+        "PU_1993_REVIEW_101",
+        "PU_1993_REVIEW_102",
+        "PU_1993_REVIEW_113",
+        "PU_1993_REVIEW_114",
+        "PU_1993_REVIEW_122",
+        "PU_1993_REVIEW_123",
+        "PU_1993_REVIEW_124",
+        "PU_1993_REVIEW_133",
+        "PU_1993_REVIEW_135",
+        "PU_1993_REVIEW_136",
+        "PU_1993_REVIEW_137",
+        "PU_1993_REVIEW_146",
+        "PU_1993_REVIEW_159",
+        "PU_1993_REVIEW_160",
+        "PU_1993_REVIEW_167",
+        "PU_1993_REVIEW_168",
+        "PU_1993_REVIEW_174",
+        "PU_1993_REVIEW_179",
+        "PU_1993_REVIEW_180",
+        "PU_1993_REVIEW_184",
+        "PU_1993_REVIEW_195",
+        "PU_1993_REVIEW_206",
+        "PU_1993_REVIEW_207"
+      ],
+      "joint_source_review_ids": [
+        "PU_1993_REVIEW_078",
+        "PU_1993_REVIEW_079"
+      ]
+    },
+    "most_9_plus_core": {
+      "reviewer_identity": "Bjorn Bruinsma",
+      "source_labels": [
+        "Bjorn Bruinsma"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 56,
+      "joint_evaluation_credit_count": 2,
+      "credited_evaluation_count": 58,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 7.8679,
+      "median_score_10": 8.0,
+      "min_score_10": 5.0,
+      "max_score_10": 10.0,
+      "score_range_10": 5.0,
+      "count_9_plus": 17,
+      "count_below_7": 11,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Super Nintendo": 15,
+        "CD-i": 14,
+        "Sega Mega Drive": 12,
+        "Game Gear": 5,
+        "NES": 5,
+        "Game Boy": 4,
+        "Sega CD": 2,
+        "Neo Geo": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 31,
+        "PREVIEW": 22,
+        "UNLABELED_CD_I_SCORED_EVALUATION": 3,
+        "UNLABELED_SHARED_IMPORT_EVALUATION": 2
+      },
+      "unique_attributed_review_pages": 48,
+      "approx_attributed_page_text_chars": 121805,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_003",
+        "PU_1993_REVIEW_004",
+        "PU_1993_REVIEW_005",
+        "PU_1993_REVIEW_006",
+        "PU_1993_REVIEW_010",
+        "PU_1993_REVIEW_011",
+        "PU_1993_REVIEW_012",
+        "PU_1993_REVIEW_013",
+        "PU_1993_REVIEW_014",
+        "PU_1993_REVIEW_015",
+        "PU_1993_REVIEW_026",
+        "PU_1993_REVIEW_028",
+        "PU_1993_REVIEW_031",
+        "PU_1993_REVIEW_032",
+        "PU_1993_REVIEW_033",
+        "PU_1993_REVIEW_034",
+        "PU_1993_REVIEW_035",
+        "PU_1993_REVIEW_040",
+        "PU_1993_REVIEW_042",
+        "PU_1993_REVIEW_050",
+        "PU_1993_REVIEW_069",
+        "PU_1993_REVIEW_070",
+        "PU_1993_REVIEW_071",
+        "PU_1993_REVIEW_072",
+        "PU_1993_REVIEW_075",
+        "PU_1993_REVIEW_080",
+        "PU_1993_REVIEW_081",
+        "PU_1993_REVIEW_082",
+        "PU_1993_REVIEW_083",
+        "PU_1993_REVIEW_085",
+        "PU_1993_REVIEW_086",
+        "PU_1993_REVIEW_087",
+        "PU_1993_REVIEW_100",
+        "PU_1993_REVIEW_101",
+        "PU_1993_REVIEW_102",
+        "PU_1993_REVIEW_113",
+        "PU_1993_REVIEW_114",
+        "PU_1993_REVIEW_122",
+        "PU_1993_REVIEW_123",
+        "PU_1993_REVIEW_124",
+        "PU_1993_REVIEW_133",
+        "PU_1993_REVIEW_135",
+        "PU_1993_REVIEW_136",
+        "PU_1993_REVIEW_137",
+        "PU_1993_REVIEW_146",
+        "PU_1993_REVIEW_159",
+        "PU_1993_REVIEW_160",
+        "PU_1993_REVIEW_167",
+        "PU_1993_REVIEW_168",
+        "PU_1993_REVIEW_174",
+        "PU_1993_REVIEW_179",
+        "PU_1993_REVIEW_180",
+        "PU_1993_REVIEW_184",
+        "PU_1993_REVIEW_195",
+        "PU_1993_REVIEW_206",
+        "PU_1993_REVIEW_207"
+      ],
+      "joint_source_review_ids": [
+        "PU_1993_REVIEW_078",
+        "PU_1993_REVIEW_079"
+      ]
+    }
+  },
+  "reviewers": [
+    {
+      "reviewer_identity": "Bjorn Bruinsma",
+      "source_labels": [
+        "Bjorn Bruinsma"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 56,
+      "joint_evaluation_credit_count": 2,
+      "credited_evaluation_count": 58,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 7.8679,
+      "median_score_10": 8.0,
+      "min_score_10": 5.0,
+      "max_score_10": 10.0,
+      "score_range_10": 5.0,
+      "count_9_plus": 17,
+      "count_below_7": 11,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Super Nintendo": 15,
+        "CD-i": 14,
+        "Sega Mega Drive": 12,
+        "Game Gear": 5,
+        "NES": 5,
+        "Game Boy": 4,
+        "Sega CD": 2,
+        "Neo Geo": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 31,
+        "PREVIEW": 22,
+        "UNLABELED_CD_I_SCORED_EVALUATION": 3,
+        "UNLABELED_SHARED_IMPORT_EVALUATION": 2
+      },
+      "unique_attributed_review_pages": 48,
+      "approx_attributed_page_text_chars": 121805,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_003",
+        "PU_1993_REVIEW_004",
+        "PU_1993_REVIEW_005",
+        "PU_1993_REVIEW_006",
+        "PU_1993_REVIEW_010",
+        "PU_1993_REVIEW_011",
+        "PU_1993_REVIEW_012",
+        "PU_1993_REVIEW_013",
+        "PU_1993_REVIEW_014",
+        "PU_1993_REVIEW_015",
+        "PU_1993_REVIEW_026",
+        "PU_1993_REVIEW_028",
+        "PU_1993_REVIEW_031",
+        "PU_1993_REVIEW_032",
+        "PU_1993_REVIEW_033",
+        "PU_1993_REVIEW_034",
+        "PU_1993_REVIEW_035",
+        "PU_1993_REVIEW_040",
+        "PU_1993_REVIEW_042",
+        "PU_1993_REVIEW_050",
+        "PU_1993_REVIEW_069",
+        "PU_1993_REVIEW_070",
+        "PU_1993_REVIEW_071",
+        "PU_1993_REVIEW_072",
+        "PU_1993_REVIEW_075",
+        "PU_1993_REVIEW_080",
+        "PU_1993_REVIEW_081",
+        "PU_1993_REVIEW_082",
+        "PU_1993_REVIEW_083",
+        "PU_1993_REVIEW_085",
+        "PU_1993_REVIEW_086",
+        "PU_1993_REVIEW_087",
+        "PU_1993_REVIEW_100",
+        "PU_1993_REVIEW_101",
+        "PU_1993_REVIEW_102",
+        "PU_1993_REVIEW_113",
+        "PU_1993_REVIEW_114",
+        "PU_1993_REVIEW_122",
+        "PU_1993_REVIEW_123",
+        "PU_1993_REVIEW_124",
+        "PU_1993_REVIEW_133",
+        "PU_1993_REVIEW_135",
+        "PU_1993_REVIEW_136",
+        "PU_1993_REVIEW_137",
+        "PU_1993_REVIEW_146",
+        "PU_1993_REVIEW_159",
+        "PU_1993_REVIEW_160",
+        "PU_1993_REVIEW_167",
+        "PU_1993_REVIEW_168",
+        "PU_1993_REVIEW_174",
+        "PU_1993_REVIEW_179",
+        "PU_1993_REVIEW_180",
+        "PU_1993_REVIEW_184",
+        "PU_1993_REVIEW_195",
+        "PU_1993_REVIEW_206",
+        "PU_1993_REVIEW_207"
+      ],
+      "joint_source_review_ids": [
+        "PU_1993_REVIEW_078",
+        "PU_1993_REVIEW_079"
+      ]
+    },
+    {
+      "reviewer_identity": "Ben de Dood",
+      "source_labels": [
+        "Ben de Dood"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 35,
+      "joint_evaluation_credit_count": 0,
+      "credited_evaluation_count": 35,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 7.6714,
+      "median_score_10": 8.0,
+      "min_score_10": 6.0,
+      "max_score_10": 9.5,
+      "score_range_10": 3.5,
+      "count_9_plus": 4,
+      "count_below_7": 5,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "PC": 16,
+        "Game Boy": 10,
+        "Super Nintendo": 3,
+        "Board game": 3,
+        "Game Gear": 1,
+        "Sega Mega Drive": 1,
+        "NES": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 33,
+        "UNLABELED_SCORED_EVALUATION": 1,
+        "PREVIEW": 1
+      },
+      "unique_attributed_review_pages": 27,
+      "approx_attributed_page_text_chars": 81787,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_009",
+        "PU_1993_REVIEW_029",
+        "PU_1993_REVIEW_037",
+        "PU_1993_REVIEW_052",
+        "PU_1993_REVIEW_058",
+        "PU_1993_REVIEW_059",
+        "PU_1993_REVIEW_061",
+        "PU_1993_REVIEW_090",
+        "PU_1993_REVIEW_095",
+        "PU_1993_REVIEW_108",
+        "PU_1993_REVIEW_110",
+        "PU_1993_REVIEW_111",
+        "PU_1993_REVIEW_112",
+        "PU_1993_REVIEW_115",
+        "PU_1993_REVIEW_116",
+        "PU_1993_REVIEW_126",
+        "PU_1993_REVIEW_128",
+        "PU_1993_REVIEW_129",
+        "PU_1993_REVIEW_130",
+        "PU_1993_REVIEW_131",
+        "PU_1993_REVIEW_149",
+        "PU_1993_REVIEW_150",
+        "PU_1993_REVIEW_151",
+        "PU_1993_REVIEW_162",
+        "PU_1993_REVIEW_164",
+        "PU_1993_REVIEW_165",
+        "PU_1993_REVIEW_166",
+        "PU_1993_REVIEW_178",
+        "PU_1993_REVIEW_189",
+        "PU_1993_REVIEW_190",
+        "PU_1993_REVIEW_191",
+        "PU_1993_REVIEW_192",
+        "PU_1993_REVIEW_197",
+        "PU_1993_REVIEW_200",
+        "PU_1993_REVIEW_202"
+      ],
+      "joint_source_review_ids": []
+    },
+    {
+      "reviewer_identity": "Kees de Koning",
+      "source_labels": [
+        "Kees de Koning"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 33,
+      "joint_evaluation_credit_count": 2,
+      "credited_evaluation_count": 35,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_005"
+      ],
+      "mean_score_10": 7.9273,
+      "median_score_10": 8.0,
+      "min_score_10": 5.0,
+      "max_score_10": 9.6,
+      "score_range_10": 4.6,
+      "count_9_plus": 5,
+      "count_below_7": 3,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Super Nintendo": 18,
+        "Game Boy": 5,
+        "NES": 5,
+        "Sega Mega Drive": 2,
+        "Neo Geo": 2,
+        "NES / Super Nintendo": 1,
+        "Game Boy / Game Gear": 1,
+        "Game Gear": 1
+      },
+      "article_type_credit_counts": {
+        "PREVIEW": 18,
+        "REVIEW": 17
+      },
+      "unique_attributed_review_pages": 29,
+      "approx_attributed_page_text_chars": 80037,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_020",
+        "PU_1993_REVIEW_021",
+        "PU_1993_REVIEW_022",
+        "PU_1993_REVIEW_023",
+        "PU_1993_REVIEW_024",
+        "PU_1993_REVIEW_025",
+        "PU_1993_REVIEW_027",
+        "PU_1993_REVIEW_045",
+        "PU_1993_REVIEW_048",
+        "PU_1993_REVIEW_051",
+        "PU_1993_REVIEW_056",
+        "PU_1993_REVIEW_057",
+        "PU_1993_REVIEW_089",
+        "PU_1993_REVIEW_091",
+        "PU_1993_REVIEW_092",
+        "PU_1993_REVIEW_093",
+        "PU_1993_REVIEW_094",
+        "PU_1993_REVIEW_096",
+        "PU_1993_REVIEW_103",
+        "PU_1993_REVIEW_104",
+        "PU_1993_REVIEW_105",
+        "PU_1993_REVIEW_106",
+        "PU_1993_REVIEW_107",
+        "PU_1993_REVIEW_117",
+        "PU_1993_REVIEW_118",
+        "PU_1993_REVIEW_169",
+        "PU_1993_REVIEW_170",
+        "PU_1993_REVIEW_175",
+        "PU_1993_REVIEW_181",
+        "PU_1993_REVIEW_182",
+        "PU_1993_REVIEW_188",
+        "PU_1993_REVIEW_196",
+        "PU_1993_REVIEW_209"
+      ],
+      "joint_source_review_ids": [
+        "PU_1993_REVIEW_043",
+        "PU_1993_REVIEW_053"
+      ]
+    },
+    {
+      "reviewer_identity": "Michael Schaeffer",
+      "source_labels": [
+        "Michael Schaefer",
+        "Michael Schaeffer"
+      ],
+      "identity_status": "INFERENCE_HIGH_CONFIDENCE_ALIAS_GROUP",
+      "solo_evaluation_count": 25,
+      "joint_evaluation_credit_count": 2,
+      "credited_evaluation_count": 27,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 7.388,
+      "median_score_10": 7.2,
+      "min_score_10": 4.0,
+      "max_score_10": 9.0,
+      "score_range_10": 5.0,
+      "count_9_plus": 6,
+      "count_below_7": 5,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Game Boy": 9,
+        "NES": 6,
+        "PC": 4,
+        "Sega Mega Drive": 3,
+        "Game Gear": 2,
+        "Super Nintendo": 2,
+        "NES / Super Nintendo": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 22,
+        "PREVIEW": 5
+      },
+      "unique_attributed_review_pages": 20,
+      "approx_attributed_page_text_chars": 52788,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_016",
+        "PU_1993_REVIEW_017",
+        "PU_1993_REVIEW_030",
+        "PU_1993_REVIEW_046",
+        "PU_1993_REVIEW_047",
+        "PU_1993_REVIEW_049",
+        "PU_1993_REVIEW_055",
+        "PU_1993_REVIEW_063",
+        "PU_1993_REVIEW_064",
+        "PU_1993_REVIEW_065",
+        "PU_1993_REVIEW_066",
+        "PU_1993_REVIEW_067",
+        "PU_1993_REVIEW_068",
+        "PU_1993_REVIEW_073",
+        "PU_1993_REVIEW_074",
+        "PU_1993_REVIEW_109",
+        "PU_1993_REVIEW_138",
+        "PU_1993_REVIEW_139",
+        "PU_1993_REVIEW_141",
+        "PU_1993_REVIEW_142",
+        "PU_1993_REVIEW_145",
+        "PU_1993_REVIEW_152",
+        "PU_1993_REVIEW_156",
+        "PU_1993_REVIEW_163",
+        "PU_1993_REVIEW_199"
+      ],
+      "joint_source_review_ids": [
+        "PU_1993_REVIEW_043",
+        "PU_1993_REVIEW_053"
+      ]
+    },
+    {
+      "reviewer_identity": "Adam Eeuwens",
+      "source_labels": [
+        "Adam Eeuwens"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 22,
+      "joint_evaluation_credit_count": 2,
+      "credited_evaluation_count": 24,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 7.7091,
+      "median_score_10": 7.65,
+      "min_score_10": 6.0,
+      "max_score_10": 9.6,
+      "score_range_10": 3.6,
+      "count_9_plus": 3,
+      "count_below_7": 5,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Sega Mega Drive": 7,
+        "Lynx": 5,
+        "Game Boy": 4,
+        "Sega CD": 3,
+        "Game Gear": 3,
+        "Super Nintendo": 2
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 19,
+        "PREVIEW": 5
+      },
+      "unique_attributed_review_pages": 21,
+      "approx_attributed_page_text_chars": 59550,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_001",
+        "PU_1993_REVIEW_007",
+        "PU_1993_REVIEW_008",
+        "PU_1993_REVIEW_018",
+        "PU_1993_REVIEW_019",
+        "PU_1993_REVIEW_041",
+        "PU_1993_REVIEW_044",
+        "PU_1993_REVIEW_084",
+        "PU_1993_REVIEW_088",
+        "PU_1993_REVIEW_099",
+        "PU_1993_REVIEW_119",
+        "PU_1993_REVIEW_120",
+        "PU_1993_REVIEW_132",
+        "PU_1993_REVIEW_147",
+        "PU_1993_REVIEW_148",
+        "PU_1993_REVIEW_154",
+        "PU_1993_REVIEW_157",
+        "PU_1993_REVIEW_161",
+        "PU_1993_REVIEW_185",
+        "PU_1993_REVIEW_186",
+        "PU_1993_REVIEW_187",
+        "PU_1993_REVIEW_193"
+      ],
+      "joint_source_review_ids": [
+        "PU_1993_REVIEW_078",
+        "PU_1993_REVIEW_079"
+      ]
+    },
+    {
+      "reviewer_identity": "David Lemereis",
+      "source_labels": [
+        "David Lemereis"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 21,
+      "joint_evaluation_credit_count": 0,
+      "credited_evaluation_count": 21,
+      "issues_with_credit": [
+        "PU_001",
+        "PU_002",
+        "PU_003",
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 8.4,
+      "median_score_10": 8.5,
+      "min_score_10": 5.4,
+      "max_score_10": 9.8,
+      "score_range_10": 4.4,
+      "count_9_plus": 6,
+      "count_below_7": 1,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Sega Mega Drive": 5,
+        "Macintosh": 4,
+        "Neo Geo": 2,
+        "Macintosh / PC": 2,
+        "NES": 2,
+        "PC": 1,
+        "PC / Macintosh": 1,
+        "Sega CD": 1,
+        "Super Nintendo": 1,
+        "Super Nintendo / Sega Mega Drive": 1,
+        "Game Gear": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 21
+      },
+      "unique_attributed_review_pages": 19,
+      "approx_attributed_page_text_chars": 62435,
+      "statistical_sample_confidence": "HIGH",
+      "eligible_for_core_rankings": true,
+      "source_review_ids": [
+        "PU_1993_REVIEW_036",
+        "PU_1993_REVIEW_054",
+        "PU_1993_REVIEW_062",
+        "PU_1993_REVIEW_076",
+        "PU_1993_REVIEW_077",
+        "PU_1993_REVIEW_097",
+        "PU_1993_REVIEW_098",
+        "PU_1993_REVIEW_121",
+        "PU_1993_REVIEW_125",
+        "PU_1993_REVIEW_143",
+        "PU_1993_REVIEW_144",
+        "PU_1993_REVIEW_153",
+        "PU_1993_REVIEW_155",
+        "PU_1993_REVIEW_158",
+        "PU_1993_REVIEW_171",
+        "PU_1993_REVIEW_176",
+        "PU_1993_REVIEW_183",
+        "PU_1993_REVIEW_194",
+        "PU_1993_REVIEW_203",
+        "PU_1993_REVIEW_204",
+        "PU_1993_REVIEW_205"
+      ],
+      "joint_source_review_ids": []
+    },
+    {
+      "reviewer_identity": "Thomas Glas",
+      "source_labels": [
+        "Thomas Glas"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 4,
+      "joint_evaluation_credit_count": 0,
+      "credited_evaluation_count": 4,
+      "issues_with_credit": [
+        "PU_004",
+        "PU_005"
+      ],
+      "mean_score_10": 8.075,
+      "median_score_10": 8.0,
+      "min_score_10": 7.8,
+      "max_score_10": 8.5,
+      "score_range_10": 0.7,
+      "count_9_plus": 0,
+      "count_below_7": 0,
+      "never_below_7": true,
+      "platform_credit_counts": {
+        "Super Nintendo": 4
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 3,
+        "PREVIEW": 1
+      },
+      "unique_attributed_review_pages": 4,
+      "approx_attributed_page_text_chars": 7709,
+      "statistical_sample_confidence": "INSUFFICIENT",
+      "eligible_for_core_rankings": false,
+      "source_review_ids": [
+        "PU_1993_REVIEW_134",
+        "PU_1993_REVIEW_172",
+        "PU_1993_REVIEW_173",
+        "PU_1993_REVIEW_177"
+      ],
+      "joint_source_review_ids": []
+    },
+    {
+      "reviewer_identity": "Laura ten Seldam",
+      "source_labels": [
+        "Laura ten Seldam"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 2,
+      "joint_evaluation_credit_count": 0,
+      "credited_evaluation_count": 2,
+      "issues_with_credit": [
+        "PU_005"
+      ],
+      "mean_score_10": 7.0,
+      "median_score_10": 7.0,
+      "min_score_10": 6.0,
+      "max_score_10": 8.0,
+      "score_range_10": 2.0,
+      "count_9_plus": 0,
+      "count_below_7": 1,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "PC": 2
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 2
+      },
+      "unique_attributed_review_pages": 2,
+      "approx_attributed_page_text_chars": 5550,
+      "statistical_sample_confidence": "INSUFFICIENT",
+      "eligible_for_core_rankings": false,
+      "source_review_ids": [
+        "PU_1993_REVIEW_198",
+        "PU_1993_REVIEW_201"
+      ],
+      "joint_source_review_ids": []
+    },
+    {
+      "reviewer_identity": "René Janssen",
+      "source_labels": [
+        "René Janssen"
+      ],
+      "identity_status": "SOURCE_DIRECT",
+      "solo_evaluation_count": 1,
+      "joint_evaluation_credit_count": 0,
+      "credited_evaluation_count": 1,
+      "issues_with_credit": [
+        "PU_005"
+      ],
+      "mean_score_10": 6.0,
+      "median_score_10": 6.0,
+      "min_score_10": 6.0,
+      "max_score_10": 6.0,
+      "score_range_10": 0.0,
+      "count_9_plus": 0,
+      "count_below_7": 1,
+      "never_below_7": false,
+      "platform_credit_counts": {
+        "Lynx": 1
+      },
+      "article_type_credit_counts": {
+        "REVIEW": 1
+      },
+      "unique_attributed_review_pages": 1,
+      "approx_attributed_page_text_chars": 2786,
+      "statistical_sample_confidence": "INSUFFICIENT",
+      "eligible_for_core_rankings": false,
+      "source_review_ids": [
+        "PU_1993_REVIEW_208"
+      ],
+      "joint_source_review_ids": []
+    }
+  ],
+  "unresolved_reviewer_evaluations": [
+    "PU_1993_REVIEW_002",
+    "PU_1993_REVIEW_038",
+    "PU_1993_REVIEW_039",
+    "PU_1993_REVIEW_060",
+    "PU_1993_REVIEW_127",
+    "PU_1993_REVIEW_140"
+  ],
+  "same_page_or_joint_reviewer_combinations": [
+    {
+      "reviewers": [
+        "Kees de Koning",
+        "Michael Schaeffer"
+      ],
+      "occurrences": 5,
+      "evidence": [
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 28
+        },
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 30
+        },
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 31
+        },
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 35
+        },
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 38
+        }
+      ]
+    },
+    {
+      "reviewers": [
+        "Bjorn Bruinsma",
+        "Michael Schaeffer"
+      ],
+      "occurrences": 3,
+      "evidence": [
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 56
+        },
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 57
+        },
+        {
+          "issue_id": "PU_004",
+          "pdf_page": 46
+        }
+      ]
+    },
+    {
+      "reviewers": [
+        "Adam Eeuwens",
+        "Bjorn Bruinsma"
+      ],
+      "occurrences": 2,
+      "evidence": [
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 60
+        },
+        {
+          "issue_id": "PU_002",
+          "pdf_page": 61
+        }
+      ]
+    },
+    {
+      "reviewers": [
+        "Adam Eeuwens",
+        "David Lemereis"
+      ],
+      "occurrences": 2,
+      "evidence": [
+        {
+          "issue_id": "PU_003",
+          "pdf_page": 58
+        },
+        {
+          "issue_id": "PU_005",
+          "pdf_page": 50
+        }
+      ]
+    },
+    {
+      "reviewers": [
+        "Adam Eeuwens",
+        "Kees de Koning"
+      ],
+      "occurrences": 1,
+      "evidence": [
+        {
+          "issue_id": "PU_003",
+          "pdf_page": 57
+        }
+      ]
+    },
+    {
+      "reviewers": [
+        "Ben de Dood",
+        "Michael Schaeffer"
+      ],
+      "occurrences": 1,
+      "evidence": [
+        {
+          "issue_id": "PU_004",
+          "pdf_page": 49
+        }
+      ]
+    },
+    {
+      "reviewers": [
+        "Bjorn Bruinsma",
+        "Kees de Koning"
+      ],
+      "occurrences": 1,
+      "evidence": [
+        {
+          "issue_id": "PU_005",
+          "pdf_page": 51
+        }
+      ]
+    },
+    {
+      "reviewers": [
+        "Kees de Koning",
+        "René Janssen"
+      ],
+      "occurrences": 1,
+      "evidence": [
+        {
+          "issue_id": "PU_005",
+          "pdf_page": 62
+        }
+      ]
+    }
+  ]
+}

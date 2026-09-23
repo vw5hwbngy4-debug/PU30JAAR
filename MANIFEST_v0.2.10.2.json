@@ -1,0 +1,48 @@
+{
+  "version": "v0.2.10.2",
+  "patch": "PU008_DEEP_CANON",
+  "issue_id": "PU_008",
+  "issue_number": 8,
+  "publication_year": 1994,
+  "publication_month": "March",
+  "issue_label": "Nummer 3, Jaargang 2",
+  "source_sha256": "f05353e504d403c2b020ff1c447dbb18b3b5ea3586f0ae3a6f250b7249d89cc9",
+  "counts": {
+    "pages": 84,
+    "reviews": 40,
+    "rag_chunks": 196,
+    "editor_evidence": 52,
+    "issue_knowledge": 52,
+    "entities": 106,
+    "aliases": 32,
+    "provenance": 564
+  },
+  "intentional_unresolved_reviewers": [
+    "Mean Arenas",
+    "Arabian Nights"
+  ],
+  "schema_fixes": [
+    "issue_number=8 added to all canonical review records",
+    "issue_number=8 added to all local RAG records"
+  ],
+  "runtime_preserved": [
+    "YEAR_DISCOVERY",
+    "public PU30JAAR brand guard",
+    "v0.2.10.0a multi-platform scorecard evidence fix",
+    "1994 partial-year ranking guardrail",
+    "1993 YEAR_SYNTHESIS + YEAR_INTELLIGENCE"
+  ],
+  "sql_to_run": "database/PU_008_LIVE_IMPORT_ALL_HOSTINGER_SAFE.sql",
+  "sql_files_in_patch": 1,
+  "expected_live_totals": {
+    "deep_canon_issues": 8,
+    "deep_canon_pages": 672,
+    "canonical_scored_evaluations": 324,
+    "local_issue_rag_chunks": 1416,
+    "editor_evidence": 445,
+    "issue_knowledge": 321,
+    "aliases": 253,
+    "page_transcripts": 672,
+    "rag_db_chunks": 1434
+  }
+}

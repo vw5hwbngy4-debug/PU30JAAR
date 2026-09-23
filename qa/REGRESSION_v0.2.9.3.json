@@ -1,0 +1,25 @@
+{
+  "tests": [
+    {
+      "q": "Wat kreeg Dead Space?",
+      "expect_score": 97,
+      "expect_issue": 343,
+      "expect_authority": "HUMAN_VISUAL_VERIFIED_SCORE"
+    },
+    {
+      "q": "Wat kreeg Gollum?",
+      "expect_score": 25,
+      "expect_issue": 347,
+      "expect_authority": "HUMAN_VISUAL_VERIFIED_SCORE"
+    },
+    {
+      "q": "Wat waren alle cijfers uit 2023?",
+      "expect_records": 43,
+      "expect_unscored_note": "Teslagrad 2"
+    },
+    {
+      "q": "Wat waren alle cijfers uit PU 348?",
+      "expect_records": 6
+    }
+  ]
+}

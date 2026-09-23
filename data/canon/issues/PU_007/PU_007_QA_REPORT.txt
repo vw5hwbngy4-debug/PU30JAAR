@@ -1,0 +1,109 @@
+PU30JAAR / BLACKPAPER PU #007 — FINAL ISSUE INGEST QA
+=======================================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+source: 007.pdf
+publication: February 1994
+printed issue label: Nummer 2, Jaargang 2
+source SHA256: 9f858f028c914d319ed068c4a4f928f5c62a8b3745ec62951bfc96098fdf0185
+
+PAGE ACCOUNTING
+PDF pages expected: 84
+PDF pages represented: 84
+pages with transcript: 84
+pages missing transcript: 0
+missing page IDs: NONE
+embedded PDF text pages: 74
+OCR fallback pages: [10, 21, 25, 32, 40, 48, 71, 73, 78, 79]
+
+RAG ACCOUNTING
+RAG chunks created: 195
+review article chunks: 39
+score/verdict chunks: 39
+issue knowledge chunks: 53
+page section chunks: 43
+section cluster chunks: 17
+list block chunks: 4
+
+HUMAN CANON
+printed game/platform index rows: 42
+shared Super Baseball 2020 duplicate row: -1
+shared Dracula duplicate platform rows: -2
+canonical scored evaluations expected: 39
+human review records produced: 39
+resolved scores: 39
+unresolved scores: 0
+unresolved reviewers: 0
+
+STRUCTURED KNOWLEDGE
+entities indexed: 103
+aliases created: 29
+editor evidence records: 53
+issue knowledge records: 53
+external enrichment records: 0
+
+PROVENANCE
+provenance records: 558
+records with page provenance: 558
+records without page provenance: 0
+
+DUPLICATE CHECKS
+duplicate review IDs: 0
+duplicate RAG chunk IDs: 0
+duplicate entity IDs: 0
+duplicate issue knowledge IDs: 0
+
+ORPHAN CHECKS
+orphan review records: 0
+orphan RAG chunks: 0
+
+JSONL VALIDATION
+PU_007_PAGE_TRANSCRIPTS.jsonl: invalid lines = 0
+PU_007_RAG_CHUNKS.jsonl: invalid lines = 0
+PU_007_HUMAN_CANON_REVIEWS.jsonl: invalid lines = 0
+PU_007_ENTITY_INDEX.jsonl: invalid lines = 0
+PU_007_ALIAS_MAP.jsonl: invalid lines = 0
+PU_007_EDITOR_EVIDENCE.jsonl: invalid lines = 0
+PU_007_ISSUE_KNOWLEDGE.jsonl: invalid lines = 0
+PU_007_PROVENANCE.jsonl: invalid lines = 0
+
+SPECIAL CANON PRESERVED
+- Super Baseball 2020 = one shared SNES/Mega Drive scorecard.
+- Dracula = one shared Mega Drive/SNES/Game Boy scorecard.
+- Dragon Strike = no Graphics/Geluid component scores.
+- Terminator 2: Rampage = Graphics 9,0 / Geluid 8,0 / final 9.
+- NBA Jam pp54-55 = unscored secondary ProCheck.
+- Cliffhanger Action Replay = 7E061F03.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+ALL_PAGES_HAVE_TRANSCRIPT = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+JSONL_VALID = PASS
+NO_DUPLICATE_PRIMARY_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+DRAGON_STRIKE_COMPONENTS_NOT_INVENTED = PASS
+SUPER_BASEBALL_SHARED_SCORECARD_PRESERVED = PASS
+DRACULA_SHARED_SCORECARD_PRESERVED = PASS
+TERMINATOR_RAMPAGE_CORRECTION_PRESERVED = PASS
+NBA_JAM_PROFCHECK_NOT_PROMOTED_TO_SECOND_SCORE = PASS
+CLIFFHANGER_CODE_PRESERVED = PASS
+
+MANDATORY PRINCIPLES
+NO SILENT PAGE LOSS = PASS
+NO SILENT REVIEW LOSS = PASS
+NO SILENT SCORE LOSS = PASS
+NO UNMARKED INFERENCE = PASS
+NO EXTERNAL FACT PRESENTED AS PU FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

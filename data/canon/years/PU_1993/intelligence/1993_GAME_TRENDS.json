@@ -1,0 +1,832 @@
+{
+  "schema": "PU_YEAR_GAME_TRENDS_V1",
+  "publication_year": 1993,
+  "genre_analysis": {
+    "status": "PARTIAL_SOURCE_TEXT_KEYWORD_INFERENCE",
+    "warning": "The canon review index has no authoritative normalized genre field. No external genre taxonomy was introduced. Counts below only tag genre words that are present in source-derived verdict text and therefore undercount genres.",
+    "signals": [
+      {
+        "tag": "ADVENTURE",
+        "evaluation_mentions": 10,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_018",
+            "title": "Barbie Game Girl",
+            "issue_id": "PU_001",
+            "pdf_page": 45
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_058",
+            "title": "Darklands",
+            "issue_id": "PU_002",
+            "pdf_page": 40
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_086",
+            "title": "Jurassic Park",
+            "issue_id": "PU_003",
+            "pdf_page": 23
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_096",
+            "title": "MechWarrior",
+            "issue_id": "PU_003",
+            "pdf_page": 33
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_101",
+            "title": "McDonaldland",
+            "issue_id": "PU_003",
+            "pdf_page": 39
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_115",
+            "title": "The Legend of Zelda: Link's Awakening",
+            "issue_id": "PU_003",
+            "pdf_page": 56
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_132",
+            "title": "X-Men",
+            "issue_id": "PU_004",
+            "pdf_page": 32
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_159",
+            "title": "Link: The Faces of Evil",
+            "issue_id": "PU_004",
+            "pdf_page": 56
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_186",
+            "title": "Hook",
+            "issue_id": "PU_005",
+            "pdf_page": 45
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_202",
+            "title": "Unlimited Adventures",
+            "issue_id": "PU_005",
+            "pdf_page": 57
+          }
+        ]
+      },
+      {
+        "tag": "SIMULATION",
+        "evaluation_mentions": 9,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_009",
+            "title": "Nigel Mansell's World Championship",
+            "issue_id": "PU_001",
+            "pdf_page": 33
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_030",
+            "title": "Michael Jordan in Flight",
+            "issue_id": "PU_001",
+            "pdf_page": 58
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_033",
+            "title": "Pinball",
+            "issue_id": "PU_001",
+            "pdf_page": 61
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_057",
+            "title": "F1 Super Driving",
+            "issue_id": "PU_002",
+            "pdf_page": 39
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_067",
+            "title": "Top Rank Tennis",
+            "issue_id": "PU_002",
+            "pdf_page": 52
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_098",
+            "title": "MicroMachines",
+            "issue_id": "PU_003",
+            "pdf_page": 35
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_125",
+            "title": "V for Victory",
+            "issue_id": "PU_003",
+            "pdf_page": 62
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_171",
+            "title": "PilotWings",
+            "issue_id": "PU_005",
+            "pdf_page": 24
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_199",
+            "title": "Seal Team",
+            "issue_id": "PU_005",
+            "pdf_page": 54
+          }
+        ]
+      },
+      {
+        "tag": "FIGHTING",
+        "evaluation_mentions": 9,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_011",
+            "title": "Fatal Fury II",
+            "issue_id": "PU_001",
+            "pdf_page": 36
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_024",
+            "title": "Brawl Brothers",
+            "issue_id": "PU_001",
+            "pdf_page": 48
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_059",
+            "title": "Veil of Darkness",
+            "issue_id": "PU_002",
+            "pdf_page": 41
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_089",
+            "title": "WWF Royal Rumble",
+            "issue_id": "PU_003",
+            "pdf_page": 26
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_138",
+            "title": "Super Slap Shot",
+            "issue_id": "PU_004",
+            "pdf_page": 38
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_147",
+            "title": "Surf Ninjas",
+            "issue_id": "PU_004",
+            "pdf_page": 47
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_169",
+            "title": "World Heroes",
+            "issue_id": "PU_005",
+            "pdf_page": 22
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_170",
+            "title": "World Heroes 2",
+            "issue_id": "PU_005",
+            "pdf_page": 23
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_209",
+            "title": "Samurai Shodown",
+            "issue_id": "PU_005",
+            "pdf_page": 62
+          }
+        ]
+      },
+      {
+        "tag": "SHOOTING",
+        "evaluation_mentions": 8,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_006",
+            "title": "Harley's Humongous Adventure",
+            "issue_id": "PU_001",
+            "pdf_page": 30
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_039",
+            "title": "Shadowrun",
+            "issue_id": "PU_002",
+            "pdf_page": 22
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_051",
+            "title": "Cybernator",
+            "issue_id": "PU_002",
+            "pdf_page": 33
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_052",
+            "title": "Flashback",
+            "issue_id": "PU_002",
+            "pdf_page": 34
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_060",
+            "title": "Spear of Destiny",
+            "issue_id": "PU_002",
+            "pdf_page": 46
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_075",
+            "title": "Vampire: Master of Darkness",
+            "issue_id": "PU_002",
+            "pdf_page": 57
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_140",
+            "title": "B.O.B.",
+            "issue_id": "PU_004",
+            "pdf_page": 39
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_146",
+            "title": "DuckTales 2",
+            "issue_id": "PU_004",
+            "pdf_page": 46
+          }
+        ]
+      },
+      {
+        "tag": "PLATFORM",
+        "evaluation_mentions": 8,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_021",
+            "title": "Mega Man 3",
+            "issue_id": "PU_001",
+            "pdf_page": 46
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_071",
+            "title": "Milon's Secret Castle",
+            "issue_id": "PU_002",
+            "pdf_page": 55
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_087",
+            "title": "Asterix",
+            "issue_id": "PU_003",
+            "pdf_page": 24
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_101",
+            "title": "McDonaldland",
+            "issue_id": "PU_003",
+            "pdf_page": 39
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_179",
+            "title": "Attack of the Killer Tomatoes",
+            "issue_id": "PU_005",
+            "pdf_page": 34
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_186",
+            "title": "Hook",
+            "issue_id": "PU_005",
+            "pdf_page": 45
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_189",
+            "title": "Rod Land",
+            "issue_id": "PU_005",
+            "pdf_page": 48
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_191",
+            "title": "Tazmania",
+            "issue_id": "PU_005",
+            "pdf_page": 49
+          }
+        ]
+      },
+      {
+        "tag": "PUZZLE",
+        "evaluation_mentions": 6,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_007",
+            "title": "Dinolympics",
+            "issue_id": "PU_001",
+            "pdf_page": 32
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_061",
+            "title": "Prince of Persia 2",
+            "issue_id": "PU_002",
+            "pdf_page": 47
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_071",
+            "title": "Milon's Secret Castle",
+            "issue_id": "PU_002",
+            "pdf_page": 55
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_117",
+            "title": "Bubble Bobble Part 2",
+            "issue_id": "PU_003",
+            "pdf_page": 57
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_120",
+            "title": "Gordo 106",
+            "issue_id": "PU_003",
+            "pdf_page": 58
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_134",
+            "title": "Goof Troop",
+            "issue_id": "PU_004",
+            "pdf_page": 34
+          }
+        ]
+      },
+      {
+        "tag": "RACING",
+        "evaluation_mentions": 4,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_028",
+            "title": "Super Mario Kart",
+            "issue_id": "PU_001",
+            "pdf_page": 55
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_098",
+            "title": "MicroMachines",
+            "issue_id": "PU_003",
+            "pdf_page": 35
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_175",
+            "title": "Super Off Road: The Baja",
+            "issue_id": "PU_005",
+            "pdf_page": 29
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_193",
+            "title": "RC Grand Prix",
+            "issue_id": "PU_005",
+            "pdf_page": 50
+          }
+        ]
+      },
+      {
+        "tag": "SPORT",
+        "evaluation_mentions": 2,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_078",
+            "title": "Jaguar XJ220",
+            "issue_id": "PU_002",
+            "pdf_page": 60
+          },
+          {
+            "year_review_id": "PU_1993_REVIEW_208",
+            "title": "Malibu Bikini Volleyball",
+            "issue_id": "PU_005",
+            "pdf_page": 62
+          }
+        ]
+      },
+      {
+        "tag": "RPG_ROLEPLAY",
+        "evaluation_mentions": 1,
+        "evidence": [
+          {
+            "year_review_id": "PU_1993_REVIEW_174",
+            "title": "The 7th Saga",
+            "issue_id": "PU_005",
+            "pdf_page": 28
+          }
+        ]
+      }
+    ]
+  },
+  "article_type_by_issue": {
+    "PU_001": {
+      "REVIEW": 12,
+      "PREVIEW": 19,
+      "UNLABELED_SCORED_EVALUATION": 1,
+      "UNLABELED_SHARED_IMPORT_EVALUATION": 2,
+      "UNLABELED_CD_I_SCORED_EVALUATION": 3
+    },
+    "PU_002": {
+      "REVIEW": 34,
+      "PREVIEW": 13
+    },
+    "PU_003": {
+      "PREVIEW": 14,
+      "REVIEW": 29
+    },
+    "PU_004": {
+      "REVIEW": 35,
+      "PREVIEW": 4
+    },
+    "PU_005": {
+      "PREVIEW": 4,
+      "REVIEW": 39
+    }
+  },
+  "preview_to_review_exact_title_arcs": [
+    {
+      "continuity_id": "PU_1993_GAME_CONT_001",
+      "title_normalized": "the flintstones",
+      "title_labels": [
+        "The Flintstones"
+      ],
+      "issues": [
+        "PU_001",
+        "PU_003"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_035",
+          "issue_id": "PU_001",
+          "pdf_page_start": 63,
+          "article_type": "PREVIEW",
+          "platform_printed": "Sega MegaDrive",
+          "score_10": 8.0,
+          "reviewer_canonical": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_103",
+          "issue_id": "PU_003",
+          "pdf_page_start": 40,
+          "article_type": "REVIEW",
+          "platform_printed": "NES",
+          "score_10": 7.5,
+          "reviewer_canonical": "Kees de Koning"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_002",
+      "title_normalized": "bubsy",
+      "title_labels": [
+        "Bubsy"
+      ],
+      "issues": [
+        "PU_002",
+        "PU_003"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_042",
+          "issue_id": "PU_002",
+          "pdf_page_start": 27,
+          "article_type": "PREVIEW",
+          "platform_printed": "Super NES",
+          "score_10": 9.0,
+          "reviewer_canonical": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_100",
+          "issue_id": "PU_003",
+          "pdf_page_start": 37,
+          "article_type": "REVIEW",
+          "platform_printed": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer_canonical": "Bjorn Bruinsma"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_004",
+      "title_normalized": "mortal kombat",
+      "title_labels": [
+        "Mortal Kombat"
+      ],
+      "issues": [
+        "PU_003",
+        "PU_005"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_107",
+          "issue_id": "PU_003",
+          "pdf_page_start": 46,
+          "article_type": "PREVIEW",
+          "platform_printed": "Game Boy / Game Gear",
+          "score_10": 9.5,
+          "reviewer_canonical": "Kees de Koning"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_196",
+          "issue_id": "PU_005",
+          "pdf_page_start": 51,
+          "article_type": "REVIEW",
+          "platform_printed": "Game Gear",
+          "score_10": 9.0,
+          "reviewer_canonical": "Kees de Koning"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_007",
+      "title_normalized": "bubble bobble part 2",
+      "title_labels": [
+        "Bubble Bobble Part 2"
+      ],
+      "issues": [
+        "PU_003",
+        "PU_005"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_117",
+          "issue_id": "PU_003",
+          "pdf_page_start": 57,
+          "article_type": "PREVIEW",
+          "platform_printed": "Game Boy",
+          "score_10": 7.5,
+          "reviewer_canonical": "Kees de Koning"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_181",
+          "issue_id": "PU_005",
+          "pdf_page_start": 35,
+          "article_type": "REVIEW",
+          "platform_printed": "NES",
+          "score_10": 8.0,
+          "reviewer_canonical": "Kees de Koning"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    }
+  ],
+  "recurring_exact_titles": [
+    {
+      "continuity_id": "PU_1993_GAME_CONT_001",
+      "title_normalized": "the flintstones",
+      "title_labels": [
+        "The Flintstones"
+      ],
+      "issues": [
+        "PU_001",
+        "PU_003"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_035",
+          "issue_id": "PU_001",
+          "pdf_page_start": 63,
+          "article_type": "PREVIEW",
+          "platform_printed": "Sega MegaDrive",
+          "score_10": 8.0,
+          "reviewer_canonical": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_103",
+          "issue_id": "PU_003",
+          "pdf_page_start": 40,
+          "article_type": "REVIEW",
+          "platform_printed": "NES",
+          "score_10": 7.5,
+          "reviewer_canonical": "Kees de Koning"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_002",
+      "title_normalized": "bubsy",
+      "title_labels": [
+        "Bubsy"
+      ],
+      "issues": [
+        "PU_002",
+        "PU_003"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_042",
+          "issue_id": "PU_002",
+          "pdf_page_start": 27,
+          "article_type": "PREVIEW",
+          "platform_printed": "Super NES",
+          "score_10": 9.0,
+          "reviewer_canonical": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_100",
+          "issue_id": "PU_003",
+          "pdf_page_start": 37,
+          "article_type": "REVIEW",
+          "platform_printed": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer_canonical": "Bjorn Bruinsma"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_003",
+      "title_normalized": "super james pond",
+      "title_labels": [
+        "Super James Pond"
+      ],
+      "issues": [
+        "PU_003",
+        "PU_005"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_095",
+          "issue_id": "PU_003",
+          "pdf_page_start": 32,
+          "article_type": "REVIEW",
+          "platform_printed": "Super Nintendo",
+          "score_10": 7.5,
+          "reviewer_canonical": "Ben de Dood"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_190",
+          "issue_id": "PU_005",
+          "pdf_page_start": 48,
+          "article_type": "REVIEW",
+          "platform_printed": "Game Boy",
+          "score_10": 7.0,
+          "reviewer_canonical": "Ben de Dood"
+        }
+      ],
+      "observed_transitions": [
+        "REVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_004",
+      "title_normalized": "mortal kombat",
+      "title_labels": [
+        "Mortal Kombat"
+      ],
+      "issues": [
+        "PU_003",
+        "PU_005"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_107",
+          "issue_id": "PU_003",
+          "pdf_page_start": 46,
+          "article_type": "PREVIEW",
+          "platform_printed": "Game Boy / Game Gear",
+          "score_10": 9.5,
+          "reviewer_canonical": "Kees de Koning"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_196",
+          "issue_id": "PU_005",
+          "pdf_page_start": 51,
+          "article_type": "REVIEW",
+          "platform_printed": "Game Gear",
+          "score_10": 9.0,
+          "reviewer_canonical": "Kees de Koning"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_005",
+      "title_normalized": "pinball dreams",
+      "title_labels": [
+        "Pinball Dreams"
+      ],
+      "issues": [
+        "PU_003",
+        "PU_004"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_112",
+          "issue_id": "PU_003",
+          "pdf_page_start": 54,
+          "article_type": "REVIEW",
+          "platform_printed": "PC",
+          "score_10": 8.0,
+          "reviewer_canonical": "Ben de Dood"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_151",
+          "issue_id": "PU_004",
+          "pdf_page_start": 49,
+          "article_type": "REVIEW",
+          "platform_printed": "Game Boy",
+          "score_10": 8.5,
+          "reviewer_canonical": "Ben de Dood"
+        }
+      ],
+      "observed_transitions": [
+        "REVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_006",
+      "title_normalized": "star trek the next generation",
+      "title_labels": [
+        "Star Trek: The Next Generation"
+      ],
+      "issues": [
+        "PU_003",
+        "PU_005"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_116",
+          "issue_id": "PU_003",
+          "pdf_page_start": 56,
+          "article_type": "REVIEW",
+          "platform_printed": "Game Boy",
+          "score_10": 8.0,
+          "reviewer_canonical": "Ben de Dood"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_178",
+          "issue_id": "PU_005",
+          "pdf_page_start": 33,
+          "article_type": "REVIEW",
+          "platform_printed": "NES",
+          "score_10": 6.5,
+          "reviewer_canonical": "Ben de Dood"
+        }
+      ],
+      "observed_transitions": [
+        "REVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    },
+    {
+      "continuity_id": "PU_1993_GAME_CONT_007",
+      "title_normalized": "bubble bobble part 2",
+      "title_labels": [
+        "Bubble Bobble Part 2"
+      ],
+      "issues": [
+        "PU_003",
+        "PU_005"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_117",
+          "issue_id": "PU_003",
+          "pdf_page_start": 57,
+          "article_type": "PREVIEW",
+          "platform_printed": "Game Boy",
+          "score_10": 7.5,
+          "reviewer_canonical": "Kees de Koning"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_181",
+          "issue_id": "PU_005",
+          "pdf_page_start": 35,
+          "article_type": "REVIEW",
+          "platform_printed": "NES",
+          "score_10": 8.0,
+          "reviewer_canonical": "Kees de Koning"
+        }
+      ],
+      "observed_transitions": [
+        "PREVIEW->REVIEW"
+      ],
+      "match_authority": "EXACT_NORMALIZED_TITLE_ONLY",
+      "fuzzy_matches_not_included": true
+    }
+  ],
+  "note": "Franchise-level grouping beyond exact canonical titles is deliberately not invented here."
+}

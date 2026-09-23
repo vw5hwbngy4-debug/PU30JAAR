@@ -1,0 +1,8 @@
+{
+  "version": "v0.2.9.4",
+  "tests": [
+    {"question":"Wat kreeg Dead Space in 2023?","must_include":["97"],"must_not_include":["9,7/10","9.7/10"]},
+    {"question":"Wat voor cijfer kreeg Mega Man 3?","must_include":["8,5/10","Graphics","8","Geluid"]},
+    {"question":"Wat kreeg StarWing?","must_include":["9,6/10"]}
+  ]
+}

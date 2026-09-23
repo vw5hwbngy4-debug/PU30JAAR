@@ -1,0 +1,115 @@
+{
+    "version": "v0.2.10.3",
+    "router": "CANON_COVERAGE_ROUTER",
+    "status": "PASS",
+    "totals": {
+        "issues": 8,
+        "expected_reviews": 324,
+        "census_reviews": 324,
+        "title_checks": 324,
+        "title_resolved": 324,
+        "wrong_issue_collisions": 0,
+        "alias_checks": 173,
+        "alias_resolved": 173,
+        "raw_context_titles": 324,
+        "raw_context_missing": 0
+    },
+    "issues": {
+        "PU_001": {
+            "year": 1993,
+            "expected_reviews": 37,
+            "census_reviews": 37,
+            "title_resolved": 37,
+            "title_total": 37,
+            "alias_resolved": 41,
+            "alias_total": 41,
+            "raw_context_titles": 37,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        },
+        "PU_002": {
+            "year": 1993,
+            "expected_reviews": 47,
+            "census_reviews": 47,
+            "title_resolved": 47,
+            "title_total": 47,
+            "alias_resolved": 9,
+            "alias_total": 9,
+            "raw_context_titles": 47,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        },
+        "PU_003": {
+            "year": 1993,
+            "expected_reviews": 43,
+            "census_reviews": 43,
+            "title_resolved": 43,
+            "title_total": 43,
+            "alias_resolved": 15,
+            "alias_total": 15,
+            "raw_context_titles": 43,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        },
+        "PU_004": {
+            "year": 1993,
+            "expected_reviews": 39,
+            "census_reviews": 39,
+            "title_resolved": 39,
+            "title_total": 39,
+            "alias_resolved": 13,
+            "alias_total": 13,
+            "raw_context_titles": 39,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        },
+        "PU_005": {
+            "year": 1993,
+            "expected_reviews": 43,
+            "census_reviews": 43,
+            "title_resolved": 43,
+            "title_total": 43,
+            "alias_resolved": 16,
+            "alias_total": 16,
+            "raw_context_titles": 43,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        },
+        "PU_006": {
+            "year": 1994,
+            "expected_reviews": 36,
+            "census_reviews": 36,
+            "title_resolved": 36,
+            "title_total": 36,
+            "alias_resolved": 28,
+            "alias_total": 28,
+            "raw_context_titles": 36,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        },
+        "PU_007": {
+            "year": 1994,
+            "expected_reviews": 39,
+            "census_reviews": 39,
+            "title_resolved": 39,
+            "title_total": 39,
+            "alias_resolved": 26,
+            "alias_total": 26,
+            "raw_context_titles": 39,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        },
+        "PU_008": {
+            "year": 1994,
+            "expected_reviews": 40,
+            "census_reviews": 40,
+            "title_resolved": 40,
+            "title_total": 40,
+            "alias_resolved": 25,
+            "alias_total": 25,
+            "raw_context_titles": 40,
+            "raw_context_missing": 0,
+            "status": "PASS"
+        }
+    }
+}

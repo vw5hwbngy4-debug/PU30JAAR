@@ -1,0 +1,154 @@
+BLACKPAPER PU #007 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority order: HUMAN_VISUAL_VERIFIED > DIRECT_ISSUE_TEXT > machine/OCR structuring.
+No external/web knowledge was used to decide what Power Unlimited printed.
+
+1. Scored-evaluation census
+   earlier/oral/index risk: 42 platform/index rows
+   reconciled: 39 scored evaluations
+   basis: Super Baseball 2020 has one shared SNES/Mega Drive scorecard (-1); Dracula has one shared Mega Drive/SNES/Game Boy scorecard (-2). Dragon Strike is already included in the contents.
+
+2. Super Empire title
+   earlier/oral/index risk: The Empire Strikes Back
+   reconciled: Super Empire Strikes Back
+   basis: Direct p20-p21 heading.
+
+3. Kendo Rage title
+   earlier/oral/index risk: Gendo Rage
+   reconciled: Kendo Rage
+   basis: Direct p23 heading.
+
+4. ClayFighter reviewer
+   earlier/oral/index risk: Casey
+   reconciled: Kees de Koning
+   basis: Direct article/byline.
+
+5. Boxing Legends reviewer
+   earlier/oral/index risk: Casey
+   reconciled: Kees de Koning
+   basis: Direct article/byline.
+
+6. Mega-Lo-Mania reviewer
+   earlier/oral/index risk: Q1
+   reconciled: Bjorn Bruinsma
+   basis: Direct p29 byline.
+
+7. Mega-Lo-Mania report
+   earlier/oral/index risk: speech garbling
+   reconciled: Verslavend strategisch spel / Cover wekt de indruk Cyberpunkspel te zijn / En dat is het dus niet!
+   basis: Direct p29 scorecard.
+
+8. Cliffhanger Action Replay
+   earlier/oral/index risk: 7A0 6 1 F 0 3
+   reconciled: 7E061F03
+   basis: Direct p34 scorecard visual verification.
+
+9. Cliffhanger report
+   earlier/oral/index risk: speech garbling
+   reconciled: Schotjes springen; Veel saaie gevechten. Te weinig variatie; Telkens dezelfde tegenstanders
+   basis: Direct p34 scorecard.
+
+10. The Fidgetts title
+   earlier/oral/index risk: Fitzgeralds
+   reconciled: The Fidgetts
+   basis: Direct p40 heading / contents.
+
+11. Kirby title
+   earlier/oral/index risk: Kirby's Pinball
+   reconciled: Kirby's Pinball Land
+   basis: Direct p41 heading / contents.
+
+12. Hammering Harry report
+   earlier/oral/index risk: speech garbling
+   reconciled: Echt gesproken geluid / Overzichtelijke controls en graphics / Level 1 is een eitje
+   basis: Direct p41 scorecard.
+
+13. Superman report
+   earlier/oral/index risk: speech garbling
+   reconciled: Onzuivere controls / Weinig superkrachten / Meer gefladder dan gevlieg
+   basis: Direct p43 scorecard.
+
+14. Sonic title
+   earlier/oral/index risk: Sonic Pinball
+   reconciled: Sonic Spinball
+   basis: Direct p45 heading / contents.
+
+15. Voyeur title
+   earlier/oral/index risk: Four Year
+   reconciled: Voyeur
+   basis: Direct p58 heading / contents.
+
+16. Whale's Voyage report
+   earlier/oral/index risk: speech garbling
+   reconciled: Uren speelplezier / Diverse speelmogelijkheden / Te gekke karakter editor / Te weinig geluidseffecten
+   basis: Direct p59 scorecard.
+
+17. Subwar title
+   earlier/oral/index risk: Superwart 2050
+   reconciled: Subwar 2050
+   basis: Direct p63 heading / contents.
+
+18. Terminator Rampage title
+   earlier/oral/index risk: Terminator 2 Webitch
+   reconciled: Terminator 2: Rampage
+   basis: Direct p65 heading / contents.
+
+19. Terminator Rampage graphics
+   earlier/oral/index risk: 8,0
+   reconciled: 9,0
+   basis: Direct p65 scorecard. Geluid 8,0 and final 9 remain.
+
+20. Goblins 3 title
+   earlier/oral/index risk: Complains 3
+   reconciled: Goblins 3
+   basis: Direct p68 heading / contents.
+
+21. Carriers At War title
+   earlier/oral/index risk: Guardians at War
+   reconciled: Carriers At War
+   basis: Direct p69 heading / contents.
+
+22. Dragon Strike components
+   earlier/oral/index risk: not supplied
+   reconciled: NO GRAPHICS / GELUID COMPONENTS
+   basis: Direct p51 board-game scorecard contains report + final 8 only.
+
+23. NBA Jam ProCheck
+   earlier/oral/index risk: possible duplicate review risk
+   reconciled: UNSCORED SECONDARY PROFCHECK pp54-55
+   basis: The scored NBA Jam review is pp52-53; pp54-55 does not add a scored evaluation.
+
+24. Sonic Chaos adjacent Plastic Ware
+   earlier/oral/index risk: possible separate item risk
+   reconciled: NOT A SEPARATE SCORED EVALUATION
+   basis: The p47 scorecard belongs to Sonic Chaos on Game Gear.
+
+CENSUS RECONCILIATION
+---------------------
+Printed game/platform index rows: 42
+Shared Super Baseball 2020 SNES/Mega Drive duplicate row: -1
+Shared Dracula Mega Drive/SNES/Game Boy duplicate rows: -2
+Final scored-evaluation census: 42 - 1 - 2 = 39
+
+FINAL HUMAN SCORE COVERAGE
+39 / 39 final scores resolved.
+0 unresolved final scores.
+0 unresolved reviewer identities.
+
+FINAL INGEST PACKAGING CHECK
+============================
+
+All reconciliation outcomes above are preserved.
+
+Final canonical special cases:
+- PU #007 scored-evaluation census = 39.
+- Super Baseball 2020 = one shared Super Nintendo / Sega Mega Drive scorecard.
+- Dracula = one shared Sega Mega Drive / Super Nintendo / Game Boy scorecard.
+- Dragon Strike = scored board game with no Graphics/Geluid components.
+- Terminator 2: Rampage = Graphics 9,0 / Geluid 8,0 / final 9.
+- NBA Jam pp54-55 = unscored secondary ProCheck, not a second scored evaluation.
+- Sonic Chaos adjacent Plastic Ware material = not a separate scored evaluation.
+- Cliffhanger Action Replay = 7E061F03.
+
+No new conflicts were introduced during packaging.

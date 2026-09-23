@@ -1,0 +1,47 @@
+{
+  "contract": "BLACKPAPER_ISSUE_INGEST_V1",
+  "factory_version": "1.1.0",
+  "issue_id": "PU_002",
+  "issue_number": 2,
+  "publication_year": 1993,
+  "retrieval_rules": {
+    "focused_review_or_score": "HUMAN_CANON_REVIEW_FIRST",
+    "complete_issue_list": "ISSUE_CENSUS_NOT_TOP_K",
+    "semantic_context": "RAG_AUGMENTS_CANON",
+    "cross_archive_census": "QUERY_PLANNER_CORPUS_SWEEP"
+  },
+  "full_score_answer": {
+    "include": [
+      "score_components",
+      "final_score",
+      "reviewer",
+      "concise_verdict",
+      "provenance"
+    ],
+    "never_infer_final_from_components": true
+  },
+  "public_voice": {
+    "style": "BLACKPAPER_PU_MATE",
+    "hide_internal_jargon_by_default": true,
+    "internal_terms_to_hide": [
+      "HUMAN+MACHINE canon",
+      "RAG",
+      "top-k",
+      "retrieval",
+      "confidence percentages",
+      "internal enum names"
+    ]
+  },
+  "authority_order": [
+    "HUMAN_VISUAL_VERIFIED",
+    "DIRECT_ISSUE_TEXT",
+    "DIRECT_CORPUS_PAGE",
+    "OLDER_STRUCTURED_EXTRACTION",
+    "EXTERNAL_ENRICHMENT"
+  ],
+  "known_uncertainties": [
+    "Shadowrun RPG reviewer unresolved",
+    "Shadowrun Superior reviewer unresolved",
+    "Wolfenstein -3D2 printed byline 'Game girl'; underlying identity unresolved"
+  ]
+}

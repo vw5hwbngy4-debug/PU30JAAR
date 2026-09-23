@@ -1,0 +1,112 @@
+PU30JAAR / BLACKPAPER PU #006 — FINAL ISSUE INGEST QA
+=======================================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+source: 006.pdf
+publication: January 1994
+printed issue label: Nummer 1, Jaargang 2
+source SHA256: e7d596547e6159bd8ae282679cc9edd3aa9e1e899c4cb4c3e86699ad02c7e10f
+
+PAGE ACCOUNTING
+PDF pages expected: 84
+PDF pages represented: 84
+pages with transcript: 84
+pages missing transcript: 0
+missing page IDs: NONE
+embedded PDF text pages: 72
+OCR fallback pages: [2, 9, 14, 27, 29, 35, 42, 43, 44, 50, 76, 78]
+
+RAG ACCOUNTING
+RAG chunks created: 183
+review article chunks: 36
+score/verdict chunks: 36
+issue knowledge chunks: 48
+page section chunks: 46
+section cluster chunks: 13
+list block chunks: 4
+
+HUMAN CANON
+printed game/platform index rows: 37
+unscored CD-i Full Motion Video row: -1
+shared Lethal Enforcers duplicate platform row: -1
+extra scored History of the World board game: +1
+canonical scored evaluations expected: 36
+human review records produced: 36
+resolved scores: 36
+unresolved scores: 0
+unresolved reviewers: 0
+
+STRUCTURED KNOWLEDGE
+entities indexed: 98
+aliases created: 30
+editor evidence records: 50
+issue knowledge records: 48
+external enrichment records: 0
+
+PROVENANCE
+provenance records: 531
+records with page provenance: 531
+records without page provenance: 0
+
+DUPLICATE CHECKS
+duplicate review IDs: 0
+duplicate RAG chunk IDs: 0
+duplicate entity IDs: 0
+duplicate issue knowledge IDs: 0
+
+ORPHAN CHECKS
+orphan review records: 0
+orphan RAG chunks: 0
+
+JSONL VALIDATION
+PU_006_PAGE_TRANSCRIPTS.jsonl: invalid lines = 0
+PU_006_RAG_CHUNKS.jsonl: invalid lines = 0
+PU_006_HUMAN_CANON_REVIEWS.jsonl: invalid lines = 0
+PU_006_ENTITY_INDEX.jsonl: invalid lines = 0
+PU_006_ALIAS_MAP.jsonl: invalid lines = 0
+PU_006_EDITOR_EVIDENCE.jsonl: invalid lines = 0
+PU_006_ISSUE_KNOWLEDGE.jsonl: invalid lines = 0
+PU_006_PROVENANCE.jsonl: invalid lines = 0
+
+SPECIAL CANON PRESERVED
+- CD-i Full Motion Video p53 = unscored Power Pro feature.
+- Lethal Enforcers = one shared Sega CD/Mega Drive scorecard, Michael + Kees.
+- History of the World = no Graphics/Geluid component scores.
+- Oscar = PREVIEW p44.
+- Metal & Lace = p45.
+- Tournament Fighters = two separate platform scorecards.
+- Tom & Jerry: Frantic Antics! sound = 6,5.
+- RoboCop 3 = Graphics 5,0 / Geluid 5,0 / final 4.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+ALL_PAGES_HAVE_TRANSCRIPT = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+JSONL_VALID = PASS
+NO_DUPLICATE_PRIMARY_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+HISTORY_OF_THE_WORLD_COMPONENTS_NOT_INVENTED = PASS
+LETHAL_ENFORCERS_SHARED_SCORECARD_PRESERVED = PASS
+OSCAR_P44_PREVIEW_PRESERVED = PASS
+METAL_AND_LACE_P45_PRESERVED = PASS
+CDI_FMV_NOT_PROMOTED_TO_SCORED_REVIEW = PASS
+TMNT_TWO_PLATFORM_SCORECARDS_PRESERVED = PASS
+
+MANDATORY PRINCIPLES
+NO SILENT PAGE LOSS = PASS
+NO SILENT REVIEW LOSS = PASS
+NO SILENT SCORE LOSS = PASS
+NO UNMARKED INFERENCE = PASS
+NO EXTERNAL FACT PRESENTED AS PU FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

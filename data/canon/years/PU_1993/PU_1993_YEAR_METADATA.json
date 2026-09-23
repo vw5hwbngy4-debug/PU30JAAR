@@ -1,0 +1,27 @@
+{
+  "schema": "BLACKPAPER_YEAR_SYNTHESIS_V1",
+  "publication": "Power Unlimited",
+  "publication_year": 1993,
+  "issue_ids": [
+    "PU_001",
+    "PU_002",
+    "PU_003",
+    "PU_004",
+    "PU_005"
+  ],
+  "state": "YEAR_SYNTHESIS_COMPLETE",
+  "design": "Issue ingests remain immutable source units; this package stores indexes, relations, statistics and synthesis evidence pointers only.",
+  "authority_order": [
+    "ISSUE HUMAN CANON REVIEW LAYER",
+    "PAGE_TRANSCRIPTS / PU001 best page transcript",
+    "ISSUE_KNOWLEDGE direct-source records",
+    "YEAR_SYNTHESIS derived records",
+    "RAG summaries"
+  ],
+  "external_knowledge_used": false,
+  "score_scale_policy": "Preserve original 10-point scores; no 100-point substitution in year outputs.",
+  "platform_policy": "Distinct platform evaluations remain distinct.",
+  "contradiction_policy": "Preserve and label contradictions; do not reconcile without direct evidence.",
+  "inference_policy": "Every non-direct identity merge or historical connection is labeled as inference.",
+  "generated_utc": "2026-08-26T13:41:30.575401+00:00"
+}

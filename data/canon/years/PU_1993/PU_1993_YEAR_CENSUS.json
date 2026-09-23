@@ -1,0 +1,106 @@
+{
+  "schema": "BLACKPAPER_YEAR_SYNTHESIS_CENSUS_V1",
+  "publication": "Power Unlimited",
+  "publication_year": 1993,
+  "issue_range": [
+    "PU_001",
+    "PU_005"
+  ],
+  "issues_expected": 5,
+  "issues_present": 5,
+  "issue_census": [
+    {
+      "issue_id": "PU_001",
+      "issue_number": 1,
+      "month": "July",
+      "pages": 84,
+      "scored_evaluations": 37,
+      "resolved_scores": 37,
+      "unresolved_scores": 0,
+      "unresolved_reviewer_identity": 1,
+      "article_type_counts": {
+        "REVIEW": 12,
+        "PREVIEW": 19,
+        "UNLABELED_SCORED_EVALUATION": 1,
+        "UNLABELED_SHARED_IMPORT_EVALUATION": 2,
+        "UNLABELED_CD_I_SCORED_EVALUATION": 3
+      },
+      "score_mean": 7.5324,
+      "rag_chunks": 150
+    },
+    {
+      "issue_id": "PU_002",
+      "issue_number": 2,
+      "month": "September",
+      "pages": 84,
+      "scored_evaluations": 47,
+      "resolved_scores": 47,
+      "unresolved_scores": 0,
+      "unresolved_reviewer_identity": 3,
+      "article_type_counts": {
+        "REVIEW": 34,
+        "PREVIEW": 13
+      },
+      "score_mean": 7.517,
+      "rag_chunks": 172
+    },
+    {
+      "issue_id": "PU_003",
+      "issue_number": 3,
+      "month": "October",
+      "pages": 84,
+      "scored_evaluations": 43,
+      "resolved_scores": 43,
+      "unresolved_scores": 0,
+      "unresolved_reviewer_identity": 1,
+      "article_type_counts": {
+        "PREVIEW": 14,
+        "REVIEW": 29
+      },
+      "score_mean": 7.9767,
+      "rag_chunks": 178
+    },
+    {
+      "issue_id": "PU_004",
+      "issue_number": 4,
+      "month": "November",
+      "pages": 84,
+      "scored_evaluations": 39,
+      "resolved_scores": 39,
+      "unresolved_scores": 0,
+      "unresolved_reviewer_identity": 1,
+      "article_type_counts": {
+        "REVIEW": 35,
+        "PREVIEW": 4
+      },
+      "score_mean": 8.0026,
+      "rag_chunks": 185
+    },
+    {
+      "issue_id": "PU_005",
+      "issue_number": 5,
+      "month": "December",
+      "pages": 84,
+      "scored_evaluations": 43,
+      "resolved_scores": 43,
+      "unresolved_scores": 0,
+      "unresolved_reviewer_identity": 0,
+      "article_type_counts": {
+        "PREVIEW": 4,
+        "REVIEW": 39
+      },
+      "score_mean": 7.9442,
+      "rag_chunks": 191
+    }
+  ],
+  "totals": {
+    "pages": 420,
+    "scored_evaluations": 209,
+    "resolved_scores": 209,
+    "unresolved_scores": 0,
+    "unresolved_reviewer_identity": 6,
+    "rag_chunks_upstream_total": 876,
+    "score_mean": 7.7928
+  },
+  "authority_note": "PU_001 uses its consolidated human+scan review canon; PU_002-PU_005 use HUMAN_CANON_REVIEWS. Scores remain on the original 10-point scale. Upstream RAG counts are not assumed schema-identical across PU_001 and later issue-factory packages."
+}

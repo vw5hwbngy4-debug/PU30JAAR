@@ -1,0 +1,35 @@
+{
+  "version": "v0.2.10.0a",
+  "bug": "same-title canonical reviews on different platforms could be presented as unexplained duplicate scorecards because platform identity was not surfaced in the evidence packet",
+  "tests": [
+    {
+      "question": "Welke cijfers kreeg Teenage Mutant Ninja Turtles: Tournament Fighters in PU 6?",
+      "expected": [
+        {
+          "platform": "Super Nintendo",
+          "graphics": "8,5",
+          "sound": "8",
+          "final": "8,5",
+          "reviewer": "Kees de Koning"
+        },
+        {
+          "platform": "Sega Mega Drive",
+          "graphics": "6",
+          "sound": "6",
+          "final": "6",
+          "reviewer": "Kees de Koning"
+        }
+      ],
+      "must_say": "separate platform versions",
+      "must_not_say": [
+        "geen verdere uitleg waarom hetzelfde spel twee scorekaarten heeft",
+        "onverklaarde dubbele beoordeling"
+      ]
+    },
+    {
+      "question": "Wat kreeg Lethal Enforcers in PU 6?",
+      "expected": "one shared Sega CD / Sega Mega Drive scorecard",
+      "must_not_split_shared_multi_platform_record": true
+    }
+  ]
+}

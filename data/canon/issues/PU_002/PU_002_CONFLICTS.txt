@@ -1,0 +1,130 @@
+BLACKPAPER PU #002 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority rule: direct visible issue evidence + explicit human visual evidence > oral slips > machine inference.
+
+1. Shadowrun Superior
+   field: pages
+   earlier human checkpoint: [22]
+   reconciled canon: [22, 23]
+   basis: Article visibly continues onto adjacent page
+
+2. Civilization
+   field: platform
+   earlier human checkpoint: PC
+   reconciled canon: PC / Macintosh
+   basis: Issue contents + shared system requirements show one PC/Macintosh review
+
+3. Top Rank Tennis
+   field: pages
+   earlier human checkpoint: [52]
+   reconciled canon: [52, 53]
+   basis: Article visibly continues onto adjacent page
+
+4. Prince Valiant
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: PREVIEW
+   basis: Direct page header
+
+5. Milon's Secret Castle
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: PREVIEW
+   basis: Direct page header
+
+6. Spider-Man: Return of the Sinister Six
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: PREVIEW
+   basis: Direct page header
+
+7. Vampire: Master of Darkness
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: PREVIEW
+   basis: Direct page header
+
+8. Night Trap
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: REVIEW
+   basis: Direct page header
+
+9. Night Trap
+   field: reviewer
+   earlier human checkpoint: ADAM
+   reconciled canon: BJORN + ADAM
+   basis: Page 61 contains separate signed Bjorn and Adam opinion blocks
+
+10. Dark Castle
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: REVIEW
+   basis: Direct page header
+
+11. CD Shoot
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: REVIEW
+   basis: Direct page header
+
+12. Inca
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: REVIEW
+   basis: Direct page header
+
+13. Inca
+   field: graphics
+   earlier human checkpoint: 9.5
+   reconciled canon: 9.0
+   basis: Direct visible score panel on page 63
+
+14. Inca
+   field: sound
+   earlier human checkpoint: 9.5
+   reconciled canon: 9.0
+   basis: Direct visible score panel on page 63
+
+15. The Palm Springs Open
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: REVIEW
+   basis: Direct page header
+
+16. Lemmings
+   field: article_type
+   earlier human checkpoint: UNKNOWN
+   reconciled canon: REVIEW
+   basis: Direct page header
+
+WORDING / SPEECH NORMALIZATIONS (not score-census changes)
+- Blues Brothers: 'surf' -> printed 'Suf'.
+- Rockin' Kats: printed negative is 'Soms ondoorgrondelijke obstakels'.
+- Shadowrun Superior: printed negative is 'Huurmoordenaars zijn doetjes'.
+- Top Gun: Guts & Glory: printed negative is 'Treurige graphics'.
+- Vampire: Master of Darkness: printed negative is 'Mr. Social kan niet zo goed springen'.
+- Speech-title slips already normalized: Veil of Darkness, Milon's Secret Castle, Krusty's Fun House, Sengoku.
+
+SPECIAL LAYOUT PRESERVATION
+- Zen: Intergalactic Ninja: all four report bullets visibly carry red/DOWN indicators, including positive-sounding wording. Kept literally.
+- Dark Castle: 'Teleurstellend beeld en geluid' visibly carries a green/UP indicator. Kept literally.
+- Battletoads: three variant scorecards are one bylined Michael article with variant-specific scorecards on p51.
+
+FINAL INGEST PACKAGING CHECK
+============================
+
+The reconciliation results above were preserved in the final ingest package.
+
+Final canonical special cases:
+- Inca: Graphics 9,0 / Geluid 9,0 / final 9.
+- Night Trap: Bjorn + Adam shared/direct-layout authorship.
+- Civilization: one PC / Macintosh review identity.
+- Shadowrun RPG: reviewer UNRESOLVED.
+- Shadowrun Superior: reviewer UNRESOLVED.
+- Wolfenstein -3D2: printed byline 'Game girl'; identity not inferred.
+- Zen: Intergalactic Ninja: visually printed DOWN indicators preserved literally.
+- Dark Castle: visually printed UP indicator for 'Teleurstellend beeld en geluid' preserved literally.
+
+No new conflicts were introduced during final packaging.

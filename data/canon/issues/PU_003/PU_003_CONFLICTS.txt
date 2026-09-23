@@ -1,0 +1,94 @@
+BLACKPAPER PU #003 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority: later direct scan evidence + explicit human visual confirmation > oral slips > machine inference.
+
+1. Asterix (Game Boy) reviewer
+   earlier/oral: Human wording used 'hij' after Bjorn discussion
+   reconciled: ADAM / Adam Eeuwens
+   basis: Direct visible signature on p25
+
+2. Tuff E Nuff title
+   earlier/oral: Fighting Spirit
+   reconciled: Tuff E Nuff
+   basis: Large printed title is TUFF E NUFF; Fighting Spirit is strap/subtitle wording on p31
+
+3. Masterblaster 2 title
+   earlier/oral: Master Blaster 2
+   reconciled: Masterblaster 2
+   basis: Direct printed review heading on p34; TOC uses spaced variant
+
+4. The Legend of Zelda: Link's Awakening article type
+   earlier/oral: PREVIEW (oral)
+   reconciled: REVIEW
+   basis: Direct page heading on p56
+
+5. Star Trek page
+   earlier/oral: TOC p57
+   reconciled: Direct page p56
+   basis: Direct physical/printed review page
+
+6. Bubble Bobble Part 2 graphics
+   earlier/oral: 6,5
+   reconciled: 5,5
+   basis: Direct visible scorecard on p57
+
+7. Gordo 106 title
+   earlier/oral: Cordo 106
+   reconciled: Gordo 106
+   basis: Direct printed title p58
+
+8. Backgammon sound
+   earlier/oral: 8,0
+   reconciled: 8,5
+   basis: Direct visible scorecard p60
+
+9. V for Victory title
+   earlier/oral: Fever for Victory
+   reconciled: V for Victory
+   basis: Direct printed heading pp62-63
+
+10. V for Victory platform
+   earlier/oral: Macintosh
+   reconciled: Macintosh / PC
+   basis: Direct footer on p62
+
+11. Realms of Arkania byline
+   earlier/oral: Rollkurol / ambiguous oral rendering
+   reconciled: ROLE GIRL
+   basis: Direct visible byline on p65; preserved as pseudonym
+
+CENSUS RECONCILIATION
+---------------------
+Games contents page rows: 42
+Extra scored evaluation outside the games contents index: Space Hulk board game, p52.
+Final reconciled scored-evaluation census: 42 + 1 = 43.
+
+MULTI-PLATFORM / MULTI-REVIEW NOTES
+- Jurassic Park has separate Mega Drive and NES scorecards.
+- Asterix has separate Super Nintendo and Game Boy scorecards.
+- McDonaldland has separate Game Boy and European NES scorecards.
+- Space Hulk has separate board-game and PC scorecards.
+- Streetfighter II Turbo and Mortal Kombat occupy a multi-page comparison spread; their scorecards are bound by direct visible layout, not OCR order.
+- Mortal Kombat's 9,5 scorecard is visibly on p49 with GAMEBOY / GAMEGEAR platform labels; the surrounding feature also discusses console versions.
+
+FINAL INGEST PACKAGING CHECK
+============================
+
+The reconciliation results above were preserved in the final ingest package.
+
+Final canonical special cases:
+- PU #003 scored-evaluation census = 43.
+- 42 scored game rows from the games contents + 1 separately scored Space Hulk board-game evaluation.
+- Bubble Bobble Part 2 GRAPHICS = 5,5.
+- Backgammon GELUID = 8,5.
+- Asterix Game Boy reviewer = ADAM / Adam Eeuwens.
+- Gordo 106 is the printed title.
+- Tuff E Nuff is the printed title; Fighting Spirit is preserved as strap/subtitle alias context.
+- Link's Awakening is a REVIEW.
+- V for Victory is the printed title; platform context = Macintosh / PC.
+- Realms of Arkania is signed ROLE GIRL. No deanonymization performed.
+- Space Hulk board-game GELUID = n.v.t., not 0.
+- Street Fighter II Turbo / Mortal Kombat scorecards remain direct-layout associated.
+
+No new conflicts were introduced during final packaging.

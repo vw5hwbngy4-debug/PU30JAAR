@@ -1,0 +1,113 @@
+{
+  "schema": "PU_YEAR_INTELLIGENCE_MANIFEST_V1",
+  "publication": "Power Unlimited",
+  "year": 1993,
+  "version": "1.0",
+  "status": "YEAR_INTELLIGENCE_COMPLETE",
+  "upstream": "PU_1993_YEAR_SYNTHESIS_v1",
+  "file_count": 21,
+  "files": [
+    {
+      "file": "1993_ANOMALIES.jsonl",
+      "bytes": 19759,
+      "sha256": "ae131f4f75af79028e3c5f7ad3972667d216a990fff8136383571529ac2cdca9"
+    },
+    {
+      "file": "1993_CROSS_ISSUE_ARCS.jsonl",
+      "bytes": 44374,
+      "sha256": "191dac59d1401e6e7291050c57126b6f248c796a24f9b13124eecc69ddf432e1"
+    },
+    {
+      "file": "1993_EDITOR_CONTINUITY.jsonl",
+      "bytes": 3935,
+      "sha256": "abeab3d8f256636c95d6d428e267e0a514d7e63f4344a9c5a513249c5d05615f"
+    },
+    {
+      "file": "1993_EMULATOR_CANDIDATES.jsonl",
+      "bytes": 33212,
+      "sha256": "ccf9a1ee4dd3bc5c95aa2dc6004bd55ef9f506970141d4508d9ee44e4af74399"
+    },
+    {
+      "file": "1993_EMULATOR_UPDATES.jsonl",
+      "bytes": 4127,
+      "sha256": "ed666b0ebb0caa97e47db03d694d53c66c9389ba954f2f4304bf4570d3a1c43c"
+    },
+    {
+      "file": "1993_GAME_RANKINGS.json",
+      "bytes": 102703,
+      "sha256": "a7749b1ce88cb3e9dd4f519df684e70eee960057571a030d262eabfc1fbdebd9"
+    },
+    {
+      "file": "1993_GAME_TRENDS.json",
+      "bytes": 23203,
+      "sha256": "45f1a50944579f4da236ecd1fcc9fca8e09b48d5fe6710e5cbb9de4a819e2f94"
+    },
+    {
+      "file": "1993_META_RAG_CHUNKS.jsonl",
+      "bytes": 15167,
+      "sha256": "b932e54e46313c3353ba7c82d0feeae07b1e62f57c35cc89df71c0a732e830e2"
+    },
+    {
+      "file": "1993_PLATFORM_STATS.json",
+      "bytes": 12233,
+      "sha256": "a27bd189b1f44e2155f731fc741b3b516736e183f4e71887dee685e13b0569a4"
+    },
+    {
+      "file": "1993_PU_CULTURE.jsonl",
+      "bytes": 26884,
+      "sha256": "28fdbb5003ec74e24b2dc0a76e6d14dce609bbfb8041f498ca9f67ee8b88ee93"
+    },
+    {
+      "file": "1993_READER_FEEDBACK.jsonl",
+      "bytes": 5017,
+      "sha256": "5e420ba8d64da064e9ca83cfd61d71423546fac09625db5319b85c5f579e2204"
+    },
+    {
+      "file": "1993_REVIEWER_BEHAVIOR.jsonl",
+      "bytes": 46573,
+      "sha256": "146d3bd46b768dd01ed3dc8742bf319e00ad24fa625e75feba83adc8b6fcf102"
+    },
+    {
+      "file": "1993_REVIEWER_STATS.json",
+      "bytes": 29879,
+      "sha256": "a08e720e5ac536452d98ef705ab814336c83b6d69ff03fb429d12cadd5e09a59"
+    },
+    {
+      "file": "1993_RUNTIME_GOLD_QUESTIONS.jsonl",
+      "bytes": 50399,
+      "sha256": "f60d8265afa2019079478468bc17899c434999b858ab7d6382c20254a8523791"
+    },
+    {
+      "file": "1993_RUNTIME_ROUTES.json",
+      "bytes": 3193,
+      "sha256": "4d83da8ede11a8497607d5c4d6f34b51c51f5b374eae688a7db26315f9ae1915"
+    },
+    {
+      "file": "1993_SCORE_DISTRIBUTION.json",
+      "bytes": 2364,
+      "sha256": "bc4a040eca68f007a175c7156caa2b672d2d9824f33dcf2e808c7b7654500314"
+    },
+    {
+      "file": "1993_YEAR_INTELLIGENCE_REPORT.md",
+      "bytes": 1383,
+      "sha256": "e001855214c67d8388199b14c862e30395e41e92255d8cd6cbdc4b3164ce7109"
+    },
+    {
+      "file": "QA_REPORT.json",
+      "bytes": 1109,
+      "sha256": "812469d00c86db07decbf10febd1a036732c67c778141607fd72503f87da3e0d"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1280,
+      "sha256": "5766e0efacd4d4a14b7c71409152dcadda8fab354a5f32dc12c9dacf3e0e845d"
+    },
+    {
+      "file": "SOURCE_REGISTER.json",
+      "bytes": 817,
+      "sha256": "f7796ab85e7038d8c7acdc367fe4fca4b0aae214f366134c004126f1f9494d05"
+    }
+  ],
+  "qa": "PASS",
+  "external_knowledge_used": false
+}

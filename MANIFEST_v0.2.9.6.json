@@ -1,0 +1,133 @@
+{
+  "package": "PU30JAAR_v0.2.9.6_PU003_DEEP_CANON_PATCH",
+  "baseline": "PU30JAAR_v0.2.9.5_SCORE_RAW_CONTEXT",
+  "adds_issue": "PU_003",
+  "issue_state": "ISSUE_INGEST_COMPLETE",
+  "files": [
+    {
+      "path": "INSTALL_v0.2.9.6.txt",
+      "bytes": 3040,
+      "sha256": "153bbfc25c6d82271743928710c9293e3b4f831158394820bb63bf55172420fc"
+    },
+    {
+      "path": "PATCH_NOTES_v0.2.9.6.txt",
+      "bytes": 889,
+      "sha256": "f230d660fe6d045e1237a672f3a235845c50db52d4f379734292df052bdd11ac"
+    },
+    {
+      "path": "api/ask.php",
+      "bytes": 32910,
+      "sha256": "d60a2c3d1f6a438c6fd15176c57bc295fd1bef9266c9402ed6899cfa896c130d"
+    },
+    {
+      "path": "api/ask_health.php",
+      "bytes": 1358,
+      "sha256": "46b9b7bfa7599cfa7fede81748b99ab45388e4201f16243c4f45c8a4b008592c"
+    },
+    {
+      "path": "api/canon_health.php",
+      "bytes": 2052,
+      "sha256": "41447e1d8955711f0f66503cc9582c0d2b78e5b864f87c58e03b2153583d0133"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_ALIAS_MAP.jsonl",
+      "bytes": 6193,
+      "sha256": "4070aba589256ef7069bbc57e10b65cef4b24d5fa25aaebf03ad6d25853bb753"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_BEST_MACHINE_TRANSCRIPT_FULL.txt",
+      "bytes": 231636,
+      "sha256": "74cd36be7e358ca05c43a4a5e8c69b413cd5abd50e71c83e2c8e9a422c8b9c90"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_CONFLICTS.txt",
+      "bytes": 3470,
+      "sha256": "90c1302addfcc69849b3ce5cf5bf9795fb59c6efc2e40a23c645d2e86408f1b1"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_EDITOR_EVIDENCE.jsonl",
+      "bytes": 25668,
+      "sha256": "4af95a18ee6ea0268103718153282c1aced03bd17be6e9d3cf58d62bf7eb8b1e"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_ENTITY_INDEX.jsonl",
+      "bytes": 30289,
+      "sha256": "eec80f72efa6be3507acbe2e3de4695d259525758b62cdd2821007c69f63f6b8"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_HUMAN_CANON_REVIEWS.jsonl",
+      "bytes": 89482,
+      "sha256": "289862b31c6b54424bdc1c64ee7b00dfee745de0344d176cdd92290a2eeab7c6"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_INGEST_README.md",
+      "bytes": 4682,
+      "sha256": "b390940deb3524d5bed48a3f11a050d2f77d1d222394c3a1e7f6bf0c7871b44e"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_ISSUE_KNOWLEDGE.jsonl",
+      "bytes": 20000,
+      "sha256": "74d1d26100303bde43330d792e1c4814544c3ffb5b88de9c287d40d38de64689"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_ISSUE_METADATA.json",
+      "bytes": 3339,
+      "sha256": "5ca1c098a6e1c17792e0c6ecf5e4ab4d5a18145e00cd70e3df5f685f7ca4c7bb"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_MYSQL_PAGE_UPSERT.sql",
+      "bytes": 238525,
+      "sha256": "dbea5011268a9acb3ed026f6cf439a2064dd608b0ea941b65c8a155a551e6a40"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_PAGE_TRANSCRIPTS.jsonl",
+      "bytes": 284862,
+      "sha256": "2ea76026e559e51202e9af3ce260ca92db760a9b2c4d462f53138d0d8e9ec816"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_PROVENANCE.jsonl",
+      "bytes": 178922,
+      "sha256": "18c9221d9c962c05fc64bd4228987e246747fbdf640d1b6e3048456c06d9dca6"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_QA_REPORT.txt",
+      "bytes": 2934,
+      "sha256": "d8e3a60df4c9097d11ac500a475dfd9e3c5db0c9b000db31c9b710c621a2ea0e"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_RAG_CHUNKS.jsonl",
+      "bytes": 651733,
+      "sha256": "a8436edefa41012b54084aa27a2f9db958c03bcd1658ec076d658f08a805e116"
+    },
+    {
+      "path": "data/canon/issues/PU_003/PU_003_RAG_CHUNKS_IMPORT.sql",
+      "bytes": 579954,
+      "sha256": "08b48f78eeda6d507fbe23a84dfeb4fc7c9bf6a988e642045390a686418a15f1"
+    },
+    {
+      "path": "database/PU_003_LIVE_IMPORT_ALL_HOSTINGER_SAFE.sql",
+      "bytes": 896659,
+      "sha256": "06d307636f06b290132640c0fdb835c50c08791c5820b01a5e20eec96a2ed975"
+    },
+    {
+      "path": "database/PU_003_PAGE_TEXT_UPGRADE_HOSTINGER_SAFE.sql",
+      "bytes": 303137,
+      "sha256": "e83e107c08d7a21cbcbb57a46ff40429f32b74ae4a6f86dd759514d1945afdf6"
+    },
+    {
+      "path": "database/PU_003_RAG_CHUNKS_IMPORT_HOSTINGER_SAFE.sql",
+      "bytes": 593274,
+      "sha256": "7804587034f80ac68bddaf216fa6b9734c25516585056e0e688231a8594bddbd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7008,
+      "sha256": "3018108d15292d3002df55235acb6d621c11d172db2ae1702c611d44ae9eec1b"
+    },
+    {
+      "path": "qa/PU_003_RUNTIME_REGRESSION.json",
+      "bytes": 884,
+      "sha256": "9d50449da29e34b96ef95ed6164cc853b88fbb6d0ac741b0e3ee97723f06b83e"
+    }
+  ]
+}

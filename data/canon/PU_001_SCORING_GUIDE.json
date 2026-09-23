@@ -1,0 +1,36 @@
+{
+  "source_page": 17,
+  "score_scale": "10-point scale with decimal scores",
+  "bands": [
+    {
+      "range": "1-4",
+      "meaning": "Zonde van je spaarpot; laten liggen."
+    },
+    {
+      "range": "4-6",
+      "meaning": "Twijfelgevallen; goed nadenken voor aanschaf."
+    },
+    {
+      "range": "7-9",
+      "meaning": "Kwaliteit; hop naar de winkel."
+    },
+    {
+      "range": "9+",
+      "meaning": "Hoogste kwaliteit; Power Premium."
+    }
+  ],
+  "fields": [
+    "Graphics",
+    "Geluid",
+    "positive/negative traits",
+    "houdbaarheid",
+    "actie-tactiek",
+    "platform",
+    "price/system requirements"
+  ],
+  "review_preview_semantics": {
+    "REVIEW_bespreking": "Spel is overal officieel te koop, met Nederlandse gebruiksaanwijzing.",
+    "PREVIEW_voorbespreking": "Spel is hier en daar bij gespecialiseerde zaken te koop en in videotheken te huur; meestal Engelse handleiding.",
+    "important_note": "In PU #001 betekent PREVIEW/voorbespreking dus vooral vroege/import-beschikbaarheid, niet automatisch een moderne prerelease-preview van onvoltooide code."
+  }
+}

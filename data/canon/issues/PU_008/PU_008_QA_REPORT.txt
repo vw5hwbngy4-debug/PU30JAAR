@@ -1,0 +1,113 @@
+PU30JAAR / BLACKPAPER PU #008 — FINAL ISSUE INGEST QA
+=======================================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+source: 008.pdf
+publication: March 1994
+printed issue label: Nummer 3, Jaargang 2
+source SHA256: f05353e504d403c2b020ff1c447dbb18b3b5ea3586f0ae3a6f250b7249d89cc9
+
+PAGE ACCOUNTING
+PDF pages expected: 84
+PDF pages represented: 84
+pages with transcript: 84
+pages missing transcript: 0
+missing page IDs: NONE
+embedded PDF text pages: 69
+OCR fallback pages: [2, 8, 15, 20, 30, 34, 35, 48, 49, 56, 58, 59, 68, 69, 74]
+
+RAG ACCOUNTING
+RAG chunks created: 196
+review article chunks: 40
+score/verdict chunks: 40
+issue knowledge chunks: 52
+page section chunks: 43
+section cluster chunks: 16
+list block chunks: 5
+
+HUMAN CANON
+printed Spellen game/platform rows: 40
+shared Ottifants duplicate row: -1
+indexed scored identities: 39
+Magic scored card game outside Spellen: +1
+canonical scored evaluations expected: 40
+human review records produced: 40
+resolved scores: 40
+unresolved scores: 0
+intentional unresolved reviewers: ['Mean Arenas', 'Arabian Nights']
+
+STRUCTURED KNOWLEDGE
+entities indexed: 106
+aliases created: 32
+editor evidence records: 52
+issue knowledge records: 52
+external enrichment records: 0
+
+PROVENANCE
+provenance records: 564
+records with page provenance: 564
+records without page provenance: 0
+
+DUPLICATE CHECKS
+duplicate review IDs: 0
+duplicate RAG chunk IDs: 0
+duplicate entity IDs: 0
+duplicate issue knowledge IDs: 0
+
+ORPHAN CHECKS
+orphan review records: 0
+orphan RAG chunks: 0
+
+JSONL VALIDATION
+PU_008_PAGE_TRANSCRIPTS.jsonl: invalid lines = 0
+PU_008_RAG_CHUNKS.jsonl: invalid lines = 0
+PU_008_HUMAN_CANON_REVIEWS.jsonl: invalid lines = 0
+PU_008_ENTITY_INDEX.jsonl: invalid lines = 0
+PU_008_ALIAS_MAP.jsonl: invalid lines = 0
+PU_008_EDITOR_EVIDENCE.jsonl: invalid lines = 0
+PU_008_ISSUE_KNOWLEDGE.jsonl: invalid lines = 0
+PU_008_PROVENANCE.jsonl: invalid lines = 0
+
+SPECIAL CANON PRESERVED
+- Ottifants = one shared Mega Drive / Game Gear scorecard.
+- Magic = Graphics 9 / Geluid n.v.t. / final 9.
+- Pink Goes to Hollywood = final 7,9.
+- Steel Machine = final 8,8.
+- Microcosm = final 7,3.
+- Flight Sim Toolkit Graphics = 7,9.
+- Mean Arenas reviewer = UNRESOLVED.
+- Arabian Nights reviewer = UNRESOLVED.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+ALL_PAGES_HAVE_TRANSCRIPT = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+KNOWN_UNRESOLVED_REVIEWERS_PRESERVED = PASS
+NO_REVIEWER_GUESSED_FROM_ADJACENCY = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+JSONL_VALID = PASS
+NO_DUPLICATE_PRIMARY_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+OTTIFANTS_SHARED_SCORECARD_PRESERVED = PASS
+MAGIC_NVT_SOUND_PRESERVED = PASS
+CRITICAL_DIRECT_SCAN_CORRECTIONS_PRESERVED = PASS
+SPECIAL_RAG_RENDERING_PRESERVED = PASS
+
+MANDATORY PRINCIPLES
+NO SILENT PAGE LOSS = PASS
+NO SILENT REVIEW LOSS = PASS
+NO SILENT SCORE LOSS = PASS
+NO REVIEWER GUESSED FROM ADJACENCY = PASS
+NO UNMARKED INFERENCE = PASS
+NO EXTERNAL FACT PRESENTED AS PU FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

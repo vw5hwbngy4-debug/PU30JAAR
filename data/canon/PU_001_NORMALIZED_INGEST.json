@@ -1,0 +1,4882 @@
+{
+  "issue": {
+    "year": 1993,
+    "issue": 1,
+    "month": "July",
+    "state": "CONSOLIDATED_COMPLETE_FINAL_V1.1",
+    "pages": 84,
+    "scoredEvaluations": 37,
+    "humanEnumerated": 37,
+    "populationMatch": true,
+    "sourceFile": "001.pdf",
+    "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+    "reviewerUnresolved": 1,
+    "reviewerCandidates": 2,
+    "externalEntitiesMapped": 37,
+    "aliasRows": 73
+  },
+  "reviews": [
+    {
+      "id": "canon_pu001_001_starwing",
+      "gameId": "starwing",
+      "title": "StarWing",
+      "canonicalTitle": "Star Fox",
+      "aliases": [
+        "StarWing",
+        "Starwing",
+        "Star Fox"
+      ],
+      "genres": [
+        "Rail shooter"
+      ],
+      "developers": [
+        "Nintendo EAD",
+        "Argonaut Software"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "franchise": "Star Fox",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 18,
+      "pageEnd": 21,
+      "pdfPage": 18,
+      "pdfPageEnd": 21,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Adam Eeuwens"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "ADAM",
+      "reviewerConfidence": "HIGH",
+      "score": 96,
+      "scoreRaw": "9.6",
+      "scoreOriginal": 9.6,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 96,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 9.5,
+      "soundScore": 9.6,
+      "lifespan": "6 maanden",
+      "pros": [
+        "Dit spel kent alleen pluspunten",
+        "Complimenten aan Nintendo"
+      ],
+      "cons": [],
+      "verdictSummary": "Spectaculaire 3D-presentatie en uitzonderlijk hoge algemene kwaliteit; de bespreking is vrijwel volledig enthousiast.",
+      "specialSituation": "SPEL_VAN_DE_MAAND",
+      "powerPremium": true,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p18–21 · final score 9.6/10. Direct reviewer/byline: Adam Eeuwens (printed ADAM). Graphics 9.5; Sound 9.6. Verdict summary: Spectaculaire 3D-presentatie en uitzonderlijk hoge algemene kwaliteit; de bespreking is vrijwel volledig enthousiast. Pros: Dit spel kent alleen pluspunten; Complimenten aan Nintendo. Houdbaarheid: 6 maanden.",
+      "notes": "HUMAN PASS: operator initially called it Star Fox; source page explicitly explains Star Fox becomes StarWing in NL. Second positive report bullet corrected to 'Complimenten aan Nintendo'."
+    },
+    {
+      "id": "canon_pu001_002_beyond_cyberpunk",
+      "gameId": "beyond_cyberpunk",
+      "title": "Beyond Cyberpunk",
+      "canonicalTitle": "Beyond Cyberpunk!",
+      "aliases": [
+        "Beyond Cyberpunk",
+        "Beyond Cyberpunk!",
+        "Beyond Cyberpunk: A Do-It-Yourself Guide to the Future"
+      ],
+      "genres": [
+        "Hypertext",
+        "Electronic publication",
+        "Cyberculture reference"
+      ],
+      "developers": [
+        "Gareth Branwyn",
+        "Peter Sugarman"
+      ],
+      "publishers": [
+        "The Computer Lab"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 22,
+      "pageEnd": 23,
+      "pdfPage": 22,
+      "pdfPageEnd": 23,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Macintosh"
+      ],
+      "reviewers": [],
+      "reviewerCandidates": [],
+      "reviewerPrinted": null,
+      "reviewerConfidence": "UNRESOLVED",
+      "score": 80,
+      "scoreRaw": "8",
+      "scoreOriginal": 8.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 80,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 8.0,
+      "lifespan": "Als naslagwerk onbeperkt houdbaar",
+      "pros": [],
+      "cons": [],
+      "verdictSummary": "Elektronisch HyperCard-naslagwerk over cyberpunk; inhoud en multimedia worden positief beoordeeld, al is dit geen conventionele videogame.",
+      "specialSituation": "NON_GAME_SOFTWARE",
+      "powerPremium": false,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p22–23 · final score 8/10. Reviewer/byline intentionally unresolved after human re-check. Graphics 8; Sound 8. Verdict summary: Elektronisch HyperCard-naslagwerk over cyberpunk; inhoud en multimedia worden positief beoordeeld, al is dit geen conventionele videogame. Houdbaarheid: Als naslagwerk onbeperkt houdbaar. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": "Final human re-check of pp22-23 on 2026-08-23: no printed reviewer/byline found. The article sits between surrounding Adam/Bjorn material, but position alone is insufficient for attribution. Reviewer remains intentionally UNRESOLVED."
+    },
+    {
+      "id": "canon_pu001_003_teenage_mutant_hero_turtles_the_hyperstone_heist",
+      "gameId": "teenage_mutant_ninja_turtles_the_hyperstone_heist",
+      "title": "Teenage Mutant Hero Turtles: The Hyperstone Heist",
+      "canonicalTitle": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+      "aliases": [
+        "Teenage Mutant Hero Turtles: The Hyperstone Heist",
+        "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+        "The Hyperstone Heist",
+        "Return of the Shredder"
+      ],
+      "genres": [
+        "Beat 'em up"
+      ],
+      "developers": [
+        "Konami"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "franchise": "Teenage Mutant Ninja Turtles",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 24,
+      "pageEnd": 25,
+      "pdfPage": 24,
+      "pdfPageEnd": 25,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Sega MegaDrive"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 90,
+      "scoreRaw": "9",
+      "scoreOriginal": 9.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 90,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.5,
+      "soundScore": 7.7,
+      "lifespan": "4 maanden",
+      "pros": [
+        "Je kan met twee spelers spelen",
+        "De bewegingen zijn te gek",
+        "Veel variatie"
+      ],
+      "cons": [
+        "Aan één stuk door ninja's slachten"
+      ],
+      "verdictSummary": "Sterke humor en Turtle-karakterisering; volgens Bjorn op de Sega vooral erg leuk, ondanks dat het niet het mooiste spel is.",
+      "specialSituation": null,
+      "powerPremium": true,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p24–25 · final score 9/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7.5; Sound 7.7. Verdict summary: Sterke humor en Turtle-karakterisering; volgens Bjorn op de Sega vooral erg leuk, ondanks dat het niet het mooiste spel is. Pros: Je kan met twee spelers spelen; De bewegingen zijn te gek; Veel variatie. Cons: Aan één stuk door ninja's slachten. Houdbaarheid: 4 maanden.",
+      "notes": "HUMAN+SOURCE correction: exact report bullets restored from p25."
+    },
+    {
+      "id": "canon_pu001_004_mario_paint",
+      "gameId": "mario_paint",
+      "title": "Mario Paint",
+      "canonicalTitle": "Mario Paint",
+      "aliases": [
+        "Mario Paint"
+      ],
+      "genres": [
+        "Art tool"
+      ],
+      "developers": [
+        "Nintendo R&D1",
+        "Intelligent Systems"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "franchise": "Mario",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 27,
+      "pageEnd": 27,
+      "pdfPage": 27,
+      "pdfPageEnd": 27,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 70,
+      "scoreRaw": "7",
+      "scoreOriginal": 7.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 70,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.0,
+      "soundScore": 7.0,
+      "lifespan": null,
+      "pros": [
+        "Weer eens wat anders",
+        "De muis werkt zeer prettig"
+      ],
+      "cons": [
+        "Kwaliteit van beeld en geluid niet zo goed"
+      ],
+      "verdictSummary": "Bruikbaar teken-, animatie- en muziekprogramma voor de SNES, maar duidelijk beperkter dan vergelijkbare computersoftware.",
+      "specialSituation": "NON_GAME_SOFTWARE",
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p27 · final score 7/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7; Sound 7. Verdict summary: Bruikbaar teken-, animatie- en muziekprogramma voor de SNES, maar duidelijk beperkter dan vergelijkbare computersoftware. Pros: Weer eens wat anders; De muis werkt zeer prettig. Cons: Kwaliteit van beeld en geluid niet zo goed.",
+      "notes": "De tekst zegt expliciet: \"Mario Paint is geen spel\"; er zit wel een spelletje in."
+    },
+    {
+      "id": "canon_pu001_005_tiny_toon_adventures_buster_s_hidden_treasure",
+      "gameId": "tiny_toon_adventures_buster_s_hidden_treasure",
+      "title": "Tiny Toon Adventures: Buster's Hidden Treasure",
+      "canonicalTitle": "Tiny Toon Adventures: Buster's Hidden Treasure",
+      "aliases": [
+        "Tiny Toon Adventures: Buster's Hidden Treasure",
+        "Buster's Hidden Treasure"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Konami"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "franchise": "Tiny Toon Adventures",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 28,
+      "pageEnd": 29,
+      "pdfPage": 28,
+      "pdfPageEnd": 29,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Sega MegaDrive"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 90,
+      "scoreRaw": "9",
+      "scoreOriginal": 9.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 90,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.8,
+      "soundScore": 7.0,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Te gekke animaties",
+        "Veel humor",
+        "Veel verschillende vijanden",
+        "Veel levels"
+      ],
+      "cons": [
+        "Je kan geen andere speler kiezen dan Buster",
+        "Het geluid is wat minder"
+      ],
+      "verdictSummary": "Zeer expressieve animatie en veel plezier; Bjorn noemt het persoonlijk zijn spel van de maand.",
+      "specialSituation": null,
+      "powerPremium": true,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p28–29 · final score 9/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 8.8; Sound 7. Verdict summary: Zeer expressieve animatie en veel plezier; Bjorn noemt het persoonlijk zijn spel van de maand. Pros: Te gekke animaties; Veel humor; Veel verschillende vijanden; Veel levels. Cons: Je kan geen andere speler kiezen dan Buster; Het geluid is wat minder. Houdbaarheid: 3 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_006_harley_s_humongous_adventure",
+      "gameId": "harley_s_humongous_adventure",
+      "title": "Harley's Humongous Adventure",
+      "canonicalTitle": "Harley's Humongous Adventure",
+      "aliases": [
+        "Harley's Humongous Adventure"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "publishers": [
+        "Hi Tech Expressions"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 30,
+      "pageEnd": 31,
+      "pdfPage": 30,
+      "pdfPageEnd": 31,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 70,
+      "scoreRaw": "7",
+      "scoreOriginal": 7.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 70,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.0,
+      "soundScore": 7.2,
+      "lifespan": "2 maanden",
+      "pros": [
+        "Leuk verzonnen",
+        "Je kan lekker bijen neerschieten"
+      ],
+      "cons": [
+        "Langzaam",
+        "Saaie achtergronden"
+      ],
+      "verdictSummary": "Aardig voor liefhebbers van een rustiger speltempo; relatief makkelijk en visueel niet bijzonder.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p30–31 · final score 7/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7; Sound 7.2. Verdict summary: Aardig voor liefhebbers van een rustiger speltempo; relatief makkelijk en visueel niet bijzonder. Pros: Leuk verzonnen; Je kan lekker bijen neerschieten. Cons: Langzaam; Saaie achtergronden. Houdbaarheid: 2 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": "Human observer confirmed title/platform/report metrics; direct source text on p31 carries BJORN byline."
+    },
+    {
+      "id": "canon_pu001_007_dinolympics",
+      "gameId": "the_humans",
+      "title": "Dinolympics",
+      "canonicalTitle": "The Humans",
+      "aliases": [
+        "Dinolympics",
+        "The Humans",
+        "Evolution: Dino Dudes"
+      ],
+      "genres": [
+        "Puzzle-platform"
+      ],
+      "developers": [
+        "Imagitec Design"
+      ],
+      "publishers": [
+        "Mirage Technologies"
+      ],
+      "franchise": "The Humans",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 32,
+      "pageEnd": 32,
+      "pdfPage": 32,
+      "pdfPageEnd": 32,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Lynx"
+      ],
+      "reviewers": [
+        "Adam Eeuwens"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "ADAM",
+      "reviewerConfidence": "HIGH",
+      "score": 75,
+      "scoreRaw": "7.5",
+      "scoreOriginal": 7.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 75,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 6.0,
+      "lifespan": "6 maanden",
+      "pros": [
+        "Spel weet je meteen te pakken"
+      ],
+      "cons": [
+        "Weinig muziekje",
+        "Het geluid is wat minder"
+      ],
+      "verdictSummary": "Frustrerende maar verslavende prehistorische puzzel/actie-opzet; Adam blijft terugkomen ondanks mislukte mensjes.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p32 · final score 7.5/10. Direct reviewer/byline: Adam Eeuwens (printed ADAM). Graphics 8; Sound 6. Verdict summary: Frustrerende maar verslavende prehistorische puzzel/actie-opzet; Adam blijft terugkomen ondanks mislukte mensjes. Pros: Spel weet je meteen te pakken. Cons: Weinig muziekje; Het geluid is wat minder. Houdbaarheid: 6 maanden.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_008_power_factor",
+      "gameId": "power_factor",
+      "title": "Power Factor",
+      "canonicalTitle": "Power Factor",
+      "aliases": [
+        "Power Factor",
+        "Redd Ace",
+        "Red Ace"
+      ],
+      "genres": [
+        "Action",
+        "Platform"
+      ],
+      "developers": [
+        "Hand Made Software"
+      ],
+      "publishers": [
+        "Atari Corporation"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 32,
+      "pageEnd": 32,
+      "pdfPage": 32,
+      "pdfPageEnd": 32,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Lynx"
+      ],
+      "reviewers": [
+        "Adam Eeuwens"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "ADAM",
+      "reviewerConfidence": "HIGH",
+      "score": 60,
+      "scoreRaw": "6",
+      "scoreOriginal": 6.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 60,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 6.0,
+      "soundScore": 6.5,
+      "lifespan": "2 maanden",
+      "pros": [
+        "Spel zit degelijk in elkaar"
+      ],
+      "cons": [
+        "Teveel gepriegel op het scherm"
+      ],
+      "verdictSummary": "Degelijk maar weinig origineel; het kleine Lynx-scherm maakt kaarten en tekst te priegelig.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p32 · final score 6/10. Direct reviewer/byline: Adam Eeuwens (printed ADAM). Graphics 6; Sound 6.5. Verdict summary: Degelijk maar weinig origineel; het kleine Lynx-scherm maakt kaarten en tekst te priegelig. Pros: Spel zit degelijk in elkaar. Cons: Teveel gepriegel op het scherm. Houdbaarheid: 2 maanden.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_009_nigel_mansell_s_world_championship",
+      "gameId": "nigel_mansell_s_world_championship_racing",
+      "title": "Nigel Mansell's World Championship",
+      "canonicalTitle": "Nigel Mansell's World Championship Racing",
+      "aliases": [
+        "Nigel Mansell's World Championship",
+        "Nigel Mansell's World Championship Racing"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "developers": [
+        "Gremlin Graphics"
+      ],
+      "publishers": [],
+      "franchise": "Nigel Mansell",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 33,
+      "pageEnd": 33,
+      "pdfPage": 33,
+      "pdfPageEnd": 33,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "UNLABELED_SCORED_EVALUATION",
+      "platforms": [
+        "PC"
+      ],
+      "reviewers": [
+        "Ben de Dood"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BEN",
+      "reviewerConfidence": "HIGH",
+      "score": 70,
+      "scoreRaw": "7",
+      "scoreOriginal": 7.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 70,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.0,
+      "soundScore": 7.0,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Voor ervaren coureurs zeer hoge topsnelheid"
+      ],
+      "cons": [
+        "De tekst is moeilijk leesbaar"
+      ],
+      "verdictSummary": "Uitdagende Formule 1-simulatie waarin circuitkennis en besturing oefening vragen; Ben verliest veel maar wil doorleren.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p33 · final score 7/10. Direct reviewer/byline: Ben de Dood (printed BEN). Graphics 7; Sound 7. Verdict summary: Uitdagende Formule 1-simulatie waarin circuitkennis en besturing oefening vragen; Ben verliest veel maar wil doorleren. Pros: Voor ervaren coureurs zeer hoge topsnelheid. Cons: De tekst is moeilijk leesbaar. Houdbaarheid: 3 maanden.",
+      "notes": "Human speech initially approximated the title as 'Nico Mansfield'; source title is Nigel Mansell's World Championship. BEN, Graphics 7.0, Geluid 7.0, final 7.0 confirmed."
+    },
+    {
+      "id": "canon_pu001_010_batman_revenge_of_the_joker",
+      "gameId": "batman_revenge_of_the_joker",
+      "title": "Batman: Revenge of the Joker",
+      "canonicalTitle": "Batman: Revenge of the Joker",
+      "aliases": [
+        "Batman: Revenge of the Joker",
+        "Batman: Return of the Joker"
+      ],
+      "genres": [
+        "Action",
+        "Platform"
+      ],
+      "developers": [
+        "Ringler Studios"
+      ],
+      "publishers": [],
+      "franchise": "Batman",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 34,
+      "pageEnd": 35,
+      "pdfPage": 34,
+      "pdfPageEnd": 35,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Sega MegaDrive"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 79,
+      "scoreRaw": "7.9",
+      "scoreOriginal": 7.9,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 79,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.5,
+      "soundScore": 6.8,
+      "lifespan": "4 maanden",
+      "pros": [
+        "Veel mogelijkheden",
+        "Veel met actie"
+      ],
+      "cons": [
+        "Misschien wat te moeilijk",
+        "Het geluid is wat minder"
+      ],
+      "verdictSummary": "Moeilijk maar leuk en de moeite van het doorzetten waard; Bjorn strandt zelf bij de eerste boss.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p34–35 · final score 7.9/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7.5; Sound 6.8. Verdict summary: Moeilijk maar leuk en de moeite van het doorzetten waard; Bjorn strandt zelf bij de eerste boss. Pros: Veel mogelijkheden; Veel met actie. Cons: Misschien wat te moeilijk; Het geluid is wat minder. Houdbaarheid: 4 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": "Human speech called the title 'Return of the Joker' and momentarily wondered if final was 7.9/7.79. Printed title is Batman: Revenge of the Joker; score panel clearly reads 7.9."
+    },
+    {
+      "id": "canon_pu001_011_fatal_fury_ii",
+      "gameId": "fatal_fury_ii",
+      "title": "Fatal Fury II",
+      "canonicalTitle": "Fatal Fury 2",
+      "aliases": [
+        "Fatal Fury II",
+        "Fatal Fury 2"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "developers": [
+        "SNK"
+      ],
+      "publishers": [
+        "SNK"
+      ],
+      "franchise": "Fatal Fury",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 36,
+      "pageEnd": 37,
+      "pdfPage": 36,
+      "pdfPageEnd": 37,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Neo Geo"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 93,
+      "scoreRaw": "9.3",
+      "scoreOriginal": 9.3,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 93,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.8,
+      "soundScore": 9.2,
+      "lifespan": "10 maanden",
+      "pros": [
+        "Grote vechtfiguren",
+        "Heel mooi geluid",
+        "Snelle actie",
+        "Verveelt niet snel"
+      ],
+      "cons": [
+        "Spellen tussen de levels zijn niet zo leuk"
+      ],
+      "verdictSummary": "Razendsnel, luid en spectaculair vechtspel; uitgesproken enthousiast en volgens de tekst een toekomstige vechtspeltopper.",
+      "specialSituation": null,
+      "powerPremium": true,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p36–37 · final score 9.3/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 8.8; Sound 9.2. Verdict summary: Razendsnel, luid en spectaculair vechtspel; uitgesproken enthousiast en volgens de tekst een toekomstige vechtspeltopper. Pros: Grote vechtfiguren; Heel mooi geluid; Snelle actie; Verveelt niet snel. Cons: Spellen tussen de levels zijn niet zo leuk. Houdbaarheid: 10 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_012_chiki_chiki_boys",
+      "gameId": "chiki_chiki_boys",
+      "title": "Chiki Chiki Boys",
+      "canonicalTitle": "Mega Twins",
+      "aliases": [
+        "Chiki Chiki Boys",
+        "Mega Twins"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Visco (Mega Drive port)",
+        "Capcom (original arcade game)"
+      ],
+      "publishers": [
+        "Sega (Mega Drive port)",
+        "Capcom (original arcade game)"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 38,
+      "pageEnd": 38,
+      "pdfPage": 38,
+      "pdfPageEnd": 38,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Sega MegaDrive"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 60,
+      "scoreRaw": "6",
+      "scoreOriginal": 6.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 60,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 6.8,
+      "soundScore": 6.0,
+      "lifespan": "1 maand",
+      "pros": [
+        "Makkelijk te bedienen"
+      ],
+      "cons": [
+        "Minder leuk dan vergelijkbare spellen",
+        "Weinig variatie"
+      ],
+      "verdictSummary": "Op zichzelf aardig, maar te veel betere vergelijkbare spellen maken het moeilijk om enthousiast te worden.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p38 · final score 6/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 6.8; Sound 6. Verdict summary: Op zichzelf aardig, maar te veel betere vergelijkbare spellen maken het moeilijk om enthousiast te worden. Pros: Makkelijk te bedienen. Cons: Minder leuk dan vergelijkbare spellen; Weinig variatie. Houdbaarheid: 1 maand. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_013_humans",
+      "gameId": "the_humans",
+      "title": "Humans",
+      "canonicalTitle": "The Humans",
+      "aliases": [
+        "Humans",
+        "The Humans"
+      ],
+      "genres": [
+        "Puzzle-platform"
+      ],
+      "developers": [
+        "Imagitec Design"
+      ],
+      "publishers": [
+        "Mirage Technologies"
+      ],
+      "franchise": "The Humans",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 39,
+      "pageEnd": 39,
+      "pdfPage": 39,
+      "pdfPageEnd": 39,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Sega MegaDrive"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 50,
+      "scoreRaw": "5",
+      "scoreOriginal": 5.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 50,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.0,
+      "soundScore": 6.8,
+      "lifespan": "2 weken",
+      "pros": [
+        "Origineel idee",
+        "Leuke humor"
+      ],
+      "cons": [
+        "Langzaam, sloom spel",
+        "Verwarrende besturing"
+      ],
+      "verdictSummary": "Sterk basisidee maar volgens Bjorn een van de saaiste spellen van de maand; snel vervelend en verwarrend.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p39 · final score 5/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7; Sound 6.8. Verdict summary: Sterk basisidee maar volgens Bjorn een van de saaiste spellen van de maand; snel vervelend en verwarrend. Pros: Origineel idee; Leuke humor. Cons: Langzaam, sloom spel; Verwarrende besturing. Houdbaarheid: 2 weken.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_014_cool_world",
+      "gameId": "cool_world",
+      "title": "Cool World",
+      "canonicalTitle": "Cool World",
+      "aliases": [
+        "Cool World"
+      ],
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Painting by Numbers"
+      ],
+      "publishers": [
+        "Ocean Software"
+      ],
+      "franchise": "Cool World",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 41,
+      "pageEnd": 41,
+      "pdfPage": 41,
+      "pdfPageEnd": 41,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "UNLABELED_SHARED_IMPORT_EVALUATION",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 75,
+      "scoreRaw": "7.5",
+      "scoreOriginal": 7.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 75,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.5,
+      "soundScore": 7.5,
+      "lifespan": "2 maanden",
+      "pros": [],
+      "cons": [],
+      "verdictSummary": "Vreemd en gevarieerd spel dat vooral werkt als de speler voor de bizarre toon valt; Bjorn noemt het cool.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p41 · final score 7.5/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7.5; Sound 7.5. Verdict summary: Vreemd en gevarieerd spel dat vooral werkt als de speler voor de bizarre toon valt; Bjorn noemt het cool. Houdbaarheid: 2 maanden.",
+      "notes": "Gedeelde importpagina zonder zichtbaar afzonderlijk PREVIEW-label; score en byline zijn visueel direct."
+    },
+    {
+      "id": "canon_pu001_015_the_terminator",
+      "gameId": "the_terminator_snes",
+      "title": "The Terminator",
+      "canonicalTitle": "The Terminator (SNES)",
+      "aliases": [
+        "The Terminator",
+        "The Terminator (SNES)"
+      ],
+      "genres": [
+        "Action",
+        "2D platformer"
+      ],
+      "developers": [
+        "Mindscape"
+      ],
+      "publishers": [
+        "Mindscape"
+      ],
+      "franchise": "Terminator",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 41,
+      "pageEnd": 41,
+      "pdfPage": 41,
+      "pdfPageEnd": 41,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "UNLABELED_SHARED_IMPORT_EVALUATION",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 62,
+      "scoreRaw": "6.2",
+      "scoreOriginal": 6.2,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 62,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 6.0,
+      "soundScore": 6.0,
+      "lifespan": "1 maand",
+      "pros": [
+        "In het begin moeilijk",
+        "Zes verschillende levels",
+        "Veel verschillende vijanden"
+      ],
+      "cons": [
+        "Saai geluid",
+        "Weinig variatie per level"
+      ],
+      "verdictSummary": "Teleurstellend tegenover de films; wel moeilijk en met meerdere levels, maar audiovisueel en qua variatie te zwak.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p41 · final score 6.2/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 6; Sound 6. Verdict summary: Teleurstellend tegenover de films; wel moeilijk en met meerdere levels, maar audiovisueel en qua variatie te zwak. Pros: In het begin moeilijk; Zes verschillende levels; Veel verschillende vijanden. Cons: Saai geluid; Weinig variatie per level. Houdbaarheid: 1 maand.",
+      "notes": "Gedeelde importpagina zonder zichtbaar afzonderlijk PREVIEW-label; score en byline zijn visueel direct."
+    },
+    {
+      "id": "canon_pu001_016_alien_3",
+      "gameId": "alien_3",
+      "title": "Alien 3",
+      "canonicalTitle": "Alien 3",
+      "aliases": [
+        "Alien 3",
+        "ALIEN³"
+      ],
+      "genres": [
+        "Run and gun"
+      ],
+      "developers": [
+        "Bits Studios (Game Boy version)"
+      ],
+      "publishers": [
+        "LJN"
+      ],
+      "franchise": "Alien",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 44,
+      "pageEnd": 44,
+      "pdfPage": 44,
+      "pdfPageEnd": 44,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Game Boy"
+      ],
+      "reviewers": [
+        "Michael Schaeffer"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "MICHAEL",
+      "reviewerConfidence": "HIGH",
+      "score": 80,
+      "scoreRaw": "8",
+      "scoreOriginal": 8.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 80,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.0,
+      "soundScore": 8.0,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Steeds spannender, echt creepy verhaal"
+      ],
+      "cons": [
+        "Even doorzetten"
+      ],
+      "verdictSummary": "Geen spectaculair hoogtepuntenspel, maar de zoektocht wordt steeds spannender en heeft verrassend veel sfeer.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p44 · final score 8/10. Direct reviewer/byline: Michael Schaeffer (printed MICHAEL). Graphics 7; Sound 8. Verdict summary: Geen spectaculair hoogtepuntenspel, maar de zoektocht wordt steeds spannender en heeft verrassend veel sfeer. Pros: Steeds spannender, echt creepy verhaal. Cons: Even doorzetten. Houdbaarheid: 3 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_017_lethal_weapon",
+      "gameId": "lethal_weapon",
+      "title": "Lethal Weapon",
+      "canonicalTitle": "Lethal Weapon",
+      "aliases": [
+        "Lethal Weapon"
+      ],
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Eurocom (Game Boy version)",
+        "Ocean Software"
+      ],
+      "publishers": [
+        "Ocean Software"
+      ],
+      "franchise": "Lethal Weapon",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 44,
+      "pageEnd": 44,
+      "pdfPage": 44,
+      "pdfPageEnd": 44,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Game Boy"
+      ],
+      "reviewers": [
+        "Michael Schaeffer"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "MICHAEL",
+      "reviewerConfidence": "HIGH",
+      "score": 60,
+      "scoreRaw": "6",
+      "scoreOriginal": 6.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 60,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 6.0,
+      "soundScore": 7.0,
+      "lifespan": "1 maand",
+      "pros": [
+        "Leuk voor de echte fans"
+      ],
+      "cons": [
+        "Weinig spectaculaire aktie voor een aktiespel"
+      ],
+      "verdictSummary": "Vooral interessant voor echte fans; de actie mist volgens de bespreking spektakel.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p44 · final score 6/10. Direct reviewer/byline: Michael Schaeffer (printed MICHAEL). Graphics 6; Sound 7. Verdict summary: Vooral interessant voor echte fans; de actie mist volgens de bespreking spektakel. Pros: Leuk voor de echte fans. Cons: Weinig spectaculaire aktie voor een aktiespel. Houdbaarheid: 1 maand. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_018_barbie_game_girl",
+      "gameId": "barbie_game_girl",
+      "title": "Barbie Game Girl",
+      "canonicalTitle": "Barbie: Game Girl",
+      "aliases": [
+        "Barbie Game Girl",
+        "Barbie: Game Girl"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Imagineering"
+      ],
+      "publishers": [
+        "Hi Tech Expressions"
+      ],
+      "franchise": "Barbie",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 45,
+      "pageEnd": 45,
+      "pdfPage": 45,
+      "pdfPageEnd": 45,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Game Boy"
+      ],
+      "reviewers": [],
+      "reviewerCandidates": [
+        "Adam Eeuwens"
+      ],
+      "reviewerPrinted": null,
+      "reviewerConfidence": "UNRESOLVED",
+      "score": 65,
+      "scoreRaw": "6.5",
+      "scoreOriginal": 6.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 65,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.0,
+      "soundScore": 6.5,
+      "lifespan": "1 maand",
+      "pros": [
+        "Cultwaarde"
+      ],
+      "cons": [
+        "Vrij onbenullig"
+      ],
+      "verdictSummary": "Lichtgewicht winkel-/aankleedavontuur met enige cultwaarde maar inhoudelijk erg onbenullig.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p45 · final score 6.5/10. No standalone printed byline; contextual reviewer candidate: Adam Eeuwens (confidence 0.85). Graphics 7; Sound 6.5. Verdict summary: Lichtgewicht winkel-/aankleedavontuur met enige cultwaarde maar inhoudelijk erg onbenullig. Pros: Cultwaarde. Cons: Vrij onbenullig. Houdbaarheid: 1 maand. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": "Human observer explicitly states Spot and Barbie were both reviewed by Adam. The scan visibly prints ADAM in the shared Spot/Barbie layout, but not as a separate Barbie byline. Therefore Adam is retained as a strong page-level attribution candidate, not misrepresented as a standalone printed byline."
+    },
+    {
+      "id": "canon_pu001_019_spot_the_cool_adventure",
+      "gameId": "spot_the_cool_adventure",
+      "title": "Spot: The Cool Adventure",
+      "canonicalTitle": "Spot: The Cool Adventure",
+      "aliases": [
+        "Spot: The Cool Adventure"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "publishers": [
+        "Virgin Games"
+      ],
+      "franchise": "Spot / 7 Up",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 45,
+      "pageEnd": 45,
+      "pdfPage": 45,
+      "pdfPageEnd": 45,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Game Boy"
+      ],
+      "reviewers": [
+        "Adam Eeuwens"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "ADAM",
+      "reviewerConfidence": "HIGH",
+      "score": 65,
+      "scoreRaw": "6.5",
+      "scoreOriginal": 6.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 65,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 6.0,
+      "soundScore": 5.0,
+      "lifespan": "1 maand",
+      "pros": [
+        "Spot is een cool menneke"
+      ],
+      "cons": [
+        "Zenuwachtig deuntje"
+      ],
+      "verdictSummary": "Een OK spel, maar geen must-have; frustratie neemt sterk toe voorbij de eerste niveaus.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p45 · final score 6.5/10. Direct reviewer/byline: Adam Eeuwens (printed ADAM). Graphics 6; Sound 5. Verdict summary: Een OK spel, maar geen must-have; frustratie neemt sterk toe voorbij de eerste niveaus. Pros: Spot is een cool menneke. Cons: Zenuwachtig deuntje. Houdbaarheid: 1 maand. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_020_darkwing_duck",
+      "gameId": "darkwing_duck",
+      "title": "Darkwing Duck",
+      "canonicalTitle": "Darkwing Duck",
+      "aliases": [
+        "Darkwing Duck"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Make Software (Game Boy port)",
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "franchise": "Darkwing Duck",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 46,
+      "pageEnd": 46,
+      "pdfPage": 46,
+      "pdfPageEnd": 46,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Game Boy"
+      ],
+      "reviewers": [
+        "Kees de Koning"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "KEES",
+      "reviewerConfidence": "HIGH",
+      "score": 80,
+      "scoreRaw": "8.0",
+      "scoreOriginal": 8.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 80,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 8.0,
+      "lifespan": "4 maanden",
+      "pros": [],
+      "cons": [],
+      "verdictSummary": "Gevarieerd en volgens Kees een waardige opvolger van DuckTales.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_VISUAL_RECHECK_2026_08_23",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.2",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p46 · final score 8/10. Direct printed KEES byline. Graphics 8; Sound 8. Latest human visual re-check 2026-08-23 supersedes the earlier panel association. Gevarieerd en volgens Kees een waardige opvolger van DuckTales.",
+      "notes": "Latest human visual re-check on 2026-08-23 explicitly assigns p46 scores as: Darkwing Duck = GFX 8, sound 8, final 8; Mega Man 3 = GFX 8, sound 8, final 8.5; The Empire Strikes Back = GFX 7.5, sound 8, final 7.5. Human also confirms all three items are by Kees de Koning. Mega Man 3 has no separate visible KEES byline in the crop, so authorship is stored as DIRECT_LAYOUT_ASSOCIATION rather than DIRECT_BYLINE. The printed pro/con phrases on this unusually interleaved page semantically point across adjacent columns; score association follows the latest explicit human visual adjudication while prose association remains separately source-grounded."
+    },
+    {
+      "id": "canon_pu001_021_mega_man_3",
+      "gameId": "mega_man_iii",
+      "title": "Mega Man 3",
+      "canonicalTitle": "Mega Man III",
+      "aliases": [
+        "Mega Man 3",
+        "Mega Man III",
+        "Rockman World 3"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Minakuchi Engineering"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "franchise": "Mega Man",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 46,
+      "pageEnd": 46,
+      "pdfPage": 46,
+      "pdfPageEnd": 46,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Game Boy"
+      ],
+      "reviewers": [
+        "Kees de Koning"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": null,
+      "reviewerConfidence": "HIGH",
+      "score": 85,
+      "scoreRaw": "8.5",
+      "scoreOriginal": 8.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 85,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 8.0,
+      "lifespan": "4 maanden",
+      "pros": [
+        "Veel ingewikkelde obstakels"
+      ],
+      "cons": [
+        "Acht werelden hebben te veel overeenkomsten"
+      ],
+      "verdictSummary": "Leuk platformspel met hoog Super Mario-gehalte; aanbevolen, maar de acht werelden lijken te veel op elkaar.",
+      "specialSituation": "SCORE_PANEL_MAPPING_VISUALLY_RESOLVED",
+      "powerPremium": false,
+      "confidence": 0.98,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_VISUAL_RECHECK_2026_08_23",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.2",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p46 · final score 8,5/10. Human-verified shared-page/layout authorship by Kees de Koning; no standalone KEES byline visible for this item. Graphics 8; Sound 8. Latest human visual re-check 2026-08-23 supersedes the earlier panel association. Leuk platformspel met hoog Super Mario-gehalte; aanbevolen, maar de acht werelden lijken te veel op elkaar.",
+      "notes": "Human observer says he assumes Kees reviewed all three Game Boy items on p46, while noting he cannot see a separate name for Mega Man 3. Direct scan mapping resolves Mega Man 3 as Graphics 7.5, Geluid 8.0, final 7.5, with 'Veel ingewikkelde obstakels' / 'Acht werelden hebben te veel overeenkomsten'. Kees remains a candidate, not a direct printed byline. | Latest human visual re-check on 2026-08-23 explicitly assigns p46 scores as: Darkwing Duck = GFX 8, sound 8, final 8; Mega Man 3 = GFX 8, sound 8, final 8.5; The Empire Strikes Back = GFX 7.5, sound 8, final 7.5. Human also confirms all three items are by Kees de Koning. Mega Man 3 has no separate visible KEES byline in the crop, so authorship is stored as DIRECT_LAYOUT_ASSOCIATION rather than DIRECT_BYLINE. The printed pro/con phrases on this unusually interleaved page semantically point across adjacent columns; score association follows the latest explicit human visual adjudication while prose association remains separately source-grounded."
+    },
+    {
+      "id": "canon_pu001_022_the_empire_strikes_back",
+      "gameId": "the_empire_strikes_back",
+      "title": "The Empire Strikes Back",
+      "canonicalTitle": "Star Wars: The Empire Strikes Back",
+      "aliases": [
+        "The Empire Strikes Back",
+        "Star Wars: The Empire Strikes Back"
+      ],
+      "genres": [
+        "Action",
+        "Platform"
+      ],
+      "developers": [
+        "NMS Software (Game Boy port)",
+        "Lucasfilm Games",
+        "Sculptured Software"
+      ],
+      "publishers": [],
+      "franchise": "Star Wars",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 46,
+      "pageEnd": 46,
+      "pdfPage": 46,
+      "pdfPageEnd": 46,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Game Boy"
+      ],
+      "reviewers": [
+        "Kees de Koning"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "KEES",
+      "reviewerConfidence": "HIGH",
+      "score": 75,
+      "scoreRaw": "7.5",
+      "scoreOriginal": 7.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 75,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.5,
+      "soundScore": 8.0,
+      "lifespan": "4 maanden",
+      "pros": [
+        "Zeer gevarieerd spel"
+      ],
+      "cons": [
+        "Langdradig eerste level"
+      ],
+      "verdictSummary": "Volgens Kees beter dan voorganger Star Wars; na het te lange eerste level volgt veel spelplezier.",
+      "specialSituation": "SCORE_PANEL_MAPPING_VISUALLY_RESOLVED",
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_VISUAL_RECHECK_2026_08_23",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.2",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p46 · final score 7,5/10. Direct printed KEES byline. Graphics 7.5; Sound 8. Latest human visual re-check 2026-08-23 supersedes the earlier panel association. Volgens Kees beter dan voorganger Star Wars; na het te lange eerste level volgt veel spelplezier.",
+      "notes": "Human speech temporarily associated the p46 score panels in reverse. Direct page evidence resolves Empire as Graphics 8.0, Geluid 8.0, final 8.5, + 'Zeer gevarieerd spel', - 'Langdradig eerste level'. KEES is directly printed in the Empire text block. | Latest human visual re-check on 2026-08-23 explicitly assigns p46 scores as: Darkwing Duck = GFX 8, sound 8, final 8; Mega Man 3 = GFX 8, sound 8, final 8.5; The Empire Strikes Back = GFX 7.5, sound 8, final 7.5. Human also confirms all three items are by Kees de Koning. Mega Man 3 has no separate visible KEES byline in the crop, so authorship is stored as DIRECT_LAYOUT_ASSOCIATION rather than DIRECT_BYLINE. The printed pro/con phrases on this unusually interleaved page semantically point across adjacent columns; score association follows the latest explicit human visual adjudication while prose association remains separately source-grounded."
+    },
+    {
+      "id": "canon_pu001_023_outlander",
+      "gameId": "outlander",
+      "title": "Outlander",
+      "canonicalTitle": "Outlander",
+      "aliases": [
+        "Outlander",
+        "The Road Warrior (development title)"
+      ],
+      "genres": [
+        "Action",
+        "Driving"
+      ],
+      "developers": [
+        "Mindscape"
+      ],
+      "publishers": [
+        "Mindscape"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 47,
+      "pageEnd": 47,
+      "pdfPage": 47,
+      "pdfPageEnd": 47,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Kees de Koning"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "KEES",
+      "reviewerConfidence": "HIGH",
+      "score": 85,
+      "scoreRaw": "8.5",
+      "scoreOriginal": 8.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 85,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.5,
+      "soundScore": 8.5,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Intense sfeer",
+        "Hoog verslavingsgehalte"
+      ],
+      "cons": [
+        "Soms wat eentonig"
+      ],
+      "verdictSummary": "Sterke sfeer en hoge verslavingsfactor; Kees verwacht het spel vaak opnieuw te spelen.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p47 · final score 8.5/10. Direct reviewer/byline: Kees de Koning (printed KEES). Graphics 8.5; Sound 8.5. Verdict summary: Sterke sfeer en hoge verslavingsfactor; Kees verwacht het spel vaak opnieuw te spelen. Pros: Intense sfeer; Hoog verslavingsgehalte. Cons: Soms wat eentonig. Houdbaarheid: 3 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": "Human observer confirmed reviewer, platform, category scores and report bullets but did not explicitly repeat the final score. Direct scan shows final 8.5."
+    },
+    {
+      "id": "canon_pu001_024_brawl_brothers",
+      "gameId": "brawl_brothers",
+      "title": "Brawl Brothers",
+      "canonicalTitle": "Brawl Brothers",
+      "aliases": [
+        "Brawl Brothers",
+        "Rushing Beat Ran"
+      ],
+      "genres": [
+        "Beat 'em up"
+      ],
+      "developers": [
+        "Jaleco"
+      ],
+      "publishers": [
+        "Jaleco"
+      ],
+      "franchise": "Rushing Beat",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 48,
+      "pageEnd": 48,
+      "pdfPage": 48,
+      "pdfPageEnd": 48,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Super Nintendo"
+      ],
+      "reviewers": [
+        "Kees de Koning"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "KEES",
+      "reviewerConfidence": "HIGH",
+      "score": 75,
+      "scoreRaw": "7.5",
+      "scoreOriginal": 7.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 75,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.5,
+      "soundScore": 7.0,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Waanzinnige graphics en keuze mogelijkheden"
+      ],
+      "cons": [
+        "Gebrek aan verschillende vechttechnieken"
+      ],
+      "verdictSummary": "Vermakelijk voor enkele sessies, maar beperkte tactische variatie laat de verveling relatief snel toeslaan.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p48 · final score 7.5/10. Direct reviewer/byline: Kees de Koning (printed KEES). Graphics 8.5; Sound 7. Verdict summary: Vermakelijk voor enkele sessies, maar beperkte tactische variatie laat de verveling relatief snel toeslaan. Pros: Waanzinnige graphics en keuze mogelijkheden. Cons: Gebrek aan verschillende vechttechnieken. Houdbaarheid: 3 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_025_doomsday_warrior",
+      "gameId": "doomsday_warrior",
+      "title": "Doomsday Warrior",
+      "canonicalTitle": "Doomsday Warrior",
+      "aliases": [
+        "Doomsday Warrior",
+        "Taiketsu! Brass Numbers"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "developers": [
+        "Laser Soft"
+      ],
+      "publishers": [
+        "Telenet Japan",
+        "Renovation Products"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 49,
+      "pageEnd": 49,
+      "pdfPage": 49,
+      "pdfPageEnd": 49,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Kees de Koning"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "KEES",
+      "reviewerConfidence": "HIGH",
+      "score": 75,
+      "scoreRaw": "7.5",
+      "scoreOriginal": 7.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 75,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 6.5,
+      "lifespan": "1 maand",
+      "pros": [
+        "Optimaal bedieningsgemak"
+      ],
+      "cons": [
+        "Verveelt snel"
+      ],
+      "verdictSummary": "Een keer leuk om te spelen, maar volgens Kees ontbreekt de duurzame aantrekkingskracht.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p49 · final score 7.5/10. Direct reviewer/byline: Kees de Koning (printed KEES). Graphics 8; Sound 6.5. Verdict summary: Een keer leuk om te spelen, maar volgens Kees ontbreekt de duurzame aantrekkingskracht. Pros: Optimaal bedieningsgemak. Cons: Verveelt snel. Houdbaarheid: 1 maand. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_026_tom_jerry",
+      "gameId": "tom_and_jerry_super_nes",
+      "title": "Tom & Jerry",
+      "canonicalTitle": "Tom and Jerry (Super NES)",
+      "aliases": [
+        "Tom & Jerry",
+        "Tom and Jerry",
+        "Tom and Jerry (Super NES)"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [],
+      "publishers": [
+        "Hi Tech Expressions"
+      ],
+      "franchise": "Tom and Jerry",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 53,
+      "pageEnd": 53,
+      "pdfPage": 53,
+      "pdfPageEnd": 53,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 50,
+      "scoreRaw": "5",
+      "scoreOriginal": 5.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 50,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 5.0,
+      "soundScore": 5.5,
+      "lifespan": "2 weken",
+      "pros": [
+        "Tom is in de tekenfilm wel leuk"
+      ],
+      "cons": [
+        "Slechte animaties",
+        "Ontzettend saai",
+        "Weinig variatie",
+        "Traag spel"
+      ],
+      "verdictSummary": "Een van de tegenvallers van de maand: te saai, te traag en audiovisueel zwak; geen voldoende.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p53 · final score 5/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 5; Sound 5.5. Verdict summary: Een van de tegenvallers van de maand: te saai, te traag en audiovisueel zwak; geen voldoende. Pros: Tom is in de tekenfilm wel leuk. Cons: Slechte animaties; Ontzettend saai; Weinig variatie; Traag spel. Houdbaarheid: 2 weken. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": "Human speech read Graphics as 5.5; direct page image shows Graphics 5.0 and Geluid 5.5. Final score 5.0. Source panel wins."
+    },
+    {
+      "id": "canon_pu001_027_combat_tribes",
+      "gameId": "the_combatribes",
+      "title": "Combat Tribes",
+      "canonicalTitle": "The Combatribes",
+      "aliases": [
+        "Combat Tribes",
+        "The Combatribes",
+        "Combatribes"
+      ],
+      "genres": [
+        "Beat 'em up"
+      ],
+      "developers": [
+        "Technos Japan Corp."
+      ],
+      "publishers": [
+        "American Technos Inc."
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 54,
+      "pageEnd": 54,
+      "pdfPage": 54,
+      "pdfPageEnd": 54,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Kees de Koning"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "KEES",
+      "reviewerConfidence": "HIGH",
+      "score": 50,
+      "scoreRaw": "5",
+      "scoreOriginal": 5.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 50,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 6.5,
+      "soundScore": 6.0,
+      "lifespan": "max. 1 week",
+      "pros": [
+        "Zo dom, bijna om te lachen"
+      ],
+      "cons": [
+        "Niets beters te doen?"
+      ],
+      "verdictSummary": "Herhalend knoprammen met matige respons; Kees noemt het expliciet een afrader.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p54 · final score 5/10. Direct reviewer/byline: Kees de Koning (printed KEES). Graphics 6.5; Sound 6. Verdict summary: Herhalend knoprammen met matige respons; Kees noemt het expliciet een afrader. Pros: Zo dom, bijna om te lachen. Cons: Niets beters te doen?. Houdbaarheid: max. 1 week. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_028_super_mario_kart",
+      "gameId": "ntro_super_mario_kart",
+      "title": "Super Mario Kart",
+      "canonicalTitle": "Super Mario Kart",
+      "aliases": [
+        "Super Mario Kart"
+      ],
+      "genres": [
+        "Kart racing"
+      ],
+      "developers": [
+        "Nintendo EAD"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "franchise": "Mario Kart",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 55,
+      "pageEnd": 55,
+      "pdfPage": 55,
+      "pdfPageEnd": 55,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Super NES"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 65,
+      "scoreRaw": "6.5",
+      "scoreOriginal": 6.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 65,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.0,
+      "soundScore": 6.5,
+      "lifespan": "1 maand",
+      "pros": [
+        "De battle-mode is wel leuk"
+      ],
+      "cons": [
+        "Niet te vergelijken met andere race-spelletjes",
+        "De besturing van de kartwagentjes is erg moeilijk"
+      ],
+      "verdictSummary": "Bjorn had meer verwacht; de battle-mode is leuk maar besturing en vergelijking met andere racers drukken het oordeel.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p55 · final score 6.5/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7; Sound 6.5. Verdict summary: Bjorn had meer verwacht; de battle-mode is leuk maar besturing en vergelijking met andere racers drukken het oordeel. Pros: De battle-mode is wel leuk. Cons: Niet te vergelijken met andere race-spelletjes; De besturing van de kartwagentjes is erg moeilijk. Houdbaarheid: 1 maand.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_029_darkseed",
+      "gameId": "dark_seed",
+      "title": "Darkseed",
+      "canonicalTitle": "Dark Seed",
+      "aliases": [
+        "Darkseed",
+        "Dark Seed"
+      ],
+      "genres": [
+        "Point-and-click adventure",
+        "Psychological horror"
+      ],
+      "developers": [
+        "Cyberdreams"
+      ],
+      "publishers": [
+        "Cyberdreams"
+      ],
+      "franchise": "Dark Seed",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 57,
+      "pageEnd": 57,
+      "pdfPage": 57,
+      "pdfPageEnd": 57,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "PC"
+      ],
+      "reviewers": [
+        "Ben de Dood"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BEN",
+      "reviewerConfidence": "HIGH",
+      "score": 80,
+      "scoreRaw": "8",
+      "scoreOriginal": 8.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 80,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 8.0,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Giger's Darkworld is prachtig"
+      ],
+      "cons": [
+        "Wachten op de klok kan irriteren"
+      ],
+      "verdictSummary": "Sterke duistere sfeer en opvallende Giger-wereld; timing/wachten kan frustreren.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p57 · final score 8/10. Direct reviewer/byline: Ben de Dood (printed BEN). Graphics 8; Sound 8. Verdict summary: Sterke duistere sfeer en opvallende Giger-wereld; timing/wachten kan frustreren. Pros: Giger's Darkworld is prachtig. Cons: Wachten op de klok kan irriteren. Houdbaarheid: 3 maanden.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_030_michael_jordan_in_flight",
+      "gameId": "michael_jordan_in_flight",
+      "title": "Michael Jordan in Flight",
+      "canonicalTitle": "Michael Jordan in Flight",
+      "aliases": [
+        "Michael Jordan in Flight"
+      ],
+      "genres": [
+        "Sports",
+        "Basketball"
+      ],
+      "developers": [
+        "Electronic Arts"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "franchise": "Michael Jordan",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 58,
+      "pageEnd": 58,
+      "pdfPage": 58,
+      "pdfPageEnd": 58,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "PC"
+      ],
+      "reviewers": [
+        "Michael Schaeffer"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "MICHAEL",
+      "reviewerConfidence": "HIGH",
+      "score": 80,
+      "scoreRaw": "8",
+      "scoreOriginal": 8.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 80,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 7.0,
+      "lifespan": "8 maanden",
+      "pros": [
+        "Replay-functies",
+        "Realistische spelregels"
+      ],
+      "cons": [
+        "3D-animatie levert soms onduidelijke beelden"
+      ],
+      "verdictSummary": "Sterke basketbalsimulatie met bruikbare replays en realistische regels; 3D-weergave kan de bal soms onduidelijk maken.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p58 · final score 8/10. Direct reviewer/byline: Michael Schaeffer (printed MICHAEL). Graphics 8; Sound 7. Verdict summary: Sterke basketbalsimulatie met bruikbare replays en realistische regels; 3D-weergave kan de bal soms onduidelijk maken. Pros: Replay-functies; Realistische spelregels. Cons: 3D-animatie levert soms onduidelijke beelden. Houdbaarheid: 8 maanden.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_031_alien_gate",
+      "gameId": "alien_gate",
+      "title": "Alien Gate",
+      "canonicalTitle": "Alien Gate",
+      "aliases": [
+        "Alien Gate"
+      ],
+      "genres": [
+        "Fixed shooter"
+      ],
+      "developers": [
+        "SPC Vision"
+      ],
+      "publishers": [
+        "Philips"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 60,
+      "pageEnd": 61,
+      "pdfPage": 60,
+      "pdfPageEnd": 61,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "UNLABELED_CD_I_SCORED_EVALUATION",
+      "platforms": [
+        "Philips CD-i"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 82,
+      "scoreRaw": "8.2",
+      "scoreOriginal": 8.2,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 82,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.5,
+      "soundScore": 8.5,
+      "lifespan": "6 maanden",
+      "pros": [],
+      "cons": [],
+      "verdictSummary": "Vooral in het begin zeer moeilijk, maar na gewenning spannend; 25 niveaus ondersteunen de lange speelbaarheid.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p60–61 · final score 8.2/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 8.5; Sound 8.5. Verdict summary: Vooral in het begin zeer moeilijk, maar na gewenning spannend; 25 niveaus ondersteunen de lange speelbaarheid. Houdbaarheid: 6 maanden.",
+      "notes": "Human observer initially shortened the title to 'Alien'; source confirms Alien Gate. Graphics 8.5, Geluid 8.5, final 8.2, BJORN."
+    },
+    {
+      "id": "canon_pu001_032_escape_from_cybercity",
+      "gameId": "escape_from_cybercity",
+      "title": "Escape from CyberCity",
+      "canonicalTitle": "Escape from CyberCity",
+      "aliases": [
+        "Escape from CyberCity",
+        "Escape from Cyber City"
+      ],
+      "genres": [
+        "Action",
+        "Arcade"
+      ],
+      "developers": [
+        "Fathom Pictures"
+      ],
+      "publishers": [
+        "Philips Media"
+      ],
+      "franchise": "Galaxy Express 999 (source-material association)",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 60,
+      "pageEnd": 60,
+      "pdfPage": 60,
+      "pdfPageEnd": 60,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "UNLABELED_CD_I_SCORED_EVALUATION",
+      "platforms": [
+        "Philips CD-i"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 100,
+      "scoreRaw": "10",
+      "scoreOriginal": 10.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 100,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 10.0,
+      "soundScore": 10.0,
+      "lifespan": "1 jaar",
+      "pros": [
+        "Fantastische graphics",
+        "Beeld en geluid perfect"
+      ],
+      "cons": [],
+      "verdictSummary": "Uitzonderlijk enthousiast: beeld en geluid worden van ongekende kwaliteit genoemd en het spel behoort volgens Bjorn tot de mooiste van het moment.",
+      "specialSituation": "PERFECT_SCORE",
+      "powerPremium": true,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p60 · final score 10/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 10; Sound 10. Verdict summary: Uitzonderlijk enthousiast: beeld en geluid worden van ongekende kwaliteit genoemd en het spel behoort volgens Bjorn tot de mooiste van het moment. Pros: Fantastische graphics; Beeld en geluid perfect. Houdbaarheid: 1 jaar.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_033_pinball",
+      "gameId": "pinball_cd_i",
+      "title": "Pinball",
+      "canonicalTitle": "Pinball (CD-i)",
+      "aliases": [
+        "Pinball",
+        "Pinball (CD-i)"
+      ],
+      "genres": [
+        "Pinball"
+      ],
+      "developers": [
+        "CapDisc"
+      ],
+      "publishers": [
+        "Philips Media"
+      ],
+      "franchise": null,
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 61,
+      "pageEnd": 61,
+      "pdfPage": 61,
+      "pdfPageEnd": 61,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "UNLABELED_CD_I_SCORED_EVALUATION",
+      "platforms": [
+        "Philips CD-i"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 74,
+      "scoreRaw": "7.4",
+      "scoreOriginal": 7.4,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 74,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.5,
+      "soundScore": 8.5,
+      "lifespan": null,
+      "pros": [
+        "Realistisch",
+        "Geweldig geluid"
+      ],
+      "cons": [
+        "Beeld niet wat we van CD-i kunnen verwachten",
+        "Niet genoeg special effects"
+      ],
+      "verdictSummary": "Subliem geluid en aardige simulatie van een echte flipperkast; grafisch minder sterk dan van CD-i verwacht.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 0.95,
+      "confidenceLabel": "CANON_VERIFIED_WITH_NOTE",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p61 · final score 7.4/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7.5; Sound 8.5. Verdict summary: Subliem geluid en aardige simulatie van een echte flipperkast; grafisch minder sterk dan van CD-i verwacht. Pros: Realistisch; Geweldig geluid. Cons: Beeld niet wat we van CD-i kunnen verwachten; Niet genoeg special effects.",
+      "notes": "Human observer confirmed Graphics 7.5, Geluid 8.5 and report bullets but did not speak the final score. Direct scan shows final 7.4; retained from source."
+    },
+    {
+      "id": "canon_pu001_034_james_bond_007_the_duel",
+      "gameId": "james_bond_007_the_duel",
+      "title": "James Bond 007: The Duel",
+      "canonicalTitle": "James Bond 007: The Duel",
+      "aliases": [
+        "James Bond 007: The Duel",
+        "The Duel"
+      ],
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "The Kremlin"
+      ],
+      "publishers": [
+        "Domark"
+      ],
+      "franchise": "James Bond",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 62,
+      "pageEnd": 62,
+      "pdfPage": 62,
+      "pdfPageEnd": 62,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Sega MegaDrive"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 76,
+      "scoreRaw": "7.6",
+      "scoreOriginal": 7.6,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 76,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 8.0,
+      "soundScore": 6.5,
+      "lifespan": "2 maanden",
+      "pros": [
+        "Moeilijk",
+        "Mooie animaties"
+      ],
+      "cons": [
+        "Niet origineel",
+        "Weinig variatie"
+      ],
+      "verdictSummary": "Goede animaties en redelijke uitdaging, maar de missie-opzet is weinig origineel en repetitief.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p62 · final score 7.6/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 8; Sound 6.5. Verdict summary: Goede animaties en redelijke uitdaging, maar de missie-opzet is weinig origineel en repetitief. Pros: Moeilijk; Mooie animaties. Cons: Niet origineel; Weinig variatie. Houdbaarheid: 2 maanden.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_035_the_flintstones",
+      "gameId": "the_flintstones_1993_video_game",
+      "title": "The Flintstones",
+      "canonicalTitle": "The Flintstones (1993 video game)",
+      "aliases": [
+        "The Flintstones",
+        "The Flintstones (1993 video game)"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Taito",
+        "Santos"
+      ],
+      "publishers": [
+        "Sega (Europe)",
+        "Taito (North America/Japan)"
+      ],
+      "franchise": "The Flintstones",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 63,
+      "pageEnd": 63,
+      "pdfPage": 63,
+      "pdfPageEnd": 63,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "PREVIEW",
+      "historicalArticleSemantics": "PU_001_1993",
+      "platforms": [
+        "Sega MegaDrive"
+      ],
+      "reviewers": [
+        "Björn Bruinsma"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BJORN",
+      "reviewerConfidence": "HIGH",
+      "score": 80,
+      "scoreRaw": "8",
+      "scoreOriginal": 8.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 80,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 7.5,
+      "soundScore": 7.0,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Spannend",
+        "Grappige animaties",
+        "Gewoon leuk"
+      ],
+      "cons": [
+        "Wilma beloont je niet voor de ketting"
+      ],
+      "verdictSummary": "Gewoon een leuk, grappig en spannend spel met aansprekende animaties.",
+      "specialSituation": null,
+      "powerPremium": false,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p63 · final score 8/10. Direct reviewer/byline: Björn Bruinsma (printed BJORN). Graphics 7.5; Sound 7. Verdict summary: Gewoon een leuk, grappig en spannend spel met aansprekende animaties. Pros: Spannend; Grappige animaties; Gewoon leuk. Cons: Wilma beloont je niet voor de ketting. Houdbaarheid: 3 maanden. Historical label PREVIEW in PU #001 follows the issue-specific 1993 availability semantics; do not automatically reinterpret it as a modern prerelease preview.",
+      "notes": null
+    },
+    {
+      "id": "canon_pu001_036_hellcats_over_the_pacific",
+      "gameId": "hellcats_over_the_pacific",
+      "title": "Hellcats Over The Pacific",
+      "canonicalTitle": "Hellcats over the Pacific",
+      "aliases": [
+        "Hellcats Over The Pacific",
+        "Hellcats over the Pacific",
+        "Hellcats"
+      ],
+      "genres": [
+        "Combat flight simulator"
+      ],
+      "developers": [
+        "Parsoft Interactive"
+      ],
+      "publishers": [
+        "Graphic Simulations"
+      ],
+      "franchise": "Hellcats",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 64,
+      "pageEnd": 65,
+      "pdfPage": 64,
+      "pdfPageEnd": 65,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "Macintosh"
+      ],
+      "reviewers": [
+        "David Lemereis"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "DAVID",
+      "reviewerConfidence": "HIGH",
+      "score": 95,
+      "scoreRaw": "9.5",
+      "scoreOriginal": 9.5,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 95,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 9.6,
+      "soundScore": 9.4,
+      "lifespan": "1 jaar",
+      "pros": [
+        "Hellcats is de jachtvlieger simulator op de markt!"
+      ],
+      "cons": [],
+      "verdictSummary": "Uitzonderlijke helderheid, detail en realisme; andere flightsims verbleken volgens David, al vraagt het spel geduld en oefening.",
+      "specialSituation": null,
+      "powerPremium": true,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p64–65 · final score 9.5/10. Direct reviewer/byline: David Lemereis (printed DAVID). Graphics 9.6; Sound 9.4. Verdict summary: Uitzonderlijke helderheid, detail en realisme; andere flightsims verbleken volgens David, al vraagt het spel geduld en oefening. Pros: Hellcats is de jachtvlieger simulator op de markt!. Houdbaarheid: 1 jaar.",
+      "notes": "Human observer identified this as the Macintosh fighter-flight simulator and suspected the title Hellcats. The source itself confirms the printed title Hellcats Over The Pacific; no web enrichment required."
+    },
+    {
+      "id": "canon_pu001_037_x_wing",
+      "gameId": "star_wars_x_wing",
+      "title": "X-Wing",
+      "canonicalTitle": "Star Wars: X-Wing",
+      "aliases": [
+        "X-Wing",
+        "Star Wars: X-Wing"
+      ],
+      "genres": [
+        "Space simulation"
+      ],
+      "developers": [
+        "Totally Games"
+      ],
+      "publishers": [
+        "LucasArts"
+      ],
+      "franchise": "Star Wars: X-Wing",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "year": 1993,
+      "issue": 1,
+      "month": "July",
+      "page": 66,
+      "pageEnd": 67,
+      "pdfPage": 66,
+      "pdfPageEnd": 67,
+      "type": "SCORED_EVALUATION",
+      "printedArticleLabel": "REVIEW",
+      "platforms": [
+        "PC"
+      ],
+      "reviewers": [
+        "Ben de Dood"
+      ],
+      "reviewerCandidates": [],
+      "reviewerPrinted": "BEN",
+      "reviewerConfidence": "HIGH",
+      "score": 90,
+      "scoreRaw": "9",
+      "scoreOriginal": 9.0,
+      "scoreScale": "PU_1993_10_POINT_DECIMAL",
+      "scoreNormalized100": 90,
+      "scoreStatus": "SCORE_RESOLVED",
+      "graphicsScore": 9.0,
+      "soundScore": 8.0,
+      "lifespan": "3 maanden",
+      "pros": [
+        "Duidelijke, begrijpelijke handleiding"
+      ],
+      "cons": [
+        "Verplichte kill-rate van 100% is zeer frustrerend"
+      ],
+      "verdictSummary": "Topklasse Star Wars-ruimtesim ondanks harde missievoorwaarden en frustrerende totale-kill-eis.",
+      "specialSituation": null,
+      "powerPremium": true,
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_VERIFIED",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "sourceMethod": "HUMAN_PLUS_DIRECT_SCAN_RECONCILIATION",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "canonVersion": "PU_001_CONSOLIDATED_FINAL_V1.1",
+      "evidence": "HUMAN+MACHINE CANON · PU #001 · printed p66–67 · final score 9/10. Direct reviewer/byline: Ben de Dood (printed BEN). Graphics 9; Sound 8. Verdict summary: Topklasse Star Wars-ruimtesim ondanks harde missievoorwaarden en frustrerende totale-kill-eis. Pros: Duidelijke, begrijpelijke handleiding. Cons: Verplichte kill-rate van 100% is zeer frustrerend. Houdbaarheid: 3 maanden.",
+      "notes": null
+    }
+  ],
+  "articles": [
+    {
+      "id": "canon_pu001_article_03",
+      "title": "All Systems Go!",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 5,
+      "pageEnd": 5,
+      "type": "MASTHEAD_EDITORIAL",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "First-issue editorial plus masthead and contributor list.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_06",
+      "title": "YO! / Postbus 9194",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 8,
+      "pageEnd": 9,
+      "type": "READER_MAIL",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "First issue borrows Sega mail as example.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_07",
+      "title": "3DO - de ultieme spelmachine / Spelers gaan on line",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 10,
+      "pageEnd": 11,
+      "type": "NEWS_FEATURE",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Trip Hawkins/3DO and Baton Technologies Teleplay.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_09",
+      "title": "Hellraiser the game / Virgin Top 10 / Game Maker",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 13,
+      "pageEnd": 13,
+      "type": "NEWS_MULTI",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Hellraiser mystery/fake-software item; May 1993 sales charts; Game Maker future review notice.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_10",
+      "title": "The ZONE",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 14,
+      "pageEnd": 14,
+      "type": "FEATURE_REAL_WORLD_GAME",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Laser-game centre in Amsterdam.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_11",
+      "title": "LucasArts presenteert / Super Simulator",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 15,
+      "pageEnd": 15,
+      "type": "NEWS_PREVIEW_ROUNDUP",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "The Dig, Day of the Tentacle, Sam & Max Hit the Road, Rebel Assault, Super Empire Strikes Back; Mac flight-sim material.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_12",
+      "title": "Het Testteam - even voorstellen",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 16,
+      "pageEnd": 16,
+      "type": "EDITOR_PROFILES",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Adam, Ben, Bjorn, David, Kees, Michael; each with game choice of the month.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_13",
+      "title": "Het Rapport",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 17,
+      "pageEnd": 17,
+      "type": "SCORING_GUIDE",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Defines Graphics, Geluid, plus/min, lifespan, action/tactics, score bands, REVIEW vs PREVIEW availability semantics, platform/price/import conventions.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_15",
+      "title": "Hacker: The Story & The Game",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 50,
+      "pageEnd": 52,
+      "type": "FEATURE_TABLETOP",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Steve Jackson Games / Secret Service history; Hacker is explicitly a card game, not a computer game. p51 by Ben de Dood.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_17",
+      "title": "Kleine wedstrijd, grote prijs",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 68,
+      "pageEnd": 69,
+      "type": "COMPETITION",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Competition with Philips CD-i player as main prize.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_18",
+      "title": "Eeuwig Leven",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 70,
+      "pageEnd": 75,
+      "type": "TIPS_TRICKS",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Cheats, hints, codes and solutions for multiple games.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_20",
+      "title": "Power Quest - The Missing Chip",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 77,
+      "pageEnd": 79,
+      "type": "INTERACTIVE_COMIC",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Spunky & Spice; reader choice / Master Control mechanic.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    },
+    {
+      "id": "canon_pu001_article_23",
+      "title": "Huiswerk af? / Spaarpot? Welke spaarpot?",
+      "gameId": null,
+      "year": 1993,
+      "issue": 1,
+      "page": 83,
+      "pageEnd": 83,
+      "type": "COLUMN",
+      "platforms": [],
+      "authors": [],
+      "confidence": 1.0,
+      "confidenceLabel": "CANON_INVENTORY",
+      "status": "CANON_FINAL",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "evidence": "Column by Chris Sprangers; sidebar previews issue 2 on 19 August.",
+      "sourceMethod": "MACHINE_PDF_VISUAL_TEXT_RECONCILED"
+    }
+  ],
+  "issueFacts": [
+    {
+      "id": "canon_pu001_masthead",
+      "title": "PU #001 masthead / redaktie",
+      "year": 1993,
+      "issue": 1,
+      "page": 5,
+      "type": "MASTHEAD",
+      "names": [
+        "Bjorn Bruinsma",
+        "Ben de Dood",
+        "Adam Eeuwens",
+        "Kees de Koning",
+        "David Lemereis"
+      ],
+      "contributors": [
+        "Robert de Boer",
+        "Hans Hendriks",
+        "Erik Klaassen",
+        "Sandra van der Meij",
+        "Rob Mekken",
+        "Ed Buiskool",
+        "Kees Helleman",
+        "Patrick van de Bos",
+        "Annemieke Schoon",
+        "Laura ten Seldam",
+        "Michael Schaeffer",
+        "PJ",
+        "Toon van Hulst",
+        "Chris Sprangers"
+      ],
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Redaktie: Bjorn Bruinsma, Ben de Dood, Adam Eeuwens, Kees de Koning, David Lemereis. Contributors include: Robert de Boer, Hans Hendriks, Erik Klaassen, Sandra van der Meij, Rob Mekken, Ed Buiskool, Kees Helleman, Patrick van de Bos, Annemieke Schoon, Laura ten Seldam, Michael Schaeffer, PJ, Toon van Hulst, Chris Sprangers. Uitgever: Cor Baane."
+    },
+    {
+      "id": "canon_pu001_scoring",
+      "title": "PU #001 scoring guide / Het Rapport",
+      "year": 1993,
+      "issue": 1,
+      "page": 17,
+      "type": "SCORING_GUIDE",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Score scale: 10-point scale with decimal scores. Bands: 1-4: Zonde van je spaarpot; laten liggen. | 4-6: Twijfelgevallen; goed nadenken voor aanschaf. | 7-9: Kwaliteit; hop naar de winkel. | 9+: Hoogste kwaliteit; Power Premium. REVIEW/PREVIEW semantics: Spel is overal officieel te koop, met Nederlandse gebruiksaanwijzing. / Spel is hier en daar bij gespecialiseerde zaken te koop en in videotheken te huur; meestal Engelse handleiding. Important: In PU #001 betekent PREVIEW/voorbespreking dus vooral vroege/import-beschikbaarheid, niet automatisch een moderne prerelease-preview van onvoltooide code."
+    },
+    {
+      "id": "canon_pu001_testteam_01",
+      "title": "Het Testteam · ADAM",
+      "year": 1993,
+      "issue": 1,
+      "page": 16,
+      "type": "TESTTEAM_PROFILE",
+      "name": "Adam Eeuwens",
+      "printedName": "ADAM",
+      "game": "StarWing",
+      "platform": "SNES",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Printed testteam name ADAM maps to Adam Eeuwens; game choice StarWing; platform SNES."
+    },
+    {
+      "id": "canon_pu001_testteam_02",
+      "title": "Het Testteam · BEN",
+      "year": 1993,
+      "issue": 1,
+      "page": 16,
+      "type": "TESTTEAM_PROFILE",
+      "name": "Ben de Dood",
+      "printedName": "BEN",
+      "game": "X-Wing",
+      "platform": "PC",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Printed testteam name BEN maps to Ben de Dood; game choice X-Wing; platform PC."
+    },
+    {
+      "id": "canon_pu001_testteam_03",
+      "title": "Het Testteam · BJORN",
+      "year": 1993,
+      "issue": 1,
+      "page": 16,
+      "type": "TESTTEAM_PROFILE",
+      "name": "Bjorn Bruinsma",
+      "printedName": "BJORN",
+      "game": "Escape from CyberCity",
+      "platform": "CD-I",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Printed testteam name BJORN maps to Bjorn Bruinsma; game choice Escape from CyberCity; platform CD-I."
+    },
+    {
+      "id": "canon_pu001_testteam_04",
+      "title": "Het Testteam · DAVID",
+      "year": 1993,
+      "issue": 1,
+      "page": 16,
+      "type": "TESTTEAM_PROFILE",
+      "name": "David Lemereis",
+      "printedName": "DAVID",
+      "game": "HellCats",
+      "platform": "Macintosh",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Printed testteam name DAVID maps to David Lemereis; game choice HellCats; platform Macintosh."
+    },
+    {
+      "id": "canon_pu001_testteam_05",
+      "title": "Het Testteam · KEES",
+      "year": 1993,
+      "issue": 1,
+      "page": 16,
+      "type": "TESTTEAM_PROFILE",
+      "name": "Kees de Koning",
+      "printedName": "KEES",
+      "game": "Outlander",
+      "platform": "SNES, Megadrive",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Printed testteam name KEES maps to Kees de Koning; game choice Outlander; platform SNES, Megadrive."
+    },
+    {
+      "id": "canon_pu001_testteam_06",
+      "title": "Het Testteam · MICHAEL",
+      "year": 1993,
+      "issue": 1,
+      "page": 16,
+      "type": "TESTTEAM_PROFILE",
+      "name": "Michael Schaeffer",
+      "printedName": "MICHAEL",
+      "game": "The Zone",
+      "platform": "Prins Hendrikkade, Amsterdam",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "Printed testteam name MICHAEL maps to Michael Schaeffer; game choice The Zone; platform Prins Hendrikkade, Amsterdam."
+    },
+    {
+      "id": "canon_pu001_virgin_top10",
+      "title": "Virgin Top 10 · May 1993",
+      "year": 1993,
+      "issue": 1,
+      "page": 13,
+      "type": "HISTORICAL_SALES_CHART",
+      "sourceFile": "001.pdf",
+      "origin": "HUMAN_MACHINE_CANON",
+      "humanMachineCanon": true,
+      "confidenceLabel": "CANON_VERIFIED",
+      "evidence": "May 1993 shop charts reproduced in PU #001. Sega MegaDrive: G-Loc, Alien 3, Sonic 2, Flintstones (import), Rolo (import), Megalomania, Road Rash 2, Tiny Toon Busters Hidden Treasure (import), Turtles (import), Streets of Rage. Super Nintendo: Mario Kart, Super Tennis, Batman Returns (import), Streetfighter 2, Jimmy Connors (import), Warp Speed (import), Prince of Persia, Road Runner (import), Zelda, Mario Paint. PC (MS-DOS): Shadow President, Maximum Overkill, Dune 1, Darkseed, Jetfighter 2, Links Pro 386, Strike Commander, Sim City, Police Quest 3, Space Quest 4."
+    }
+  ],
+  "entityAliases": [
+    {
+      "alias": "StarWing",
+      "alias_normalized": "starwing",
+      "bp_entity_id": "bp:video_game:star-fox",
+      "canonical_title": "Star Fox",
+      "pu_record_id": "PU001:P018:starwing",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Star Fox",
+      "alias_normalized": "star-fox",
+      "bp_entity_id": "bp:video_game:star-fox",
+      "canonical_title": "Star Fox",
+      "pu_record_id": "PU001:P018:starwing",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Beyond Cyberpunk",
+      "alias_normalized": "beyond-cyberpunk",
+      "bp_entity_id": "bp:hypermedia_software:beyond-cyberpunk",
+      "canonical_title": "Beyond Cyberpunk!",
+      "pu_record_id": "PU001:P022:beyond-cyberpunk",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Beyond Cyberpunk!",
+      "alias_normalized": "beyond-cyberpunk",
+      "bp_entity_id": "bp:hypermedia_software:beyond-cyberpunk",
+      "canonical_title": "Beyond Cyberpunk!",
+      "pu_record_id": "PU001:P022:beyond-cyberpunk",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Beyond Cyberpunk: A Do-It-Yourself Guide to the Future",
+      "alias_normalized": "beyond-cyberpunk-a-do-it-yourself-guide-to-the-future",
+      "bp_entity_id": "bp:hypermedia_software:beyond-cyberpunk",
+      "canonical_title": "Beyond Cyberpunk!",
+      "pu_record_id": "PU001:P022:beyond-cyberpunk",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Teenage Mutant Hero Turtles: The Hyperstone Heist",
+      "alias_normalized": "teenage-mutant-hero-turtles-the-hyperstone-heist",
+      "bp_entity_id": "bp:video_game:teenage-mutant-ninja-turtles-the-hyperstone-heist",
+      "canonical_title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+      "pu_record_id": "PU001:P024:teenage-mutant-hero-turtles-the-hyperstone-heist",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+      "alias_normalized": "teenage-mutant-ninja-turtles-the-hyperstone-heist",
+      "bp_entity_id": "bp:video_game:teenage-mutant-ninja-turtles-the-hyperstone-heist",
+      "canonical_title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+      "pu_record_id": "PU001:P024:teenage-mutant-hero-turtles-the-hyperstone-heist",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Hyperstone Heist",
+      "alias_normalized": "the-hyperstone-heist",
+      "bp_entity_id": "bp:video_game:teenage-mutant-ninja-turtles-the-hyperstone-heist",
+      "canonical_title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+      "pu_record_id": "PU001:P024:teenage-mutant-hero-turtles-the-hyperstone-heist",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Return of the Shredder",
+      "alias_normalized": "return-of-the-shredder",
+      "bp_entity_id": "bp:video_game:teenage-mutant-ninja-turtles-the-hyperstone-heist",
+      "canonical_title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+      "pu_record_id": "PU001:P024:teenage-mutant-hero-turtles-the-hyperstone-heist",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Mario Paint",
+      "alias_normalized": "mario-paint",
+      "bp_entity_id": "bp:video_game_tool:mario-paint",
+      "canonical_title": "Mario Paint",
+      "pu_record_id": "PU001:P027:mario-paint",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Tiny Toon Adventures: Buster's Hidden Treasure",
+      "alias_normalized": "tiny-toon-adventures-buster-s-hidden-treasure",
+      "bp_entity_id": "bp:video_game:tiny-toon-adventures-buster-s-hidden-treasure",
+      "canonical_title": "Tiny Toon Adventures: Buster's Hidden Treasure",
+      "pu_record_id": "PU001:P028:tiny-toon-adventures-buster-s-hidden-treasure",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Buster's Hidden Treasure",
+      "alias_normalized": "buster-s-hidden-treasure",
+      "bp_entity_id": "bp:video_game:tiny-toon-adventures-buster-s-hidden-treasure",
+      "canonical_title": "Tiny Toon Adventures: Buster's Hidden Treasure",
+      "pu_record_id": "PU001:P028:tiny-toon-adventures-buster-s-hidden-treasure",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Harley's Humongous Adventure",
+      "alias_normalized": "harley-s-humongous-adventure",
+      "bp_entity_id": "bp:video_game:harley-s-humongous-adventure",
+      "canonical_title": "Harley's Humongous Adventure",
+      "pu_record_id": "PU001:P030:harley-s-humongous-adventure",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Dinolympics",
+      "alias_normalized": "dinolympics",
+      "bp_entity_id": "bp:video_game:the-humans",
+      "canonical_title": "The Humans",
+      "pu_record_id": "PU001:P032:dinolympics",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Humans",
+      "alias_normalized": "the-humans",
+      "bp_entity_id": "bp:video_game:the-humans",
+      "canonical_title": "The Humans",
+      "pu_record_id": "PU001:P032:dinolympics",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Evolution: Dino Dudes",
+      "alias_normalized": "evolution-dino-dudes",
+      "bp_entity_id": "bp:video_game:the-humans",
+      "canonical_title": "The Humans",
+      "pu_record_id": "PU001:P032:dinolympics",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Power Factor",
+      "alias_normalized": "power-factor",
+      "bp_entity_id": "bp:video_game:power-factor",
+      "canonical_title": "Power Factor",
+      "pu_record_id": "PU001:P032:power-factor",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Redd Ace",
+      "alias_normalized": "redd-ace",
+      "bp_entity_id": "bp:video_game:power-factor",
+      "canonical_title": "Power Factor",
+      "pu_record_id": "PU001:P032:power-factor",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Red Ace",
+      "alias_normalized": "red-ace",
+      "bp_entity_id": "bp:video_game:power-factor",
+      "canonical_title": "Power Factor",
+      "pu_record_id": "PU001:P032:power-factor",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Nigel Mansell's World Championship",
+      "alias_normalized": "nigel-mansell-s-world-championship",
+      "bp_entity_id": "bp:video_game:nigel-mansell-s-world-championship-racing",
+      "canonical_title": "Nigel Mansell's World Championship Racing",
+      "pu_record_id": "PU001:P033:nigel-mansell-s-world-championship",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Nigel Mansell's World Championship Racing",
+      "alias_normalized": "nigel-mansell-s-world-championship-racing",
+      "bp_entity_id": "bp:video_game:nigel-mansell-s-world-championship-racing",
+      "canonical_title": "Nigel Mansell's World Championship Racing",
+      "pu_record_id": "PU001:P033:nigel-mansell-s-world-championship",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Batman: Revenge of the Joker",
+      "alias_normalized": "batman-revenge-of-the-joker",
+      "bp_entity_id": "bp:video_game:batman-revenge-of-the-joker",
+      "canonical_title": "Batman: Revenge of the Joker",
+      "pu_record_id": "PU001:P034:batman-revenge-of-the-joker",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Batman: Return of the Joker",
+      "alias_normalized": "batman-return-of-the-joker",
+      "bp_entity_id": "bp:video_game:batman-revenge-of-the-joker",
+      "canonical_title": "Batman: Revenge of the Joker",
+      "pu_record_id": "PU001:P034:batman-revenge-of-the-joker",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Fatal Fury II",
+      "alias_normalized": "fatal-fury-ii",
+      "bp_entity_id": "bp:video_game:fatal-fury-2",
+      "canonical_title": "Fatal Fury 2",
+      "pu_record_id": "PU001:P036:fatal-fury-ii",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Fatal Fury 2",
+      "alias_normalized": "fatal-fury-2",
+      "bp_entity_id": "bp:video_game:fatal-fury-2",
+      "canonical_title": "Fatal Fury 2",
+      "pu_record_id": "PU001:P036:fatal-fury-ii",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Chiki Chiki Boys",
+      "alias_normalized": "chiki-chiki-boys",
+      "bp_entity_id": "bp:video_game:mega-twins",
+      "canonical_title": "Mega Twins",
+      "pu_record_id": "PU001:P038:chiki-chiki-boys",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Mega Twins",
+      "alias_normalized": "mega-twins",
+      "bp_entity_id": "bp:video_game:mega-twins",
+      "canonical_title": "Mega Twins",
+      "pu_record_id": "PU001:P038:chiki-chiki-boys",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Humans",
+      "alias_normalized": "humans",
+      "bp_entity_id": "bp:video_game:the-humans",
+      "canonical_title": "The Humans",
+      "pu_record_id": "PU001:P039:humans",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Humans",
+      "alias_normalized": "the-humans",
+      "bp_entity_id": "bp:video_game:the-humans",
+      "canonical_title": "The Humans",
+      "pu_record_id": "PU001:P039:humans",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Cool World",
+      "alias_normalized": "cool-world",
+      "bp_entity_id": "bp:video_game:cool-world",
+      "canonical_title": "Cool World",
+      "pu_record_id": "PU001:P041:cool-world",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Terminator",
+      "alias_normalized": "the-terminator",
+      "bp_entity_id": "bp:video_game:the-terminator-snes",
+      "canonical_title": "The Terminator (SNES)",
+      "pu_record_id": "PU001:P041:the-terminator",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Terminator (SNES)",
+      "alias_normalized": "the-terminator-snes",
+      "bp_entity_id": "bp:video_game:the-terminator-snes",
+      "canonical_title": "The Terminator (SNES)",
+      "pu_record_id": "PU001:P041:the-terminator",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Alien 3",
+      "alias_normalized": "alien-3",
+      "bp_entity_id": "bp:video_game:alien-3",
+      "canonical_title": "Alien 3",
+      "pu_record_id": "PU001:P044:alien-3",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "ALIEN³",
+      "alias_normalized": "alien3",
+      "bp_entity_id": "bp:video_game:alien-3",
+      "canonical_title": "Alien 3",
+      "pu_record_id": "PU001:P044:alien-3",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Lethal Weapon",
+      "alias_normalized": "lethal-weapon",
+      "bp_entity_id": "bp:video_game:lethal-weapon",
+      "canonical_title": "Lethal Weapon",
+      "pu_record_id": "PU001:P044:lethal-weapon",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Barbie Game Girl",
+      "alias_normalized": "barbie-game-girl",
+      "bp_entity_id": "bp:video_game:barbie-game-girl",
+      "canonical_title": "Barbie: Game Girl",
+      "pu_record_id": "PU001:P045:barbie-game-girl",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Barbie: Game Girl",
+      "alias_normalized": "barbie-game-girl",
+      "bp_entity_id": "bp:video_game:barbie-game-girl",
+      "canonical_title": "Barbie: Game Girl",
+      "pu_record_id": "PU001:P045:barbie-game-girl",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Spot: The Cool Adventure",
+      "alias_normalized": "spot-the-cool-adventure",
+      "bp_entity_id": "bp:video_game:spot-the-cool-adventure",
+      "canonical_title": "Spot: The Cool Adventure",
+      "pu_record_id": "PU001:P045:spot-the-cool-adventure",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Darkwing Duck",
+      "alias_normalized": "darkwing-duck",
+      "bp_entity_id": "bp:video_game:darkwing-duck",
+      "canonical_title": "Darkwing Duck",
+      "pu_record_id": "PU001:P046:darkwing-duck",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Mega Man 3",
+      "alias_normalized": "mega-man-3",
+      "bp_entity_id": "bp:video_game:mega-man-iii",
+      "canonical_title": "Mega Man III",
+      "pu_record_id": "PU001:P046:mega-man-3",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Mega Man III",
+      "alias_normalized": "mega-man-iii",
+      "bp_entity_id": "bp:video_game:mega-man-iii",
+      "canonical_title": "Mega Man III",
+      "pu_record_id": "PU001:P046:mega-man-3",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Rockman World 3",
+      "alias_normalized": "rockman-world-3",
+      "bp_entity_id": "bp:video_game:mega-man-iii",
+      "canonical_title": "Mega Man III",
+      "pu_record_id": "PU001:P046:mega-man-3",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Empire Strikes Back",
+      "alias_normalized": "the-empire-strikes-back",
+      "bp_entity_id": "bp:video_game:star-wars-the-empire-strikes-back",
+      "canonical_title": "Star Wars: The Empire Strikes Back",
+      "pu_record_id": "PU001:P046:the-empire-strikes-back",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Star Wars: The Empire Strikes Back",
+      "alias_normalized": "star-wars-the-empire-strikes-back",
+      "bp_entity_id": "bp:video_game:star-wars-the-empire-strikes-back",
+      "canonical_title": "Star Wars: The Empire Strikes Back",
+      "pu_record_id": "PU001:P046:the-empire-strikes-back",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Outlander",
+      "alias_normalized": "outlander",
+      "bp_entity_id": "bp:video_game:outlander",
+      "canonical_title": "Outlander",
+      "pu_record_id": "PU001:P047:outlander",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Road Warrior (development title)",
+      "alias_normalized": "the-road-warrior-development-title",
+      "bp_entity_id": "bp:video_game:outlander",
+      "canonical_title": "Outlander",
+      "pu_record_id": "PU001:P047:outlander",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Brawl Brothers",
+      "alias_normalized": "brawl-brothers",
+      "bp_entity_id": "bp:video_game:brawl-brothers",
+      "canonical_title": "Brawl Brothers",
+      "pu_record_id": "PU001:P048:brawl-brothers",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Rushing Beat Ran",
+      "alias_normalized": "rushing-beat-ran",
+      "bp_entity_id": "bp:video_game:brawl-brothers",
+      "canonical_title": "Brawl Brothers",
+      "pu_record_id": "PU001:P048:brawl-brothers",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Doomsday Warrior",
+      "alias_normalized": "doomsday-warrior",
+      "bp_entity_id": "bp:video_game:doomsday-warrior",
+      "canonical_title": "Doomsday Warrior",
+      "pu_record_id": "PU001:P049:doomsday-warrior",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Taiketsu! Brass Numbers",
+      "alias_normalized": "taiketsu-brass-numbers",
+      "bp_entity_id": "bp:video_game:doomsday-warrior",
+      "canonical_title": "Doomsday Warrior",
+      "pu_record_id": "PU001:P049:doomsday-warrior",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Tom & Jerry",
+      "alias_normalized": "tom-jerry",
+      "bp_entity_id": "bp:video_game:tom-and-jerry-super-nes",
+      "canonical_title": "Tom and Jerry (Super NES)",
+      "pu_record_id": "PU001:P053:tom-jerry",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Tom and Jerry (Super NES)",
+      "alias_normalized": "tom-and-jerry-super-nes",
+      "bp_entity_id": "bp:video_game:tom-and-jerry-super-nes",
+      "canonical_title": "Tom and Jerry (Super NES)",
+      "pu_record_id": "PU001:P053:tom-jerry",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Tom and Jerry",
+      "alias_normalized": "tom-and-jerry",
+      "bp_entity_id": "bp:video_game:tom-and-jerry-super-nes",
+      "canonical_title": "Tom and Jerry (Super NES)",
+      "pu_record_id": "PU001:P053:tom-jerry",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Combat Tribes",
+      "alias_normalized": "combat-tribes",
+      "bp_entity_id": "bp:video_game:the-combatribes",
+      "canonical_title": "The Combatribes",
+      "pu_record_id": "PU001:P054:combat-tribes",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Combatribes",
+      "alias_normalized": "the-combatribes",
+      "bp_entity_id": "bp:video_game:the-combatribes",
+      "canonical_title": "The Combatribes",
+      "pu_record_id": "PU001:P054:combat-tribes",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Combatribes",
+      "alias_normalized": "combatribes",
+      "bp_entity_id": "bp:video_game:the-combatribes",
+      "canonical_title": "The Combatribes",
+      "pu_record_id": "PU001:P054:combat-tribes",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Super Mario Kart",
+      "alias_normalized": "super-mario-kart",
+      "bp_entity_id": "bp:video_game:super-mario-kart",
+      "canonical_title": "Super Mario Kart",
+      "pu_record_id": "PU001:P055:super-mario-kart",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Darkseed",
+      "alias_normalized": "darkseed",
+      "bp_entity_id": "bp:video_game:dark-seed",
+      "canonical_title": "Dark Seed",
+      "pu_record_id": "PU001:P057:darkseed",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Dark Seed",
+      "alias_normalized": "dark-seed",
+      "bp_entity_id": "bp:video_game:dark-seed",
+      "canonical_title": "Dark Seed",
+      "pu_record_id": "PU001:P057:darkseed",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Michael Jordan in Flight",
+      "alias_normalized": "michael-jordan-in-flight",
+      "bp_entity_id": "bp:video_game:michael-jordan-in-flight",
+      "canonical_title": "Michael Jordan in Flight",
+      "pu_record_id": "PU001:P058:michael-jordan-in-flight",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Alien Gate",
+      "alias_normalized": "alien-gate",
+      "bp_entity_id": "bp:video_game:alien-gate",
+      "canonical_title": "Alien Gate",
+      "pu_record_id": "PU001:P060:alien-gate",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Escape from CyberCity",
+      "alias_normalized": "escape-from-cybercity",
+      "bp_entity_id": "bp:video_game:escape-from-cybercity",
+      "canonical_title": "Escape from CyberCity",
+      "pu_record_id": "PU001:P060:escape-from-cybercity",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Escape from Cyber City",
+      "alias_normalized": "escape-from-cyber-city",
+      "bp_entity_id": "bp:video_game:escape-from-cybercity",
+      "canonical_title": "Escape from CyberCity",
+      "pu_record_id": "PU001:P060:escape-from-cybercity",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Pinball",
+      "alias_normalized": "pinball",
+      "bp_entity_id": "bp:video_game:pinball-cd-i",
+      "canonical_title": "Pinball (CD-i)",
+      "pu_record_id": "PU001:P061:pinball",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Pinball (CD-i)",
+      "alias_normalized": "pinball-cd-i",
+      "bp_entity_id": "bp:video_game:pinball-cd-i",
+      "canonical_title": "Pinball (CD-i)",
+      "pu_record_id": "PU001:P061:pinball",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "James Bond 007: The Duel",
+      "alias_normalized": "james-bond-007-the-duel",
+      "bp_entity_id": "bp:video_game:james-bond-007-the-duel",
+      "canonical_title": "James Bond 007: The Duel",
+      "pu_record_id": "PU001:P062:james-bond-007-the-duel",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Duel",
+      "alias_normalized": "the-duel",
+      "bp_entity_id": "bp:video_game:james-bond-007-the-duel",
+      "canonical_title": "James Bond 007: The Duel",
+      "pu_record_id": "PU001:P062:james-bond-007-the-duel",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Flintstones",
+      "alias_normalized": "the-flintstones",
+      "bp_entity_id": "bp:video_game:the-flintstones-1993-video-game",
+      "canonical_title": "The Flintstones (1993 video game)",
+      "pu_record_id": "PU001:P063:the-flintstones",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "The Flintstones (1993 video game)",
+      "alias_normalized": "the-flintstones-1993-video-game",
+      "bp_entity_id": "bp:video_game:the-flintstones-1993-video-game",
+      "canonical_title": "The Flintstones (1993 video game)",
+      "pu_record_id": "PU001:P063:the-flintstones",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Hellcats Over The Pacific",
+      "alias_normalized": "hellcats-over-the-pacific",
+      "bp_entity_id": "bp:video_game:hellcats-over-the-pacific",
+      "canonical_title": "Hellcats over the Pacific",
+      "pu_record_id": "PU001:P064:hellcats-over-the-pacific",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Hellcats",
+      "alias_normalized": "hellcats",
+      "bp_entity_id": "bp:video_game:hellcats-over-the-pacific",
+      "canonical_title": "Hellcats over the Pacific",
+      "pu_record_id": "PU001:P064:hellcats-over-the-pacific",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "X-Wing",
+      "alias_normalized": "x-wing",
+      "bp_entity_id": "bp:video_game:star-wars-x-wing",
+      "canonical_title": "Star Wars: X-Wing",
+      "pu_record_id": "PU001:P066:x-wing",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    },
+    {
+      "alias": "Star Wars: X-Wing",
+      "alias_normalized": "star-wars-x-wing",
+      "bp_entity_id": "bp:video_game:star-wars-x-wing",
+      "canonical_title": "Star Wars: X-Wing",
+      "pu_record_id": "PU001:P066:x-wing",
+      "confidence": "HIGH",
+      "knowledge_layer": "ENTITY_RESOLUTION"
+    }
+  ],
+  "games": [
+    {
+      "id": "alien_3",
+      "title": "Alien 3",
+      "variants": [
+        "ALIEN³"
+      ],
+      "platforms": [
+        "Game Boy"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "ALIEN³"
+      ],
+      "genres": [
+        "Run and gun"
+      ],
+      "developers": [
+        "Bits Studios (Game Boy version)"
+      ],
+      "publishers": [
+        "LJN"
+      ],
+      "franchise": "Alien",
+      "entityType": "video_game",
+      "externalContext": "The Game Boy version was developed by Bits Studios and released in the US in 1993.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "alien_gate",
+      "title": "Alien Gate",
+      "variants": [],
+      "platforms": [
+        "Philips CD-i"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Fixed shooter"
+      ],
+      "developers": [
+        "SPC Vision"
+      ],
+      "publishers": [
+        "Philips"
+      ],
+      "entityType": "video_game",
+      "externalContext": "A 25-stage fixed shooter developed by Dutch studio SPC Vision for CD-i.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "barbie_game_girl",
+      "title": "BARBIE GAME GIRL",
+      "variants": [
+        "BARBIE GAME GIRL"
+      ],
+      "platforms": [
+        "Game Boy"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Imagineering"
+      ],
+      "publishers": [
+        "Hi Tech Expressions"
+      ],
+      "franchise": "Barbie",
+      "entityType": "video_game",
+      "externalContext": "A 1992 Game Boy platform game based on the Barbie franchise.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "batman_revenge_of_the_joker",
+      "title": "Batman: Revenge of the Joker",
+      "variants": [
+        "Batman: Return of the Joker"
+      ],
+      "platforms": [
+        "Sega Genesis / Mega Drive",
+        "Sega MegaDrive"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Batman: Return of the Joker"
+      ],
+      "genres": [
+        "Action",
+        "Platform"
+      ],
+      "developers": [
+        "Ringler Studios"
+      ],
+      "publishers": [],
+      "franchise": "Batman",
+      "entityType": "video_game",
+      "externalContext": "Revenge of the Joker is the Sega Genesis remake of Batman: Return of the Joker.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "beyond_cyberpunk",
+      "title": "Beyond Cyberpunk!",
+      "variants": [
+        "Beyond Cyberpunk: A Do-It-Yourself Guide to the Future"
+      ],
+      "platforms": [
+        "Macintosh",
+        "HyperCard"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Beyond Cyberpunk: A Do-It-Yourself Guide to the Future"
+      ],
+      "genres": [
+        "Hypertext",
+        "Electronic publication",
+        "Cyberculture reference"
+      ],
+      "developers": [
+        "Gareth Branwyn",
+        "Peter Sugarman"
+      ],
+      "publishers": [
+        "The Computer Lab"
+      ],
+      "entityType": "hypermedia_software",
+      "externalContext": "A 5.5 MB HyperCard hypermedia compendium released on five floppy disks; it covers cyberpunk media, culture, technology and manifestos.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "brawl_brothers",
+      "title": "BRAWL BROTHERS",
+      "variants": [
+        "BRAWL BROTHERS",
+        "Rushing Beat Ran"
+      ],
+      "platforms": [
+        "SNES",
+        "Super Nintendo Entertainment System",
+        "Super Nintendo"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Rushing Beat Ran"
+      ],
+      "genres": [
+        "Beat 'em up"
+      ],
+      "developers": [
+        "Jaleco"
+      ],
+      "publishers": [
+        "Jaleco"
+      ],
+      "franchise": "Rushing Beat",
+      "entityType": "video_game",
+      "externalContext": "The second game in Jaleco's Rushing Beat series.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "chiki_chiki_boys",
+      "title": "Chiki Chiki Boys",
+      "variants": [
+        "Chiki Chiki Boys",
+        "Mega Twins"
+      ],
+      "platforms": [
+        "Mega Drive",
+        "Sega Mega Drive / Genesis",
+        "Sega MegaDrive"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Mega Twins"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Visco (Mega Drive port)",
+        "Capcom (original arcade game)"
+      ],
+      "publishers": [
+        "Sega (Mega Drive port)",
+        "Capcom (original arcade game)"
+      ],
+      "entityType": "video_game",
+      "externalContext": "The Mega Drive/Genesis port was released as Chiki Chiki Boys; the arcade work is widely known as Mega Twins.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "cool_world",
+      "title": "Cool World",
+      "variants": [],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Painting by Numbers"
+      ],
+      "publishers": [
+        "Ocean Software"
+      ],
+      "franchise": "Cool World",
+      "entityType": "video_game",
+      "externalContext": "The SNES version is a distinct action/adventure-style adaptation of the 1992 film.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "dark_seed",
+      "title": "Dark Seed",
+      "variants": [
+        "Darkseed"
+      ],
+      "platforms": [
+        "MS-DOS",
+        "PC"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Darkseed"
+      ],
+      "genres": [
+        "Point-and-click adventure",
+        "Psychological horror"
+      ],
+      "developers": [
+        "Cyberdreams"
+      ],
+      "publishers": [
+        "Cyberdreams"
+      ],
+      "franchise": "Dark Seed",
+      "entityType": "video_game",
+      "externalContext": "A psychological-horror adventure built around H. R. Giger artwork and a normal-world/dark-world structure.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "darkwing_duck",
+      "title": "DARKWING DUCK",
+      "variants": [
+        "DARKWING DUCK"
+      ],
+      "platforms": [
+        "Game Boy"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Make Software (Game Boy port)",
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "franchise": "Darkwing Duck",
+      "entityType": "video_game",
+      "externalContext": "Capcom's NES platform game was ported to Game Boy in 1993 by Make Software.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "doomsday_warrior",
+      "title": "Doomsday Warrior",
+      "variants": [
+        "Taiketsu! Brass Numbers"
+      ],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Taiketsu! Brass Numbers"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "developers": [
+        "Laser Soft"
+      ],
+      "publishers": [
+        "Telenet Japan",
+        "Renovation Products"
+      ],
+      "entityType": "video_game",
+      "externalContext": "A SNES fighting game developed by Laser Soft; localized in North America by Renovation Products in 1993.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "escape_from_cybercity",
+      "title": "Escape from CyberCity",
+      "variants": [
+        "Escape from Cyber City"
+      ],
+      "platforms": [
+        "Philips CD-i"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Escape from Cyber City"
+      ],
+      "genres": [
+        "Action",
+        "Arcade"
+      ],
+      "developers": [
+        "Fathom Pictures"
+      ],
+      "publishers": [
+        "Philips Media"
+      ],
+      "franchise": "Galaxy Express 999 (source-material association)",
+      "entityType": "video_game",
+      "externalContext": "A 1992 one-player CD-i action title produced by Fathom Pictures and published by Philips Media, using full cel-animation.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "fatal_fury_ii",
+      "title": "Fatal Fury II",
+      "variants": [
+        "Fatal Fury II",
+        "Fatal Fury 2"
+      ],
+      "platforms": [
+        "Neo Geo",
+        "Neo Geo AES",
+        "Neo Geo MVS"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Fatal Fury 2"
+      ],
+      "genres": [
+        "Fighting"
+      ],
+      "developers": [
+        "SNK"
+      ],
+      "publishers": [
+        "SNK"
+      ],
+      "franchise": "Fatal Fury",
+      "entityType": "video_game",
+      "externalContext": "The second Fatal Fury game, originally developed and published by SNK for Neo Geo arcade/home hardware.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "harley_s_humongous_adventure",
+      "title": "Harley's Humongous Adventure",
+      "variants": [],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "publishers": [
+        "Hi Tech Expressions"
+      ],
+      "entityType": "video_game",
+      "externalContext": "A 1993 SNES platform game developed by Visual Concepts; the protagonist has accidentally shrunk himself.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "hellcats_over_the_pacific",
+      "title": "Hellcats over the Pacific",
+      "variants": [
+        "Hellcats"
+      ],
+      "platforms": [
+        "Macintosh"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Hellcats"
+      ],
+      "genres": [
+        "Combat flight simulator"
+      ],
+      "developers": [
+        "Parsoft Interactive"
+      ],
+      "publishers": [
+        "Graphic Simulations"
+      ],
+      "franchise": "Hellcats",
+      "entityType": "video_game",
+      "externalContext": "A Macintosh combat flight simulator released in 1991, followed by the Leyte Gulf missions title in 1992.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "james_bond_007_the_duel",
+      "title": "James Bond 007: The Duel",
+      "variants": [
+        "The Duel"
+      ],
+      "platforms": [
+        "Sega Mega Drive / Genesis",
+        "Sega MegaDrive"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "The Duel"
+      ],
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "The Kremlin"
+      ],
+      "publishers": [
+        "Domark"
+      ],
+      "franchise": "James Bond",
+      "entityType": "video_game",
+      "externalContext": "An original-story James Bond action game rather than a direct adaptation of a specific film or novel.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "lethal_weapon",
+      "title": "Lethal Weapon",
+      "variants": [],
+      "platforms": [
+        "Game Boy"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Action"
+      ],
+      "developers": [
+        "Eurocom (Game Boy version)",
+        "Ocean Software"
+      ],
+      "publishers": [
+        "Ocean Software"
+      ],
+      "franchise": "Lethal Weapon",
+      "entityType": "video_game",
+      "externalContext": "The Game Boy/NES branch was developed by Eurocom; the game is based on the Lethal Weapon film series.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "mario_paint",
+      "title": "Mario Paint",
+      "variants": [
+        "Mario Paint"
+      ],
+      "platforms": [
+        "SNES",
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Art tool"
+      ],
+      "developers": [
+        "Nintendo R&D1",
+        "Intelligent Systems"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "franchise": "Mario",
+      "entityType": "video_game_tool",
+      "externalContext": "An art-creation package with graphics, animation, music and a minigame, designed for the Super NES Mouse.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "mega_man_iii",
+      "title": "Mega Man III",
+      "variants": [
+        "Mega Man 3",
+        "Rockman World 3"
+      ],
+      "platforms": [
+        "Game Boy"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Mega Man 3",
+        "Rockman World 3"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Minakuchi Engineering"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "franchise": "Mega Man",
+      "entityType": "video_game",
+      "externalContext": "This is the 1992 Game Boy title Mega Man III, not the 1990 NES game Mega Man 3.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "michael_jordan_in_flight",
+      "title": "Michael Jordan in Flight",
+      "variants": [],
+      "platforms": [
+        "MS-DOS",
+        "PC"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Sports",
+        "Basketball"
+      ],
+      "developers": [
+        "Electronic Arts"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "franchise": "Michael Jordan",
+      "entityType": "video_game",
+      "externalContext": "A 1993 DOS basketball game featuring 3-on-3 play and an early 3D sports engine.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "nigel_mansell_s_world_championship_racing",
+      "title": "Nigel Mansell's World Championship Racing",
+      "variants": [
+        "Nigel Mansell's World Championship"
+      ],
+      "platforms": [
+        "MS-DOS",
+        "PC"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Nigel Mansell's World Championship"
+      ],
+      "genres": [
+        "Racing"
+      ],
+      "developers": [
+        "Gremlin Graphics"
+      ],
+      "publishers": [],
+      "franchise": "Nigel Mansell",
+      "entityType": "video_game",
+      "externalContext": "Known as Nigel Mansell's World Championship in Europe; the broader title is Nigel Mansell's World Championship Racing.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "ntro_super_mario_kart",
+      "title": "ntro Super Mario Kart",
+      "variants": [
+        "ntro Super Mario Kart",
+        "Super Mario Kart"
+      ],
+      "platforms": [
+        "SNES",
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Super Mario Kart"
+      ],
+      "genres": [
+        "Kart racing"
+      ],
+      "developers": [
+        "Nintendo EAD"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "franchise": "Mario Kart",
+      "entityType": "video_game",
+      "externalContext": "The first Mario Kart game; European release followed in January 1993.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "outlander",
+      "title": "Outlander",
+      "variants": [
+        "The Road Warrior (development title)"
+      ],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "The Road Warrior (development title)"
+      ],
+      "genres": [
+        "Action",
+        "Driving"
+      ],
+      "developers": [
+        "Mindscape"
+      ],
+      "publishers": [
+        "Mindscape"
+      ],
+      "entityType": "video_game",
+      "externalContext": "A post-apocalyptic action-driving game originally developed under a Road Warrior licence before the licence was lost.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "pinball_cd_i",
+      "title": "Pinball (CD-i)",
+      "variants": [
+        "Pinball"
+      ],
+      "platforms": [
+        "Philips CD-i"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Pinball"
+      ],
+      "genres": [
+        "Pinball"
+      ],
+      "developers": [
+        "CapDisc"
+      ],
+      "publishers": [
+        "Philips Media"
+      ],
+      "entityType": "video_game",
+      "externalContext": "A 1991 CD-i pinball title with four tables, developed by CapDisc and published by Philips Media.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "power_factor",
+      "title": "Power Factor",
+      "variants": [
+        "Redd Ace",
+        "Red Ace"
+      ],
+      "platforms": [
+        "Atari Lynx",
+        "Lynx"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Redd Ace",
+        "Red Ace"
+      ],
+      "genres": [
+        "Action",
+        "Platform"
+      ],
+      "developers": [
+        "Hand Made Software"
+      ],
+      "publishers": [
+        "Atari Corporation"
+      ],
+      "entityType": "video_game",
+      "externalContext": "A 1993 Atari Lynx action-platform game, reworked from the earlier unreleased Red Ace project.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "spot_the_cool_adventure",
+      "title": "SPOT THE COOL ADVENTURE",
+      "variants": [
+        "SPOT THE COOL ADVENTURE"
+      ],
+      "platforms": [
+        "Game Boy"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Visual Concepts"
+      ],
+      "publishers": [
+        "Virgin Games"
+      ],
+      "franchise": "Spot / 7 Up",
+      "entityType": "video_game",
+      "externalContext": "A Game Boy platform game and re-themed port of M.C. Kids using the 7 Up mascot Spot.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "star_wars_x_wing",
+      "title": "Star Wars: X-Wing",
+      "variants": [
+        "X-Wing"
+      ],
+      "platforms": [
+        "MS-DOS",
+        "PC"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "X-Wing"
+      ],
+      "genres": [
+        "Space simulation"
+      ],
+      "developers": [
+        "Totally Games"
+      ],
+      "publishers": [
+        "LucasArts"
+      ],
+      "franchise": "Star Wars: X-Wing",
+      "entityType": "video_game",
+      "externalContext": "The first game in the X-Wing space-combat simulation series, designed for LucasArts by Totally Games.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "starwing",
+      "title": "StarWing",
+      "variants": [
+        "StarWing",
+        "Star Fox"
+      ],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1995,
+      "latestIssue": 20,
+      "aliases": [
+        "Star Fox"
+      ],
+      "genres": [
+        "Rail shooter"
+      ],
+      "developers": [
+        "Nintendo EAD",
+        "Argonaut Software"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "franchise": "Star Fox",
+      "entityType": "video_game",
+      "externalContext": "Star Fox was released under the title Starwing in PAL regions.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "teenage_mutant_ninja_turtles_the_hyperstone_heist",
+      "title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+      "variants": [
+        "Teenage Mutant Hero Turtles: The Hyperstone Heist",
+        "The Hyperstone Heist",
+        "Return of the Shredder"
+      ],
+      "platforms": [
+        "Sega Genesis / Mega Drive",
+        "Sega MegaDrive"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Teenage Mutant Hero Turtles: The Hyperstone Heist",
+        "The Hyperstone Heist",
+        "Return of the Shredder"
+      ],
+      "genres": [
+        "Beat 'em up"
+      ],
+      "developers": [
+        "Konami"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "franchise": "Teenage Mutant Ninja Turtles",
+      "entityType": "video_game",
+      "externalContext": "The European release uses 'Hero Turtles'; Japan used the subtitle Return of the Shredder.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "the_combatribes",
+      "title": "The Combatribes",
+      "variants": [
+        "Combat Tribes",
+        "Combatribes"
+      ],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Combat Tribes",
+        "Combatribes"
+      ],
+      "genres": [
+        "Beat 'em up"
+      ],
+      "developers": [
+        "Technos Japan Corp."
+      ],
+      "publishers": [
+        "American Technos Inc."
+      ],
+      "entityType": "video_game",
+      "externalContext": "The SNES version is the home conversion of Technos Japan's 1990 arcade beat 'em up.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "the_empire_strikes_back",
+      "title": "THE EMPIRE STRIKES BACK",
+      "variants": [
+        "THE EMPIRE STRIKES BACK",
+        "Star Wars: The Empire Strikes Back"
+      ],
+      "platforms": [
+        "Game Boy"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Star Wars: The Empire Strikes Back"
+      ],
+      "genres": [
+        "Action",
+        "Platform"
+      ],
+      "developers": [
+        "NMS Software (Game Boy port)",
+        "Lucasfilm Games",
+        "Sculptured Software"
+      ],
+      "publishers": [],
+      "franchise": "Star Wars",
+      "entityType": "video_game",
+      "externalContext": "The Game Boy port belongs to the 1992 home-console action-platform game based on The Empire Strikes Back.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "the_flintstones_1993_video_game",
+      "title": "The Flintstones (1993 video game)",
+      "variants": [
+        "The Flintstones"
+      ],
+      "platforms": [
+        "Sega Genesis / Mega Drive",
+        "Sega MegaDrive"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "The Flintstones"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Taito",
+        "Santos"
+      ],
+      "publishers": [
+        "Sega (Europe)",
+        "Taito (North America/Japan)"
+      ],
+      "franchise": "The Flintstones",
+      "entityType": "video_game",
+      "externalContext": "The 1993 Genesis/Mega Drive platform game based on the Hanna-Barbera animated series.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "the_humans",
+      "title": "The Humans",
+      "variants": [
+        "Dinolympics",
+        "Evolution: Dino Dudes"
+      ],
+      "platforms": [
+        "Atari Lynx",
+        "Lynx"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Dinolympics",
+        "Evolution: Dino Dudes"
+      ],
+      "genres": [
+        "Puzzle-platform"
+      ],
+      "developers": [
+        "Imagitec Design"
+      ],
+      "publishers": [
+        "Mirage Technologies"
+      ],
+      "franchise": "The Humans",
+      "entityType": "video_game",
+      "externalContext": "The Atari Lynx version of The Humans was released under the title Dinolympics.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "the_humans",
+      "title": "The Humans",
+      "variants": [
+        "Humans"
+      ],
+      "platforms": [
+        "Sega Genesis / Mega Drive",
+        "Sega MegaDrive"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Humans"
+      ],
+      "genres": [
+        "Puzzle-platform"
+      ],
+      "developers": [
+        "Imagitec Design"
+      ],
+      "publishers": [
+        "Mirage Technologies"
+      ],
+      "franchise": "The Humans",
+      "entityType": "video_game",
+      "externalContext": "A puzzle-platform game built around coordinating prehistoric humans and tools.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "the_terminator_snes",
+      "title": "The Terminator (SNES)",
+      "variants": [
+        "The Terminator"
+      ],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "The Terminator"
+      ],
+      "genres": [
+        "Action",
+        "2D platformer"
+      ],
+      "developers": [
+        "Mindscape"
+      ],
+      "publishers": [
+        "Mindscape"
+      ],
+      "franchise": "Terminator",
+      "entityType": "video_game",
+      "externalContext": "The SNES release is a 1993 Mindscape action/platform game in which the player controls Kyle Reese.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "tiny_toon_adventures_buster_s_hidden_treasure",
+      "title": "Tiny Toon Adventures: Buster's Hidden Treasure",
+      "variants": [
+        "Buster's Hidden Treasure"
+      ],
+      "platforms": [
+        "Sega Genesis / Mega Drive",
+        "Sega MegaDrive"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Buster's Hidden Treasure"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [
+        "Konami"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "franchise": "Tiny Toon Adventures",
+      "entityType": "video_game",
+      "externalContext": "A 1993 Konami platform game for Sega Genesis/Mega Drive.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    },
+    {
+      "id": "tom_and_jerry_super_nes",
+      "title": "Tom and Jerry (Super NES)",
+      "variants": [
+        "Tom & Jerry",
+        "Tom and Jerry"
+      ],
+      "platforms": [
+        "Super Nintendo Entertainment System",
+        "Super NES"
+      ],
+      "firstYear": 1993,
+      "firstIssue": 1,
+      "latestYear": 1993,
+      "latestIssue": 1,
+      "aliases": [
+        "Tom & Jerry",
+        "Tom and Jerry"
+      ],
+      "genres": [
+        "Platform"
+      ],
+      "developers": [],
+      "publishers": [
+        "Hi Tech Expressions"
+      ],
+      "franchise": "Tom and Jerry",
+      "entityType": "video_game",
+      "externalContext": "The Super NES Tom and Jerry game was released by Hi Tech Expressions in 1993; Jerry traverses four themed worlds.",
+      "externalContextSource": "GAME_WORLD_CONTEXT",
+      "externalContextBoundary": "EXTERNAL CONTEXT MUST NOT BE PRESENTED AS A POWER UNLIMITED CLAIM",
+      "externalMappingConfidence": "HIGH",
+      "humanMachineCanonIssue001": true
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "PU_YEAR_INTELLIGENCE_QA_V1",
+  "year": 1993,
+  "status": "PASS",
+  "checks": {
+    "review_count_209": true,
+    "all_scores_numeric": true,
+    "scale_preserved_10": true,
+    "runtime_questions_min_100": true,
+    "external_knowledge_used": false,
+    "emulator_gate_present": true,
+    "alias_inference_labeled": true,
+    "platform_composites_not_split": true
+  },
+  "counts": {
+    "runtime_gold_questions": 160,
+    "meta_rag_chunks": 39,
+    "emulator_candidates": 8,
+    "emulator_updates": 14,
+    "anomalies": 50,
+    "cross_issue_arcs": 22,
+    "reviewer_behavior_direct_evidence_samples": 79
+  },
+  "known_limitations": [
+    "No authoritative normalized genre field exists in the review canon; genre signals are partial source-text keyword inferences.",
+    "Approx attributed page-text character counts can include other material sharing a review page and are used only as evidence-volume gates, not as authorship-perfect counts.",
+    "PU #001 uses the earlier consolidated canon/transcript schema; this is preserved rather than falsely normalized as HUMAN_CANON_REVIEWS."
+  ]
+}

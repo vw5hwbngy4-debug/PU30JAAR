@@ -1,0 +1,26 @@
+{
+  "package": "BLACKPAPER_2023_HUMAN_SCORE_PASS",
+  "publication": "Power Unlimited",
+  "publication_year": 2023,
+  "issue_range": "#342-#348",
+  "numeric_score_records": 43,
+  "records_by_issue": {
+    "#342": 7,
+    "#343": 5,
+    "#344": 7,
+    "#345": 4,
+    "#346": 8,
+    "#347": 6,
+    "#348": 6
+  },
+  "score_scale": "0-100",
+  "method": "Human visual score speedrun over original PDFs; titles/reviewers normalized only where stated.",
+  "important_accounting_rule": "Snack Size / visual OORDEEL reviews without a numeric score are UNSCORED_REVIEW, not SCORE_NOT_FOUND.",
+  "known_uns_cored_example": "Teslagrad 2 in #346: visual OORDEEL, no numeric score.",
+  "not_yet_canonized": true,
+  "recommended_next_step": "Reconcile these records against Blackpaper review/article IDs and corpus provenance, then promote matched records to canon.",
+  "runtime_contract": "HUMAN_SCORE_SPRINT_V1",
+  "runtime_status": "CANONICAL_NUMERIC_SCORE_LAYER",
+  "depth": "SCORECARD_ONLY",
+  "installed_by": "BLACKPAPER_v0.2.9.3"
+}

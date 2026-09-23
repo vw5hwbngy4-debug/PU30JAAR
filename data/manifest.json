@@ -1,0 +1,35 @@
+{
+  "schema": "PUWIKI_CANON_V1",
+  "generated_from": "PU30JAAR archival worker outputs",
+  "generated_at": "2026-08-26",
+  "reviews": 678,
+  "issues": 17,
+  "editors": 61,
+  "year_counts": {
+    "1993": 209,
+    "2002": 469
+  },
+  "notes": [
+    "1993 includes complete deep canon PU #001-#005 (209 scored evaluations).",
+    "2002 preserves Worker 02D final year-closure statuses, including unresolved/not-scored records."
+  ],
+  "built_at": "2026-08-26",
+  "base_url": "https://pu30jaar.wolken.page",
+  "public_contract": "PUWIKI_PUBLIC_DATA_V1",
+  "files": [
+    "reviews.jsonl",
+    "issues.jsonl",
+    "issues.json",
+    "editors.json",
+    "games.json",
+    "platforms.json"
+  ],
+  "verification_priority": [
+    "HUMAN_VERIFIED",
+    "RESOLVED_VISUAL",
+    "RESOLVED",
+    "SCORE_NOT_FOUND",
+    "NOT_SCORED"
+  ],
+  "copyright_note": "Structured metadata and research summaries only. Underlying Power Unlimited publication content remains with its rights holders."
+}

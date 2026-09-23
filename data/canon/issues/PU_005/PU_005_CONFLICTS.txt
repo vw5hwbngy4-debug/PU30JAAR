@@ -1,0 +1,119 @@
+BLACKPAPER PU #005 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority order: HUMAN_VISUAL_VERIFIED > DIRECT_ISSUE_TEXT > machine/OCR structuring.
+No external/web knowledge was used to decide what PU printed.
+
+1. Zombies Ate My Neighbors Mega Drive verdict
+   earlier/oral: oral: 'meedoge opdracht'
+   reconciled: Melige opdracht
+   basis: Direct visible p20 scorecard
+
+2. World Heroes Neo Geo identity
+   earlier/oral: oral: World Heroes Neo Geo version
+   reconciled: World Heroes 2
+   basis: Direct printed p23 title
+
+3. Crash Dummies title
+   earlier/oral: oral abbreviated form
+   reconciled: The Incredible Crash Dummies
+   basis: Direct printed p31 title
+
+4. Star Trek title
+   earlier/oral: oral: The Ness Generation
+   reconciled: Star Trek: The Next Generation
+   basis: Direct issue article / TOC context
+
+5. Bubble Bobble title
+   earlier/oral: oral: Bubble Bobble
+   reconciled: Bubble Bobble Part 2
+   basis: Direct printed p35 title
+
+6. TaleSpin title
+   earlier/oral: oral/index variation
+   reconciled: TaleSpin
+   basis: Direct printed p35 title
+
+7. Hook title
+   earlier/oral: oral: Hulk
+   reconciled: Hook
+   basis: Direct printed p45 title and ADAM signature
+
+8. Street Fighter Mega Drive title
+   earlier/oral: oral: Streets of Fighter II
+   reconciled: Street Fighter II: Special Champion Edition
+   basis: Direct issue title/context
+
+9. Tazmania title
+   earlier/oral: oral: Tasmania
+   reconciled: Tazmania
+   basis: Direct issue contents/article identity
+
+10. Terminator title
+   earlier/oral: TOC: Terminator / oral Terminator 2
+   reconciled: Terminator 2
+   basis: Direct printed p51 title
+
+11. ElfQuest sound component
+   earlier/oral: human did not provide sound
+   reconciled: NO SOUND COMPONENT
+   basis: Direct p52 scorecard contains only GRAPHICS 8,0
+
+12. Zone of Avoidance title
+   earlier/oral: TOC: Zoa
+   reconciled: The Zone of Avoidance
+   basis: Direct printed p59 title
+
+13. Video Speedway negative
+   earlier/oral: oral: 'kleren'
+   reconciled: Klereherrie
+   basis: Direct visible p60 scorecard
+
+14. Power Hitter title
+   earlier/oral: oral short title
+   reconciled: ABC Sports presenteert: Power Hitter
+   basis: Direct printed p61 heading
+
+15. Malibu Bikini Volleyball reviewer
+   earlier/oral: oral: René
+   reconciled: René Janssen
+   basis: Masthead contributor + direct RENÉ signature
+
+16. Samurai Shodown reviewer
+   earlier/oral: oral: Geys
+   reconciled: Kees de Koning
+   basis: Direct p63 KEES signature
+
+CENSUS RECONCILIATION
+---------------------
+Games contents platform rows: 43
+Populous II is listed under both Super NES and Mega Drive but has one shared scorecard: -1
+ElfQuest is a scored board game outside the games contents: +1
+Final scored-evaluation census: 43 - 1 + 1 = 43
+
+FINAL HUMAN SCORE COVERAGE
+43 / 43 final scores resolved.
+0 unresolved final scores.
+0 unresolved reviewer identities in the human-harvested scored census.
+
+FINAL INGEST PACKAGING CHECK
+============================
+
+All reconciliation outcomes above are preserved.
+
+Final canonical special cases:
+- PU #005 scored-evaluation census = 43.
+- Zombies Ate My Neighbors Mega Drive and SNES are separate scorecards.
+- World Heroes 2 is a distinct Neo Geo review.
+- Populous II SNES/Mega Drive = one shared scorecard.
+- ElfQuest = scored board game outside the games contents; Graphics 8,0 only, no Geluid component.
+- Hook exact title preserved.
+- Street Fighter II: Special Champion Edition exact title preserved.
+- Terminator 2 exact title preserved.
+- The Zone of Avoidance exact title preserved.
+- Video Speedway negative 'Klereherrie' preserved.
+- Malibu Bikini Volleyball reviewer = René Janssen.
+- Samurai Shodown reviewer = Kees de Koning.
+- Ermac remains a 1993 PU mystery/report, not retrospective game canon.
+
+No new conflicts were introduced during packaging.

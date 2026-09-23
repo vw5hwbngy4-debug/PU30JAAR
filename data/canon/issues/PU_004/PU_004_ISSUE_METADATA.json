@@ -1,0 +1,115 @@
+{
+  "issue_id": "PU_004",
+  "publication": "Power Unlimited",
+  "issue_number": 4,
+  "publication_year": 1993,
+  "publication_month": "November",
+  "issue_label": "PU 1-4",
+  "pdf_page_count": 84,
+  "source_pdf": "004.pdf",
+  "source_pdf_sha256": "8c928d636aec415c90811d487a2cbcd9ad299240ed3351e723ed25709abb8ef8",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "toc_platform_rows": 38,
+    "duplicate_platform_rows_same_scorecard": 1,
+    "extra_scorecards_within_combined_toc_rows": 1,
+    "extra_scored_evaluations_outside_toc": 1,
+    "scored_evaluations": 39,
+    "resolved_scores": 39,
+    "unresolved_scores": 0,
+    "reviewer_status_counts": {
+      "DIRECT_BYLINE": 38,
+      "UNRESOLVED": 1
+    },
+    "article_type_counts": {
+      "REVIEW": 35,
+      "PREVIEW": 4
+    }
+  },
+  "rag_census": {
+    "total_chunks": 185,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 39,
+      "SCORE_VERDICT": 39,
+      "ISSUE_KNOWLEDGE": 41,
+      "PAGE_SECTION": 52,
+      "SECTION_CLUSTER": 10,
+      "LIST_BLOCK": 4
+    }
+  },
+  "page_census": {
+    "page_type_counts": {
+      "COVER": 1,
+      "ADVERTISEMENT": 12,
+      "EDITORIAL": 1,
+      "CONTENTS": 2,
+      "LETTERS": 3,
+      "NEWS": 4,
+      "OTHER": 16,
+      "FEATURE": 12,
+      "REVIEW": 29,
+      "PREVIEW": 3,
+      "COLUMN": 1
+    },
+    "transcript_origin_counts": {
+      "PDF_TEXT_LAYER": 78,
+      "OCR_FALLBACK": 6
+    },
+    "fidelity_confidence_counts": {
+      "LOW": 10,
+      "HIGH": 65,
+      "MEDIUM": 9
+    },
+    "ocr_fallback_pages": [
+      20,
+      42,
+      78,
+      79,
+      80,
+      84
+    ]
+  },
+  "structured_counts": {
+    "entities": 101,
+    "aliases": 19,
+    "editor_evidence": 57,
+    "issue_knowledge": 41
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "known_intentional_uncertainties": [
+    "B.O.B. reviewer intentionally unresolved because no direct byline was confirmed."
+  ],
+  "special_canon_notes": [
+    "SPIDERBEN is a direct feature signature/alias for Ben de Dood, not a separate person.",
+    "Spider-Man has four distinct platform scorecards on pp30-31.",
+    "Separate X-Men Mega Drive review begins on p32 and is by Adam Eeuwens.",
+    "Zelda: The Wand of Gamelon has three positive report bullets and zero negative bullets; third plus is 'Spel is te saven'.",
+    "How to Host a Mystery has Graphics/Geluid n.v.t., not numeric zeroes.",
+    "Freddy Pharkas Mac/PC is one shared scorecard.",
+    "MiG-29 Soviet Fighter / F-15 Strike Eagle combined contents row maps to two scorecards."
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_004_RECONCILIATION_CHECKPOINT_v1.zip": "25d4ba940e21abc159db93a8312257d51ba7e3c7700a1e209b94afe25e058e93",
+    "BLACKPAPER_PU_004_RAW_TEXT_BUILD_v1.zip": "be560bbbe47db4228e6b92229ef5b371e45aa03677426df625a7248098d300f9",
+    "BLACKPAPER_PU_004_CANON_KNOWLEDGE_BUILD_v1.zip": "2e029c27afb5e457c5afbe6abb6c6d9bd4284eadb8a5272202a2fa869a0dd605",
+    "BLACKPAPER_PU_004_RAG_BUILD_v1.zip": "ba9d71e6363486eebfb1779e59dfd82601a8e0ef0fc964c3fe24363331e37483"
+  }
+}

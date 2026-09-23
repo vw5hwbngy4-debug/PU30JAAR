@@ -1,0 +1,17 @@
+{
+  "version": "v0.2.10.2b",
+  "patch": "FOCUSED_CANON_HTTP500_REPAIR",
+  "base": "v0.2.10.2a",
+  "sql_required": false,
+  "canon_data_changed": false,
+  "emulators_changed": false,
+  "fixes": [
+    "correct mb_strrpos offset/encoding argument order in focused review-text splitter",
+    "guard FOCUSED_CANON_ENTITY source preparation against fatal runtime exceptions"
+  ],
+  "preserves": [
+    "exact canonical title/alias resolution before semantic retrieval",
+    "scorecard-first entity anchoring",
+    "same-issue review-article retrieval for in-depth questions"
+  ]
+}

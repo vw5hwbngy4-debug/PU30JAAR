@@ -1,0 +1,10 @@
+PU #001 HUMAN CANON CONFLICT / CORRECTION REPORT
+
+PAGE 46 — RESOLVED BY LATEST HUMAN VISUAL RE-CHECK (2026-08-23)
+- Darkwing Duck: Graphics 8.0; Geluid 8.0; final 8.0; Kees de Koning.
+- Mega Man 3: Graphics 8.0; Geluid 8.0; final 8.5; Kees de Koning via DIRECT_LAYOUT_ASSOCIATION.
+- The Empire Strikes Back: Graphics 7.5; Geluid 8.0; final 7.5; Kees de Koning.
+
+The previous ingest had Mega Man 3 and The Empire Strikes Back score-panel associations reversed. The latest explicit human visual adjudication supersedes that mapping.
+
+CAUTION: p46 is an unusually interleaved layout. The visible pro/con phrases semantically align with adjacent game text in a way that can mislead machine spatial association. For retrieval, scores/reviewer follow the human adjudication; prose excerpts retain independent provenance.

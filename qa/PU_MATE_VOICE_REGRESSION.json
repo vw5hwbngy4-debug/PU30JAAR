@@ -1,0 +1,20 @@
+{
+  "version": "v0.2.8.4",
+  "tests": [
+    {
+      "question": "Wat voor cijfers kreeg Mega Man 3?",
+      "must_include": ["8", "8,5", "Kees"],
+      "must_not_volunteer": ["HUMAN+MACHINE", "RAG", "top-k", "DIRECT_LAYOUT_ASSOCIATION", "machine-readable"]
+    },
+    {
+      "question": "Wat waren alle cijfers uit PU 1?",
+      "expected_records": 37,
+      "must_include_titles": ["Barbie Game Girl", "Alien Gate", "Escape from CyberCity", "Pinball", "Beyond Cyberpunk", "Hellcats Over The Pacific"],
+      "must_not_volunteer": ["COMPLETE CANON CENSUS", "retrieval", "human-canon records", "top-k"]
+    },
+    {
+      "question": "Hoe weet je dat Kees Mega Man 3 deed?",
+      "provenance_explanation_allowed": true
+    }
+  ]
+}

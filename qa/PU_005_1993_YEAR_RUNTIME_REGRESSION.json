@@ -1,0 +1,67 @@
+{
+  "version": "v0.2.9.8",
+  "state": "1993_YEAR_COMPLETE",
+  "pu005": {
+    "question": "Wat waren alle cijfers uit PU 5?",
+    "must_route": "ISSUE_CANON_CENSUS",
+    "must_return_canonical_evaluations": 43,
+    "must_not_fall_back_to_top_k": true,
+    "spot_checks": [
+      {
+        "question": "Welke versies van Zombies Ate My Neighbors stonden in PU 5 en wat kregen ze?",
+        "expected": [
+          {
+            "platform": "Sega Mega Drive",
+            "score": "9",
+            "reviewer": "Bjorn Bruinsma"
+          },
+          {
+            "platform": "Super Nintendo",
+            "score": "9,1",
+            "reviewer": "Bjorn Bruinsma"
+          }
+        ]
+      },
+      {
+        "question": "Wie reviewde Samurai Shodown in PU 5?",
+        "expected": "Kees de Koning"
+      },
+      {
+        "question": "Wie reviewde Malibu Bikini Volleyball in PU 5?",
+        "expected": "René Janssen"
+      },
+      {
+        "question": "Welke deelcijfers had ElfQuest in PU 5?",
+        "expected": {
+          "graphics": "8",
+          "sound": null
+        },
+        "must_not_fabricate_sound": true
+      }
+    ]
+  },
+  "year_1993": [
+    {
+      "question": "Hoe veranderde PU's houding tegenover 3DO in 1993?",
+      "must_use_authority": "DERIVED_YEAR_SYNTHESIS",
+      "must_label_cross_issue_inference": true
+    },
+    {
+      "question": "Wie was op basis van de 1993 synthesis de strengste reviewer?",
+      "expected": "Michael Schaeffer/Schaefer identity group, mean 7.388/10, n=25",
+      "must_preserve_inference": true
+    },
+    {
+      "question": "Hoeveel scored evaluations zijn er in 1993?",
+      "expected": 209
+    },
+    {
+      "question": "Welke game had in 1993 het grootste scoreverschil tussen platformversies?",
+      "expected": "Spider-Man in PU_004, spread 2.5 points"
+    },
+    {
+      "question": "Wat was Ermac volgens PU in 1993?",
+      "must_preserve": "contemporary mystery/report, not established retrospective game fact"
+    }
+  ]
+}

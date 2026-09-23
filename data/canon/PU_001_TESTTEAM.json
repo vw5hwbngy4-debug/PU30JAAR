@@ -1,0 +1,39 @@
+[
+  {
+    "name_as_printed": "ADAM",
+    "canonical_candidate": "Adam Eeuwens",
+    "game_choice": "StarWing",
+    "platform": "SNES"
+  },
+  {
+    "name_as_printed": "BEN",
+    "canonical_candidate": "Ben de Dood",
+    "game_choice": "X-Wing",
+    "platform": "PC"
+  },
+  {
+    "name_as_printed": "BJORN",
+    "canonical_candidate": "Bjorn Bruinsma",
+    "game_choice": "Escape from CyberCity",
+    "platform": "CD-I"
+  },
+  {
+    "name_as_printed": "DAVID",
+    "canonical_candidate": "David Lemereis",
+    "game_choice": "HellCats",
+    "platform": "Macintosh"
+  },
+  {
+    "name_as_printed": "KEES",
+    "canonical_candidate": "Kees de Koning",
+    "game_choice": "Outlander",
+    "platform": "SNES, Megadrive"
+  },
+  {
+    "name_as_printed": "MICHAEL",
+    "canonical_candidate": "Michael Schaeffer",
+    "game_choice": "The Zone",
+    "platform": "Prins Hendrikkade, Amsterdam",
+    "identity_confidence": 0.9
+  }
+]

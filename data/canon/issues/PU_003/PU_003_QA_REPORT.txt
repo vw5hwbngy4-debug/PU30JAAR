@@ -1,0 +1,108 @@
+BLACKPAPER PU #003 — FINAL ISSUE INGEST QA
+===========================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+source: 003.pdf
+source SHA256: f6b0ddf980a5fe646c778b8ec9c524737ee51128dc3a582fd473d1842052b671
+
+PAGE ACCOUNTING
+PDF pages expected: 84
+PDF pages represented: 84
+pages with transcript: 84
+pages missing transcript: 0
+missing page IDs: NONE
+embedded PDF text pages: 78
+OCR fallback pages: [2, 4, 17, 76, 77, 84]
+
+RAG ACCOUNTING
+RAG chunks created: 178
+review article chunks: 43
+  labelled REVIEW: 29
+  labelled PREVIEW: 14
+score/verdict chunks: 43
+issue knowledge chunks: 35
+page section chunks: 45
+section cluster chunks: 8
+list block chunks: 4
+
+HUMAN CANON
+games contents rows: 42
+extra scored evaluations outside TOC: 1
+human review records expected: 43
+human review records produced: 43
+resolved scores: 43
+unresolved scores: 0
+ROLE GIRL pseudonym records: 1
+
+STRUCTURED KNOWLEDGE
+entities indexed: 93
+aliases created: 20
+editor evidence records: 60
+issue knowledge records: 35
+external enrichment records: 0
+
+PROVENANCE
+provenance records: 515
+records with page provenance: 515
+records without page provenance: 0
+
+DUPLICATE CHECKS
+duplicate review IDs: 0
+duplicate RAG chunk IDs: 0
+duplicate entity IDs: 0
+duplicate issue knowledge IDs: 0
+
+ORPHAN CHECKS
+orphan review records: 0
+orphan RAG chunks: 0
+
+JSONL VALIDATION
+PU_003_PAGE_TRANSCRIPTS.jsonl: invalid lines = 0
+PU_003_RAG_CHUNKS.jsonl: invalid lines = 0
+PU_003_HUMAN_CANON_REVIEWS.jsonl: invalid lines = 0
+PU_003_ENTITY_INDEX.jsonl: invalid lines = 0
+PU_003_ALIAS_MAP.jsonl: invalid lines = 0
+PU_003_EDITOR_EVIDENCE.jsonl: invalid lines = 0
+PU_003_ISSUE_KNOWLEDGE.jsonl: invalid lines = 0
+PU_003_PROVENANCE.jsonl: invalid lines = 0
+
+SPECIAL CANON PRESERVED
+- Bubble Bobble Part 2 GRAPHICS = 5,5.
+- Backgammon GELUID = 8,5.
+- Asterix Game Boy reviewer = ADAM.
+- Gordo 106 exact title.
+- Tuff E Nuff exact printed title; Fighting Spirit remains alias/strap context.
+- V for Victory exact printed title; platform = Macintosh / PC.
+- ROLE GIRL remains a printed pseudonym with no inferred real-person identity.
+- Space Hulk board-game GELUID = n.v.t.
+- Street Fighter II Turbo / Mortal Kombat scorecards remain DIRECT_LAYOUT_ASSOCIATION.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+ALL_PAGES_HAVE_TRANSCRIPT = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+JSONL_VALID = PASS
+NO_DUPLICATE_PRIMARY_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+ROLE_GIRL_PSEUDONYM_PRESERVED = PASS
+SPACE_HULK_NVT_PRESERVED = PASS
+FIGHTING_GAME_LAYOUT_ASSOCIATION_PRESERVED = PASS
+
+MANDATORY PRINCIPLES
+NO SILENT PAGE LOSS = PASS
+NO SILENT REVIEW LOSS = PASS
+NO SILENT SCORE LOSS = PASS
+NO UNMARKED INFERENCE = PASS
+NO EXTERNAL FACT PRESENTED AS PU FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

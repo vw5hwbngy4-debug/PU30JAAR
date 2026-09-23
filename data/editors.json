@@ -1,0 +1,908 @@
+[
+  {
+    "editor_id": "adam_eeuwens",
+    "name": "Adam Eeuwens",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1993,
+    "first_issue": 1,
+    "last_year": 1995,
+    "last_issue": 20,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "alie_sierkstra",
+    "name": "Alie Sierkstra",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2020,
+    "first_issue": 314,
+    "last_year": 2023,
+    "last_issue": 346,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "andreas_urhahn",
+    "name": "Andreas Urhahn",
+    "aliases": [
+      "Dre",
+      "Dre Urhahn"
+    ],
+    "identity_status": "canonical_from_corpus_plus_external_resolution",
+    "first_year": 1995,
+    "first_issue": 21,
+    "last_year": 2000,
+    "last_issue": 73,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "bas_le_clercq",
+    "name": "Bas le Clercq",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1995,
+    "first_issue": 22,
+    "last_year": 1998,
+    "last_issue": 55,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "bastiaan_vroegop",
+    "name": "Bastiaan Vroegop",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2023,
+    "first_issue": 348,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "ben_de_dood",
+    "name": "Ben de Dood",
+    "aliases": [
+      "BEN"
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1993,
+    "first_issue": 1,
+    "last_year": 1997,
+    "last_issue": 43,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "bjorn_bruinsma",
+    "name": "Bjorn Bruinsma",
+    "aliases": [
+      "Bjorn Bruinsma",
+      "BJORN",
+      "Björn Bruinsma"
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1993,
+    "first_issue": 1,
+    "last_year": 2000,
+    "last_issue": 79,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "bor_verkroost",
+    "name": "Bor Verkroost",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2005,
+    "first_issue": 135,
+    "last_year": 2006,
+    "last_issue": 148,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "boris_van_der_ven",
+    "name": "Boris van der Ven",
+    "aliases": [
+      "Boris",
+      "BORIS"
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1998,
+    "first_issue": 56,
+    "last_year": 2008,
+    "last_issue": 169,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "cody_van_den_bogert",
+    "name": "Cody van den Bogert",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2022,
+    "first_issue": 335,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "danny_van_gend",
+    "name": "Danny van Gend",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1999,
+    "first_issue": 70,
+    "last_year": 2020,
+    "last_issue": 312,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "david_lemereis",
+    "name": "David Lemereis",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1993,
+    "first_issue": 1,
+    "last_year": 1996,
+    "last_issue": 37,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "dennis_mons",
+    "name": "Dennis Mons",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2017,
+    "first_issue": 285,
+    "last_year": 2021,
+    "last_issue": 328,
+    "roles": [
+      "editorial_staff",
+      "redactieplanner"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "dwayne_vrancken",
+    "name": "Dwayne Vrancken",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2021,
+    "first_issue": 329,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "ed_wiggemans",
+    "name": "Ed Wiggemans",
+    "aliases": [
+      "ED"
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1994,
+    "first_issue": 8,
+    "last_year": 2020,
+    "last_issue": 313,
+    "roles": [
+      "editorial_staff",
+      "eindredakteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "edwin_ammerlaan",
+    "name": "Edwin Ammerlaan",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1994,
+    "first_issue": 11,
+    "last_year": 1999,
+    "last_issue": 65,
+    "roles": [
+      "editorial_staff",
+      "hoofdredakteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "eelko_rol",
+    "name": "Eelko Rol",
+    "aliases": [
+      "Seiko Rol"
+    ],
+    "identity_status": "canonical_from_corpus_plus_external_spelling_support",
+    "first_year": 2018,
+    "first_issue": 290,
+    "last_year": 2020,
+    "last_issue": 312,
+    "roles": [
+      "eindredactie"
+    ],
+    "notes": "Seiko is retained only as an OCR variant. Issue 312 departure remains strong inference pending visual confirmation."
+  },
+  {
+    "editor_id": "florian_houtkamp",
+    "name": "Florian Houtkamp",
+    "aliases": [
+      "Floor"
+    ],
+    "identity_status": "canonical_from_corpus_plus_external_resolution",
+    "first_year": 2012,
+    "first_issue": 228,
+    "last_year": 2023,
+    "last_issue": 344,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "jacco_peek",
+    "name": "Jacco Peek",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2019,
+    "first_issue": 308,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "jan_johan_belderok",
+    "name": "Jan-Johan Belderok",
+    "aliases": [
+      "J.J."
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1998,
+    "first_issue": 50,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "jan_meijroos",
+    "name": "Jan Meijroos",
+    "aliases": [
+      "Jan Meyroos"
+    ],
+    "identity_status": "provisional_spelling_normalization",
+    "first_year": 1997,
+    "first_issue": 44,
+    "last_year": 2016,
+    "last_issue": 276,
+    "roles": [
+      "editorial_staff",
+      "hoofdredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "jeroen_roding",
+    "name": "Jeroen Roding",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2001,
+    "first_issue": 88,
+    "last_year": 2017,
+    "last_issue": 279,
+    "roles": [
+      "contentmanager",
+      "editorial_staff",
+      "hoofdredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "jose_pauty",
+    "name": "José Pauty",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2019,
+    "first_issue": 303,
+    "last_year": 2019,
+    "last_issue": 309,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "jurjen_tiersma",
+    "name": "Jurjen Tiersma",
+    "aliases": [
+      "JURJEN"
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2001,
+    "first_issue": 93,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff",
+      "eindredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "kees_de_koning",
+    "name": "Kees de Koning",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1993,
+    "first_issue": 1,
+    "last_year": 2000,
+    "last_issue": 73,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "laura_kempenaar",
+    "name": "Laura Kempenaar",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2020,
+    "first_issue": 314,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "laura_ten_seldam",
+    "name": "Laura ten Seldam",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1995,
+    "first_issue": 17,
+    "last_year": 1997,
+    "last_issue": 43,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "lucas_may",
+    "name": "Lucas May",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2021,
+    "first_issue": 322,
+    "last_year": 2022,
+    "last_issue": 333,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "maarten_blonk",
+    "name": "Maarten Blonk",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2007,
+    "first_issue": 160,
+    "last_year": 2013,
+    "last_issue": 238,
+    "roles": [
+      "editorial_staff",
+      "hoofdredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "mark_bencivengo",
+    "name": "Mark Bencivengo",
+    "aliases": [
+      "MARK B."
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1997,
+    "first_issue": 42,
+    "last_year": 1998,
+    "last_issue": 60,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "mark_friederichs",
+    "name": "Mark Friederichs",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1999,
+    "first_issue": 67,
+    "last_year": 2001,
+    "last_issue": 92,
+    "roles": [
+      "editorial_staff",
+      "hoofdredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "martin_verschoor",
+    "name": "Martin Verschoor",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2017,
+    "first_issue": 279,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff",
+      "hoofdredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "marvin_toepoel",
+    "name": "Marvin Toepoel",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2017,
+    "first_issue": 282,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff",
+      "eindredacteur",
+      "eindredactie"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "mat_heffels",
+    "name": "Mat Heffels",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1994,
+    "first_issue": 6,
+    "last_year": 1994,
+    "last_issue": 11,
+    "roles": [
+      "editorial_staff",
+      "hoofdredakteur a.i."
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "michael_schaeffer",
+    "name": "Michael Schaeffer",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1993,
+    "first_issue": 3,
+    "last_year": 1997,
+    "last_issue": 46,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "murielle_woudenberg",
+    "name": "Muriëlle Woudenberg",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2002,
+    "first_issue": 104,
+    "last_year": 2008,
+    "last_issue": 175,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "nancy_kamperveen",
+    "name": "Nancy Kamperveen",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1996,
+    "first_issue": 29,
+    "last_year": 1999,
+    "last_issue": 63,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "niels_roodenburg",
+    "name": "Niels Roodenburg",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2000,
+    "first_issue": 79,
+    "last_year": 2013,
+    "last_issue": 238,
+    "roles": [
+      "editorial_staff",
+      "hoofdredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "niels_t_hooft",
+    "name": "Niels 't Hooft",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2006,
+    "first_issue": 145,
+    "last_year": 2016,
+    "last_issue": 275,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "nino_de_vries",
+    "name": "Nino de Vries",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2014,
+    "first_issue": 249,
+    "last_year": 2016,
+    "last_issue": 270,
+    "roles": [
+      "editor / PU.nl-community steering role",
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "peter_koelewijn",
+    "name": "Peter Koelewijn",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2012,
+    "first_issue": 226,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff",
+      "eindredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "raf_picavet",
+    "name": "Raf Picavet",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus_plus_external_resolution",
+    "first_year": 2019,
+    "first_issue": 300,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "richard_simon",
+    "name": "Richard Simon",
+    "aliases": [
+      "Richard 'Skate' Simon",
+      "Skate",
+      "Skate the Great"
+    ],
+    "identity_status": "canonical_from_corpus_plus_external_resolution",
+    "first_year": 1996,
+    "first_issue": 29,
+    "last_year": 2005,
+    "last_issue": 135,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "rogina_hassan",
+    "name": "Rogina Hassan",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2022,
+    "first_issue": 339,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "ruben_heere",
+    "name": "Ruben Heere",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1997,
+    "first_issue": 44,
+    "last_year": 2000,
+    "last_issue": 79,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "samuel_hubner_casado",
+    "name": "Samuel Hubner Casado",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2011,
+    "first_issue": 213,
+    "last_year": 2022,
+    "last_issue": 337,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "sara_luijters",
+    "name": "Sara Luijters",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1999,
+    "first_issue": 64,
+    "last_year": 2001,
+    "last_issue": 93,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "simon_zijlemans",
+    "name": "Simon Zijlemans",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2017,
+    "first_issue": 279,
+    "last_year": 2020,
+    "last_issue": 313,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "siu_lie_tan",
+    "name": "Siu Lie Tan",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2003,
+    "first_issue": 110,
+    "last_year": 2003,
+    "last_issue": 112,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "steven_saunders",
+    "name": "Steven Saunders",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2003,
+    "first_issue": 117,
+    "last_year": 2018,
+    "last_issue": 295,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "thomas_glas",
+    "name": "Thomas Glas",
+    "aliases": [
+      "THOMAS"
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 1994,
+    "first_issue": 10,
+    "last_year": 2000,
+    "last_issue": 79,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "tjeerd_lindeboom",
+    "name": "Tjeerd Lindeboom",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2013,
+    "first_issue": 229,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "contributor_acknowledgement",
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "ward_geene",
+    "name": "Ward Geene",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2011,
+    "first_issue": 213,
+    "last_year": 2013,
+    "last_issue": 238,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "willem_van_der_meulen",
+    "name": "Willem van der Meulen",
+    "aliases": [],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2012,
+    "first_issue": 228,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": "wouter_brugge",
+    "name": "Wouter Brugge",
+    "aliases": [
+      "WOUTER"
+    ],
+    "identity_status": "canonical_from_corpus",
+    "first_year": 2008,
+    "first_issue": 172,
+    "last_year": 2023,
+    "last_issue": 348,
+    "roles": [
+      "editorial_staff",
+      "hoofdredacteur"
+    ],
+    "notes": "Counts are only relationships extracted in Worker 01, not complete career totals."
+  },
+  {
+    "editor_id": null,
+    "name": "Adam Eeuwens + Bjorn Bruinsma",
+    "aliases": [],
+    "identity_status": "reviewer_from_canon",
+    "first_year": null,
+    "first_issue": null,
+    "last_year": null,
+    "last_issue": null,
+    "roles": [
+      "reviewer"
+    ],
+    "notes": "Identity present in review canon; no separate Worker 01 editor entity was available."
+  },
+  {
+    "editor_id": null,
+    "name": "Bjorn Bruinsma + Adam Eeuwens",
+    "aliases": [],
+    "identity_status": "reviewer_from_canon",
+    "first_year": null,
+    "first_issue": null,
+    "last_year": null,
+    "last_issue": null,
+    "roles": [
+      "reviewer"
+    ],
+    "notes": "Identity present in review canon; no separate Worker 01 editor entity was available."
+  },
+  {
+    "editor_id": null,
+    "name": "Kees de Koning + Michael Schaefer",
+    "aliases": [],
+    "identity_status": "reviewer_from_canon",
+    "first_year": null,
+    "first_issue": null,
+    "last_year": null,
+    "last_issue": null,
+    "roles": [
+      "reviewer"
+    ],
+    "notes": "Identity present in review canon; no separate Worker 01 editor entity was available."
+  },
+  {
+    "editor_id": null,
+    "name": "Michael Schaefer",
+    "aliases": [],
+    "identity_status": "reviewer_from_canon",
+    "first_year": null,
+    "first_issue": null,
+    "last_year": null,
+    "last_issue": null,
+    "roles": [
+      "reviewer"
+    ],
+    "notes": "Identity present in review canon; no separate Worker 01 editor entity was available."
+  },
+  {
+    "editor_id": null,
+    "name": "Michael Schaefer + Kees de Koning",
+    "aliases": [],
+    "identity_status": "reviewer_from_canon",
+    "first_year": null,
+    "first_issue": null,
+    "last_year": null,
+    "last_issue": null,
+    "roles": [
+      "reviewer"
+    ],
+    "notes": "Identity present in review canon; no separate Worker 01 editor entity was available."
+  },
+  {
+    "editor_id": null,
+    "name": "René Janssen",
+    "aliases": [],
+    "identity_status": "reviewer_from_canon",
+    "first_year": null,
+    "first_issue": null,
+    "last_year": null,
+    "last_issue": null,
+    "roles": [
+      "reviewer"
+    ],
+    "notes": "Identity present in review canon; no separate Worker 01 editor entity was available."
+  }
+]

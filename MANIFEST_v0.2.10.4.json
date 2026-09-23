@@ -1,0 +1,189 @@
+{
+  "project": "PU30JAAR.WOLKEN.PAGE",
+  "version": "v0.2.10.4",
+  "patch": "PU009_INGEST + CANON_COVERAGE + HTTP500_HOTFIX_SAFE",
+  "baseline": "cumulative v0.2.10.2b + v0.2.10.3",
+  "secrets_included": false,
+  "existing_canon_replaced": false,
+  "pu009": {
+    "pages": 84,
+    "reviews": 35,
+    "unique_review_ids": 35,
+    "rag_chunks": 199,
+    "aliases": 50,
+    "editor_evidence": 47,
+    "issue_knowledge": 64,
+    "provenance": 587
+  },
+  "coverage_totals": {
+    "issues": 9,
+    "expected_reviews": 359,
+    "census_reviews": 359,
+    "title_checks": 359,
+    "title_resolved": 359,
+    "wrong_issue_collisions": 0,
+    "alias_checks": 209,
+    "alias_resolved": 209,
+    "raw_context_titles": 359,
+    "raw_context_missing": 0
+  },
+  "php_lint": [
+    {
+      "file": "api/_retrieval.php",
+      "ok": true,
+      "output": "No syntax errors detected in /tmp/pu009_patch_build/PU30JAAR_v0.2.10.4_PU009_INGEST_COVERAGE_HOTFIX_SAFE/api/_retrieval.php"
+    },
+    {
+      "file": "api/ask.php",
+      "ok": true,
+      "output": "No syntax errors detected in /tmp/pu009_patch_build/PU30JAAR_v0.2.10.4_PU009_INGEST_COVERAGE_HOTFIX_SAFE/api/ask.php"
+    },
+    {
+      "file": "api/ask_health.php",
+      "ok": true,
+      "output": "No syntax errors detected in /tmp/pu009_patch_build/PU30JAAR_v0.2.10.4_PU009_INGEST_COVERAGE_HOTFIX_SAFE/api/ask_health.php"
+    },
+    {
+      "file": "api/canon_health.php",
+      "ok": true,
+      "output": "No syntax errors detected in /tmp/pu009_patch_build/PU30JAAR_v0.2.10.4_PU009_INGEST_COVERAGE_HOTFIX_SAFE/api/canon_health.php"
+    },
+    {
+      "file": "api/canon_coverage.php",
+      "ok": true,
+      "output": "No syntax errors detected in /tmp/pu009_patch_build/PU30JAAR_v0.2.10.4_PU009_INGEST_COVERAGE_HOTFIX_SAFE/api/canon_coverage.php"
+    },
+    {
+      "file": "qa/CANON_COVERAGE_REGRESSION.php",
+      "ok": true,
+      "output": "No syntax errors detected in /tmp/pu009_patch_build/PU30JAAR_v0.2.10.4_PU009_INGEST_COVERAGE_HOTFIX_SAFE/qa/CANON_COVERAGE_REGRESSION.php"
+    }
+  ],
+  "files": [
+    {
+      "path": "INSTALL_v0.2.10.4.txt",
+      "bytes": 1540,
+      "sha256": "71caaf30dafce47a0312756803d94d5fedf81e85d320b40f59b3b52aee44f743"
+    },
+    {
+      "path": "PATCH_NOTES_v0.2.10.4.txt",
+      "bytes": 1661,
+      "sha256": "9bd09c5f8c2305bba57812959680305fefd1fc3d1cbdf10f4e38e72186b5ba5c"
+    },
+    {
+      "path": "api/_retrieval.php",
+      "bytes": 61198,
+      "sha256": "3139236cf821de45b41f34b832549451631703ef22bf0f564be7ba8184074e40"
+    },
+    {
+      "path": "api/ask.php",
+      "bytes": 86976,
+      "sha256": "69d49d10edb53f8dddcafc5e8c42175c39b7c644f7b75b3f9fa3dd715f72df65"
+    },
+    {
+      "path": "api/ask_health.php",
+      "bytes": 1476,
+      "sha256": "653103c889a288070ea79acc89a9ee5cd7151820f275d8aaae7f0a5bc468bb8f"
+    },
+    {
+      "path": "api/canon_coverage.php",
+      "bytes": 321,
+      "sha256": "2ca76915d1555e82979e4eea0a82e27a44e1bd9dea99586fe98019342e276d63"
+    },
+    {
+      "path": "api/canon_health.php",
+      "bytes": 3651,
+      "sha256": "684b251afc5cd7c90169e363c7d88f80b1be3f24dcfaa3a601682eec38f172a4"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_ALIAS_MAP.jsonl",
+      "bytes": 16164,
+      "sha256": "73ef803a9e14cf6174380f6e88b294b4850d37c7558f52d44d3eb84c71441a60"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_BEST_MACHINE_TRANSCRIPT_FULL.txt",
+      "bytes": 249863,
+      "sha256": "7439af10656600e88072a990c03a20a434b3762c07d3a2edc4cbe153b8ace258"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_CONFLICTS.txt",
+      "bytes": 4907,
+      "sha256": "b6ef0baa4ce8a1bf21738bd6db5f5a0338e41f941378762604613ae655ec0d36"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_EDITOR_EVIDENCE.jsonl",
+      "bytes": 19816,
+      "sha256": "112d8c2af425087daa383e4a030435ff80b0e514dff728f3385853941dae2bdb"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_ENTITY_INDEX.jsonl",
+      "bytes": 35278,
+      "sha256": "a322cddc941917e1a40f6379348e6f0a7f5c737f9a141317e12bfb792806206a"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_HOSTINGER_MARIADB_APPLY.sql",
+      "bytes": 1086173,
+      "sha256": "b4911ee58eed8eaacb68fbd6f189036c378df07f1492589256c13fa3b8491fe9"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_HUMAN_CANON_REVIEWS.jsonl",
+      "bytes": 72273,
+      "sha256": "ce29c39c10c6022ce7f0324e473b115d479ef7c4173148c5fcad81635183e71b"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_INGEST_README.md",
+      "bytes": 1660,
+      "sha256": "0a0e10c2fa65076e8e4066b726c71f9cbe334bd46955491d58e62d9283c633ab"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_ISSUE_KNOWLEDGE.jsonl",
+      "bytes": 64739,
+      "sha256": "1ad6daf05e1bbcf22230a2ec7d20c3bdb11a70c643c41834e92fbbb2d5eef177"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_ISSUE_METADATA.json",
+      "bytes": 3759,
+      "sha256": "b776732d9cc15ca2fb028b0fe505ddc9188cac90d11ef5a596b32a678754f96b"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_PAGE_TRANSCRIPTS.jsonl",
+      "bytes": 307504,
+      "sha256": "1faf882d7240dbbad6e5e4dbff15489f6965375ac98ed427b0eb1a285dd04c83"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_PROVENANCE.jsonl",
+      "bytes": 202287,
+      "sha256": "fd0c5c34ea57290c42ab29bf4615aa2b81f7fac1750cdabe58951d72a3a913e3"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_QA_REPORT.txt",
+      "bytes": 2064,
+      "sha256": "52da8dcb6ab973a619b4205c845b93400ad0b1d75a882194a3f8c9c7fe117d2f"
+    },
+    {
+      "path": "data/canon/issues/PU_009/PU_009_RAG_CHUNKS.jsonl",
+      "bytes": 923251,
+      "sha256": "4a19aca0fdeaf39a5f7953b977c4ec5a402ffc6a3c297b96812134c21515afda"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7009,
+      "sha256": "3f35192b021945e9b8048914eb85da2e5e67e05375a9716aec985643fe405362"
+    },
+    {
+      "path": "qa/CANON_COVERAGE_LOCAL_PASS_v0.2.10.4.json",
+      "bytes": 3235,
+      "sha256": "ed26ac4e65fda2aa1e95f945900228bfa26aeb98d26407e9a4500582a06098c9"
+    },
+    {
+      "path": "qa/CANON_COVERAGE_REGRESSION.php",
+      "bytes": 539,
+      "sha256": "1d7a20ac34b634df3684b1be0c76d11c6a7e2f60d999593b818d52db8cda8641"
+    },
+    {
+      "path": "qa/PU_009_RUNTIME_REGRESSION_v0.2.10.4.json",
+      "bytes": 2936,
+      "sha256": "ffb4c8d7ac6b2ad3e76e6dd861c11967b30acbdb89ee9ac217383ac9cd35b35b"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "scope": "uploaded pu30jaar.zip",
+  "files_total": 1593,
+  "bytes_total": 24832483,
+  "html_pages_total": 1398,
+  "wiki_html_pages": 1397,
+  "json_parse": "PASS",
+  "jsonl_parse": "PASS",
+  "json_ld_syntax": "PASS",
+  "static_internal_links": "PASS",
+  "canonical_url_duplicates": 0,
+  "wiki_reciprocal_navigation": "PASS",
+  "main_to_wiki_navigation": "PASS",
+  "sitemap_urls_after_patch": 1398,
+  "public_canon_records": 678,
+  "public_title_entities": 604,
+  "public_issues": 17,
+  "public_editor_entities": 61,
+  "1993_human_verified_records": 209,
+  "2002_records": 469,
+  "security_note": "Production database credentials exist in config.php inside the webroot backup. Root .htaccess denies direct web access to config.php, but future backups should not be shared publicly and moving secrets outside public_html is safer."
+}

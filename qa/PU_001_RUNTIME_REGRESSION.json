@@ -1,0 +1,46 @@
+[
+  {
+    "query": "Welk cijfer kreeg StarWing?",
+    "expected": "9.6/10; Adam Eeuwens; HUMAN_MACHINE_CANON"
+  },
+  {
+    "query": "Welk cijfer kreeg Star Fox?",
+    "expected": "Resolve alias to PU #001 StarWing; 9.6/10; Adam Eeuwens"
+  },
+  {
+    "query": "Wie reviewde Mega Man 3?",
+    "expected": "8.5/10; Kees de Koning via human-verified page/layout association"
+  },
+  {
+    "query": "Wie reviewde Beyond Cyberpunk?",
+    "expected": "Reviewer intentionally UNRESOLVED after human re-check; score 8/10"
+  },
+  {
+    "query": "Wie reviewde Barbie Game Girl?",
+    "expected": "Adam Eeuwens is a strong shared-page/context candidate, not a standalone printed byline; score 6.5/10"
+  },
+  {
+    "query": "Wat kreeg Escape from CyberCity?",
+    "expected": "10/10; Björn Bruinsma"
+  },
+  {
+    "query": "Hoe werkte PREVIEW in PU nummer 1?",
+    "expected": "Use PU #001 scoring guide; historical availability/import semantics, not automatically modern prerelease semantics"
+  },
+  {
+    "query": "Wat vond Björn van Tiny Toon Adventures: Buster's Hidden Treasure?",
+    "expected": "9/10 plus canon verdict/pros/cons available to editor retrieval"
+  },
+  {
+    "query": "Welke Konami-games staan in PU #001?",
+    "expected": "Can join external developer context to PU canon while keeping source boundary explicit"
+  },
+  {
+    "query": "Wat is StarWing tegenwoordig voor titel?",
+    "expected": "Entity alias/context can explain StarWing = PAL title of Star Fox; external context must not be phrased as PU opinion"
+  },
+  {
+    "query": "Welk cijfer kreeg The Empire Strikes Back?",
+    "expected": "7.5/10; Kees de Koning"
+  }
+]

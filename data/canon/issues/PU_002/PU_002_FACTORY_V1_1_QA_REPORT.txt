@@ -1,0 +1,46 @@
+BLACKPAPER PU #002 — FACTORY v1.1 NORMALIZATION QA
+===================================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+FACTORY v1.1 REPAIRS APPLIED
+- Added issue_number=2 to all human canon review records.
+- Separated terminal score_status=RESOLVED from score_verification_status=HUMAN_VISUAL_VERIFIED.
+- Added deterministic PU_002_ISSUE_CENSUS.json containing all 47 scorecards.
+- Added PU_002_RUNTIME_HANDOFF.json.
+- Added original human observations to the final ingest package.
+- Added deterministic human-pass log derived from those observations.
+- Added generic issue/year helper fields to structured issue-local records.
+- Added `pages` compatibility alias to ISSUE_KNOWLEDGE records while retaining pdf_pages.
+
+ACCOUNTING
+PDF pages: 84 / 84
+Canon scored evaluations: 47 / 47
+Resolved final scores: 47 / 47
+RAG chunks: 172
+Editor evidence: 63
+Issue knowledge: 26
+Entities: 85
+Aliases: 14
+Provenance records: 493
+Human observations: 47
+
+SCORECARDS
+46 records contain Graphics + Sound component scores.
+1 record (Shadowrun RPG tabletop RPG) has no graphics/sound components in the canon source record and is preserved without invented components.
+No final score is inferred from component ratings.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+NO_SILENT_COMPONENT_SCORE_LOSS = PASS
+ISSUE_CENSUS_PARITY = PASS
+RUNTIME_HANDOFF_PRESENT = PASS
+HUMAN_PASS_EVIDENCE_PRESENT = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

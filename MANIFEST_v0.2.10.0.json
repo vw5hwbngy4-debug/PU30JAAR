@@ -1,0 +1,40 @@
+{
+  "version": "v0.2.10.0",
+  "patch": "PU006_DEEP_CANON",
+  "issue_id": "PU_006",
+  "issue_number": 6,
+  "publication_year": 1994,
+  "publication_month": "January",
+  "issue_label": "Nummer 1, Jaargang 2",
+  "source_sha256": "e7d596547e6159bd8ae282679cc9edd3aa9e1e899c4cb4c3e86699ad02c7e10f",
+  "counts": {
+    "pages": 84,
+    "reviews": 36,
+    "rag_chunks": 183,
+    "editor_evidence": 50,
+    "issue_knowledge": 48,
+    "entities": 98,
+    "aliases": 30,
+    "provenance": 531
+  },
+  "schema_fixes": [
+    "issue_number=6 added to all canonical review records",
+    "issue_number=6 added to all local RAG records"
+  ],
+  "runtime_hardening": [
+    "generic year ranking now distinguishes complete vs partial deep-canon years"
+  ],
+  "sql_to_run": "database/PU_006_LIVE_IMPORT_ALL_HOSTINGER_SAFE.sql",
+  "sql_files_in_patch": 1,
+  "expected_live_totals": {
+    "deep_canon_issues": 6,
+    "deep_canon_pages": 504,
+    "deep_canon_reviews": 245,
+    "local_issue_rag_chunks": 1025,
+    "editor_evidence": 340,
+    "issue_knowledge": 216,
+    "aliases": 192,
+    "page_transcripts": 504,
+    "rag_db_chunks": 1043
+  }
+}

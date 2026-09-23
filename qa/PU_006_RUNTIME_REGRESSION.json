@@ -1,0 +1,70 @@
+{
+  "version": "v0.2.10.0",
+  "issue": "PU_006",
+  "publication_year": 1994,
+  "expected": {
+    "pages": 84,
+    "canonical_scored_evaluations": 36,
+    "resolved_scores": 36,
+    "unresolved_reviewers": 0,
+    "rag_chunks": 183,
+    "editor_evidence": 50,
+    "issue_knowledge": 48,
+    "entities": 98,
+    "aliases": 30,
+    "provenance": 531
+  },
+  "tests": [
+    {
+      "question": "Wat waren alle cijfers uit PU 6?",
+      "must_route": "ISSUE_CANON_CENSUS",
+      "must_return_canonical_evaluations": 36,
+      "must_not_fall_back_to_top_k": true
+    },
+    {
+      "question": "Welke cijfers kreeg Tournament Fighters in PU 6?",
+      "expected": [
+        {
+          "platform": "Super Nintendo",
+          "score": "8,5",
+          "reviewer": "Kees de Koning"
+        },
+        {
+          "platform": "Sega Mega Drive",
+          "score": "6",
+          "reviewer": "Kees de Koning"
+        }
+      ]
+    },
+    {
+      "question": "Wat kreeg Lethal Enforcers in PU 6?",
+      "expected_score": "9",
+      "expected_platform": "Sega CD / Sega Mega Drive",
+      "expected_reviewers": [
+        "Michael Schaeffer",
+        "Kees de Koning"
+      ],
+      "must_preserve_shared_scorecard": true
+    },
+    {
+      "question": "Wat kreeg History of the World in PU 6?",
+      "expected_score": "8,5",
+      "article_type": "BORDSPEL",
+      "must_not_invent_graphics_or_sound": true
+    },
+    {
+      "question": "Wat kreeg RoboCop 3 in PU 6?",
+      "expected": {
+        "graphics": "5,0",
+        "sound": "5,0",
+        "final": "4"
+      }
+    },
+    {
+      "question": "Wat was de top 10 beste games van 1994?",
+      "must_not_claim_year_complete": true,
+      "expected_coverage": "PARTIAL_DEEP_CANON_YEAR",
+      "note": "Only PU #006 is deep canon for 1994 at this point."
+    }
+  ]
+}

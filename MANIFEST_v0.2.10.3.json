@@ -1,0 +1,76 @@
+{
+  "project": "PU30JAAR.WOLKEN.PAGE",
+  "version": "v0.2.10.3",
+  "patch": "CANON_COVERAGE_ROUTER + REGRESSION_HARNESS",
+  "baseline": "v0.2.10.2b FOCUSED_CANON_HTTP500_REPAIR",
+  "database_migration": false,
+  "secrets_included": false,
+  "canon_data_replaced": false,
+  "local_regression": {
+    "status": "PASS",
+    "issues": 8,
+    "expected_reviews": 324,
+    "census_reviews": 324,
+    "title_resolved": "324/324",
+    "aliases_resolved": "173/173",
+    "raw_context_titles": "324/324",
+    "wrong_issue_collisions": 0
+  },
+  "files": [
+    {
+      "path": "INSTALL_v0.2.10.3.txt",
+      "bytes": 1642,
+      "sha256": "db0910b4824ec514ec11151e6f712f962892c77d0e82b37d965f5b6d08a4e22a"
+    },
+    {
+      "path": "PATCH_NOTES_v0.2.10.3.txt",
+      "bytes": 2803,
+      "sha256": "c67b7f7826223dbc7bdbf581ee21f61d857ce1f40997ea8733974f7383332436"
+    },
+    {
+      "path": "api/_retrieval.php",
+      "bytes": 60271,
+      "sha256": "69abcb59375b2a0e3a4393ea4a17d7a5999ccd2c7a0e4cd0f1061bc01ad92b22"
+    },
+    {
+      "path": "api/ask.php",
+      "bytes": 86976,
+      "sha256": "50d4f57e1f09cd5219f4d5e85ac0641a30b33a6175cd31f9d391cea009f4bfd1"
+    },
+    {
+      "path": "api/ask_health.php",
+      "bytes": 1476,
+      "sha256": "52adb419e2959654e238931c1b3cbfae97e05ffbc1323836a3154bffbab24a49"
+    },
+    {
+      "path": "api/canon_coverage.php",
+      "bytes": 321,
+      "sha256": "2ca76915d1555e82979e4eea0a82e27a44e1bd9dea99586fe98019342e276d63"
+    },
+    {
+      "path": "api/canon_health.php",
+      "bytes": 3592,
+      "sha256": "d1373c6c612199f20451dabaeaea983bc794e78affb151932cf39949794026a9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7009,
+      "sha256": "b4390bd4a6c60576bea485a96311902e97cd4e00ded70b005a3e212d1ed1bc24"
+    },
+    {
+      "path": "qa/CANON_COVERAGE_LOCAL_PASS_v0.2.10.3.json",
+      "bytes": 3341,
+      "sha256": "a43f47cb00f4b3f04e649c92dcf5fa5b1b1bce105a90e3bc5c8f2083cba0f70b"
+    },
+    {
+      "path": "qa/CANON_COVERAGE_REGRESSION.php",
+      "bytes": 539,
+      "sha256": "1d7a20ac34b634df3684b1be0c76d11c6a7e2f60d999593b818d52db8cda8641"
+    },
+    {
+      "path": "qa/CANON_COVERAGE_ROUTER_REGRESSION_v0.2.10.3.json",
+      "bytes": 1707,
+      "sha256": "529717ac2e9f26e3c7dd693220828d164b6b5e9320564d18f915d0cb98c06610"
+    }
+  ]
+}

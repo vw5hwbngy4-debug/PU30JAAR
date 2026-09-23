@@ -1,0 +1,20 @@
+{
+  "schema": "PU_YEAR_INTELLIGENCE_SOURCE_REGISTER_V1",
+  "year": 1993,
+  "upstream_year_synthesis": "PU_1993_YEAR_SYNTHESIS_v1.zip",
+  "authoritative_review_layer": "209 records in upstream PU_1993_YEAR_REVIEW_INDEX.jsonl, itself derived from issue human canon / consolidated canon.",
+  "direct_text_layers": [
+    "PU_001 BEST_MACHINE_TRANSCRIPT_BY_PAGE",
+    "PU_002–PU_005 PAGE_TRANSCRIPTS",
+    "PU_002–PU_005 ISSUE_KNOWLEDGE",
+    "PU_002–PU_005 EDITOR_EVIDENCE",
+    "PU_001 MASTHEAD"
+  ],
+  "existing_emulator_library": "ASK_DE_PU_REDACTEUR_EMULATOREN.zip",
+  "external_knowledge_used": false,
+  "notes": [
+    "RAG/summaries never override human canon review identity, reviewer, score or component fields.",
+    "Inferences are labeled as such.",
+    "Separate platform scores remain separate."
+  ]
+}

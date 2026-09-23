@@ -1,0 +1,52 @@
+{
+  "version": "v0.2.9.7",
+  "issue": "PU_004",
+  "expected": {
+    "pages": 84,
+    "canonical_scored_evaluations": 39,
+    "resolved_scores": 39,
+    "rag_chunks": 185,
+    "editor_evidence": 57,
+    "issue_knowledge": 41,
+    "aliases": 19,
+    "page_transcripts": 84
+  },
+  "tests": [
+    {
+      "question": "Wat waren alle cijfers uit PU 4?",
+      "must_route": "ISSUE_CANON_CENSUS",
+      "must_return_canonical_evaluations": 39,
+      "must_not_fall_back_to_top_k": true
+    },
+    {
+      "question": "Welke cijfers kreeg Spider-Man in PU 4?",
+      "must_find_platform_scorecards": {
+        "Sega Game Gear": "8",
+        "Sega Mega Drive": "7",
+        "Game Boy": "6,5",
+        "Super Nintendo": "9"
+      },
+      "reviewer": "Ben de Dood"
+    },
+    {
+      "question": "Wie reviewde B.O.B. in PU 4?",
+      "expected": "reviewer unresolved",
+      "must_not_infer_previous_byline": true
+    },
+    {
+      "question": "Wat kreeg How to Host a Mystery in PU 4?",
+      "expected_final_score": "9,5",
+      "expected_components": {
+        "GRAPHICS": "n.v.t.",
+        "GELUID": "n.v.t."
+      }
+    },
+    {
+      "question": "Wat zei PU positief over Zelda: The Wand of Gamelon?",
+      "must_preserve": [
+        "Spel is te saven"
+      ],
+      "negative_bullet_count": 0
+    }
+  ]
+}

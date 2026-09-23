@@ -1,0 +1,118 @@
+BLACKPAPER PU #006 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority order: HUMAN_VISUAL_VERIFIED > DIRECT_ISSUE_TEXT > machine/OCR structuring.
+No external/web knowledge was used to decide what PU printed.
+
+1. PU #006 game-index accounting
+   earlier/index/oral: 37 game/platform rows
+   reconciled: 36 scored evaluations
+   basis: CD-i Full Motion Video p53 is an unscored Power Pro feature; Lethal Enforcers is listed for two platforms but has one shared scorecard; History of the World is a scored board game outside the game list.
+
+2. Oscar / Metal & Lace page numbers
+   earlier/index/oral: TOC: Metal & Lace 44, Oscar 45
+   reconciled: Oscar p44; Metal & Lace p45
+   basis: Direct visible pages override the contents-page transposition.
+
+3. Kevin Keegan final score
+   earlier/index/oral: initial dictation omitted
+   reconciled: 8
+   basis: Human visual re-check + direct scorecard.
+
+4. Chuck Rock final score
+   earlier/index/oral: initial dictation omitted
+   reconciled: 7,5
+   basis: Human visual re-check + direct scorecard.
+
+5. Alien vs Predator Action Replay
+   earlier/index/oral: oral spacing: 7E10-5 C03
+   reconciled: 7E105C03
+   basis: Direct p22 scorecard.
+
+6. Ranger X negative
+   earlier/index/oral: oral: lastige controllers
+   reconciled: Lastige controls
+   basis: Direct scorecard wording.
+
+7. Puggsy title
+   earlier/index/oral: oral: Pucksy
+   reconciled: Puggsy
+   basis: Direct printed title.
+
+8. Aero title
+   earlier/index/oral: oral: Aero the Acrobat
+   reconciled: Aero the Acro-Bat
+   basis: Direct issue title / contents.
+
+9. Wing Commander title
+   earlier/index/oral: oral shortened singular
+   reconciled: Wing Commander: The Secret Missions
+   basis: Direct contents/article identity.
+
+10. Oscar article type
+   earlier/index/oral: human called review
+   reconciled: PREVIEW
+   basis: Direct p44 heading.
+
+11. Lethal Enforcers byline
+   earlier/index/oral: oral: Sergeant Michael + Officer Case
+   reconciled: SERGEANT MICHAEL EN OFFICER KEES
+   basis: Direct p55 byline.
+
+12. Lethal Enforcers platform identity
+   earlier/index/oral: two TOC rows
+   reconciled: one Sega CD / Mega Drive scorecard
+   basis: Direct p55 platform line and one scorecard.
+
+13. We're Back negative
+   earlier/index/oral: oral: spel kost tijd
+   reconciled: Spel kost geld
+   basis: Direct issue text.
+
+14. Tom & Jerry sound
+   earlier/index/oral: initial 6,0
+   reconciled: 6,5
+   basis: Human re-check + direct p60 scorecard.
+
+15. RoboCop 3 components
+   earlier/index/oral: initial 5,5 / 5,5
+   reconciled: 5,0 / 5,0
+   basis: Human re-check + direct p60 scorecard.
+
+16. History of the World components
+   earlier/index/oral: not supplied
+   reconciled: NO GRAPHICS / GELUID COMPONENTS
+   basis: Direct p49 scorecard has report + final 8,5 only.
+
+CENSUS RECONCILIATION
+---------------------
+Printed game/platform index rows: 37
+Unscored indexed CD-i Full Motion Video feature: -1
+Duplicate platform listing for one shared Lethal Enforcers scorecard: -1
+Scored History of the World board game outside game/platform index: +1
+Final scored-evaluation census: 37 - 1 - 1 + 1 = 36
+
+FINAL HUMAN SCORE COVERAGE
+36 / 36 final scores resolved.
+0 unresolved final scores.
+0 unresolved reviewer identities.
+
+FINAL INGEST PACKAGING CHECK
+============================
+
+All reconciliation outcomes above are preserved.
+
+Final canonical special cases:
+- PU #006 scored-evaluation census = 36.
+- CD-i Full Motion Video p53 is an unscored Power Pro feature.
+- Lethal Enforcers = one shared Sega CD / Sega Mega Drive scorecard.
+- Lethal Enforcers reviewer association = Sergeant Michael + Officer Kees.
+- History of the World = scored board game outside the game index, with no Graphics/Geluid components.
+- Oscar = PREVIEW on p44.
+- Metal & Lace = p45.
+- Printed contents swaps Oscar and Metal & Lace page numbers.
+- Tournament Fighters = separate SNES and Mega Drive scorecards.
+- Tom & Jerry: Frantic Antics! sound = 6,5.
+- RoboCop 3 Graphics/Geluid = 5,0 / 5,0.
+
+No new conflicts were introduced during packaging.

@@ -1,0 +1,28 @@
+BLACKPAPER YEAR_SYNTHESIS QA — POWER UNLIMITED 1993
+============================================================
+Issues present: 5/5 PASS
+Pages represented: 420/420 PASS
+Canon scored evaluations indexed: 209/209 PASS
+Resolved scores: 209/209 PASS
+Original scale preserved: all score_scale=10 PASS
+Distinct platform records preserved: 209 input -> 209 output PASS
+Upstream RAG chunks accounted: 876
+Cross-issue exact-title continuity groups: 7
+Within-issue multi-platform comparison groups: 7
+Hardware arcs: 4
+Reader feedback loops: 4
+Prediction/revision/contradiction records: 5
+Recurring criticism signals: 10
+Component-score gap records (>=1.0 point): 14
+Derived synthesis RAG chunks: 17
+External knowledge used: NO PASS
+Contradictions preserved rather than silently reconciled: PASS
+Inference labels present on identity merge/historical synthesis: PASS
+Genre-year aggregate omitted rather than invented: PASS
+
+NOTABLE CENSUS CORRECTIONS FROM EARLIER CONVERSATIONAL SUMMARY
+- Reviewer identity unresolved/unlinked count is 6, not 4.
+- Inferred Michael Schaefer/Schaeffer single-byline group: n=25, mean=7.388/10.
+- Among year identity groups with n>=5, strictest mean: Michael Schaeffer 7.388/10 (n=25); highest mean: David Lemereis 8.400/10 (n=21).
+
+FINAL STATE: YEAR_SYNTHESIS_COMPLETE

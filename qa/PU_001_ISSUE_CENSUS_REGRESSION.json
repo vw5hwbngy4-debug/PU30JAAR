@@ -1,0 +1,34 @@
+{
+  "version": "v0.2.8.2",
+  "contract": "BLACKPAPER_ISSUE_INGEST_V1",
+  "tests": [
+    {
+      "question": "Wat waren alle cijfers uit PU 1?",
+      "expected_mode": "ISSUE_CANON_CENSUS",
+      "expected_count": 37,
+      "expected_coverage": "COMPLETE_CANON_CENSUS",
+      "must_include": {
+        "Barbie Game Girl": "6,5",
+        "Beyond Cyberpunk": "8",
+        "Alien Gate": "8,2",
+        "Escape from CyberCity": "10",
+        "Pinball": "7,4",
+        "Hellcats Over The Pacific": "9,5",
+        "Mega Man 3": "8,5",
+        "Darkwing Duck": "8",
+        "The Empire Strikes Back": "7,5"
+      }
+    },
+    {
+      "question": "alle scores in nummer 1",
+      "expected_mode": "ISSUE_CANON_CENSUS",
+      "expected_count": 37
+    },
+    {
+      "question": "Wat voor cijfer kreeg Mega Man 3?",
+      "expected_mode": "FOCUSED_RETRIEVAL",
+      "must_not_route_to_census": true,
+      "expected_score": "8,5"
+    }
+  ]
+}

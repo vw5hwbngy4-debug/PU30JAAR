@@ -1,0 +1,96 @@
+{
+  "package": "PU_1993_YEAR_SYNTHESIS_v1",
+  "state": "YEAR_SYNTHESIS_COMPLETE",
+  "files": [
+    {
+      "name": "PU_1993_COMPONENT_SCORE_GAPS.jsonl",
+      "bytes": 7085,
+      "sha256": "dd7259cc1ee3198c1fae87469c98eca3b0b358b3d8b23fdb12a879c7d6515254"
+    },
+    {
+      "name": "PU_1993_CROSS_ISSUE_GAME_CONTINUITY.jsonl",
+      "bytes": 4616,
+      "sha256": "1aa6f81a490695f1c31da974c2417b36634fbd65454729365538e190bec31891"
+    },
+    {
+      "name": "PU_1993_EDITOR_CONTINUITY.jsonl",
+      "bytes": 2260,
+      "sha256": "33445a1c8e2c2ee4947bbf373639a3130372eebe63a214bc4bdfcf6b19a2b326"
+    },
+    {
+      "name": "PU_1993_HARDWARE_ARCS.jsonl",
+      "bytes": 6042,
+      "sha256": "755aa1b76235d9d7d40be860663e26e2372d1fbeafd4d262320b8c55ca81e19c"
+    },
+    {
+      "name": "PU_1993_MULTI_PLATFORM_COMPARISONS.jsonl",
+      "bytes": 4111,
+      "sha256": "a8df46a8a693f2d67fe1bceff192fa2cc3c0d02f16506f599a705fb2480328a4"
+    },
+    {
+      "name": "PU_1993_PLATFORM_SCORE_STATS.jsonl",
+      "bytes": 7793,
+      "sha256": "d483cc3d4b56876ff1f4b47c422dea796624a29dcdfcac3cc9c9c825429014c1"
+    },
+    {
+      "name": "PU_1993_PREDICTIONS_REVISIONS_CONTRADICTIONS.jsonl",
+      "bytes": 4052,
+      "sha256": "aca2b85ea3b104ed6460a1740d494e3a7522b275cdb38ad75fa1e05a90218beb"
+    },
+    {
+      "name": "PU_1993_PROVENANCE.jsonl",
+      "bytes": 6197,
+      "sha256": "1f3f99be18b33b7e597f12cc0458a96cae5acbff92393ea705d5bae5a8cf7074"
+    },
+    {
+      "name": "PU_1993_QA_REPORT.txt",
+      "bytes": 1292,
+      "sha256": "0f373f7d60cdc00d587dbbfa214c1a1fd2640731e624a4790c239c97da1f686b"
+    },
+    {
+      "name": "PU_1993_READER_FEEDBACK_LOOPS.jsonl",
+      "bytes": 4809,
+      "sha256": "605e2db050272a2f8c82fa2ae91215c21f460df3d7e30bea7a4238bc565ab311"
+    },
+    {
+      "name": "PU_1993_RECURRING_CRITICISM_SIGNALS.jsonl",
+      "bytes": 5653,
+      "sha256": "b5bec681ab769bd8eee753f74b0b8b5f3acce67358957261ae0ab6673ef12a2e"
+    },
+    {
+      "name": "PU_1993_REVIEWER_PROFILES.jsonl",
+      "bytes": 13972,
+      "sha256": "5b784f85eaed37fa5ff0ef73d9574c63489970cb350087752b4ce66f1dec48d9"
+    },
+    {
+      "name": "PU_1993_SOURCE_REGISTER.json",
+      "bytes": 3990,
+      "sha256": "c15ea84c4947b631629637f196c220a72d4cef0c7cd08ff8cbdd75d754df5aa0"
+    },
+    {
+      "name": "PU_1993_SYNTHESIS_RAG_CHUNKS.jsonl",
+      "bytes": 21306,
+      "sha256": "258daa26dfb224b75cf673a1183a329fd4b1f1d7ed55ba3f39d932f1d9eb0f31"
+    },
+    {
+      "name": "PU_1993_YEAR_CENSUS.json",
+      "bytes": 2759,
+      "sha256": "eb60d92fb9b09a172fe14e65100060e366ed14386633b8100379451549706b07"
+    },
+    {
+      "name": "PU_1993_YEAR_METADATA.json",
+      "bytes": 1090,
+      "sha256": "4535ad29771129beab963caef259989d95b6dd8bc64de438dcd828030de5fa84"
+    },
+    {
+      "name": "PU_1993_YEAR_REVIEW_INDEX.jsonl",
+      "bytes": 257847,
+      "sha256": "7384ac77adb6595d791c2b23fd6efbcf4dd7159717e14af428ee36d6e341d225"
+    },
+    {
+      "name": "README.md",
+      "bytes": 3156,
+      "sha256": "f75f20a8a30a0822513bc6539d18014214ff0e58b22fa81a54b2577a42f65351"
+    }
+  ]
+}

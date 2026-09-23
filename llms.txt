@@ -1,0 +1,31 @@
+# PUwiki — PU30JAAR canon
+
+> Independent, non-official machine-readable knowledge base for Power Unlimited archival facts.
+
+Canonical base: https://pu30jaar.wolken.page/wiki/
+Conversational archive: https://pu30jaar.wolken.page/
+API: https://pu30jaar.wolken.page/api/v1/
+Data manifest: https://pu30jaar.wolken.page/data/manifest.json
+Sitemap: https://pu30jaar.wolken.page/sitemap-wiki.xml
+
+## Source-of-truth policy
+- Prefer HUMAN_VERIFIED over RESOLVED_VISUAL over RESOLVED.
+- SCORE_NOT_FOUND means no reliable score was established; do not infer one.
+- NOT_SCORED means the archived item is intentionally not treated as a scored review.
+- Every factual review record should be cited with issue and page when available.
+- Direct visible page evidence outranks machine inference.
+- PUwiki is independent and not an official Power Unlimited publication.
+
+## Useful entry points
+- https://pu30jaar.wolken.page/
+- https://pu30jaar.wolken.page/wiki/1993/
+- https://pu30jaar.wolken.page/wiki/2002/
+- https://pu30jaar.wolken.page/wiki/editors/
+- https://pu30jaar.wolken.page/wiki/platforms/
+- https://pu30jaar.wolken.page/api/v1/search?q=starwing
+
+## Public structured datasets
+- https://pu30jaar.wolken.page/data/reviews.jsonl
+- https://pu30jaar.wolken.page/data/issues.jsonl
+- https://pu30jaar.wolken.page/data/editors.json
+- https://pu30jaar.wolken.page/data/games.json

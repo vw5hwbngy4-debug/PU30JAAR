@@ -1,0 +1,77 @@
+{
+  "version": "v0.2.9.9",
+  "state": "1993_YEAR_INTELLIGENCE_LIVE",
+  "tests": [
+    {
+      "question": "Wat was de top 10 beste games van 1993?",
+      "route": "YEAR_CANON_RANKING",
+      "expected_contains": [
+        "Escape from CyberCity",
+        "Aladdin"
+      ]
+    },
+    {
+      "question": "Hoeveel gescoorde evaluaties publiceerde PU in 1993?",
+      "route": "SCORE_DISTRIBUTION",
+      "expected": "209"
+    },
+    {
+      "question": "Wat was het gemiddelde eindcijfer in 1993?",
+      "route": "SCORE_DISTRIBUTION",
+      "expected": "7.7928/10"
+    },
+    {
+      "question": "Wie deed de meeste reviews in 1993?",
+      "route": "REVIEWER_STATS",
+      "expected_contains": [
+        "Bjorn Bruinsma",
+        "58 credited",
+        "56 solo"
+      ]
+    },
+    {
+      "question": "Wie was de strengste reviewer van 1993?",
+      "route": "REVIEWER_STATS",
+      "expected_contains": [
+        "Michael Schaeffer",
+        "7.388"
+      ],
+      "guardrail": "core threshold = 20 solo evaluations"
+    },
+    {
+      "question": "Wie was de mildste reviewer van 1993?",
+      "route": "REVIEWER_STATS",
+      "expected_contains": [
+        "David Lemereis",
+        "8.4"
+      ],
+      "guardrail": "core threshold = 20 solo evaluations"
+    },
+    {
+      "question": "Hoeveel reviews deed Bjorn Bruinsma in 1993?",
+      "route": "REVIEWER_STATS",
+      "expected_contains": [
+        "56 solo",
+        "2 joint",
+        "58 credited"
+      ]
+    },
+    {
+      "question": "Hoe veranderde PU's houding tegenover 3DO in 1993?",
+      "route": "CROSS_ISSUE_SYNTHESIS",
+      "guardrail": "cross-issue synthesis/inference"
+    },
+    {
+      "question": "Wie kan op basis van 1993 een nieuwe emulator krijgen?",
+      "route": "REVIEWER_PROFILE",
+      "expected_ready": [
+        "Ben de Dood",
+        "Kees de Koning",
+        "Michael Schaeffer",
+        "Adam Eeuwens",
+        "David Lemereis"
+      ],
+      "must_not_auto_create_emulators": true
+    }
+  ]
+}

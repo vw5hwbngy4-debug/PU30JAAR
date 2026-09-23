@@ -1,0 +1,48 @@
+{
+  "version": "v0.2.9.8",
+  "patch": "PU005_1993_YEAR_COMPLETE",
+  "state": "1993_YEAR_COMPLETE",
+  "contract": "BLACKPAPER_ISSUE_INGEST_V1+BLACKPAPER_YEAR_SYNTHESIS_V1+HUMAN_SCORE_SPRINT_V1",
+  "pu005": {
+    "source_sha256": "9758346ebf6b7377e3668506f51bf99b1ac915a264a0f2c20866a6700e35bb0c",
+    "pages": 84,
+    "reviews": 43,
+    "rag_chunks": 191,
+    "editor_evidence": 61,
+    "issue_knowledge": 46,
+    "entities": 100,
+    "aliases": 25,
+    "provenance": 552,
+    "schema_fixes": [
+      "issue_number=5 added to canonical reviews",
+      "issue_number=5 added to local RAG"
+    ]
+  },
+  "year_1993": {
+    "source_state": "YEAR_SYNTHESIS_COMPLETE",
+    "issues": 5,
+    "pages": 420,
+    "scored_evaluations": 209,
+    "resolved_scores": 209,
+    "unresolved_scores": 0,
+    "score_mean": 7.7928,
+    "source_synthesis_rag_chunks": 17,
+    "runtime_projection_chunks": 1,
+    "external_knowledge_used": false
+  },
+  "expected_live": {
+    "deep_canon_issues": 5,
+    "deep_canon_pages": 420,
+    "deep_canon_reviews": 209,
+    "local_issue_rag_chunks": 842,
+    "editor_evidence": 290,
+    "issue_knowledge": 168,
+    "aliases": 162,
+    "page_transcripts": 420,
+    "year_synthesis_source_rag": 17,
+    "year_synthesis_runtime_rag": 18,
+    "rag_db_chunks": 860
+  },
+  "sql_to_run": "database/PU_005_AND_1993_YEAR_LIVE_IMPORT_ALL_HOSTINGER_SAFE.sql",
+  "sql_files_in_patch": 1
+}

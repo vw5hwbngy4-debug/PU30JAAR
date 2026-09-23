@@ -1,0 +1,59 @@
+{
+  "version": "v0.2.10.2b",
+  "patch": "FOCUSED_CANON_ENTITY_HOTFIX",
+  "bug": "Concrete game questions could fall through to semantic retrieval and return nearby franchise titles instead of the exact canonical review.",
+  "tests": [
+    {
+      "question": "Had PU ook Sonic 3 gereviewed? Wat zeiden ze daar indepth over?",
+      "expected_route_behavior": "FOCUSED_CANON_ENTITY",
+      "resolved_title": "Sonic 3",
+      "canonical": {
+        "issue": 8,
+        "pages": [
+          32,
+          33
+        ],
+        "platform": "Sega Mega Drive",
+        "reviewer": "Bjorn Bruinsma",
+        "graphics": "9",
+        "sound": "8,8",
+        "final": "9,3"
+      },
+      "must_cover_from_direct_review_text": [
+        "Sonic 3 positioned as faster/bigger/better than Sonic 2",
+        "16 Meg cartridge and larger/harder levels",
+        "savegame function",
+        "Floating Island / Robotnik / Knuckles / Chaos Emeralds",
+        "six zones with two acts and alternate routes",
+        "fire/water/electric shields",
+        "special stages and Chaos Emeralds",
+        "Grand Prix / Match Race / Time Attack multiplayer",
+        "improved animation and facial expressions",
+        "conclusion: Sonic remains fun and becomes even more fun"
+      ],
+      "must_not_answer": [
+        "review not found",
+        "only Sonic Spinball",
+        "only Sonic CD"
+      ]
+    },
+    {
+      "question": "Wat zei PU indepth over Myst in PU 8?",
+      "expected_behavior": "exact Myst scorecard + same-issue review text, not generic corpus search"
+    },
+    {
+      "question": "Wat kreeg Ottifants in PU 8?",
+      "expected_behavior": "exact shared Mega Drive / Game Gear scorecard remains intact"
+    },
+    {
+      "question": "Geef me een rondleiding door 1994 tot nu toe.",
+      "must_keep_route": "YEAR_DISCOVERY",
+      "must_not_be_hijacked_by_focused_entity": true
+    },
+    {
+      "question": "Wat waren alle cijfers uit PU 8?",
+      "must_keep_route": "ISSUE_CANON_CENSUS",
+      "expected_count": 40
+    }
+  ]
+}

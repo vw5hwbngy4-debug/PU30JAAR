@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#000000">
+<meta name="color-scheme" content="dark">
+<title>PU30JAAR.WOLKEN.PAGE — Vraag het Power Unlimited-archief</title>
+<meta name="description" content="Vraag dertig jaar Power Unlimited. Reviews, redacteuren, menselijk geverifieerde scores en 29.731 archiefpagina's, brongebonden doorzoekbaar met AI.">
+<link rel="canonical" href="https://pu30jaar.wolken.page/">
+
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="apple-mobile-web-app-title" content="PU30JAAR">
+<meta name="application-name" content="PU30JAAR">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://pu30jaar.wolken.page/">
+<meta property="og:site_name" content="PU30JAAR.WOLKEN.PAGE">
+<meta property="og:title" content="PU30JAAR.WOLKEN.PAGE — Vraag het archief">
+<meta property="og:description" content="Dertig jaar Power Unlimited, doorzoekbaar als één geheugen.">
+<meta property="og:image" content="https://pu30jaar.wolken.page/android-chrome-512x512.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:image:alt" content="PU 30 Jaar">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="PU30JAAR.WOLKEN.PAGE — Vraag het archief">
+<meta name="twitter:description" content="Dertig jaar Power Unlimited, doorzoekbaar als één geheugen.">
+<meta name="twitter:image" content="https://pu30jaar.wolken.page/android-chrome-512x512.png">
+
+<link rel="stylesheet" href="assets/app.css?v=0.2.10.7b">
+</head>
+<body>
+<div class="scanline"></div>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" id="homeLink" href="/">PU30JAAR.WOLKEN.PAGE</a>
+    <div class="archive-status"><i></i><span>ARCHIVE ONLINE</span></div>
+    <div class="topmeta"><span id="pageCount">29.731 pages</span><span>1993—2023</span><span class="dim">v0.2.10.7</span></div>
+    <a class="wiki-link" href="/wiki/" aria-label="Open de PUwiki">Wiki ↗</a>
+  </div>
+</header>
+
+<main class="page-shell">
+  <section class="intro">
+    <div class="eyebrow">POWER UNLIMITED · 1993—2023</div>
+    <h1>Vraag het archief.</h1>
+    <p>Stel één normale vraag. PU 30 Jaar zoekt zelf door dertig jaar Power Unlimited en geeft één brongebonden antwoord terug.</p>
+  </section>
+
+  <section class="ask-zone">
+    <div class="mode-switch" role="tablist" aria-label="PU 30 Jaar mode">
+      <button class="mode-choice active" data-input-mode="ask">VRAAG PU 30 JAAR</button>
+      <button class="mode-choice" data-input-mode="reviewer">PRAAT MET EEN REDACTEUR</button>
+      <button class="mode-choice" data-input-mode="search">ZOEK ARCHIEF</button>
+    </div>
+
+    <div class="reviewer-picker" id="reviewerPicker" hidden>
+      <div class="reviewer-context">
+        <span class="reviewer-label">GERECONSTRUEERDE STEM</span>
+        <strong id="reviewerName">Boris van der Ven</strong>
+      </div>
+      <label class="reviewer-select-wrap">
+        <span>KIES REDACTEUR</span>
+        <select id="reviewerSelect" aria-label="Kies redacteur"></select>
+      </label>
+    </div>
+
+    <div class="ask-composer" id="composer">
+      <textarea id="command" rows="1" autocomplete="off" spellcheck="false" placeholder="Wat vond Power Unlimited van Halo?"></textarea>
+      <div class="composer-actions">
+        <button id="voice" title="spraak invoer" aria-label="spraak invoer">◉</button>
+        <button id="run">ASK</button>
+      </div>
+    </div>
+
+    <div class="composer-foot">
+      <span id="composerHint">PU 30 Jaar zoekt eerst in de eigen bronnen en laat het model alleen daarmee antwoorden.</span>
+      <div class="composer-status-row">
+        <span id="conversationStatus" class="conversation-status">NEW CONVERSATION</span>
+        <button id="newConversation" class="new-conversation" type="button">NIEUW GESPREK</button>
+        <span id="aiStatus" class="status-chip">AI CHECKING…</span>
+      </div>
+    </div>
+
+    <div class="hints" id="hints">
+      <button data-mode="ask" data-q="Wat vond PU van Halo?">Wat vond PU van Halo?</button>
+      <button data-mode="ask" data-q="Welke games kregen in 2002 de hoogste scores?">Beste scores van 2002</button>
+      <button data-mode="ask" data-q="Hoe veranderde Power Unlimited tussen 1993 en 2003?">Hoe veranderde PU?</button>
+      <button data-mode="reviewer" data-editor="Boris van der Ven" data-q="Waarom was je soms zo streng voor games?">Vraag Boris iets</button>
+    </div>
+  </section>
+
+  <section class="answer-stage" id="answerStage" hidden>
+    <div class="conversation-head">
+      <span id="threadLabel">CONVERSATION</span>
+      <div class="conversation-tools"><span id="threadMeta"></span><button id="threadNewConversation" type="button">NIEUW GESPREK</button></div>
+    </div>
+    <div class="conversation" id="conversationThread"></div>
+  </section>
+
+  <section class="archive-summary" aria-label="Archive summary">
+    <div class="summary-title">ARCHIVE</div>
+    <div class="telemetry" id="telemetry"></div>
+  </section>
+
+  <section class="workspace trail-collapsed" id="workspace">
+    <aside class="rail">
+      <button class="rail-tab active" data-mode="all">ALL</button>
+      <button class="rail-tab" data-mode="pages">PAGES</button>
+      <button class="rail-tab" data-mode="reviews">REVIEWS</button>
+      <button class="rail-tab" data-mode="games">GAMES</button>
+      <button class="rail-tab" data-mode="editors">EDITORS</button>
+      <button class="rail-tab" data-mode="emulators">EMULATORS</button>
+      <button class="rail-tab" data-mode="captions">CAPTIONS</button>
+    </aside>
+    <section class="stream">
+      <div class="stream-head"><span id="resultTitle">30-YEAR MAP</span><span id="resultMeta"></span></div>
+      <div id="results" class="results"></div>
+    </section>
+    <aside class="drawer" id="drawer">
+      <div class="drawer-head"><span>EVIDENCE</span><button id="closeDrawer">×</button></div>
+      <div id="drawerBody" class="drawer-body"><div class="empty-drawer">Selecteer een record om bron, pagina en provenance te openen.</div></div>
+    </aside>
+  </section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <span>PU30JAAR / 30 YEARS OF PU</span>
+    <span id="backendStatus">STRUCTURED LAYER READY · DEEP ARCHIVE CHECKING…</span>
+  </div>
+</footer>
+
+<script src="data/structured.js"></script>
+<script src="assets/app.js?v=0.2.9.2"></script>
+</body>
+</html>

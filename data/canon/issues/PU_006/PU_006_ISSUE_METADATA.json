@@ -1,0 +1,123 @@
+{
+  "issue_id": "PU_006",
+  "publication": "Power Unlimited",
+  "issue_number": 6,
+  "publication_year": 1994,
+  "publication_month": "January",
+  "issue_label": "Nummer 1, Jaargang 2",
+  "pdf_page_count": 84,
+  "source_pdf": "006.pdf",
+  "source_pdf_sha256": "e7d596547e6159bd8ae282679cc9edd3aa9e1e899c4cb4c3e86699ad02c7e10f",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "toc_platform_rows": 37,
+    "nonscored_toc_rows": 1,
+    "shared_platform_duplicate_rows": 1,
+    "extra_scored_evaluations_outside_toc": 1,
+    "scored_evaluations": 36,
+    "resolved_scores": 36,
+    "unresolved_scores": 0,
+    "unresolved_reviewers": 0,
+    "reviewer_status_counts": {
+      "DIRECT_BYLINE": 36
+    },
+    "article_type_counts": {
+      "REVIEW": 32,
+      "PREVIEW": 2,
+      "PROFCHECK": 1,
+      "BORDSPEL": 1
+    }
+  },
+  "rag_census": {
+    "total_chunks": 183,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 36,
+      "SCORE_VERDICT": 36,
+      "ISSUE_KNOWLEDGE": 48,
+      "PAGE_SECTION": 46,
+      "SECTION_CLUSTER": 13,
+      "LIST_BLOCK": 4
+    }
+  },
+  "page_census": {
+    "page_type_counts": {
+      "COVER": 1,
+      "ADVERTISEMENT": 12,
+      "EDITORIAL": 1,
+      "CONTENTS": 2,
+      "LETTERS": 3,
+      "NEWS": 4,
+      "OTHER": 17,
+      "REVIEW": 33,
+      "PREVIEW": 2,
+      "PROFCHECK": 5,
+      "BORDSPEL": 1,
+      "FEATURE": 2,
+      "COLUMN": 1
+    },
+    "transcript_origin_counts": {
+      "PDF_TEXT_LAYER": 72,
+      "OCR_FALLBACK": 12
+    },
+    "fidelity_confidence_counts": {
+      "LOW": 17,
+      "HIGH": 64,
+      "MEDIUM": 3
+    },
+    "ocr_fallback_pages": [
+      2,
+      9,
+      14,
+      27,
+      29,
+      35,
+      42,
+      43,
+      44,
+      50,
+      76,
+      78
+    ]
+  },
+  "structured_counts": {
+    "entities": 98,
+    "aliases": 30,
+    "editor_evidence": 50,
+    "issue_knowledge": 48
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "known_intentional_uncertainties": [],
+  "special_canon_notes": [
+    "PU #006 is the first issue of Jaargang 2.",
+    "CD-i Full Motion Video p53 is an unscored Power Pro feature.",
+    "Lethal Enforcers has one shared Sega CD / Sega Mega Drive scorecard and a direct shared byline: Michael + Kees.",
+    "History of the World is a scored board game outside the game index and has no Graphics/Geluid components.",
+    "Oscar is a PREVIEW on p44.",
+    "Metal & Lace is on p45; the printed contents swaps the page numbers of Oscar and Metal & Lace.",
+    "Tournament Fighters has separate SNES and Mega Drive scorecards."
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_006_RECONCILIATION_CHECKPOINT_v1.zip": "c506a8590b50ca7524c853bda1f4445c2f2bc25cc7531dc798c242d498a61ab7",
+    "BLACKPAPER_PU_006_RAW_TEXT_BUILD_v1.zip": "456b88031e0aaec6e30ffb8d7edf1ca40c8d50decec66aa9622d35c88103477a",
+    "BLACKPAPER_PU_006_CANON_KNOWLEDGE_BUILD_v1.zip": "4390227e7e16f00b5519a89e718ddd47447045d66e4d135655f45d8b8f8e1a21",
+    "BLACKPAPER_PU_006_RAG_BUILD_v1.zip": "3bde942d1051ee98929b5148081cd5da750f8e43679a1c7bd7aa7e19e5bfcb02"
+  }
+}

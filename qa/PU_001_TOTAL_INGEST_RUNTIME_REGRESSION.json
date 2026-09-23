@@ -1,0 +1,94 @@
+[
+  {
+    "q": "Welk cijfer kreeg StarWing?",
+    "expect": [
+      "9,6",
+      "Adam Eeuwens"
+    ],
+    "layer": "HUMAN_CANON_REVIEW"
+  },
+  {
+    "q": "Welk cijfer kreeg Star Fox?",
+    "expect": [
+      "StarWing",
+      "9,6"
+    ],
+    "layer": "ALIAS+HUMAN_CANON_REVIEW"
+  },
+  {
+    "q": "Wie reviewde Barbie Game Girl?",
+    "expect": [
+      "Adam Eeuwens",
+      "layout"
+    ],
+    "layer": "HUMAN_CANON_REVIEW",
+    "note": "DIRECT_LAYOUT_ASSOCIATION, not standalone byline"
+  },
+  {
+    "q": "Wie reviewde Mega Man 3?",
+    "expect": [
+      "8,5",
+      "Kees de Koning",
+      "layout"
+    ],
+    "layer": "HUMAN_CANON_REVIEW"
+  },
+  {
+    "q": "Wie reviewde Beyond Cyberpunk?",
+    "expect": [
+      "onbekend"
+    ],
+    "layer": "HUMAN_CANON_REVIEW"
+  },
+  {
+    "q": "Wat schreef PU in nummer 1 over de 3DO?",
+    "expect": [
+      "Trip Hawkins",
+      "voorzichtig"
+    ],
+    "layer": "ISSUE_KNOWLEDGE+RAG"
+  },
+  {
+    "q": "Hoe werkte REVIEW en PREVIEW in PU nummer 1?",
+    "expect": [
+      "beschikbaarheid",
+      "import"
+    ],
+    "layer": "ISSUE_KNOWLEDGE"
+  },
+  {
+    "q": "Wat stond er in de Virgin Top 10 van mei 1993?",
+    "expect": [
+      "Virgin",
+      "MegaDrive",
+      "Super Nintendo",
+      "PC"
+    ],
+    "layer": "ISSUE_KNOWLEDGE+RAG"
+  },
+  {
+    "q": "Wat vond Adam van StarWing en waarom?",
+    "expect": [
+      "9,6",
+      "Nintendo"
+    ],
+    "layer": "EDITOR_EVIDENCE+RAG"
+  },
+  {
+    "q": "Wat schreef PU over Teleplay?",
+    "expect": [
+      "modem",
+      "Nintendo",
+      "Sega"
+    ],
+    "layer": "ISSUE_KNOWLEDGE+RAG"
+  },
+  {
+    "q": "Welk cijfer kreeg The Empire Strikes Back?",
+    "expect": [
+      "7,5",
+      "Kees de Koning"
+    ],
+    "layer": "HUMAN_CANON_REVIEW"
+  }
+]

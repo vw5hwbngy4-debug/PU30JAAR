@@ -1,0 +1,117 @@
+{
+  "issue_id": "PU_005",
+  "publication": "Power Unlimited",
+  "issue_number": 5,
+  "publication_year": 1993,
+  "publication_month": "December",
+  "issue_label": "PU 1-5",
+  "pdf_page_count": 84,
+  "source_pdf": "005.pdf",
+  "source_pdf_sha256": "9758346ebf6b7377e3668506f51bf99b1ac915a264a0f2c20866a6700e35bb0c",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "toc_platform_rows": 43,
+    "shared_platform_duplicate_rows": 1,
+    "extra_scored_evaluations_outside_toc": 1,
+    "scored_evaluations": 43,
+    "resolved_scores": 43,
+    "unresolved_scores": 0,
+    "unresolved_reviewers": 0,
+    "reviewer_status_counts": {
+      "DIRECT_BYLINE": 43
+    },
+    "article_type_counts": {
+      "PREVIEW": 4,
+      "REVIEW": 39
+    }
+  },
+  "rag_census": {
+    "total_chunks": 191,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 43,
+      "SCORE_VERDICT": 43,
+      "ISSUE_KNOWLEDGE": 46,
+      "PAGE_SECTION": 46,
+      "SECTION_CLUSTER": 9,
+      "LIST_BLOCK": 4
+    }
+  },
+  "page_census": {
+    "page_type_counts": {
+      "COVER": 1,
+      "ADVERTISEMENT": 14,
+      "EDITORIAL": 1,
+      "CONTENTS": 2,
+      "LETTERS": 4,
+      "NEWS": 5,
+      "OTHER": 16,
+      "PREVIEW": 4,
+      "REVIEW": 34,
+      "FEATURE": 2,
+      "COLUMN": 1
+    },
+    "transcript_origin_counts": {
+      "PDF_TEXT_LAYER": 73,
+      "OCR_FALLBACK": 11
+    },
+    "fidelity_confidence_counts": {
+      "LOW": 14,
+      "MEDIUM": 8,
+      "HIGH": 62
+    },
+    "ocr_fallback_pages": [
+      2,
+      10,
+      11,
+      12,
+      13,
+      21,
+      38,
+      42,
+      43,
+      52,
+      84
+    ]
+  },
+  "structured_counts": {
+    "entities": 100,
+    "aliases": 25,
+    "editor_evidence": 61,
+    "issue_knowledge": 46
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "known_intentional_uncertainties": [],
+  "special_canon_notes": [
+    "Zombies Ate My Neighbors has separate Mega Drive and Super Nintendo scorecards in one shared feature.",
+    "World Heroes 2 is a distinct Neo Geo review, not merely a platform variant of World Heroes.",
+    "Populous II has one shared scorecard covering Super Nintendo / Sega Mega Drive.",
+    "ElfQuest is a scored board game outside the games contents and has Graphics 8,0 but no printed Geluid component.",
+    "The 1993 Ermac passage remains an attributed PU mystery/report, not retrospective game canon.",
+    "Samurai Shodown reviewer = Kees de Koning.",
+    "Malibu Bikini Volleyball reviewer = René Janssen."
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_005_RECONCILIATION_CHECKPOINT_v1.zip": "9e73c147866f00bbbc58b83c30027191c602bd9c339f0449de6e7747dc0c927e",
+    "BLACKPAPER_PU_005_RAW_TEXT_BUILD_v1.zip": "b2a86d9763cbc665a14acc262781b60d7b643a28df50847eaa62d96831f9649b",
+    "BLACKPAPER_PU_005_CANON_KNOWLEDGE_BUILD_v1.zip": "55aa862f36e664fff63a63ace7709019101a97be5e8d68ffa029cd7a0542a95c",
+    "BLACKPAPER_PU_005_RAG_BUILD_v1.zip": "73f5a31a5beacf74fa53818d51bb0f34b28cdc09bd16b06506ea48bb0f63ea40"
+  }
+}

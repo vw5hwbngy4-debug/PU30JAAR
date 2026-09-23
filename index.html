@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PU30JAAR · Frozen Archive</title>
+<meta name="description" content="Bevroren statisch archief van PU30JAAR. Wiki, canon en brondata blijven leesbaar zonder server of database.">
+<style>
+:root{--bg:#0d0f12;--panel:#15181d;--text:#f3f4f6;--muted:#aeb5bf;--line:#2a3038;--accent:#ffd34e}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:920px;margin:0 auto;padding:64px 22px 80px}
+.kicker{color:var(--accent);font-weight:800;letter-spacing:.12em;text-transform:uppercase;font-size:.78rem}
+h1{font-size:clamp(2.4rem,7vw,5.4rem);line-height:.95;margin:.4rem 0 1.2rem;letter-spacing:-.05em}
+.lead{font-size:1.15rem;color:var(--muted);max-width:720px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:34px 0}
+a.card{display:block;padding:22px;border:1px solid var(--line);border-radius:14px;background:var(--panel);color:inherit;text-decoration:none}
+a.card:hover{border-color:var(--accent)} .card strong{display:block;font-size:1.15rem;margin-bottom:6px} .card span{color:var(--muted)}
+.note{border-top:1px solid var(--line);margin-top:38px;padding-top:24px;color:var(--muted)}
+code{color:#fff}
+</style>
+</head>
+<body><main>
+<div class="kicker">PU30JAAR · Static preservation edition</div>
+<h1>Frozen Archive</h1>
+<p class="lead">PU30JAAR is bevroren als statisch archief. De oorspronkelijke wiki, canon en bronbestanden blijven bewaard en browsebaar, zonder PHP, database of actieve AI/RAG-backend.</p>
+<div class="grid">
+<a class="card" href="./wiki/"><strong>Wiki</strong><span>2,794 bewaarde HTML-pagina's.</span></a>
+<a class="card" href="./data/"><strong>Canon &amp; brondata</strong><span>189 statische databestanden blijven in het archief aanwezig.</span></a>
+<a class="card" href="./archive/original-home.html"><strong>Oorspronkelijke homepage</strong><span>Momentopname van de oude interface. Serverfuncties werken daar niet meer.</span></a>
+</div>
+<p class="note"><strong>Status:</strong> read-only preservation. De voormalige <code>api/*.php</code>-functies zijn bewust niet meegenomen in deze GitHub Pages-editie.</p>
+</main></body></html>

@@ -1,0 +1,122 @@
+{
+  "issue_id": "PU_009",
+  "publication": "Power Unlimited",
+  "issue_number": 9,
+  "publication_year": 1994,
+  "publication_month": "April",
+  "issue_label": "Nummer 4, Jaargang 2",
+  "pdf_page_count": 84,
+  "source_pdf": "009.pdf",
+  "source_pdf_sha256": "553da0377c52511ee95e362b17582111a5fd40c83205c2089e6dc72cfe342009",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "contents_scored_rows": 35,
+    "canonical_scored_evaluations": 35,
+    "resolved_scores": 35,
+    "unresolved_scores": 0,
+    "unresolved_reviewers": [
+      "Zool",
+      "Seek & Destroy",
+      "Nigel Mansell's World Championship"
+    ],
+    "reviewer_status_counts": {
+      "DIRECT_BYLINE": 32,
+      "UNRESOLVED": 3
+    },
+    "article_type_counts": {
+      "PREVIEW": 8,
+      "REVIEW": 18,
+      "PROFCHECK": 1,
+      "POWER PRO": 8
+    }
+  },
+  "rag_census": {
+    "total_chunks": 199,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 35,
+      "SCORE_VERDICT": 35,
+      "ISSUE_KNOWLEDGE": 64,
+      "PAGE_SECTION": 42,
+      "SECTION_CLUSTER": 17,
+      "LIST_BLOCK": 6
+    }
+  },
+  "page_census": {
+    "transcript_origin_counts": {
+      "OCR_FALLBACK": 16,
+      "PDF_TEXT_LAYER": 68
+    },
+    "fidelity_confidence_counts": {
+      "LOW": 18,
+      "MEDIUM": 6,
+      "HIGH": 60
+    },
+    "ocr_fallback_pages": [
+      1,
+      2,
+      13,
+      21,
+      31,
+      32,
+      33,
+      35,
+      39,
+      42,
+      43,
+      46,
+      50,
+      68,
+      70,
+      73
+    ]
+  },
+  "structured_counts": {
+    "entities": 106,
+    "aliases": 50,
+    "editor_evidence": 47,
+    "issue_knowledge": 64
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "structural_repairs": [
+    "CANON/KNOWLEDGE v1.1 repairs duplicate review record IDs from v1. No factual canon changed."
+  ],
+  "known_intentional_uncertainties": [
+    "Zool reviewer/byline on p66 is not reliable enough to assign.",
+    "Seek & Destroy reviewer/byline on p66 is not reliable enough to assign.",
+    "Nigel Mansell's World Championship reviewer/byline on p66 is not reliable enough to assign."
+  ],
+  "special_canon_notes": [
+    "De Smurfen preserves printed platform GAME SMURF; platform_canonical is Game Boy.",
+    "Lost Dimensions, Super Battle Tank 2, Daffy Duck: The Marvin Missions and NBA Jam are final-only scorecards.",
+    "Mega Man X = 8,2 / 8,4 / 9,3.",
+    "The Jungle Book = 9,0 / 8,4 / 8,7.",
+    "Mega Man 5 = 7,8 / 7,5 / 7,9.",
+    "Gabriel Knight final = 8,1; Jump Raven Graphics = 9,0; Zombie Dinos final = 9.",
+    "Mystic Midway: Phantom Express final = 7,2; Seek & Destroy final = 7,9; Nigel Mansell final = 6,8."
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_009_RECONCILIATION_CHECKPOINT_v1.zip": "ce78e86eca5d6bc67d9dba1490e813242630e266e32194ae60f50f25730207ae",
+    "BLACKPAPER_PU_009_RAW_TEXT_BUILD_v1.zip": "96a51ff75ce155ecb2b11f608aa8d4ffa627b7a8753dc29060383bb1573d88f3",
+    "BLACKPAPER_PU_009_CANON_KNOWLEDGE_BUILD_v1.zip": "ff93e3353830ee6a3c9e785194c3e8804deed31f8490ef310b71d3d76c387a37",
+    "BLACKPAPER_PU_009_CANON_KNOWLEDGE_BUILD_v1.1.zip": "86b36577f323466be49421eb16932a1816f9c14e1b7b2aa04ea2776ac4288f89",
+    "BLACKPAPER_PU_009_RAG_BUILD_v1.zip": "b5a810dc7de7014f1c6da9cb6e6a49c4a3be595d0c3ea69186e783d1e2b61683"
+  }
+}

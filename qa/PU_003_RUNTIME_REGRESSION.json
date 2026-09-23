@@ -1,0 +1,31 @@
+{
+  "version": "v0.2.9.6",
+  "issue_id": "PU_003",
+  "expected": {
+    "pages": 84,
+    "reviews": 43,
+    "rag_chunks": 178,
+    "editor_evidence": 60,
+    "issue_knowledge": 35,
+    "aliases": 20,
+    "page_transcripts": 84
+  },
+  "global_after_install": {
+    "canon_issues": 3,
+    "canon_reviews": 127,
+    "canon_rag_chunks": 466,
+    "canon_editor_evidence": 172,
+    "canon_issue_knowledge": 81,
+    "canon_aliases": 118,
+    "canon_page_transcripts": 252,
+    "rag_db_chunks": 466,
+    "score_sprint_records": 43,
+    "score_sprint_unscored": 1
+  },
+  "queries": [
+    {"q":"Wat waren alle cijfers uit PU 3?","expect":"43 complete canonical scorecards"},
+    {"q":"Wie reviewde Asterix op Game Boy in PU 3?","expect":"Adam Eeuwens"},
+    {"q":"Wat kreeg Bubble Bobble Part 2 voor graphics?","expect":"5,5"},
+    {"q":"Wat kreeg Backgammon voor geluid?","expect":"8,5"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": "v0.2.10.5",
+  "status": "PASS",
+  "regression_scope": "full merged website baseline + PU009",
+  "canon_coverage": {
+    "issues": 9,
+    "expected_reviews": 359,
+    "census_reviews": 359,
+    "title_resolved": 359,
+    "alias_resolved": 209,
+    "raw_context_titles": 359,
+    "raw_context_missing": 0,
+    "wrong_issue_collisions": 0
+  },
+  "pu009_issue_overview": {
+    "prompt": "Vertel uitgebreid over PU 9.",
+    "route": "ISSUE_DEEP_OVERVIEW_RAW",
+    "page_transcripts_available": 84,
+    "raw_page_sources_sampled": 6,
+    "direct_text_overview_sources_sampled": 14,
+    "representative_review_scorecards": 6,
+    "canonical_review_population": 35,
+    "rag_chunks": 199,
+    "expected_behavior": "multi-section issue panorama; never claim complete PU009 issue material is missing"
+  },
+  "hotfix_preservation": {
+    "mb_strrpos_offset_encoding_fix": true,
+    "focused_canon_fail_safe": true,
+    "canon_coverage_router": true,
+    "pu009_schema_normalization": true
+  },
+  "php_lint": "PASS",
+  "sql_required": false,
+  "secrets_in_patch": false
+}

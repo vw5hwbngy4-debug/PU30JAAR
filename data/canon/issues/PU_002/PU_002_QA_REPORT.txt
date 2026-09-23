@@ -1,0 +1,105 @@
+BLACKPAPER PU #002 — FINAL ISSUE INGEST QA
+===========================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+source: 002.pdf
+source SHA256: f979370442714dad6e746c71a9447693a13486002ce56492de7c29cfc28e9b03
+
+PAGE ACCOUNTING
+PDF pages expected: 84
+PDF pages represented: 84
+pages with transcript: 84
+pages missing transcript: 0
+missing page IDs: NONE
+embedded PDF text pages: 82
+OCR fallback pages: [6, 42]
+
+RAG ACCOUNTING
+RAG chunks created: 172
+review article chunks: 47
+  labelled REVIEW: 34
+  labelled PREVIEW: 13
+score/verdict chunks: 47
+issue knowledge chunks: 26
+editorial/column/satirical review-related chunks: 6
+other RAG chunks: 52
+
+HUMAN CANON
+human review records expected: 47
+human review records produced: 47
+resolved scores: 47
+unresolved scores: 0
+direct byline reviewer records: 41
+direct layout association reviewer records: 4
+candidate reviewer records: 0
+unresolved reviewer records: 2
+
+STRUCTURED KNOWLEDGE
+entities indexed: 85
+editor evidence records: 63
+issue knowledge records: 26
+aliases created: 14
+external enrichment records: 0
+
+PROVENANCE
+provenance records: 493
+records with page provenance: 493
+records without page provenance: 0
+
+DUPLICATE CHECKS
+duplicate review IDs: 0
+duplicate RAG chunk IDs: 0
+duplicate entity IDs: 0
+duplicate issue knowledge IDs: 0
+
+ORPHAN CHECKS
+orphan review records: 0
+orphan RAG chunks: 0
+
+JSONL VALIDATION
+PU_002_PAGE_TRANSCRIPTS.jsonl: invalid lines = 0
+PU_002_RAG_CHUNKS.jsonl: invalid lines = 0
+PU_002_HUMAN_CANON_REVIEWS.jsonl: invalid lines = 0
+PU_002_ENTITY_INDEX.jsonl: invalid lines = 0
+PU_002_ALIAS_MAP.jsonl: invalid lines = 0
+PU_002_EDITOR_EVIDENCE.jsonl: invalid lines = 0
+PU_002_ISSUE_KNOWLEDGE.jsonl: invalid lines = 0
+PU_002_PROVENANCE.jsonl: invalid lines = 0
+
+KNOWN INTENTIONAL UNCERTAINTY
+- Shadowrun RPG reviewer = UNRESOLVED.
+- Shadowrun Superior reviewer = UNRESOLVED.
+- Wolfenstein -3D2 is signed 'Game girl'; the underlying person is not inferred.
+
+SPECIAL RECONCILIATION FACTS PRESERVED
+- Inca = Graphics 9,0 / Geluid 9,0 / final 9.
+- Night Trap = Bjorn + Adam shared/direct-layout authorship.
+- Civilization = shared PC / Macintosh review.
+- Zen report-arrow oddity retained literally.
+- Dark Castle report-arrow oddity retained literally.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+JSONL_VALID = PASS
+NO_DUPLICATE_PRIMARY_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+
+MANDATORY PRINCIPLES
+NO SILENT PAGE LOSS = PASS
+NO SILENT REVIEW LOSS = PASS
+NO SILENT SCORE LOSS = PASS
+NO UNMARKED INFERENCE = PASS
+NO EXTERNAL FACT PRESENTED AS PU FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

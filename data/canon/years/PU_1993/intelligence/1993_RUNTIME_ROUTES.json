@@ -1,0 +1,141 @@
+{
+  "schema": "PU_YEAR_RUNTIME_ROUTES_V1",
+  "publication_year": 1993,
+  "routes": {
+    "YEAR_RANKING": {
+      "primary": [
+        "1993_GAME_RANKINGS.json",
+        "1993_SCORE_DISTRIBUTION.json"
+      ],
+      "fallback": [
+        "PU_1993_YEAR_REVIEW_INDEX.jsonl"
+      ],
+      "use_for": [
+        "top/bottom scores",
+        "unique-title rankings",
+        "highest per platform"
+      ]
+    },
+    "REVIEWER_STATS": {
+      "primary": [
+        "1993_REVIEWER_STATS.json"
+      ],
+      "fallback": [
+        "PU_1993_YEAR_REVIEW_INDEX.jsonl"
+      ],
+      "use_for": [
+        "review counts",
+        "strictest/mildest",
+        "median/range",
+        "platform assignments"
+      ]
+    },
+    "PLATFORM_STATS": {
+      "primary": [
+        "1993_PLATFORM_STATS.json"
+      ],
+      "fallback": [
+        "PU_1993_YEAR_REVIEW_INDEX.jsonl"
+      ],
+      "use_for": [
+        "platform means",
+        "sample sizes",
+        "platform winner"
+      ]
+    },
+    "SCORE_DISTRIBUTION": {
+      "primary": [
+        "1993_SCORE_DISTRIBUTION.json"
+      ],
+      "use_for": [
+        "mean",
+        "median",
+        "9+ counts",
+        "score bands"
+      ]
+    },
+    "CROSS_ISSUE_SYNTHESIS": {
+      "primary": [
+        "1993_CROSS_ISSUE_ARCS.jsonl",
+        "1993_READER_FEEDBACK.jsonl"
+      ],
+      "fallback": [
+        "PU_1993_SYNTHESIS_RAG_CHUNKS.jsonl",
+        "PAGE_TRANSCRIPTS",
+        "ISSUE_KNOWLEDGE"
+      ],
+      "use_for": [
+        "hardware arcs",
+        "reader loops",
+        "predictions",
+        "preview→review continuity"
+      ]
+    },
+    "REVIEWER_PROFILE": {
+      "primary": [
+        "1993_REVIEWER_BEHAVIOR.jsonl",
+        "1993_EMULATOR_UPDATES.jsonl",
+        "1993_EMULATOR_CANDIDATES.jsonl"
+      ],
+      "fallback": [
+        "EDITOR_EVIDENCE",
+        "PAGE_TRANSCRIPTS"
+      ],
+      "use_for": [
+        "source-grounded reviewer behavior",
+        "emulator routing"
+      ]
+    },
+    "EDITOR_CONTINUITY": {
+      "primary": [
+        "1993_EDITOR_CONTINUITY.jsonl"
+      ],
+      "fallback": [
+        "mastheads",
+        "EDITOR_EVIDENCE"
+      ],
+      "use_for": [
+        "arrivals",
+        "role changes",
+        "aliases"
+      ]
+    },
+    "ANOMALY_CHECK": {
+      "primary": [
+        "1993_ANOMALIES.jsonl"
+      ],
+      "fallback": [
+        "PU_1993_YEAR_REVIEW_INDEX.jsonl"
+      ],
+      "use_for": [
+        "component gaps",
+        "unresolved reviewers",
+        "edge cases"
+      ]
+    },
+    "ISSUE_CANON": {
+      "primary": [
+        "original issue HUMAN_CANON_REVIEWS / PU001 consolidated canon"
+      ],
+      "use_for": [
+        "single review identity",
+        "score",
+        "reviewer",
+        "component fields"
+      ]
+    },
+    "RAW_TEXT": {
+      "primary": [
+        "PAGE_TRANSCRIPTS",
+        "ISSUE_KNOWLEDGE"
+      ],
+      "use_for": [
+        "direct wording",
+        "letters",
+        "editorials",
+        "historical epistemic distinctions"
+      ]
+    }
+  },
+  "routing_rule": "Prefer deterministic compiled products for arithmetic/rank questions; descend to issue canon or raw text when wording, causality, contemporaneous belief, or disputed identity matters."
+}

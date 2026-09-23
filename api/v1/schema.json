@@ -1,0 +1,19 @@
+{
+  "name": "PUwiki API",
+  "version": "v1",
+  "base": "https://pu30jaar.wolken.page/api/v1/",
+  "endpoints": {
+    "game": "game/{slug}",
+    "editor": "editor/{slug}",
+    "issue": "issue/{issue_number}",
+    "review": "review/{canonical_id}",
+    "search": "search?q={query}"
+  },
+  "verification_priority": [
+    "HUMAN_VERIFIED",
+    "RESOLVED_VISUAL",
+    "RESOLVED",
+    "SCORE_NOT_FOUND",
+    "NOT_SCORED"
+  ]
+}

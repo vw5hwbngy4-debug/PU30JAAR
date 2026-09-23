@@ -1,0 +1,111 @@
+BLACKPAPER / PU30JAAR PU #004 — FINAL ISSUE INGEST QA
+======================================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+source: 004.pdf
+source SHA256: 8c928d636aec415c90811d487a2cbcd9ad299240ed3351e723ed25709abb8ef8
+
+PAGE ACCOUNTING
+PDF pages expected: 84
+PDF pages represented: 84
+pages with transcript: 84
+pages missing transcript: 0
+missing page IDs: NONE
+embedded PDF text pages: 78
+OCR fallback pages: [20, 42, 78, 79, 80, 84]
+
+RAG ACCOUNTING
+RAG chunks created: 185
+review article chunks: 39
+  labelled REVIEW: 35
+  labelled PREVIEW: 4
+score/verdict chunks: 39
+issue knowledge chunks: 41
+page section chunks: 52
+section cluster chunks: 10
+list block chunks: 4
+
+HUMAN CANON
+games contents platform rows: 38
+duplicate Freddy Pharkas Mac/PC contents row: -1
+second independent scorecard inside MiG-29/F-15 combined row: +1
+extra scored How to Host a Mystery board game outside contents: +1
+human review records expected: 39
+human review records produced: 39
+resolved scores: 39
+unresolved scores: 0
+B.O.B. unresolved reviewer records: 1
+
+STRUCTURED KNOWLEDGE
+entities indexed: 101
+aliases created: 19
+editor evidence records: 57
+issue knowledge records: 41
+external enrichment records: 0
+
+PROVENANCE
+provenance records: 528
+records with page provenance: 528
+records without page provenance: 0
+
+DUPLICATE CHECKS
+duplicate review IDs: 0
+duplicate RAG chunk IDs: 0
+duplicate entity IDs: 0
+duplicate issue knowledge IDs: 0
+
+ORPHAN CHECKS
+orphan review records: 0
+orphan RAG chunks: 0
+
+JSONL VALIDATION
+PU_004_PAGE_TRANSCRIPTS.jsonl: invalid lines = 0
+PU_004_RAG_CHUNKS.jsonl: invalid lines = 0
+PU_004_HUMAN_CANON_REVIEWS.jsonl: invalid lines = 0
+PU_004_ENTITY_INDEX.jsonl: invalid lines = 0
+PU_004_ALIAS_MAP.jsonl: invalid lines = 0
+PU_004_EDITOR_EVIDENCE.jsonl: invalid lines = 0
+PU_004_ISSUE_KNOWLEDGE.jsonl: invalid lines = 0
+PU_004_PROVENANCE.jsonl: invalid lines = 0
+
+SPECIAL CANON PRESERVED
+- B.O.B. reviewer = UNRESOLVED.
+- SPIDERBEN = Ben de Dood feature signature/alias.
+- Spider-Man = four platform scorecards.
+- X-Men Mega Drive = separate Adam review.
+- Zelda: The Wand of Gamelon = three plus bullets, zero minus bullets.
+- Zelda third plus = 'Spel is te saven'.
+- How to Host a Mystery Graphics/Geluid = n.v.t.
+- Freddy Pharkas Mac/PC = one shared scorecard.
+- MiG-29 / F-15 combined TOC row = two scorecards.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+ALL_PAGES_HAVE_TRANSCRIPT = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+JSONL_VALID = PASS
+NO_DUPLICATE_PRIMARY_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+BOB_REVIEWER_UNRESOLVED_PRESERVED = PASS
+SPIDERMAN_FOUR_PLATFORM_CARDS_PRESERVED = PASS
+WAND_OF_GAMELON_THREE_PLUS_ZERO_MINUS_PRESERVED = PASS
+HOW_TO_HOST_A_MYSTERY_NVT_PRESERVED = PASS
+
+MANDATORY PRINCIPLES
+NO SILENT PAGE LOSS = PASS
+NO SILENT REVIEW LOSS = PASS
+NO SILENT SCORE LOSS = PASS
+NO UNMARKED INFERENCE = PASS
+NO EXTERNAL FACT PRESENTED AS PU FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

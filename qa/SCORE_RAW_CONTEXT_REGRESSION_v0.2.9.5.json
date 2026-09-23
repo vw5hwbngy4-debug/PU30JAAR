@@ -1,0 +1,40 @@
+{
+  "version": "v0.2.9.5",
+  "tests": [
+    {
+      "question": "Wat kreeg Dead Space in 2023?",
+      "expect": [
+        "97",
+        "PU #343",
+        "Wouter",
+        "same-issue raw review context when retrievable"
+      ],
+      "forbid": [
+        "9,7/10",
+        "PU #179 as primary support"
+      ]
+    },
+    {
+      "sequence": [
+        "Wat kreeg Dead Space in 2023?",
+        "wat zei Wouter erover"
+      ],
+      "expect": [
+        "follow-up resolves Dead Space + 2023 + #343",
+        "answer uses same-issue raw page text if present"
+      ],
+      "forbid": [
+        "claiming only score data exists when raw context was retrieved"
+      ]
+    },
+    {
+      "question": "Wat voor cijfer kreeg Mega Man 3?",
+      "expect": [
+        "8,5/10",
+        "Graphics 8",
+        "Geluid 8",
+        "Kees de Koning"
+      ]
+    }
+  ]
+}

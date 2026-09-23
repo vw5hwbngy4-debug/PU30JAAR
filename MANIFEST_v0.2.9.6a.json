@@ -1,0 +1,9 @@
+{
+  "version": "v0.2.9.6a",
+  "name": "PU003 census hotfix",
+  "issue": 3,
+  "reviews_fixed": 43,
+  "rag_records_fixed": 178,
+  "sql_required": false,
+  "root_cause": "PU003 JSONL records had issue_id but missing explicit issue_number required by runtime census filter"
+}

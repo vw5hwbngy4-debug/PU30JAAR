@@ -1,0 +1,84 @@
+{
+  "version": "v0.2.10.1",
+  "issue": "PU_007",
+  "publication_year": 1994,
+  "expected": {
+    "pages": 84,
+    "canonical_scored_evaluations": 39,
+    "resolved_scores": 39,
+    "unresolved_scores": 0,
+    "unresolved_reviewers": 0,
+    "rag_chunks": 195,
+    "editor_evidence": 53,
+    "issue_knowledge": 53,
+    "entities": 103,
+    "aliases": 29,
+    "provenance": 558
+  },
+  "tests": [
+    {
+      "question": "Wat waren alle cijfers uit PU 7?",
+      "must_route": "ISSUE_CANON_CENSUS",
+      "must_return_canonical_evaluations": 39,
+      "must_not_fall_back_to_top_k": true
+    },
+    {
+      "question": "Wat kreeg Super Baseball 2020 in PU 7?",
+      "expected": {
+        "platform": "Super Nintendo / Sega Mega Drive",
+        "graphics": "7",
+        "sound": "6",
+        "final": "5",
+        "reviewer": "Michael Schaeffer"
+      },
+      "must_preserve_shared_scorecard": true
+    },
+    {
+      "question": "Wat kreeg Dracula in PU 7?",
+      "expected": {
+        "platform": "Sega Mega Drive / Super Nintendo / Game Boy",
+        "graphics": "6",
+        "sound": "7",
+        "final": "7",
+        "reviewer": "Laura ten Seldam"
+      },
+      "must_preserve_shared_scorecard": true
+    },
+    {
+      "question": "Wat kreeg Dragon Strike in PU 7?",
+      "expected": {
+        "article_type": "BORDSPEL",
+        "final": "8",
+        "reviewer": "Ben de Dood"
+      },
+      "must_not_invent_graphics_or_sound": true
+    },
+    {
+      "question": "Wat kreeg NBA Jam in PU 7?",
+      "expected": {
+        "platform": "Sega Mega Drive",
+        "graphics": "9,8",
+        "sound": "9",
+        "final": "9,5",
+        "reviewer": "Kees de Koning"
+      },
+      "must_not_create_second_scored_evaluation_from_procheck": true
+    },
+    {
+      "question": "Wat kreeg Terminator 2: Rampage in PU 7?",
+      "expected": {
+        "platform": "PC",
+        "graphics": "9",
+        "sound": "8",
+        "final": "9",
+        "reviewer": "Ben de Dood"
+      }
+    },
+    {
+      "question": "Wat was de top 10 beste games van 1994?",
+      "must_not_claim_year_complete": true,
+      "expected_coverage": "PARTIAL_DEEP_CANON_YEAR",
+      "note": "Only PU #006 and PU #007 are deep canon for 1994 at this point."
+    }
+  ]
+}

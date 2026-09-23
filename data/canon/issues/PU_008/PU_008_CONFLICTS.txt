@@ -1,0 +1,158 @@
+BLACKPAPER PU #008 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority order: HUMAN_VISUAL_VERIFIED > DIRECT_ISSUE_TEXT > machine/OCR structuring.
+No external/web knowledge was used to decide what Power Unlimited printed.
+
+1. Census
+   earlier/oral/index risk: 40 game/platform rows in Spellen contents
+   reconciled: 40 scored evaluations
+   basis: Ottifants occupies two platform rows but one shared Mega Drive/Game Gear scorecard (-1); Magic is a scored card game outside the Spellen list (+1). Equation: 40 - 1 + 1 = 40.
+
+2. The Ren & Stimpy Show title
+   earlier/oral/index risk: The Ravens Stemy Show
+   reconciled: The Ren & Stimpy Show
+   basis: Direct p24 heading.
+
+3. Super Widget title
+   earlier/oral/index risk: Super Witches
+   reconciled: Super Widget
+   basis: Direct p30 heading.
+
+4. Mr. Nutz title
+   earlier/oral/index risk: Mr Nuts
+   reconciled: Mr. Nutz
+   basis: Direct p29 heading.
+
+5. Eternal Champions reviewer
+   earlier/oral/index risk: Case
+   reconciled: Kees de Koning
+   basis: Direct p34-p35 byline.
+
+6. Robocop 3 reviewer
+   earlier/oral/index risk: Case
+   reconciled: Kees de Koning
+   basis: Direct p36 byline.
+
+7. Rolling Thunder title
+   earlier/oral/index risk: Rolling Thunder
+   reconciled: Rolling Thunder 3
+   basis: Direct p37 heading.
+
+8. Zool title
+   earlier/oral/index risk: ZOL
+   reconciled: Zool
+   basis: Direct p38 heading.
+
+9. Pink Goes to Hollywood final
+   earlier/oral/index risk: not captured in dictation
+   reconciled: 7,9
+   basis: Direct p39 scorecard.
+
+10. Ottifants platform accounting
+   earlier/oral/index risk: Mega Drive and Game Gear contents rows
+   reconciled: one shared Mega Drive / Game Gear scored identity
+   basis: Direct p41 page footer + single scorecard.
+
+11. Tiny Toon title
+   earlier/oral/index risk: Tiny Toon Adventures
+   reconciled: Tiny Toon Adventures: Montana's Movie Madness
+   basis: Direct p42 heading.
+
+12. Turtles title
+   earlier/oral/index risk: Teenage Mutant Hero Turtles 3
+   reconciled: Teenage Mutant Hero Turtles III: Radical Rescue
+   basis: Direct p43 heading.
+
+13. Ground Zero title
+   earlier/oral/index risk: Gradius Zero, Texas
+   reconciled: Ground Zero Texas
+   basis: Direct pp46-47 heading.
+
+14. Steel Machine final
+   earlier/oral/index risk: 8
+   reconciled: 8,8
+   basis: Direct p53 scorecard.
+
+15. Mean Arenas reviewer
+   earlier/oral/index risk: possible Bjorn by proximity
+   reconciled: UNRESOLVED
+   basis: No visible byline on p54. Adjacency/style is insufficient evidence.
+
+16. Arabian Nights reviewer
+   earlier/oral/index risk: possible Bjorn by proximity
+   reconciled: UNRESOLVED
+   basis: No visible byline on p54. Adjacency/style is insufficient evidence.
+
+17. Microcosm final
+   earlier/oral/index risk: 8,3
+   reconciled: 7,3
+   basis: Direct p55 scorecard.
+
+18. Flight Sim Toolkit title
+   earlier/oral/index risk: Flight Sim 2
+   reconciled: Flight Sim Toolkit
+   basis: Direct p60 heading.
+
+19. Flight Sim Toolkit graphics
+   earlier/oral/index risk: 6,9
+   reconciled: 7,9
+   basis: Direct p60 scorecard.
+
+20. Sid & Al title
+   earlier/oral/index risk: Sit and Alt Incredible Toons
+   reconciled: Sid & Al's Incredible Toons
+   basis: Direct p61 heading.
+
+21. Cartoon Workshop title
+   earlier/oral/index risk: Dungeon Adventure Cartoon Workshop
+   reconciled: Tiny Toon Adventures Cartoon Workshop
+   basis: Direct p63 heading.
+
+22. Blake Stone title
+   earlier/oral/index risk: Blackstone Aliens of Gold
+   reconciled: Blake Stone Aliens of Gold
+   basis: Direct p65 heading.
+
+23. Magic sound
+   earlier/oral/index risk: not applicable
+   reconciled: GELUID n.v.t.
+   basis: Direct p67 scorecard; no numeric sound value is fabricated.
+
+24. Leisure Suit Larry 6 report
+   earlier/oral/index risk: human paraphrase 'vrouwvriendelijk'
+   reconciled: printed green-box text 'Vrouwonvriendelijk'
+   basis: Direct p66 scorecard is preserved literally.
+
+CENSUS RECONCILIATION
+---------------------
+Printed Spellen game/platform rows: 40
+Ottifants duplicate platform row because one scorecard covers Mega Drive + Game Gear: -1
+Indexed scored identities: 39
+Magic scored card game outside Spellen list: +1
+Final scored-evaluation census: 40 - 1 + 1 = 40
+
+FINAL HUMAN SCORE COVERAGE
+40 / 40 final scores resolved.
+0 unresolved final scores.
+2 unresolved reviewer identities: Mean Arenas; Arabian Nights.
+Those reviewers are intentionally not guessed.
+
+FINAL INGEST PACKAGING CHECK
+============================
+
+All reconciliation outcomes above are preserved.
+
+Final canonical special cases:
+- PU #008 scored-evaluation census = 40.
+- Ottifants = one shared Sega Mega Drive / Game Gear scorecard.
+- Magic = scored card game outside Spellen, Graphics 9 / Geluid n.v.t. / final 9.
+- Pink Goes to Hollywood = final 7,9.
+- Steel Machine = final 8,8.
+- Microcosm = final 7,3.
+- Flight Sim Toolkit = Graphics 7,9.
+- Mean Arenas reviewer = UNRESOLVED.
+- Arabian Nights reviewer = UNRESOLVED.
+
+The two unresolved reviewer fields are evidence-preserving terminal states, not packaging failures.
+No new conflicts were introduced during packaging.

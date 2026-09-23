@@ -1,0 +1,19 @@
+{
+  "version": "v0.2.10.1a",
+  "patch": "YEAR_DISCOVERY_BRAND_HOTFIX",
+  "base": "v0.2.10.1",
+  "sql_required": false,
+  "canon_data_changed": false,
+  "emulators_changed": false,
+  "features": [
+    "YEAR_DISCOVERY intent",
+    "partial-year discovery restricted to completed deep-canon issues",
+    "'tot nu toe' bound to current year deep-canon frontier",
+    "public BLACKPAPER terminology suppressed",
+    "output brand sanitizer"
+  ],
+  "current_partial_1994_expected_issues": [
+    6,
+    7
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "v0.2.10.3",
+  "patch": "CANON_COVERAGE_ROUTER + REGRESSION_HARNESS",
+  "principle": "Canonical issue census defines existence. Semantic retrieval enriches known records but may never define whether a reviewed title exists.",
+  "required_routes": [
+    {
+      "question": "Welke games stonden in PU 8?",
+      "must_route": "ISSUE_CANON_TITLE_LIST",
+      "must_return_canonical_titles": 40,
+      "must_include": ["Sonic 3", "Myst", "Ottifants", "Magic"],
+      "must_not_fall_back_to_top_k": true
+    },
+    {
+      "question": "Vertel me uitgebreid over PU 8.",
+      "must_activate": "ISSUE_CANON_COVERAGE",
+      "coverage_count": 40,
+      "rule": "Unselected titles may not be described as absent."
+    },
+    {
+      "question": "Had PU ook Sonic 3 gereviewed? Wat zeiden ze daar indepth over?",
+      "must_route_behavior": "FOCUSED_CANON_ENTITY",
+      "resolved_title": "Sonic 3",
+      "must_keep_same_issue_context": true
+    },
+    {
+      "question": "Wat waren alle cijfers uit PU 8?",
+      "must_route": "ISSUE_CANON_CENSUS",
+      "must_return_canonical_evaluations": 40
+    }
+  ],
+  "harness": {
+    "endpoint": "/api/canon_coverage.php",
+    "detail_endpoint": "/api/canon_coverage.php?detail=1",
+    "cli": "php qa/CANON_COVERAGE_REGRESSION.php",
+    "gates": [
+      "metadata expected review count equals census count for every completed deep-canon issue",
+      "every canonical review title resolves inside its own issue",
+      "every issue-local game alias resolves to the same canonical entity",
+      "zero wrong-issue collisions",
+      "raw review-context coverage is measured separately and does not turn a valid scorecard into a missing review"
+    ]
+  }
+}

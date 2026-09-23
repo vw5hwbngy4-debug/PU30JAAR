@@ -1,0 +1,114 @@
+{
+  "version": "v0.2.10.4",
+  "issue": "PU_009",
+  "status": "PASS",
+  "source_state": "ISSUE_INGEST_COMPLETE / FINAL_INGEST_PACKAGED",
+  "counts": {
+    "pages": 84,
+    "reviews": 35,
+    "unique_review_ids": 35,
+    "rag_chunks": 199,
+    "aliases": 50,
+    "editor_evidence": 47,
+    "issue_knowledge": 64,
+    "provenance": 587
+  },
+  "runtime_probe": {
+    "census": 35,
+    "coverage": {
+      "issue": 9,
+      "year": 1994,
+      "count": 35,
+      "titles": [
+        "Mega Man X",
+        "Top Gear 2",
+        "Secret of Mana",
+        "Metal Marines",
+        "The Legend of the Mystical Ninja",
+        "Inspector Gadget",
+        "Lost Dimensions",
+        "Super Battle Tank 2",
+        "Daffy Duck: The Marvin Missions",
+        "NBA Jam",
+        "Best of the Best: Championship Karate",
+        "ToeJam & Earl in Panic on Funkotron",
+        "Castlevania: The New Generation",
+        "Dr. Robotnik's Mean Bean Machine",
+        "The Addams Family",
+        "De Smurfen",
+        "Desert Speedtrap: Road Runner & Wile E. Coyote",
+        "The Jungle Book",
+        "Garfield Labyrinth",
+        "Mega Man IV",
+        "Mega Man 5",
+        "Rodland",
+        "American Revolt Data Disk",
+        "Gabriel Knight: Sins of the Fathers",
+        "Daryl F. Gates' Police Quest: Open Season",
+        "Alone in the Dark 2",
+        "SimCity 2000",
+        "Conspiracy",
+        "Jump Raven",
+        "Double Switch",
+        "Zombie Dinos",
+        "Mystic Midway: Phantom Express",
+        "Nigel Mansell's World Championship",
+        "Seek & Destroy",
+        "Zool"
+      ]
+    },
+    "resolve": {
+      "Mega Man X": {
+        "entity_key": "mega man x",
+        "records": 1
+      },
+      "De Smurfen": {
+        "entity_key": "de smurfen",
+        "records": 1
+      },
+      "NBA Jam": {
+        "entity_key": "nba jam",
+        "records": 1
+      },
+      "Zool": {
+        "entity_key": "zool",
+        "records": 1
+      }
+    },
+    "raw_mega_man_x": 3,
+    "raw_nba_jam": 2,
+    "rag_mega_man_x": 8
+  },
+  "coverage_issue": {
+    "year": 1994,
+    "expected_reviews": 35,
+    "census_reviews": 35,
+    "title_resolved": 35,
+    "title_total": 35,
+    "alias_resolved": 36,
+    "alias_total": 36,
+    "raw_context_titles": 35,
+    "raw_context_missing": 0,
+    "status": "PASS",
+    "failures": []
+  },
+  "hotfix_preserved": {
+    "mb_strrpos_offset_encoding_fix": true,
+    "focused_route_fail_safe": true
+  },
+  "sql": {
+    "hostinger_mariadb_safe": true,
+    "uses_values_function": true,
+    "upstream_as_new_removed": true
+  },
+  "intentional_unresolved_reviewers": [
+    "Zool",
+    "Seek & Destroy",
+    "Nigel Mansell's World Championship"
+  ],
+  "notes": [
+    "Upstream factual canon preserved.",
+    "Runtime transport normalization fills missing issue_number/publication_year from issue metadata without mutating source JSONL.",
+    "Regression gate now treats raw-context misses as FAIL."
+  ]
+}

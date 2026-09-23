@@ -1,0 +1,77 @@
+BLACKPAPER PU #004 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority order: HUMAN_VISUAL_VERIFIED > DIRECT_ISSUE_TEXT > machine/OCR structuring.
+No scorecard is assigned to a reviewer based only on adjacency or OCR order.
+
+1. Spider-Man Super Nintendo identity
+   earlier/oral: Human flagged possible X-Men ambiguity
+   reconciled: Spiderman / Super Nintendo scorecard
+   basis: Direct user photo: p31 remains inside the SPIDERMAN feature; separate X-Men Mega Drive review starts p32.
+
+2. Spiderman Game Boy negative bullet
+   earlier/oral: oral: 'rommelige personages'
+   reconciled: 'Spiderman lijkt niet. Rommelige graphics'
+   basis: Direct user photo of p31.
+
+3. Goof Troop title
+   earlier/oral: oral: Golf Troop
+   reconciled: Goof Troop
+   basis: Direct printed title p34.
+
+4. Plok positive bullet
+   earlier/oral: oral: 'meestleukste spelletje sinds maanden'
+   reconciled: 'Het meligste spelletje sinds maanden'
+   basis: Direct printed scorecard p35.
+
+5. Pinball Dreams / Starwars article type
+   earlier/oral: oral: previews
+   reconciled: REVIEW
+   basis: Direct visible page heading p49.
+
+6. Zelda: The Wand of Gamelon verdict
+   earlier/oral: oral transcription implied possible negative / 'spel is te 7'
+   reconciled: UP: 'Spel is te saven'; no negative bullets
+   basis: Direct user photo p57.
+
+7. How to Host a Mystery title
+   earlier/oral: human title
+   reconciled: How to Host a Mystery: Star Trek The Next Generation
+   basis: Direct visible title p59; body also says How To Solve A Mystery as series wording.
+
+8. B.O.B. reviewer
+   earlier/oral: possible inherited previous-page author
+   reconciled: UNRESOLVED
+   basis: No reviewer byline confirmed on p39; adjacency is not enough.
+
+CENSUS RECONCILIATION
+---------------------
+Games contents platform rows: 38
+Minus duplicate platform row for one shared Freddy Pharkas Mac/PC scorecard: -1
+Plus second independent scorecard hidden inside combined MiG-29 vs F-15 contents row: +1
+Plus scored How to Host a Mystery board game outside the games contents: +1
+Final scored-evaluation census: 38 - 1 + 1 + 1 = 39
+
+FINAL HUMAN SCORE COVERAGE
+39 / 39 final scores resolved.
+B.O.B. reviewer remains intentionally unresolved.
+
+FINAL INGEST PACKAGING CHECK
+============================
+
+The reconciliation results above were preserved in the final ingest package.
+
+Final canonical special cases:
+- PU #004 scored-evaluation census = 39.
+- B.O.B. reviewer = UNRESOLVED.
+- SPIDERBEN = direct feature signature/alias for Ben de Dood.
+- Spider-Man has four separate platform scorecards on pp30-31.
+- Separate X-Men Mega Drive review begins p32 and is by Adam Eeuwens.
+- Zelda: The Wand of Gamelon has three positive report bullets and no negative bullet.
+- Zelda third plus = 'Spel is te saven'.
+- How to Host a Mystery has Graphics/Geluid n.v.t., not zero.
+- Freddy Pharkas Mac/PC = one shared scorecard.
+- MiG-29 / F-15 combined contents row = two independent scorecards.
+- Pinball Dreams and Starwars on p49 remain REVIEW.
+
+No new conflicts were introduced during final packaging.

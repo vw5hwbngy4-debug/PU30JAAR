@@ -1,0 +1,111 @@
+{
+  "issue_id": "PU_003",
+  "publication": "Power Unlimited",
+  "issue_number": 3,
+  "publication_year": 1993,
+  "publication_month": "October",
+  "issue_label": "PU 1-3",
+  "pdf_page_count": 84,
+  "source_pdf": "003.pdf",
+  "source_pdf_sha256": "f6b0ddf980a5fe646c778b8ec9c524737ee51128dc3a582fd473d1842052b671",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "toc_game_rows": 42,
+    "extra_scored_evaluations_outside_toc": 1,
+    "scored_evaluations": 43,
+    "resolved_scores": 43,
+    "unresolved_scores": 0,
+    "reviewer_status_counts": {
+      "DIRECT_BYLINE": 43
+    },
+    "article_type_counts": {
+      "PREVIEW": 14,
+      "REVIEW": 29
+    }
+  },
+  "rag_census": {
+    "total_chunks": 178,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 43,
+      "SCORE_VERDICT": 43,
+      "ISSUE_KNOWLEDGE": 35,
+      "PAGE_SECTION": 45,
+      "SECTION_CLUSTER": 8,
+      "LIST_BLOCK": 4
+    }
+  },
+  "page_census": {
+    "page_type_counts": {
+      "COVER": 1,
+      "ADVERTISEMENT": 12,
+      "EDITORIAL": 1,
+      "CONTENTS": 2,
+      "LETTERS": 4,
+      "NEWS": 5,
+      "OTHER": 15,
+      "FEATURE": 4,
+      "PREVIEW": 11,
+      "REVIEW": 28,
+      "COLUMN": 1
+    },
+    "transcript_origin_counts": {
+      "PDF_TEXT_LAYER": 78,
+      "OCR_FALLBACK": 6
+    },
+    "fidelity_confidence_counts": {
+      "LOW": 8,
+      "HIGH": 65,
+      "MEDIUM": 11
+    },
+    "ocr_fallback_pages": [
+      2,
+      4,
+      17,
+      76,
+      77,
+      84
+    ]
+  },
+  "structured_counts": {
+    "entities": 93,
+    "aliases": 20,
+    "editor_evidence": 60,
+    "issue_knowledge": 35
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "known_intentional_uncertainties": [
+    "Realms of Arkania reviewer byline is printed as ROLE GIRL; underlying real-person identity intentionally unresolved."
+  ],
+  "special_canon_notes": [
+    "Space Hulk board-game sound component is printed as n.v.t., not a numeric score.",
+    "Street Fighter II Turbo and Mortal Kombat scorecards are associated by direct visible layout in a shared comparison feature.",
+    "Bubble Bobble Part 2 graphics corrected to 5,5 from direct scan.",
+    "Backgammon sound corrected to 8,5 from direct scan.",
+    "V for Victory preserved as printed title with Macintosh / PC platform context.",
+    "Gordo 106 preserved as printed title."
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_003_RECONCILIATION_CHECKPOINT_v1.zip": "b0c87bde44e3ebf3a0d8a67844d90d4a1bc4dacb1bbaa69eeb90208aa2c454c3",
+    "BLACKPAPER_PU_003_RAW_TEXT_BUILD_v1.zip": "fef49fe0dd6fb21f218a47ce1348c6c11ac3c7016a4db372a981ae4e9a14b087",
+    "BLACKPAPER_PU_003_CANON_KNOWLEDGE_BUILD_v1.zip": "470a4ffe12178d51e564136eb65116f0f5a64c9633c4e6fb1b0be73823ece963",
+    "BLACKPAPER_PU_003_RAG_BUILD_v1.zip": "7f00107907bfa1002a0c19f8233656961f273849aab9dfc9636591e6a9762a42"
+  }
+}

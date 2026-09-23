@@ -1,0 +1,73 @@
+PU30JAAR / BLACKPAPER PU #009 — FINAL ISSUE INGEST QA
+=======================================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+009.pdf
+April 1994
+Nummer 4, Jaargang 2
+SHA256: 553da0377c52511ee95e362b17582111a5fd40c83205c2089e6dc72cfe342009
+
+PAGE ACCOUNTING
+84/84 physical pages represented
+84/84 non-empty best transcripts
+embedded PDF text pages: 68
+OCR fallback pages: [1, 2, 13, 21, 31, 32, 33, 35, 39, 42, 43, 46, 50, 68, 70, 73]
+
+CANON ACCOUNTING
+35/35 canonical scored evaluations
+35/35 final scores resolved
+unique review record IDs: 35/35
+intentional unresolved reviewers: ['Zool', 'Seek & Destroy', "Nigel Mansell's World Championship"]
+
+RAG ACCOUNTING
+total chunks: 199
+review article chunks: 35
+score/verdict chunks: 35
+issue knowledge chunks: 64
+page section chunks: 42
+section cluster chunks: 17
+list block chunks: 6
+
+STRUCTURED KNOWLEDGE
+entities: 106
+aliases: 50
+editor evidence: 47
+issue knowledge: 64
+provenance: 587
+
+STRUCTURAL HOTFIX
+CANON/KNOWLEDGE v1 duplicate review-ID defect detected by final QA.
+CANON/KNOWLEDGE v1.1 assigns PU_009_REVIEW_001 through PU_009_REVIEW_035.
+Factual canon changed: NO.
+
+SPECIAL CANON
+GAME SMURF printed / Game Boy canonical = PASS
+four final-only scorecards have no invented components = PASS
+three p66 CD32 reviewers remain UNRESOLVED = PASS
+critical direct-scan score corrections = PASS
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+ALL_PAGES_HAVE_TRANSCRIPT = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+UNIQUE_REVIEW_RECORD_IDS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+KNOWN_UNRESOLVED_REVIEWERS_PRESERVED = PASS
+NO_REVIEWER_GUESSED_FROM_ADJACENCY = PASS
+GAME_SMURF_SOURCE_CANON_DISTINCTION_PRESERVED = PASS
+FINAL_ONLY_COMPONENT_SCORES_NOT_FABRICATED = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+NO_DUPLICATE_RAG_IDS = PASS
+NO_DUPLICATE_ENTITY_IDS = PASS
+NO_DUPLICATE_KNOWLEDGE_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+CRITICAL_DIRECT_SCAN_CORRECTIONS_PRESERVED = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

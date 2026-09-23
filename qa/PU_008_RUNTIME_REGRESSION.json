@@ -1,0 +1,99 @@
+{
+  "version": "v0.2.10.2",
+  "issue": "PU_008",
+  "publication_year": 1994,
+  "expected": {
+    "pages": 84,
+    "canonical_scored_evaluations": 40,
+    "resolved_scores": 40,
+    "unresolved_scores": 0,
+    "unresolved_reviewers": [
+      "Mean Arenas",
+      "Arabian Nights"
+    ],
+    "rag_chunks": 196,
+    "editor_evidence": 52,
+    "issue_knowledge": 52,
+    "entities": 106,
+    "aliases": 32,
+    "provenance": 564
+  },
+  "tests": [
+    {
+      "question": "Wat waren alle cijfers uit PU 8?",
+      "must_route": "ISSUE_CANON_CENSUS",
+      "must_return_canonical_evaluations": 40,
+      "must_not_fall_back_to_top_k": true
+    },
+    {
+      "question": "Wat kreeg Ottifants in PU 8?",
+      "expected": {
+        "platform": "Sega Mega Drive / Game Gear",
+        "graphics": "7,5",
+        "sound": "7",
+        "final": "7,5",
+        "reviewer": "Michael Schaeffer"
+      },
+      "must_preserve_shared_scorecard": true
+    },
+    {
+      "question": "Wat kreeg Magic in PU 8?",
+      "expected": {
+        "article_type": "KAARTSPEL",
+        "platform": "Card game",
+        "graphics": "9",
+        "sound": "n.v.t.",
+        "final": "9",
+        "reviewer": "Ben de Dood"
+      },
+      "must_preserve_non_numeric_sound": true
+    },
+    {
+      "question": "Wat kreeg Pink Goes to Hollywood in PU 8?",
+      "expected": {
+        "platform": "Sega Mega Drive",
+        "graphics": "8,5",
+        "sound": "9",
+        "final": "7,9",
+        "reviewer": "Adam Eeuwens"
+      }
+    },
+    {
+      "question": "Wat kreeg Flight Sim Toolkit in PU 8?",
+      "expected": {
+        "platform": "PC",
+        "graphics": "7,9",
+        "sound": "7",
+        "final": "8,4",
+        "reviewer": "David Lemereis"
+      }
+    },
+    {
+      "question": "Wie reviewde Mean Arenas in PU 8?",
+      "expected": "UNRESOLVED",
+      "must_not_guess_reviewer": true
+    },
+    {
+      "question": "Wie reviewde Arabian Nights in PU 8?",
+      "expected": "UNRESOLVED",
+      "must_not_guess_reviewer": true
+    },
+    {
+      "question": "Geef me een rondleiding door 1994 tot nu toe.",
+      "expected_route": "YEAR_DISCOVERY",
+      "expected_primary_issues": [
+        6,
+        7,
+        8
+      ],
+      "expected_coverage": "PARTIAL_DEEP_CANON_YEAR",
+      "must_not_use_later_unprocessed_1994_issues_as_primary_evidence": true
+    },
+    {
+      "question": "Wat was de top 10 beste games van 1994?",
+      "expected_coverage": "PARTIAL_DEEP_CANON_YEAR",
+      "must_not_claim_year_complete": true,
+      "note": "Current deep canon is PU #006–#008 only."
+    }
+  ]
+}

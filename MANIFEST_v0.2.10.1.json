@@ -1,0 +1,42 @@
+{
+  "version": "v0.2.10.1",
+  "patch": "PU007_DEEP_CANON",
+  "issue_id": "PU_007",
+  "issue_number": 7,
+  "publication_year": 1994,
+  "publication_month": "February",
+  "issue_label": "Nummer 2, Jaargang 2",
+  "source_sha256": "9f858f028c914d319ed068c4a4f928f5c62a8b3745ec62951bfc96098fdf0185",
+  "counts": {
+    "pages": 84,
+    "reviews": 39,
+    "rag_chunks": 195,
+    "editor_evidence": 53,
+    "issue_knowledge": 53,
+    "entities": 103,
+    "aliases": 29,
+    "provenance": 558
+  },
+  "schema_fixes": [
+    "issue_number=7 added to all canonical review records",
+    "issue_number=7 added to all local RAG records"
+  ],
+  "runtime_preserved": [
+    "v0.2.10.0a multi-platform scorecard evidence fix",
+    "1994 partial-year ranking guardrail",
+    "1993 YEAR_SYNTHESIS + YEAR_INTELLIGENCE"
+  ],
+  "sql_to_run": "database/PU_007_LIVE_IMPORT_ALL_HOSTINGER_SAFE.sql",
+  "sql_files_in_patch": 1,
+  "expected_live_totals": {
+    "deep_canon_issues": 7,
+    "deep_canon_pages": 588,
+    "canonical_scored_evaluations": 284,
+    "local_issue_rag_chunks": 1220,
+    "editor_evidence": 393,
+    "issue_knowledge": 269,
+    "aliases": 221,
+    "page_transcripts": 588,
+    "rag_db_chunks": 1238
+  }
+}

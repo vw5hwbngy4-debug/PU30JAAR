@@ -1,0 +1,454 @@
+{
+  "schema": "PU_YEAR_PLATFORM_STATS_V1",
+  "publication_year": 1993,
+  "policy": {
+    "alias_normalization": [
+      "Super NES→Super Nintendo",
+      "Sega MegaDrive→Sega Mega Drive",
+      "Philips CD-i→CD-i",
+      "Sega Game Gear→Game Gear",
+      "European NES→NES"
+    ],
+    "composite_platform_records": "Combined labels such as PC / Macintosh remain separate and are not duplicated into both platform means.",
+    "ranking_threshold": "At least 5 single-platform evaluations."
+  },
+  "platforms": [
+    {
+      "platform": "Super Nintendo",
+      "evaluation_count": 47,
+      "mean_score_10": 7.834,
+      "median_score_10": 8.0,
+      "min_score_10": 5.0,
+      "max_score_10": 9.6,
+      "count_9_plus": 9,
+      "video_game_evaluation_count": 46,
+      "source_review_ids": [
+        "PU_1993_REVIEW_001",
+        "PU_1993_REVIEW_004",
+        "PU_1993_REVIEW_006",
+        "PU_1993_REVIEW_014",
+        "PU_1993_REVIEW_015",
+        "PU_1993_REVIEW_023",
+        "PU_1993_REVIEW_024",
+        "PU_1993_REVIEW_025",
+        "PU_1993_REVIEW_026",
+        "PU_1993_REVIEW_027",
+        "PU_1993_REVIEW_028",
+        "PU_1993_REVIEW_039",
+        "PU_1993_REVIEW_040",
+        "PU_1993_REVIEW_041",
+        "PU_1993_REVIEW_042",
+        "PU_1993_REVIEW_045",
+        "PU_1993_REVIEW_048",
+        "PU_1993_REVIEW_051",
+        "PU_1993_REVIEW_056",
+        "PU_1993_REVIEW_057",
+        "PU_1993_REVIEW_087",
+        "PU_1993_REVIEW_089",
+        "PU_1993_REVIEW_090",
+        "PU_1993_REVIEW_091",
+        "PU_1993_REVIEW_092",
+        "PU_1993_REVIEW_093",
+        "PU_1993_REVIEW_094",
+        "PU_1993_REVIEW_095",
+        "PU_1993_REVIEW_096",
+        "PU_1993_REVIEW_106",
+        "PU_1993_REVIEW_131",
+        "PU_1993_REVIEW_133",
+        "PU_1993_REVIEW_134",
+        "PU_1993_REVIEW_135",
+        "PU_1993_REVIEW_136",
+        "PU_1993_REVIEW_137",
+        "PU_1993_REVIEW_138",
+        "PU_1993_REVIEW_139",
+        "PU_1993_REVIEW_140",
+        "PU_1993_REVIEW_168",
+        "PU_1993_REVIEW_169",
+        "PU_1993_REVIEW_171",
+        "PU_1993_REVIEW_172",
+        "PU_1993_REVIEW_173",
+        "PU_1993_REVIEW_174",
+        "PU_1993_REVIEW_175",
+        "PU_1993_REVIEW_177"
+      ]
+    },
+    {
+      "platform": "Game Boy",
+      "evaluation_count": 32,
+      "mean_score_10": 7.2062,
+      "median_score_10": 7.25,
+      "min_score_10": 4.0,
+      "max_score_10": 9.0,
+      "count_9_plus": 1,
+      "video_game_evaluation_count": 32,
+      "source_review_ids": [
+        "PU_1993_REVIEW_016",
+        "PU_1993_REVIEW_017",
+        "PU_1993_REVIEW_018",
+        "PU_1993_REVIEW_019",
+        "PU_1993_REVIEW_020",
+        "PU_1993_REVIEW_021",
+        "PU_1993_REVIEW_022",
+        "PU_1993_REVIEW_064",
+        "PU_1993_REVIEW_065",
+        "PU_1993_REVIEW_066",
+        "PU_1993_REVIEW_067",
+        "PU_1993_REVIEW_068",
+        "PU_1993_REVIEW_069",
+        "PU_1993_REVIEW_070",
+        "PU_1993_REVIEW_071",
+        "PU_1993_REVIEW_088",
+        "PU_1993_REVIEW_101",
+        "PU_1993_REVIEW_115",
+        "PU_1993_REVIEW_116",
+        "PU_1993_REVIEW_117",
+        "PU_1993_REVIEW_118",
+        "PU_1993_REVIEW_119",
+        "PU_1993_REVIEW_130",
+        "PU_1993_REVIEW_142",
+        "PU_1993_REVIEW_149",
+        "PU_1993_REVIEW_150",
+        "PU_1993_REVIEW_151",
+        "PU_1993_REVIEW_152",
+        "PU_1993_REVIEW_189",
+        "PU_1993_REVIEW_190",
+        "PU_1993_REVIEW_191",
+        "PU_1993_REVIEW_192"
+      ]
+    },
+    {
+      "platform": "Sega Mega Drive",
+      "evaluation_count": 29,
+      "mean_score_10": 8.2345,
+      "median_score_10": 8.2,
+      "min_score_10": 5.0,
+      "max_score_10": 9.8,
+      "count_9_plus": 11,
+      "video_game_evaluation_count": 29,
+      "source_review_ids": [
+        "PU_1993_REVIEW_003",
+        "PU_1993_REVIEW_005",
+        "PU_1993_REVIEW_010",
+        "PU_1993_REVIEW_012",
+        "PU_1993_REVIEW_013",
+        "PU_1993_REVIEW_034",
+        "PU_1993_REVIEW_035",
+        "PU_1993_REVIEW_044",
+        "PU_1993_REVIEW_050",
+        "PU_1993_REVIEW_053",
+        "PU_1993_REVIEW_055",
+        "PU_1993_REVIEW_085",
+        "PU_1993_REVIEW_097",
+        "PU_1993_REVIEW_098",
+        "PU_1993_REVIEW_099",
+        "PU_1993_REVIEW_100",
+        "PU_1993_REVIEW_129",
+        "PU_1993_REVIEW_132",
+        "PU_1993_REVIEW_155",
+        "PU_1993_REVIEW_156",
+        "PU_1993_REVIEW_157",
+        "PU_1993_REVIEW_158",
+        "PU_1993_REVIEW_167",
+        "PU_1993_REVIEW_183",
+        "PU_1993_REVIEW_184",
+        "PU_1993_REVIEW_185",
+        "PU_1993_REVIEW_186",
+        "PU_1993_REVIEW_187",
+        "PU_1993_REVIEW_188"
+      ]
+    },
+    {
+      "platform": "PC",
+      "evaluation_count": 25,
+      "mean_score_10": 7.844,
+      "median_score_10": 8.0,
+      "min_score_10": 6.0,
+      "max_score_10": 9.6,
+      "count_9_plus": 5,
+      "video_game_evaluation_count": 25,
+      "source_review_ids": [
+        "PU_1993_REVIEW_009",
+        "PU_1993_REVIEW_029",
+        "PU_1993_REVIEW_030",
+        "PU_1993_REVIEW_037",
+        "PU_1993_REVIEW_052",
+        "PU_1993_REVIEW_054",
+        "PU_1993_REVIEW_058",
+        "PU_1993_REVIEW_059",
+        "PU_1993_REVIEW_060",
+        "PU_1993_REVIEW_061",
+        "PU_1993_REVIEW_108",
+        "PU_1993_REVIEW_109",
+        "PU_1993_REVIEW_111",
+        "PU_1993_REVIEW_112",
+        "PU_1993_REVIEW_126",
+        "PU_1993_REVIEW_127",
+        "PU_1993_REVIEW_163",
+        "PU_1993_REVIEW_164",
+        "PU_1993_REVIEW_165",
+        "PU_1993_REVIEW_166",
+        "PU_1993_REVIEW_198",
+        "PU_1993_REVIEW_199",
+        "PU_1993_REVIEW_200",
+        "PU_1993_REVIEW_201",
+        "PU_1993_REVIEW_202"
+      ]
+    },
+    {
+      "platform": "NES",
+      "evaluation_count": 19,
+      "mean_score_10": 7.3947,
+      "median_score_10": 7.5,
+      "min_score_10": 5.0,
+      "max_score_10": 9.0,
+      "count_9_plus": 1,
+      "video_game_evaluation_count": 19,
+      "source_review_ids": [
+        "PU_1993_REVIEW_046",
+        "PU_1993_REVIEW_047",
+        "PU_1993_REVIEW_049",
+        "PU_1993_REVIEW_063",
+        "PU_1993_REVIEW_086",
+        "PU_1993_REVIEW_102",
+        "PU_1993_REVIEW_103",
+        "PU_1993_REVIEW_104",
+        "PU_1993_REVIEW_105",
+        "PU_1993_REVIEW_141",
+        "PU_1993_REVIEW_143",
+        "PU_1993_REVIEW_144",
+        "PU_1993_REVIEW_145",
+        "PU_1993_REVIEW_146",
+        "PU_1993_REVIEW_178",
+        "PU_1993_REVIEW_179",
+        "PU_1993_REVIEW_180",
+        "PU_1993_REVIEW_181",
+        "PU_1993_REVIEW_182"
+      ]
+    },
+    {
+      "platform": "CD-i",
+      "evaluation_count": 14,
+      "mean_score_10": 7.7429,
+      "median_score_10": 7.65,
+      "min_score_10": 5.0,
+      "max_score_10": 10.0,
+      "count_9_plus": 4,
+      "video_game_evaluation_count": 14,
+      "source_review_ids": [
+        "PU_1993_REVIEW_031",
+        "PU_1993_REVIEW_032",
+        "PU_1993_REVIEW_033",
+        "PU_1993_REVIEW_080",
+        "PU_1993_REVIEW_081",
+        "PU_1993_REVIEW_082",
+        "PU_1993_REVIEW_083",
+        "PU_1993_REVIEW_122",
+        "PU_1993_REVIEW_123",
+        "PU_1993_REVIEW_124",
+        "PU_1993_REVIEW_159",
+        "PU_1993_REVIEW_160",
+        "PU_1993_REVIEW_206",
+        "PU_1993_REVIEW_207"
+      ]
+    },
+    {
+      "platform": "Game Gear",
+      "evaluation_count": 13,
+      "mean_score_10": 8.1231,
+      "median_score_10": 8.2,
+      "min_score_10": 6.8,
+      "max_score_10": 9.0,
+      "count_9_plus": 4,
+      "video_game_evaluation_count": 13,
+      "source_review_ids": [
+        "PU_1993_REVIEW_072",
+        "PU_1993_REVIEW_073",
+        "PU_1993_REVIEW_074",
+        "PU_1993_REVIEW_075",
+        "PU_1993_REVIEW_113",
+        "PU_1993_REVIEW_114",
+        "PU_1993_REVIEW_128",
+        "PU_1993_REVIEW_147",
+        "PU_1993_REVIEW_148",
+        "PU_1993_REVIEW_193",
+        "PU_1993_REVIEW_194",
+        "PU_1993_REVIEW_195",
+        "PU_1993_REVIEW_196"
+      ]
+    },
+    {
+      "platform": "Lynx",
+      "evaluation_count": 6,
+      "mean_score_10": 6.9167,
+      "median_score_10": 7.0,
+      "min_score_10": 6.0,
+      "max_score_10": 8.0,
+      "count_9_plus": 0,
+      "video_game_evaluation_count": 6,
+      "source_review_ids": [
+        "PU_1993_REVIEW_007",
+        "PU_1993_REVIEW_008",
+        "PU_1993_REVIEW_084",
+        "PU_1993_REVIEW_120",
+        "PU_1993_REVIEW_154",
+        "PU_1993_REVIEW_208"
+      ]
+    },
+    {
+      "platform": "Macintosh",
+      "evaluation_count": 5,
+      "mean_score_10": 8.16,
+      "median_score_10": 8.0,
+      "min_score_10": 7.5,
+      "max_score_10": 9.5,
+      "count_9_plus": 1,
+      "video_game_evaluation_count": 4,
+      "source_review_ids": [
+        "PU_1993_REVIEW_002",
+        "PU_1993_REVIEW_036",
+        "PU_1993_REVIEW_203",
+        "PU_1993_REVIEW_204",
+        "PU_1993_REVIEW_205"
+      ]
+    },
+    {
+      "platform": "Neo Geo",
+      "evaluation_count": 5,
+      "mean_score_10": 8.24,
+      "median_score_10": 8.5,
+      "min_score_10": 5.4,
+      "max_score_10": 9.5,
+      "count_9_plus": 2,
+      "video_game_evaluation_count": 5,
+      "source_review_ids": [
+        "PU_1993_REVIEW_011",
+        "PU_1993_REVIEW_076",
+        "PU_1993_REVIEW_077",
+        "PU_1993_REVIEW_170",
+        "PU_1993_REVIEW_209"
+      ]
+    },
+    {
+      "platform": "Sega CD",
+      "evaluation_count": 4,
+      "mean_score_10": 8.075,
+      "median_score_10": 8.3,
+      "min_score_10": 6.7,
+      "max_score_10": 9.0,
+      "count_9_plus": 1,
+      "video_game_evaluation_count": 4,
+      "source_review_ids": [
+        "PU_1993_REVIEW_078",
+        "PU_1993_REVIEW_079",
+        "PU_1993_REVIEW_121",
+        "PU_1993_REVIEW_161"
+      ]
+    },
+    {
+      "platform": "Board game",
+      "evaluation_count": 3,
+      "mean_score_10": 8.6667,
+      "median_score_10": 8.5,
+      "min_score_10": 8.0,
+      "max_score_10": 9.5,
+      "count_9_plus": 1,
+      "video_game_evaluation_count": 0,
+      "source_review_ids": [
+        "PU_1993_REVIEW_110",
+        "PU_1993_REVIEW_162",
+        "PU_1993_REVIEW_197"
+      ]
+    },
+    {
+      "platform": "UNSPECIFIED",
+      "evaluation_count": 1,
+      "mean_score_10": 8.0,
+      "median_score_10": 8.0,
+      "min_score_10": 8.0,
+      "max_score_10": 8.0,
+      "count_9_plus": 0,
+      "video_game_evaluation_count": 0,
+      "source_review_ids": [
+        "PU_1993_REVIEW_038"
+      ]
+    }
+  ],
+  "composite_platform_labels": [
+    {
+      "platform_label": "NES / Super Nintendo",
+      "evaluation_count": 1,
+      "mean_score_10": 6.5,
+      "source_review_ids": [
+        "PU_1993_REVIEW_043"
+      ]
+    },
+    {
+      "platform_label": "PC / Macintosh",
+      "evaluation_count": 1,
+      "mean_score_10": 8.9,
+      "source_review_ids": [
+        "PU_1993_REVIEW_062"
+      ]
+    },
+    {
+      "platform_label": "Game Boy / Game Gear",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "source_review_ids": [
+        "PU_1993_REVIEW_107"
+      ]
+    },
+    {
+      "platform_label": "Macintosh / PC",
+      "evaluation_count": 2,
+      "mean_score_10": 8.65,
+      "source_review_ids": [
+        "PU_1993_REVIEW_125",
+        "PU_1993_REVIEW_153"
+      ]
+    },
+    {
+      "platform_label": "Super Nintendo / Sega Mega Drive",
+      "evaluation_count": 1,
+      "mean_score_10": 8.5,
+      "source_review_ids": [
+        "PU_1993_REVIEW_176"
+      ]
+    }
+  ],
+  "highest_mean_eligible": {
+    "platform": "Neo Geo",
+    "evaluation_count": 5,
+    "mean_score_10": 8.24,
+    "median_score_10": 8.5,
+    "min_score_10": 5.4,
+    "max_score_10": 9.5,
+    "count_9_plus": 2,
+    "video_game_evaluation_count": 5,
+    "source_review_ids": [
+      "PU_1993_REVIEW_011",
+      "PU_1993_REVIEW_076",
+      "PU_1993_REVIEW_077",
+      "PU_1993_REVIEW_170",
+      "PU_1993_REVIEW_209"
+    ]
+  },
+  "lowest_mean_eligible": {
+    "platform": "Lynx",
+    "evaluation_count": 6,
+    "mean_score_10": 6.9167,
+    "median_score_10": 7.0,
+    "min_score_10": 6.0,
+    "max_score_10": 8.0,
+    "count_9_plus": 0,
+    "video_game_evaluation_count": 6,
+    "source_review_ids": [
+      "PU_1993_REVIEW_007",
+      "PU_1993_REVIEW_008",
+      "PU_1993_REVIEW_084",
+      "PU_1993_REVIEW_120",
+      "PU_1993_REVIEW_154",
+      "PU_1993_REVIEW_208"
+    ]
+  }
+}

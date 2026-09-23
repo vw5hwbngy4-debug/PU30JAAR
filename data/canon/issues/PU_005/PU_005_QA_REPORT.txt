@@ -1,0 +1,106 @@
+PU30JAAR / BLACKPAPER PU #005 — FINAL ISSUE INGEST QA
+=======================================================
+
+FINAL STATE
+ISSUE_INGEST_COMPLETE
+
+SOURCE
+source: 005.pdf
+source SHA256: 9758346ebf6b7377e3668506f51bf99b1ac915a264a0f2c20866a6700e35bb0c
+
+PAGE ACCOUNTING
+PDF pages expected: 84
+PDF pages represented: 84
+pages with transcript: 84
+pages missing transcript: 0
+missing page IDs: NONE
+embedded PDF text pages: 73
+OCR fallback pages: [2, 10, 11, 12, 13, 21, 38, 42, 43, 52, 84]
+
+RAG ACCOUNTING
+RAG chunks created: 191
+review article chunks: 43
+score/verdict chunks: 43
+issue knowledge chunks: 46
+page section chunks: 46
+section cluster chunks: 9
+list block chunks: 4
+
+HUMAN CANON
+games contents platform rows: 43
+shared Populous II SNES/Mega Drive duplicate row: -1
+extra scored ElfQuest board game outside contents: +1
+canonical scored evaluations expected: 43
+human review records produced: 43
+resolved scores: 43
+unresolved scores: 0
+unresolved reviewers: 0
+
+STRUCTURED KNOWLEDGE
+entities indexed: 100
+aliases created: 25
+editor evidence records: 61
+issue knowledge records: 46
+external enrichment records: 0
+
+PROVENANCE
+provenance records: 552
+records with page provenance: 552
+records without page provenance: 0
+
+DUPLICATE CHECKS
+duplicate review IDs: 0
+duplicate RAG chunk IDs: 0
+duplicate entity IDs: 0
+duplicate issue knowledge IDs: 0
+
+ORPHAN CHECKS
+orphan review records: 0
+orphan RAG chunks: 0
+
+JSONL VALIDATION
+PU_005_PAGE_TRANSCRIPTS.jsonl: invalid lines = 0
+PU_005_RAG_CHUNKS.jsonl: invalid lines = 0
+PU_005_HUMAN_CANON_REVIEWS.jsonl: invalid lines = 0
+PU_005_ENTITY_INDEX.jsonl: invalid lines = 0
+PU_005_ALIAS_MAP.jsonl: invalid lines = 0
+PU_005_EDITOR_EVIDENCE.jsonl: invalid lines = 0
+PU_005_ISSUE_KNOWLEDGE.jsonl: invalid lines = 0
+PU_005_PROVENANCE.jsonl: invalid lines = 0
+
+SPECIAL CANON PRESERVED
+- Zombies Ate My Neighbors = separate Mega Drive and Super Nintendo scorecards.
+- World Heroes 2 = distinct Neo Geo review.
+- Populous II = one shared SNES/Mega Drive scorecard.
+- ElfQuest = Graphics 8,0 only; no fabricated Geluid component.
+- Samurai Shodown reviewer = Kees de Koning.
+- Malibu Bikini Volleyball reviewer = René Janssen.
+- Ermac = attributed 1993 PU mystery/report only.
+
+HARD GATES
+NO_SILENT_PAGE_LOSS = PASS
+ALL_PAGES_HAVE_TRANSCRIPT = PASS
+NO_SILENT_REVIEW_LOSS = PASS
+NO_SILENT_SCORE_LOSS = PASS
+NO_UNMARKED_INFERENCE = PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT = PASS
+RAG_REVIEW_COVERAGE = PASS
+RAG_SCORE_VERDICT_COVERAGE = PASS
+RAG_PAGE_COVERAGE = PASS
+JSONL_VALID = PASS
+NO_DUPLICATE_PRIMARY_IDS = PASS
+NO_ORPHAN_REVIEW_OR_CHUNK = PASS
+ELFQUEST_GRAPHICS_ONLY_PRESERVED = PASS
+ZOMBIES_TWO_PLATFORM_SCORECARDS_PRESERVED = PASS
+WORLD_HEROES_2_DISTINCT_NEO_GEO_REVIEW_PRESERVED = PASS
+ERMAC_HISTORICAL_MYSTERY_STATUS_PRESERVED = PASS
+
+MANDATORY PRINCIPLES
+NO SILENT PAGE LOSS = PASS
+NO SILENT REVIEW LOSS = PASS
+NO SILENT SCORE LOSS = PASS
+NO UNMARKED INFERENCE = PASS
+NO EXTERNAL FACT PRESENTED AS PU FACT = PASS
+
+FINAL VERDICT
+ISSUE_INGEST_COMPLETE

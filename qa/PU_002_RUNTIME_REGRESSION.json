@@ -1,0 +1,30 @@
+{
+  "version": "v0.2.9",
+  "issue": "PU_002",
+  "tests": [
+    {
+      "question": "Wat waren alle cijfers uit PU 2?",
+      "expected_mode": "ISSUE_CANON_CENSUS",
+      "expected_records": 47,
+      "must_not_top_k_truncate": true
+    },
+    {
+      "question": "Wat voor cijfers kreeg The Lost Vikings in PU 2?",
+      "expected": {
+        "final_score": "9,5/10",
+        "score_components": ["GRAPHICS 8,9", "GELUID 8,8"],
+        "reviewer": "Bjorn Bruinsma"
+      }
+    },
+    {
+      "question": "Wat zei PU in nummer 2 over previews?",
+      "must_retrieve_issue_knowledge": "Reader feedback on imported previews"
+    },
+    {
+      "editor": "Björn Bruinsma",
+      "question": "Wat vond je van The Lost Vikings?",
+      "must_retrieve": ["CANON_EDITOR_EVIDENCE", "CANON_EDITOR_RAW"],
+      "raw_chunk_issue": 2
+    }
+  ]
+}

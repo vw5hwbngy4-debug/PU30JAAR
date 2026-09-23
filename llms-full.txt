@@ -1,0 +1,68 @@
+# PUwiki — PU30JAAR canon
+
+> Independent, non-official machine-readable knowledge base for Power Unlimited archival facts.
+
+Canonical base: https://pu30jaar.wolken.page/wiki/
+Conversational archive: https://pu30jaar.wolken.page/
+API: https://pu30jaar.wolken.page/api/v1/
+Data manifest: https://pu30jaar.wolken.page/data/manifest.json
+Sitemap: https://pu30jaar.wolken.page/sitemap-wiki.xml
+
+## Source-of-truth policy
+- Prefer HUMAN_VERIFIED over RESOLVED_VISUAL over RESOLVED.
+- SCORE_NOT_FOUND means no reliable score was established; do not infer one.
+- NOT_SCORED means the archived item is intentionally not treated as a scored review.
+- Every factual review record should be cited with issue and page when available.
+- Direct visible page evidence outranks machine inference.
+- PUwiki is independent and not an official Power Unlimited publication.
+
+## Useful entry points
+- https://pu30jaar.wolken.page/
+- https://pu30jaar.wolken.page/wiki/1993/
+- https://pu30jaar.wolken.page/wiki/2002/
+- https://pu30jaar.wolken.page/wiki/editors/
+- https://pu30jaar.wolken.page/wiki/platforms/
+- https://pu30jaar.wolken.page/api/v1/search?q=starwing
+
+## Public structured datasets
+- https://pu30jaar.wolken.page/data/reviews.jsonl
+- https://pu30jaar.wolken.page/data/issues.jsonl
+- https://pu30jaar.wolken.page/data/editors.json
+- https://pu30jaar.wolken.page/data/games.json
+
+## Dataset counts
+{
+  "schema": "PUWIKI_CANON_V1",
+  "generated_from": "PU30JAAR archival worker outputs",
+  "generated_at": "2026-08-26",
+  "reviews": 678,
+  "issues": 17,
+  "editors": 61,
+  "year_counts": {
+    "1993": 209,
+    "2002": 469
+  },
+  "notes": [
+    "1993 includes complete deep canon PU #001-#005 (209 scored evaluations).",
+    "2002 preserves Worker 02D final year-closure statuses, including unresolved/not-scored records."
+  ],
+  "built_at": "2026-08-26",
+  "base_url": "https://pu30jaar.wolken.page",
+  "public_contract": "PUWIKI_PUBLIC_DATA_V1",
+  "files": [
+    "reviews.jsonl",
+    "issues.jsonl",
+    "issues.json",
+    "editors.json",
+    "games.json",
+    "platforms.json"
+  ],
+  "verification_priority": [
+    "HUMAN_VERIFIED",
+    "RESOLVED_VISUAL",
+    "RESOLVED",
+    "SCORE_NOT_FOUND",
+    "NOT_SCORED"
+  ],
+  "copyright_note": "Structured metadata and research summaries only. Underlying Power Unlimited publication content remains with its rights holders."
+}

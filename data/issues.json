@@ -1,0 +1,331 @@
+[
+  {
+    "publication": "Power Unlimited",
+    "year": 1993,
+    "issue": 1,
+    "issue_id": "PU_001",
+    "month": "July",
+    "page_count": 84,
+    "source_file": "001.pdf",
+    "source_sha256": "cd64b1a30e38f8324bb1f29e69468df9eb1dd7bc7e103e79e457edda7e1524a3",
+    "factory_state": "FINAL_INGEST_PACKAGED",
+    "verification": "ISSUE_INGEST_COMPLETE",
+    "scored_evaluations": 37,
+    "resolved_scores": 37,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "PU #001 consolidated human + direct-scan canon."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 1993,
+    "issue": 2,
+    "issue_id": "PU_002",
+    "month": "September",
+    "page_count": 84,
+    "source_file": "002.pdf",
+    "source_sha256": "f979370442714dad6e746c71a9447693a13486002ce56492de7c29cfc28e9b03",
+    "factory_state": "FINAL_INGEST_PACKAGED",
+    "verification": "ISSUE_INGEST_COMPLETE",
+    "scored_evaluations": 47,
+    "resolved_scores": 47,
+    "known_uncertainties": [
+      "Shadowrun RPG reviewer unresolved",
+      "Shadowrun Superior reviewer unresolved",
+      "Wolfenstein -3D2 byline printed as pseudonym 'Game girl'; underlying identity unresolved"
+    ],
+    "special_canon_notes": []
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 1993,
+    "issue": 3,
+    "issue_id": "PU_003",
+    "month": "October",
+    "page_count": 84,
+    "source_file": "003.pdf",
+    "source_sha256": "f6b0ddf980a5fe646c778b8ec9c524737ee51128dc3a582fd473d1842052b671",
+    "factory_state": "FINAL_INGEST_PACKAGED",
+    "verification": "ISSUE_INGEST_COMPLETE",
+    "scored_evaluations": 43,
+    "resolved_scores": 43,
+    "known_uncertainties": [
+      "Realms of Arkania reviewer byline is printed as ROLE GIRL; underlying real-person identity intentionally unresolved."
+    ],
+    "special_canon_notes": [
+      "Space Hulk board-game sound component is printed as n.v.t., not a numeric score.",
+      "Street Fighter II Turbo and Mortal Kombat scorecards are associated by direct visible layout in a shared comparison feature.",
+      "Bubble Bobble Part 2 graphics corrected to 5,5 from direct scan.",
+      "Backgammon sound corrected to 8,5 from direct scan.",
+      "V for Victory preserved as printed title with Macintosh / PC platform context.",
+      "Gordo 106 preserved as printed title."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 1993,
+    "issue": 4,
+    "issue_id": "PU_004",
+    "month": "November",
+    "page_count": 84,
+    "source_file": "004.pdf",
+    "source_sha256": "8c928d636aec415c90811d487a2cbcd9ad299240ed3351e723ed25709abb8ef8",
+    "factory_state": "FINAL_INGEST_PACKAGED",
+    "verification": "ISSUE_INGEST_COMPLETE",
+    "scored_evaluations": 39,
+    "resolved_scores": 39,
+    "known_uncertainties": [
+      "B.O.B. reviewer intentionally unresolved because no direct byline was confirmed."
+    ],
+    "special_canon_notes": [
+      "SPIDERBEN is a direct feature signature/alias for Ben de Dood, not a separate person.",
+      "Spider-Man has four distinct platform scorecards on pp30-31.",
+      "Separate X-Men Mega Drive review begins on p32 and is by Adam Eeuwens.",
+      "Zelda: The Wand of Gamelon has three positive report bullets and zero negative bullets; third plus is 'Spel is te saven'.",
+      "How to Host a Mystery has Graphics/Geluid n.v.t., not numeric zeroes.",
+      "Freddy Pharkas Mac/PC is one shared scorecard.",
+      "MiG-29 Soviet Fighter / F-15 Strike Eagle combined contents row maps to two scorecards."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 1993,
+    "issue": 5,
+    "issue_id": "PU_005",
+    "month": "December",
+    "page_count": 84,
+    "source_file": "005.pdf",
+    "source_sha256": "9758346ebf6b7377e3668506f51bf99b1ac915a264a0f2c20866a6700e35bb0c",
+    "factory_state": "FINAL_INGEST_PACKAGED",
+    "verification": "ISSUE_INGEST_COMPLETE",
+    "scored_evaluations": 43,
+    "resolved_scores": 43,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "Zombies Ate My Neighbors has separate Mega Drive and Super Nintendo scorecards in one shared feature.",
+      "World Heroes 2 is a distinct Neo Geo review, not merely a platform variant of World Heroes.",
+      "Populous II has one shared scorecard covering Super Nintendo / Sega Mega Drive.",
+      "ElfQuest is a scored board game outside the games contents and has Graphics 8,0 but no printed Geluid component.",
+      "The 1993 Ermac passage remains an attributed PU mystery/report, not retrospective game canon.",
+      "Samurai Shodown reviewer = Kees de Koning.",
+      "Malibu Bikini Volleyball reviewer = René Janssen."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 97,
+    "issue_id": "PU_097",
+    "month": null,
+    "page_count": null,
+    "source_file": "097.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 9,
+    "resolved_scores": 9,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 98,
+    "issue_id": "PU_098",
+    "month": null,
+    "page_count": null,
+    "source_file": "098.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 12,
+    "resolved_scores": 12,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 99,
+    "issue_id": "PU_099",
+    "month": null,
+    "page_count": null,
+    "source_file": "099.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 12,
+    "resolved_scores": 12,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 100,
+    "issue_id": "PU_100",
+    "month": null,
+    "page_count": null,
+    "source_file": "100.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 13,
+    "resolved_scores": 13,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 101,
+    "issue_id": "PU_101",
+    "month": null,
+    "page_count": null,
+    "source_file": "101.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 23,
+    "resolved_scores": 23,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 102,
+    "issue_id": "PU_102",
+    "month": null,
+    "page_count": null,
+    "source_file": "102.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 3,
+    "resolved_scores": 3,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 103,
+    "issue_id": "PU_103",
+    "month": null,
+    "page_count": null,
+    "source_file": "103.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 16,
+    "resolved_scores": 16,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 104,
+    "issue_id": "PU_104",
+    "month": null,
+    "page_count": null,
+    "source_file": "104.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 25,
+    "resolved_scores": 25,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 105,
+    "issue_id": "PU_105",
+    "month": null,
+    "page_count": null,
+    "source_file": "105.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 30,
+    "resolved_scores": 30,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 106,
+    "issue_id": "PU_106",
+    "month": null,
+    "page_count": null,
+    "source_file": "106.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 30,
+    "resolved_scores": 30,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 107,
+    "issue_id": "PU_107",
+    "month": null,
+    "page_count": null,
+    "source_file": "107.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 34,
+    "resolved_scores": 34,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  },
+  {
+    "publication": "Power Unlimited",
+    "year": 2002,
+    "issue": 108,
+    "issue_id": "PU_108",
+    "month": null,
+    "page_count": null,
+    "source_file": "108.pdf",
+    "source_sha256": null,
+    "factory_state": "YEAR_COMPLETE",
+    "verification": "YEAR_COMPLETE_2002",
+    "scored_evaluations": 43,
+    "resolved_scores": 43,
+    "known_uncertainties": [],
+    "special_canon_notes": [
+      "2002 Worker 02D final closure; unresolved scores are preserved explicitly rather than inferred."
+    ]
+  }
+]

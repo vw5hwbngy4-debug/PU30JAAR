@@ -1,0 +1,3848 @@
+{
+  "schema": "PU_YEAR_GAME_RANKINGS_V1",
+  "publication_year": 1993,
+  "evaluation_count": 209,
+  "unique_printed_canonical_titles": 193,
+  "ranking_policy": {
+    "evaluation_ranking": "Every separately scored platform/evaluation remains separate.",
+    "unique_game_ranking": "Exact canonical-title groups ranked by mean of their separate evaluations; per-platform scores remain attached and are never merged into a replacement score.",
+    "video_game_only": "Excludes explicit tabletop/reference/creative-software edge cases. CD-i games are retained as videogames but flagged."
+  },
+  "top_25_evaluations": [
+    {
+      "year_record_id": "PU_1993_REVIEW_032",
+      "issue_id": "PU_001",
+      "title_canonical": "Escape from CyberCity",
+      "platform_printed": "Philips CD-i",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 10.0,
+      "pdf_page_start": 60
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_183",
+      "issue_id": "PU_005",
+      "title_canonical": "Aladdin",
+      "platform_printed": "Sega Mega Drive",
+      "reviewer_canonical": "David Lemereis",
+      "score_10": 9.8,
+      "pdf_page_start": 40
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_054",
+      "issue_id": "PU_002",
+      "title_canonical": "El-Fish",
+      "platform_printed": "PC",
+      "reviewer_canonical": "David Lemereis",
+      "score_10": 9.6,
+      "pdf_page_start": 36
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_099",
+      "issue_id": "PU_003",
+      "title_canonical": "Jungle Strike",
+      "platform_printed": "Sega Mega Drive",
+      "reviewer_canonical": "Adam Eeuwens",
+      "score_10": 9.6,
+      "pdf_page_start": 36
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_001",
+      "issue_id": "PU_001",
+      "title_canonical": "StarWing",
+      "platform_printed": "Super NES",
+      "reviewer_canonical": "Adam Eeuwens",
+      "score_10": 9.6,
+      "pdf_page_start": 18
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_106",
+      "issue_id": "PU_003",
+      "title_canonical": "Street Fighter II Turbo",
+      "platform_printed": "Super Nintendo",
+      "reviewer_canonical": "Kees de Koning",
+      "score_10": 9.6,
+      "pdf_page_start": 47
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_036",
+      "issue_id": "PU_001",
+      "title_canonical": "Hellcats Over The Pacific",
+      "platform_printed": "Macintosh",
+      "reviewer_canonical": "David Lemereis",
+      "score_10": 9.5,
+      "pdf_page_start": 64
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_162",
+      "issue_id": "PU_004",
+      "title_canonical": "How to Host a Mystery: Star Trek The Next Generation",
+      "platform_printed": "Board game",
+      "reviewer_canonical": "Ben de Dood",
+      "score_10": 9.5,
+      "pdf_page_start": 59
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_098",
+      "issue_id": "PU_003",
+      "title_canonical": "MicroMachines",
+      "platform_printed": "Sega Mega Drive",
+      "reviewer_canonical": "David Lemereis",
+      "score_10": 9.5,
+      "pdf_page_start": 35
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_107",
+      "issue_id": "PU_003",
+      "title_canonical": "Mortal Kombat",
+      "platform_printed": "Game Boy / Game Gear",
+      "reviewer_canonical": "Kees de Koning",
+      "score_10": 9.5,
+      "pdf_page_start": 46
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_209",
+      "issue_id": "PU_005",
+      "title_canonical": "Samurai Shodown",
+      "platform_printed": "Neo Geo",
+      "reviewer_canonical": "Kees de Koning",
+      "score_10": 9.5,
+      "pdf_page_start": 62
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_040",
+      "issue_id": "PU_002",
+      "title_canonical": "The Lost Vikings",
+      "platform_printed": "Super Nintendo",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.5,
+      "pdf_page_start": 24
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_171",
+      "issue_id": "PU_005",
+      "title_canonical": "PilotWings",
+      "platform_printed": "Super Nintendo",
+      "reviewer_canonical": "David Lemereis",
+      "score_10": 9.4,
+      "pdf_page_start": 24
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_011",
+      "issue_id": "PU_001",
+      "title_canonical": "Fatal Fury II",
+      "platform_printed": "Neo Geo",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.3,
+      "pdf_page_start": 36
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_085",
+      "issue_id": "PU_003",
+      "title_canonical": "Jurassic Park",
+      "platform_printed": "Sega Mega Drive",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.1,
+      "pdf_page_start": 22
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_137",
+      "issue_id": "PU_004",
+      "title_canonical": "Super Turrican",
+      "platform_printed": "Super Nintendo",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.1,
+      "pdf_page_start": 37
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_168",
+      "issue_id": "PU_005",
+      "title_canonical": "Zombies Ate My Neighbors",
+      "platform_printed": "Super Nintendo",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.1,
+      "pdf_page_start": 20
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_100",
+      "issue_id": "PU_003",
+      "title_canonical": "Bubsy",
+      "platform_printed": "Sega Mega Drive",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.0,
+      "pdf_page_start": 37
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_042",
+      "issue_id": "PU_002",
+      "title_canonical": "Bubsy",
+      "platform_printed": "Super NES",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.0,
+      "pdf_page_start": 27
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_109",
+      "issue_id": "PU_003",
+      "title_canonical": "Car + Driver",
+      "platform_printed": "PC",
+      "reviewer_canonical": "Michael Schaeffer",
+      "score_10": 9.0,
+      "pdf_page_start": 51
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_161",
+      "issue_id": "PU_004",
+      "title_canonical": "Ecco the Dolphin",
+      "platform_printed": "Sega CD",
+      "reviewer_canonical": "Adam Eeuwens",
+      "score_10": 9.0,
+      "pdf_page_start": 58
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_052",
+      "issue_id": "PU_002",
+      "title_canonical": "Flashback",
+      "platform_printed": "PC",
+      "reviewer_canonical": "Ben de Dood",
+      "score_10": 9.0,
+      "pdf_page_start": 34
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_082",
+      "issue_id": "PU_002",
+      "title_canonical": "Inca",
+      "platform_printed": "Philips CD-i",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.0,
+      "pdf_page_start": 63
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_073",
+      "issue_id": "PU_002",
+      "title_canonical": "Krusty's Fun House",
+      "platform_printed": "Game Gear",
+      "reviewer_canonical": "Michael Schaefer",
+      "score_10": 9.0,
+      "pdf_page_start": 56
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_159",
+      "issue_id": "PU_004",
+      "title_canonical": "Link: The Faces of Evil",
+      "platform_printed": "Philips CD-i",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 9.0,
+      "pdf_page_start": 56
+    }
+  ],
+  "bottom_10_evaluations": [
+    {
+      "year_record_id": "PU_1993_REVIEW_068",
+      "issue_id": "PU_002",
+      "title_canonical": "Top Gun: Guts & Glory",
+      "platform_printed": "Game Boy",
+      "reviewer_canonical": "Michael Schaefer",
+      "score_10": 4.0,
+      "pdf_page_start": 53
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_048",
+      "issue_id": "PU_002",
+      "title_canonical": "American Gladiators",
+      "platform_printed": "Super Nintendo",
+      "reviewer_canonical": "Kees de Koning",
+      "score_10": 5.0,
+      "pdf_page_start": 31
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_027",
+      "issue_id": "PU_001",
+      "title_canonical": "Combat Tribes",
+      "platform_printed": "Super NES",
+      "reviewer_canonical": "Kees de Koning",
+      "score_10": 5.0,
+      "pdf_page_start": 54
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_013",
+      "issue_id": "PU_001",
+      "title_canonical": "Humans",
+      "platform_printed": "Sega MegaDrive",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 5.0,
+      "pdf_page_start": 39
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_026",
+      "issue_id": "PU_001",
+      "title_canonical": "Tom & Jerry",
+      "platform_printed": "Super NES",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 5.0,
+      "pdf_page_start": 53
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_049",
+      "issue_id": "PU_002",
+      "title_canonical": "Total Recall",
+      "platform_printed": "NES",
+      "reviewer_canonical": "Michael Schaefer",
+      "score_10": 5.0,
+      "pdf_page_start": 31
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_206",
+      "issue_id": "PU_005",
+      "title_canonical": "Video Speedway",
+      "platform_printed": "Philips CD-i",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 5.0,
+      "pdf_page_start": 60
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_076",
+      "issue_id": "PU_002",
+      "title_canonical": "3 Count Bout",
+      "platform_printed": "Neo Geo",
+      "reviewer_canonical": "David Lemereis",
+      "score_10": 5.4,
+      "pdf_page_start": 58
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_124",
+      "issue_id": "PU_003",
+      "title_canonical": "Battleship",
+      "platform_printed": "CD-i",
+      "reviewer_canonical": "Bjorn Bruinsma",
+      "score_10": 5.5,
+      "pdf_page_start": 61
+    },
+    {
+      "year_record_id": "PU_1993_REVIEW_064",
+      "issue_id": "PU_002",
+      "title_canonical": "Battletoads - Game Boy basisuitvoering",
+      "platform_printed": "Game Boy",
+      "reviewer_canonical": "Michael Schaefer",
+      "score_10": 6.0,
+      "pdf_page_start": 50
+    }
+  ],
+  "top_25_unique_titles_all_categories": [
+    {
+      "title": "Escape from CyberCity",
+      "evaluation_count": 1,
+      "mean_score_10": 10.0,
+      "median_score_10": 10.0,
+      "min_score_10": 10.0,
+      "max_score_10": 10.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "CD_I_PLATFORM",
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_032",
+          "issue_id": "PU_001",
+          "pdf_page": 60,
+          "platform": "Philips CD-i",
+          "score_10": 10.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Aladdin",
+      "evaluation_count": 1,
+      "mean_score_10": 9.8,
+      "median_score_10": 9.8,
+      "min_score_10": 9.8,
+      "max_score_10": 9.8,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_183",
+          "issue_id": "PU_005",
+          "pdf_page": 40,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.8,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "El-Fish",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_054",
+          "issue_id": "PU_002",
+          "pdf_page": 36,
+          "platform": "PC",
+          "score_10": 9.6,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "Jungle Strike",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_099",
+          "issue_id": "PU_003",
+          "pdf_page": 36,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.6,
+          "reviewer": "Adam Eeuwens"
+        }
+      ]
+    },
+    {
+      "title": "StarWing",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_001",
+          "issue_id": "PU_001",
+          "pdf_page": 18,
+          "platform": "Super NES",
+          "score_10": 9.6,
+          "reviewer": "Adam Eeuwens"
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter II Turbo",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_106",
+          "issue_id": "PU_003",
+          "pdf_page": 47,
+          "platform": "Super Nintendo",
+          "score_10": 9.6,
+          "reviewer": "Kees de Koning"
+        }
+      ]
+    },
+    {
+      "title": "Hellcats Over The Pacific",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_036",
+          "issue_id": "PU_001",
+          "pdf_page": 64,
+          "platform": "Macintosh",
+          "score_10": 9.5,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "How to Host a Mystery: Star Trek The Next Generation",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "TABLETOP_GAME"
+      ],
+      "edge_case_flags": [
+        "BOARD_GAME"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_162",
+          "issue_id": "PU_004",
+          "pdf_page": 59,
+          "platform": "Board game",
+          "score_10": 9.5,
+          "reviewer": "Ben de Dood"
+        }
+      ]
+    },
+    {
+      "title": "MicroMachines",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_098",
+          "issue_id": "PU_003",
+          "pdf_page": 35,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.5,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "Samurai Shodown",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_209",
+          "issue_id": "PU_005",
+          "pdf_page": 62,
+          "platform": "Neo Geo",
+          "score_10": 9.5,
+          "reviewer": "Kees de Koning"
+        }
+      ]
+    },
+    {
+      "title": "The Lost Vikings",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_040",
+          "issue_id": "PU_002",
+          "pdf_page": 24,
+          "platform": "Super Nintendo",
+          "score_10": 9.5,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "PilotWings",
+      "evaluation_count": 1,
+      "mean_score_10": 9.4,
+      "median_score_10": 9.4,
+      "min_score_10": 9.4,
+      "max_score_10": 9.4,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_171",
+          "issue_id": "PU_005",
+          "pdf_page": 24,
+          "platform": "Super Nintendo",
+          "score_10": 9.4,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "Fatal Fury II",
+      "evaluation_count": 1,
+      "mean_score_10": 9.3,
+      "median_score_10": 9.3,
+      "min_score_10": 9.3,
+      "max_score_10": 9.3,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_011",
+          "issue_id": "PU_001",
+          "pdf_page": 36,
+          "platform": "Neo Geo",
+          "score_10": 9.3,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Mortal Kombat",
+      "evaluation_count": 2,
+      "mean_score_10": 9.25,
+      "median_score_10": 9.25,
+      "min_score_10": 9.0,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.5,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_107",
+          "issue_id": "PU_003",
+          "pdf_page": 46,
+          "platform": "Game Boy / Game Gear",
+          "score_10": 9.5,
+          "reviewer": "Kees de Koning"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_196",
+          "issue_id": "PU_005",
+          "pdf_page": 51,
+          "platform": "Game Gear",
+          "score_10": 9.0,
+          "reviewer": "Kees de Koning"
+        }
+      ]
+    },
+    {
+      "title": "Super Turrican",
+      "evaluation_count": 1,
+      "mean_score_10": 9.1,
+      "median_score_10": 9.1,
+      "min_score_10": 9.1,
+      "max_score_10": 9.1,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_137",
+          "issue_id": "PU_004",
+          "pdf_page": 37,
+          "platform": "Super Nintendo",
+          "score_10": 9.1,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Zombies Ate My Neighbors",
+      "evaluation_count": 2,
+      "mean_score_10": 9.05,
+      "median_score_10": 9.05,
+      "min_score_10": 9.0,
+      "max_score_10": 9.1,
+      "score_spread_10": 0.1,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_167",
+          "issue_id": "PU_005",
+          "pdf_page": 20,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_168",
+          "issue_id": "PU_005",
+          "pdf_page": 20,
+          "platform": "Super Nintendo",
+          "score_10": 9.1,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Bubsy",
+      "evaluation_count": 2,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_042",
+          "issue_id": "PU_002",
+          "pdf_page": 27,
+          "platform": "Super NES",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_100",
+          "issue_id": "PU_003",
+          "pdf_page": 37,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Car + Driver",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_109",
+          "issue_id": "PU_003",
+          "pdf_page": 51,
+          "platform": "PC",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaeffer"
+        }
+      ]
+    },
+    {
+      "title": "Ecco the Dolphin",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_161",
+          "issue_id": "PU_004",
+          "pdf_page": 58,
+          "platform": "Sega CD",
+          "score_10": 9.0,
+          "reviewer": "Adam Eeuwens"
+        }
+      ]
+    },
+    {
+      "title": "Flashback",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_052",
+          "issue_id": "PU_002",
+          "pdf_page": 34,
+          "platform": "PC",
+          "score_10": 9.0,
+          "reviewer": "Ben de Dood"
+        }
+      ]
+    },
+    {
+      "title": "Inca",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_082",
+          "issue_id": "PU_002",
+          "pdf_page": 63,
+          "platform": "Philips CD-i",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Krusty's Fun House",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_073",
+          "issue_id": "PU_002",
+          "pdf_page": 56,
+          "platform": "Game Gear",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaefer"
+        }
+      ]
+    },
+    {
+      "title": "Link: The Faces of Evil",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_159",
+          "issue_id": "PU_004",
+          "pdf_page": 56,
+          "platform": "Philips CD-i",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Lolo 3",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_145",
+          "issue_id": "PU_004",
+          "pdf_page": 46,
+          "platform": "NES",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaeffer"
+        }
+      ]
+    },
+    {
+      "title": "Mutant League Football",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_156",
+          "issue_id": "PU_004",
+          "pdf_page": 53,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaeffer"
+        }
+      ]
+    }
+  ],
+  "top_25_unique_video_games": [
+    {
+      "title": "Escape from CyberCity",
+      "evaluation_count": 1,
+      "mean_score_10": 10.0,
+      "median_score_10": 10.0,
+      "min_score_10": 10.0,
+      "max_score_10": 10.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "CD_I_PLATFORM",
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_032",
+          "issue_id": "PU_001",
+          "pdf_page": 60,
+          "platform": "Philips CD-i",
+          "score_10": 10.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Aladdin",
+      "evaluation_count": 1,
+      "mean_score_10": 9.8,
+      "median_score_10": 9.8,
+      "min_score_10": 9.8,
+      "max_score_10": 9.8,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_183",
+          "issue_id": "PU_005",
+          "pdf_page": 40,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.8,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "El-Fish",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_054",
+          "issue_id": "PU_002",
+          "pdf_page": 36,
+          "platform": "PC",
+          "score_10": 9.6,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "Jungle Strike",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_099",
+          "issue_id": "PU_003",
+          "pdf_page": 36,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.6,
+          "reviewer": "Adam Eeuwens"
+        }
+      ]
+    },
+    {
+      "title": "StarWing",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_001",
+          "issue_id": "PU_001",
+          "pdf_page": 18,
+          "platform": "Super NES",
+          "score_10": 9.6,
+          "reviewer": "Adam Eeuwens"
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter II Turbo",
+      "evaluation_count": 1,
+      "mean_score_10": 9.6,
+      "median_score_10": 9.6,
+      "min_score_10": 9.6,
+      "max_score_10": 9.6,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_106",
+          "issue_id": "PU_003",
+          "pdf_page": 47,
+          "platform": "Super Nintendo",
+          "score_10": 9.6,
+          "reviewer": "Kees de Koning"
+        }
+      ]
+    },
+    {
+      "title": "Hellcats Over The Pacific",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_036",
+          "issue_id": "PU_001",
+          "pdf_page": 64,
+          "platform": "Macintosh",
+          "score_10": 9.5,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "MicroMachines",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_098",
+          "issue_id": "PU_003",
+          "pdf_page": 35,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.5,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "Samurai Shodown",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_209",
+          "issue_id": "PU_005",
+          "pdf_page": 62,
+          "platform": "Neo Geo",
+          "score_10": 9.5,
+          "reviewer": "Kees de Koning"
+        }
+      ]
+    },
+    {
+      "title": "The Lost Vikings",
+      "evaluation_count": 1,
+      "mean_score_10": 9.5,
+      "median_score_10": 9.5,
+      "min_score_10": 9.5,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_040",
+          "issue_id": "PU_002",
+          "pdf_page": 24,
+          "platform": "Super Nintendo",
+          "score_10": 9.5,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "PilotWings",
+      "evaluation_count": 1,
+      "mean_score_10": 9.4,
+      "median_score_10": 9.4,
+      "min_score_10": 9.4,
+      "max_score_10": 9.4,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_171",
+          "issue_id": "PU_005",
+          "pdf_page": 24,
+          "platform": "Super Nintendo",
+          "score_10": 9.4,
+          "reviewer": "David Lemereis"
+        }
+      ]
+    },
+    {
+      "title": "Fatal Fury II",
+      "evaluation_count": 1,
+      "mean_score_10": 9.3,
+      "median_score_10": 9.3,
+      "min_score_10": 9.3,
+      "max_score_10": 9.3,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_011",
+          "issue_id": "PU_001",
+          "pdf_page": 36,
+          "platform": "Neo Geo",
+          "score_10": 9.3,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Mortal Kombat",
+      "evaluation_count": 2,
+      "mean_score_10": 9.25,
+      "median_score_10": 9.25,
+      "min_score_10": 9.0,
+      "max_score_10": 9.5,
+      "score_spread_10": 0.5,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_107",
+          "issue_id": "PU_003",
+          "pdf_page": 46,
+          "platform": "Game Boy / Game Gear",
+          "score_10": 9.5,
+          "reviewer": "Kees de Koning"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_196",
+          "issue_id": "PU_005",
+          "pdf_page": 51,
+          "platform": "Game Gear",
+          "score_10": 9.0,
+          "reviewer": "Kees de Koning"
+        }
+      ]
+    },
+    {
+      "title": "Super Turrican",
+      "evaluation_count": 1,
+      "mean_score_10": 9.1,
+      "median_score_10": 9.1,
+      "min_score_10": 9.1,
+      "max_score_10": 9.1,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_137",
+          "issue_id": "PU_004",
+          "pdf_page": 37,
+          "platform": "Super Nintendo",
+          "score_10": 9.1,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Zombies Ate My Neighbors",
+      "evaluation_count": 2,
+      "mean_score_10": 9.05,
+      "median_score_10": 9.05,
+      "min_score_10": 9.0,
+      "max_score_10": 9.1,
+      "score_spread_10": 0.1,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_167",
+          "issue_id": "PU_005",
+          "pdf_page": 20,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_168",
+          "issue_id": "PU_005",
+          "pdf_page": 20,
+          "platform": "Super Nintendo",
+          "score_10": 9.1,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Bubsy",
+      "evaluation_count": 2,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_042",
+          "issue_id": "PU_002",
+          "pdf_page": 27,
+          "platform": "Super NES",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_100",
+          "issue_id": "PU_003",
+          "pdf_page": 37,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Car + Driver",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_109",
+          "issue_id": "PU_003",
+          "pdf_page": 51,
+          "platform": "PC",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaeffer"
+        }
+      ]
+    },
+    {
+      "title": "Ecco the Dolphin",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_161",
+          "issue_id": "PU_004",
+          "pdf_page": 58,
+          "platform": "Sega CD",
+          "score_10": 9.0,
+          "reviewer": "Adam Eeuwens"
+        }
+      ]
+    },
+    {
+      "title": "Flashback",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_052",
+          "issue_id": "PU_002",
+          "pdf_page": 34,
+          "platform": "PC",
+          "score_10": 9.0,
+          "reviewer": "Ben de Dood"
+        }
+      ]
+    },
+    {
+      "title": "Inca",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_082",
+          "issue_id": "PU_002",
+          "pdf_page": 63,
+          "platform": "Philips CD-i",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Krusty's Fun House",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_073",
+          "issue_id": "PU_002",
+          "pdf_page": 56,
+          "platform": "Game Gear",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaefer"
+        }
+      ]
+    },
+    {
+      "title": "Link: The Faces of Evil",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_159",
+          "issue_id": "PU_004",
+          "pdf_page": 56,
+          "platform": "Philips CD-i",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    },
+    {
+      "title": "Lolo 3",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_145",
+          "issue_id": "PU_004",
+          "pdf_page": 46,
+          "platform": "NES",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaeffer"
+        }
+      ]
+    },
+    {
+      "title": "Mutant League Football",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_156",
+          "issue_id": "PU_004",
+          "pdf_page": 53,
+          "platform": "Sega Mega Drive",
+          "score_10": 9.0,
+          "reviewer": "Michael Schaeffer"
+        }
+      ]
+    },
+    {
+      "title": "Pac-Man",
+      "evaluation_count": 1,
+      "mean_score_10": 9.0,
+      "median_score_10": 9.0,
+      "min_score_10": 9.0,
+      "max_score_10": 9.0,
+      "score_spread_10": 0.0,
+      "classifications": [
+        "VIDEO_GAME"
+      ],
+      "edge_case_flags": [],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_114",
+          "issue_id": "PU_003",
+          "pdf_page": 55,
+          "platform": "Game Gear",
+          "score_10": 9.0,
+          "reviewer": "Bjorn Bruinsma"
+        }
+      ]
+    }
+  ],
+  "multi_platform_comparisons_by_spread": [
+    {
+      "comparison_id": "PU_1993_MP_005",
+      "issue_id": "PU_004",
+      "title_normalized": "spider man",
+      "title_labels": [
+        "Spider-Man"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_128",
+          "platform_printed": "Sega Game Gear",
+          "reviewer_canonical": "Ben de Dood",
+          "score_10": 8.0,
+          "pdf_page_start": 30
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_129",
+          "platform_printed": "Sega Mega Drive",
+          "reviewer_canonical": "Ben de Dood",
+          "score_10": 7.0,
+          "pdf_page_start": 30
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_130",
+          "platform_printed": "Game Boy",
+          "reviewer_canonical": "Ben de Dood",
+          "score_10": 6.5,
+          "pdf_page_start": 30
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_131",
+          "platform_printed": "Super Nintendo",
+          "reviewer_canonical": "Ben de Dood",
+          "score_10": 9.0,
+          "pdf_page_start": 30
+        }
+      ],
+      "score_spread": 2.5,
+      "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+      "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+    },
+    {
+      "comparison_id": "PU_1993_MP_001",
+      "issue_id": "PU_003",
+      "title_normalized": "jurassic park",
+      "title_labels": [
+        "Jurassic Park"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_085",
+          "platform_printed": "Sega Mega Drive",
+          "reviewer_canonical": "Bjorn Bruinsma",
+          "score_10": 9.1,
+          "pdf_page_start": 22
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_086",
+          "platform_printed": "NES",
+          "reviewer_canonical": "Bjorn Bruinsma",
+          "score_10": 7.7,
+          "pdf_page_start": 23
+        }
+      ],
+      "score_spread": 1.4,
+      "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+      "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+    },
+    {
+      "comparison_id": "PU_1993_MP_002",
+      "issue_id": "PU_003",
+      "title_normalized": "asterix",
+      "title_labels": [
+        "Asterix"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_087",
+          "platform_printed": "Super Nintendo",
+          "reviewer_canonical": "Bjorn Bruinsma",
+          "score_10": 8.0,
+          "pdf_page_start": 24
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_088",
+          "platform_printed": "Game Boy",
+          "reviewer_canonical": "Adam Eeuwens",
+          "score_10": 7.0,
+          "pdf_page_start": 25
+        }
+      ],
+      "score_spread": 1.0,
+      "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+      "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+    },
+    {
+      "comparison_id": "PU_1993_MP_004",
+      "issue_id": "PU_003",
+      "title_normalized": "space hulk",
+      "title_labels": [
+        "Space Hulk"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_110",
+          "platform_printed": "Board game",
+          "reviewer_canonical": "Ben de Dood",
+          "score_10": 8.0,
+          "pdf_page_start": 52
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_111",
+          "platform_printed": "PC",
+          "reviewer_canonical": "Ben de Dood",
+          "score_10": 7.5,
+          "pdf_page_start": 52
+        }
+      ],
+      "score_spread": 0.5,
+      "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+      "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+    },
+    {
+      "comparison_id": "PU_1993_MP_006",
+      "issue_id": "PU_004",
+      "title_normalized": "felix the cat",
+      "title_labels": [
+        "Felix the Cat"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_141",
+          "platform_printed": "NES",
+          "reviewer_canonical": "Michael Schaeffer",
+          "score_10": 7.5,
+          "pdf_page_start": 40
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_142",
+          "platform_printed": "Game Boy",
+          "reviewer_canonical": "Michael Schaeffer",
+          "score_10": 7.0,
+          "pdf_page_start": 40
+        }
+      ],
+      "score_spread": 0.5,
+      "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+      "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+    },
+    {
+      "comparison_id": "PU_1993_MP_007",
+      "issue_id": "PU_005",
+      "title_normalized": "zombies ate my neighbors",
+      "title_labels": [
+        "Zombies Ate My Neighbors"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_167",
+          "platform_printed": "Sega Mega Drive",
+          "reviewer_canonical": "Bjorn Bruinsma",
+          "score_10": 9.0,
+          "pdf_page_start": 20
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_168",
+          "platform_printed": "Super Nintendo",
+          "reviewer_canonical": "Bjorn Bruinsma",
+          "score_10": 9.1,
+          "pdf_page_start": 20
+        }
+      ],
+      "score_spread": 0.1,
+      "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+      "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+    },
+    {
+      "comparison_id": "PU_1993_MP_003",
+      "issue_id": "PU_003",
+      "title_normalized": "mcdonaldland",
+      "title_labels": [
+        "McDonaldland"
+      ],
+      "evaluations": [
+        {
+          "year_review_id": "PU_1993_REVIEW_101",
+          "platform_printed": "Game Boy",
+          "reviewer_canonical": "Bjorn Bruinsma",
+          "score_10": 6.8,
+          "pdf_page_start": 39
+        },
+        {
+          "year_review_id": "PU_1993_REVIEW_102",
+          "platform_printed": "European NES",
+          "reviewer_canonical": "Bjorn Bruinsma",
+          "score_10": 6.8,
+          "pdf_page_start": 39
+        }
+      ],
+      "score_spread": 0.0,
+      "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+      "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+    }
+  ],
+  "largest_multi_platform_spread": {
+    "comparison_id": "PU_1993_MP_005",
+    "issue_id": "PU_004",
+    "title_normalized": "spider man",
+    "title_labels": [
+      "Spider-Man"
+    ],
+    "evaluations": [
+      {
+        "year_review_id": "PU_1993_REVIEW_128",
+        "platform_printed": "Sega Game Gear",
+        "reviewer_canonical": "Ben de Dood",
+        "score_10": 8.0,
+        "pdf_page_start": 30
+      },
+      {
+        "year_review_id": "PU_1993_REVIEW_129",
+        "platform_printed": "Sega Mega Drive",
+        "reviewer_canonical": "Ben de Dood",
+        "score_10": 7.0,
+        "pdf_page_start": 30
+      },
+      {
+        "year_review_id": "PU_1993_REVIEW_130",
+        "platform_printed": "Game Boy",
+        "reviewer_canonical": "Ben de Dood",
+        "score_10": 6.5,
+        "pdf_page_start": 30
+      },
+      {
+        "year_review_id": "PU_1993_REVIEW_131",
+        "platform_printed": "Super Nintendo",
+        "reviewer_canonical": "Ben de Dood",
+        "score_10": 9.0,
+        "pdf_page_start": 30
+      }
+    ],
+    "score_spread": 2.5,
+    "authority": "DERIVED_FROM_SEPARATE_CANON_EVALUATIONS",
+    "merge_policy": "DO_NOT_MERGE_PLATFORM_SCORES"
+  },
+  "exact_score_ties": [
+    {
+      "score_10": 9.6,
+      "evaluation_count": 4,
+      "evaluations": [
+        {
+          "title": "StarWing",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 18,
+          "year_review_id": "PU_1993_REVIEW_001"
+        },
+        {
+          "title": "El-Fish",
+          "platform": "PC",
+          "issue_id": "PU_002",
+          "pdf_page": 36,
+          "year_review_id": "PU_1993_REVIEW_054"
+        },
+        {
+          "title": "Jungle Strike",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_003",
+          "pdf_page": 36,
+          "year_review_id": "PU_1993_REVIEW_099"
+        },
+        {
+          "title": "Street Fighter II Turbo",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 47,
+          "year_review_id": "PU_1993_REVIEW_106"
+        }
+      ]
+    },
+    {
+      "score_10": 9.5,
+      "evaluation_count": 6,
+      "evaluations": [
+        {
+          "title": "Hellcats Over The Pacific",
+          "platform": "Macintosh",
+          "issue_id": "PU_001",
+          "pdf_page": 64,
+          "year_review_id": "PU_1993_REVIEW_036"
+        },
+        {
+          "title": "The Lost Vikings",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_002",
+          "pdf_page": 24,
+          "year_review_id": "PU_1993_REVIEW_040"
+        },
+        {
+          "title": "MicroMachines",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_003",
+          "pdf_page": 35,
+          "year_review_id": "PU_1993_REVIEW_098"
+        },
+        {
+          "title": "Mortal Kombat",
+          "platform": "Game Boy / Game Gear",
+          "issue_id": "PU_003",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_107"
+        },
+        {
+          "title": "How to Host a Mystery: Star Trek The Next Generation",
+          "platform": "Board game",
+          "issue_id": "PU_004",
+          "pdf_page": 59,
+          "year_review_id": "PU_1993_REVIEW_162"
+        },
+        {
+          "title": "Samurai Shodown",
+          "platform": "Neo Geo",
+          "issue_id": "PU_005",
+          "pdf_page": 62,
+          "year_review_id": "PU_1993_REVIEW_209"
+        }
+      ]
+    },
+    {
+      "score_10": 9.1,
+      "evaluation_count": 3,
+      "evaluations": [
+        {
+          "title": "Jurassic Park",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_003",
+          "pdf_page": 22,
+          "year_review_id": "PU_1993_REVIEW_085"
+        },
+        {
+          "title": "Super Turrican",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 37,
+          "year_review_id": "PU_1993_REVIEW_137"
+        },
+        {
+          "title": "Zombies Ate My Neighbors",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_005",
+          "pdf_page": 20,
+          "year_review_id": "PU_1993_REVIEW_168"
+        }
+      ]
+    },
+    {
+      "score_10": 9.0,
+      "evaluation_count": 24,
+      "evaluations": [
+        {
+          "title": "Teenage Mutant Hero Turtles: The Hyperstone Heist",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_001",
+          "pdf_page": 24,
+          "year_review_id": "PU_1993_REVIEW_003"
+        },
+        {
+          "title": "Tiny Toon Adventures: Buster's Hidden Treasure",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_001",
+          "pdf_page": 28,
+          "year_review_id": "PU_1993_REVIEW_005"
+        },
+        {
+          "title": "X-Wing",
+          "platform": "PC",
+          "issue_id": "PU_001",
+          "pdf_page": 66,
+          "year_review_id": "PU_1993_REVIEW_037"
+        },
+        {
+          "title": "Bubsy",
+          "platform": "Super NES",
+          "issue_id": "PU_002",
+          "pdf_page": 27,
+          "year_review_id": "PU_1993_REVIEW_042"
+        },
+        {
+          "title": "Flashback",
+          "platform": "PC",
+          "issue_id": "PU_002",
+          "pdf_page": 34,
+          "year_review_id": "PU_1993_REVIEW_052"
+        },
+        {
+          "title": "Zen: Intergalactic Ninja",
+          "platform": "Game Boy",
+          "issue_id": "PU_002",
+          "pdf_page": 52,
+          "year_review_id": "PU_1993_REVIEW_066"
+        },
+        {
+          "title": "Krusty's Fun House",
+          "platform": "Game Gear",
+          "issue_id": "PU_002",
+          "pdf_page": 56,
+          "year_review_id": "PU_1993_REVIEW_073"
+        },
+        {
+          "title": "Inca",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_002",
+          "pdf_page": 63,
+          "year_review_id": "PU_1993_REVIEW_082"
+        },
+        {
+          "title": "Bubsy",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_003",
+          "pdf_page": 37,
+          "year_review_id": "PU_1993_REVIEW_100"
+        },
+        {
+          "title": "Car + Driver",
+          "platform": "PC",
+          "issue_id": "PU_003",
+          "pdf_page": 51,
+          "year_review_id": "PU_1993_REVIEW_109"
+        },
+        {
+          "title": "Pac-Man",
+          "platform": "Game Gear",
+          "issue_id": "PU_003",
+          "pdf_page": 55,
+          "year_review_id": "PU_1993_REVIEW_114"
+        },
+        {
+          "title": "Spider-Man",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_131"
+        },
+        {
+          "title": "Lolo 3",
+          "platform": "NES",
+          "issue_id": "PU_004",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_145"
+        },
+        {
+          "title": "Mutant League Football",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_004",
+          "pdf_page": 53,
+          "year_review_id": "PU_1993_REVIEW_156"
+        },
+        {
+          "title": "Shinobi III",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_004",
+          "pdf_page": 55,
+          "year_review_id": "PU_1993_REVIEW_158"
+        },
+        {
+          "title": "Link: The Faces of Evil",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_004",
+          "pdf_page": 56,
+          "year_review_id": "PU_1993_REVIEW_159"
+        },
+        {
+          "title": "Zelda: The Wand of Gamelon",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_004",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_160"
+        },
+        {
+          "title": "Ecco the Dolphin",
+          "platform": "Sega CD",
+          "issue_id": "PU_004",
+          "pdf_page": 58,
+          "year_review_id": "PU_1993_REVIEW_161"
+        },
+        {
+          "title": "Syndicate",
+          "platform": "PC",
+          "issue_id": "PU_004",
+          "pdf_page": 60,
+          "year_review_id": "PU_1993_REVIEW_163"
+        },
+        {
+          "title": "Zombies Ate My Neighbors",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_005",
+          "pdf_page": 20,
+          "year_review_id": "PU_1993_REVIEW_167"
+        },
+        {
+          "title": "The 7th Saga",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_005",
+          "pdf_page": 28,
+          "year_review_id": "PU_1993_REVIEW_174"
+        },
+        {
+          "title": "Street Fighter II: Special Champion Edition",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_005",
+          "pdf_page": 47,
+          "year_review_id": "PU_1993_REVIEW_188"
+        },
+        {
+          "title": "Terminator 2",
+          "platform": "Game Gear",
+          "issue_id": "PU_005",
+          "pdf_page": 51,
+          "year_review_id": "PU_1993_REVIEW_195"
+        },
+        {
+          "title": "Mortal Kombat",
+          "platform": "Game Gear",
+          "issue_id": "PU_005",
+          "pdf_page": 51,
+          "year_review_id": "PU_1993_REVIEW_196"
+        }
+      ]
+    },
+    {
+      "score_10": 8.9,
+      "evaluation_count": 3,
+      "evaluations": [
+        {
+          "title": "Civilization",
+          "platform": "PC / Macintosh",
+          "issue_id": "PU_002",
+          "pdf_page": 48,
+          "year_review_id": "PU_1993_REVIEW_062"
+        },
+        {
+          "title": "Freddy Pharkas",
+          "platform": "Macintosh / PC",
+          "issue_id": "PU_004",
+          "pdf_page": 50,
+          "year_review_id": "PU_1993_REVIEW_153"
+        },
+        {
+          "title": "Shining Force",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_004",
+          "pdf_page": 52,
+          "year_review_id": "PU_1993_REVIEW_155"
+        }
+      ]
+    },
+    {
+      "score_10": 8.7,
+      "evaluation_count": 2,
+      "evaluations": [
+        {
+          "title": "Defender of the Crown",
+          "platform": "CD-i",
+          "issue_id": "PU_003",
+          "pdf_page": 60,
+          "year_review_id": "PU_1993_REVIEW_123"
+        },
+        {
+          "title": "Rocket Knight Adventures",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_004",
+          "pdf_page": 54,
+          "year_review_id": "PU_1993_REVIEW_157"
+        }
+      ]
+    },
+    {
+      "score_10": 8.5,
+      "evaluation_count": 20,
+      "evaluations": [
+        {
+          "title": "The Empire Strikes Back",
+          "platform": "Game Boy",
+          "issue_id": "PU_001",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_022"
+        },
+        {
+          "title": "Outlander",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 47,
+          "year_review_id": "PU_1993_REVIEW_023"
+        },
+        {
+          "title": "Cool Spot",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_002",
+          "pdf_page": 29,
+          "year_review_id": "PU_1993_REVIEW_044"
+        },
+        {
+          "title": "Cybernator",
+          "platform": "Super NES",
+          "issue_id": "PU_002",
+          "pdf_page": 33,
+          "year_review_id": "PU_1993_REVIEW_051"
+        },
+        {
+          "title": "F1 Super Driving",
+          "platform": "Super NES",
+          "issue_id": "PU_002",
+          "pdf_page": 39,
+          "year_review_id": "PU_1993_REVIEW_057"
+        },
+        {
+          "title": "Sengoku",
+          "platform": "Neo Geo",
+          "issue_id": "PU_002",
+          "pdf_page": 59,
+          "year_review_id": "PU_1993_REVIEW_077"
+        },
+        {
+          "title": "WWF Royal Rumble",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 26,
+          "year_review_id": "PU_1993_REVIEW_089"
+        },
+        {
+          "title": "Tuff E Nuff",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 31,
+          "year_review_id": "PU_1993_REVIEW_094"
+        },
+        {
+          "title": "MechWarrior",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 33,
+          "year_review_id": "PU_1993_REVIEW_096"
+        },
+        {
+          "title": "Plok",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 35,
+          "year_review_id": "PU_1993_REVIEW_135"
+        },
+        {
+          "title": "F-15 Strike Eagle",
+          "platform": "NES",
+          "issue_id": "PU_004",
+          "pdf_page": 44,
+          "year_review_id": "PU_1993_REVIEW_144"
+        },
+        {
+          "title": "Pinball Dreams",
+          "platform": "Game Boy",
+          "issue_id": "PU_004",
+          "pdf_page": 49,
+          "year_review_id": "PU_1993_REVIEW_151"
+        },
+        {
+          "title": "Heaven & Earth",
+          "platform": "PC",
+          "issue_id": "PU_004",
+          "pdf_page": 61,
+          "year_review_id": "PU_1993_REVIEW_164"
+        },
+        {
+          "title": "World Heroes",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_005",
+          "pdf_page": 22,
+          "year_review_id": "PU_1993_REVIEW_169"
+        },
+        {
+          "title": "World Heroes 2",
+          "platform": "Neo Geo",
+          "issue_id": "PU_005",
+          "pdf_page": 23,
+          "year_review_id": "PU_1993_REVIEW_170"
+        },
+        {
+          "title": "Pop 'n TwinBee",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_005",
+          "pdf_page": 27,
+          "year_review_id": "PU_1993_REVIEW_173"
+        },
+        {
+          "title": "Super Off Road: The Baja",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_005",
+          "pdf_page": 29,
+          "year_review_id": "PU_1993_REVIEW_175"
+        },
+        {
+          "title": "Populous II",
+          "platform": "Super Nintendo / Sega Mega Drive",
+          "issue_id": "PU_005",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_176"
+        },
+        {
+          "title": "ElfQuest",
+          "platform": "Board game",
+          "issue_id": "PU_005",
+          "pdf_page": 52,
+          "year_review_id": "PU_1993_REVIEW_197"
+        },
+        {
+          "title": "Street Fighter II",
+          "platform": "PC",
+          "issue_id": "PU_005",
+          "pdf_page": 55,
+          "year_review_id": "PU_1993_REVIEW_200"
+        }
+      ]
+    },
+    {
+      "score_10": 8.4,
+      "evaluation_count": 2,
+      "evaluations": [
+        {
+          "title": "V for Victory",
+          "platform": "Macintosh / PC",
+          "issue_id": "PU_003",
+          "pdf_page": 62,
+          "year_review_id": "PU_1993_REVIEW_125"
+        },
+        {
+          "title": "Surf Ninjas",
+          "platform": "Game Gear",
+          "issue_id": "PU_004",
+          "pdf_page": 47,
+          "year_review_id": "PU_1993_REVIEW_147"
+        }
+      ]
+    },
+    {
+      "score_10": 8.3,
+      "evaluation_count": 2,
+      "evaluations": [
+        {
+          "title": "Robin Hood: Prince of Thieves",
+          "platform": "Game Boy",
+          "issue_id": "PU_002",
+          "pdf_page": 54,
+          "year_review_id": "PU_1993_REVIEW_069"
+        },
+        {
+          "title": "Milon's Secret Castle",
+          "platform": "Game Boy",
+          "issue_id": "PU_002",
+          "pdf_page": 55,
+          "year_review_id": "PU_1993_REVIEW_071"
+        }
+      ]
+    },
+    {
+      "score_10": 8.2,
+      "evaluation_count": 7,
+      "evaluations": [
+        {
+          "title": "Alien Gate",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_001",
+          "pdf_page": 60,
+          "year_review_id": "PU_1993_REVIEW_031"
+        },
+        {
+          "title": "Shinobi II: The Silent Fury",
+          "platform": "Game Gear",
+          "issue_id": "PU_002",
+          "pdf_page": 56,
+          "year_review_id": "PU_1993_REVIEW_072"
+        },
+        {
+          "title": "X-Men",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_004",
+          "pdf_page": 32,
+          "year_review_id": "PU_1993_REVIEW_132"
+        },
+        {
+          "title": "Parodius",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 36,
+          "year_review_id": "PU_1993_REVIEW_136"
+        },
+        {
+          "title": "Gods",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_005",
+          "pdf_page": 42,
+          "year_review_id": "PU_1993_REVIEW_184"
+        },
+        {
+          "title": "Hook",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_005",
+          "pdf_page": 45,
+          "year_review_id": "PU_1993_REVIEW_186"
+        },
+        {
+          "title": "Dracula",
+          "platform": "Game Gear",
+          "issue_id": "PU_005",
+          "pdf_page": 50,
+          "year_review_id": "PU_1993_REVIEW_194"
+        }
+      ]
+    },
+    {
+      "score_10": 8.0,
+      "evaluation_count": 37,
+      "evaluations": [
+        {
+          "title": "Beyond Cyberpunk",
+          "platform": "Macintosh",
+          "issue_id": "PU_001",
+          "pdf_page": 22,
+          "year_review_id": "PU_1993_REVIEW_002"
+        },
+        {
+          "title": "Alien 3",
+          "platform": "Game Boy",
+          "issue_id": "PU_001",
+          "pdf_page": 44,
+          "year_review_id": "PU_1993_REVIEW_016"
+        },
+        {
+          "title": "Darkwing Duck",
+          "platform": "Game Boy",
+          "issue_id": "PU_001",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_020"
+        },
+        {
+          "title": "Darkseed",
+          "platform": "PC",
+          "issue_id": "PU_001",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_029"
+        },
+        {
+          "title": "Michael Jordan in Flight",
+          "platform": "PC",
+          "issue_id": "PU_001",
+          "pdf_page": 58,
+          "year_review_id": "PU_1993_REVIEW_030"
+        },
+        {
+          "title": "The Flintstones",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_001",
+          "pdf_page": 63,
+          "year_review_id": "PU_1993_REVIEW_035"
+        },
+        {
+          "title": "Shadowrun RPG",
+          "platform": null,
+          "issue_id": "PU_002",
+          "pdf_page": 21,
+          "year_review_id": "PU_1993_REVIEW_038"
+        },
+        {
+          "title": "Bulls vs Blazers",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_002",
+          "pdf_page": 35,
+          "year_review_id": "PU_1993_REVIEW_053"
+        },
+        {
+          "title": "Sunsetriders",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_002",
+          "pdf_page": 38,
+          "year_review_id": "PU_1993_REVIEW_055"
+        },
+        {
+          "title": "Darklands",
+          "platform": "PC",
+          "issue_id": "PU_002",
+          "pdf_page": 40,
+          "year_review_id": "PU_1993_REVIEW_058"
+        },
+        {
+          "title": "Spear of Destiny",
+          "platform": "PC",
+          "issue_id": "PU_002",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_060"
+        },
+        {
+          "title": "Vampire: Master of Darkness",
+          "platform": "Game Gear",
+          "issue_id": "PU_002",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_075"
+        },
+        {
+          "title": "Asterix",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 24,
+          "year_review_id": "PU_1993_REVIEW_087"
+        },
+        {
+          "title": "The Addams Family: Pugsley's Scavenger Hunt",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 28,
+          "year_review_id": "PU_1993_REVIEW_090"
+        },
+        {
+          "title": "Congo's Caper",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_092"
+        },
+        {
+          "title": "Mario Bros Classic",
+          "platform": "NES",
+          "issue_id": "PU_003",
+          "pdf_page": 40,
+          "year_review_id": "PU_1993_REVIEW_104"
+        },
+        {
+          "title": "Panic Restaurant",
+          "platform": "NES",
+          "issue_id": "PU_003",
+          "pdf_page": 41,
+          "year_review_id": "PU_1993_REVIEW_105"
+        },
+        {
+          "title": "Imperial Pursuit",
+          "platform": "PC",
+          "issue_id": "PU_003",
+          "pdf_page": 50,
+          "year_review_id": "PU_1993_REVIEW_108"
+        },
+        {
+          "title": "Space Hulk",
+          "platform": "Board game",
+          "issue_id": "PU_003",
+          "pdf_page": 52,
+          "year_review_id": "PU_1993_REVIEW_110"
+        },
+        {
+          "title": "Pinball Dreams",
+          "platform": "PC",
+          "issue_id": "PU_003",
+          "pdf_page": 54,
+          "year_review_id": "PU_1993_REVIEW_112"
+        },
+        {
+          "title": "The Legend of Zelda: Link's Awakening",
+          "platform": "Game Boy",
+          "issue_id": "PU_003",
+          "pdf_page": 56,
+          "year_review_id": "PU_1993_REVIEW_115"
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "platform": "Game Boy",
+          "issue_id": "PU_003",
+          "pdf_page": 56,
+          "year_review_id": "PU_1993_REVIEW_116"
+        },
+        {
+          "title": "Speedy Gonzales",
+          "platform": "Game Boy",
+          "issue_id": "PU_003",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_118"
+        },
+        {
+          "title": "Titus the Fox: To Marrakech and Back",
+          "platform": "Game Boy",
+          "issue_id": "PU_003",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_119"
+        },
+        {
+          "title": "Gordo 106",
+          "platform": "Lynx",
+          "issue_id": "PU_003",
+          "pdf_page": 58,
+          "year_review_id": "PU_1993_REVIEW_120"
+        },
+        {
+          "title": "Spider-Man",
+          "platform": "Sega Game Gear",
+          "issue_id": "PU_004",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_128"
+        },
+        {
+          "title": "Yoshi's Safari",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 33,
+          "year_review_id": "PU_1993_REVIEW_133"
+        },
+        {
+          "title": "B.O.B.",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 39,
+          "year_review_id": "PU_1993_REVIEW_140"
+        },
+        {
+          "title": "Pocky & Rocky",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_005",
+          "pdf_page": 26,
+          "year_review_id": "PU_1993_REVIEW_172"
+        },
+        {
+          "title": "The Incredible Crash Dummies",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_005",
+          "pdf_page": 31,
+          "year_review_id": "PU_1993_REVIEW_177"
+        },
+        {
+          "title": "Attack of the Killer Tomatoes",
+          "platform": "NES",
+          "issue_id": "PU_005",
+          "pdf_page": 34,
+          "year_review_id": "PU_1993_REVIEW_179"
+        },
+        {
+          "title": "Bubble Bobble Part 2",
+          "platform": "NES",
+          "issue_id": "PU_005",
+          "pdf_page": 35,
+          "year_review_id": "PU_1993_REVIEW_181"
+        },
+        {
+          "title": "Tazmania",
+          "platform": "Game Boy",
+          "issue_id": "PU_005",
+          "pdf_page": 49,
+          "year_review_id": "PU_1993_REVIEW_191"
+        },
+        {
+          "title": "Trolls",
+          "platform": "PC",
+          "issue_id": "PU_005",
+          "pdf_page": 53,
+          "year_review_id": "PU_1993_REVIEW_198"
+        },
+        {
+          "title": "Seal Team",
+          "platform": "PC",
+          "issue_id": "PU_005",
+          "pdf_page": 54,
+          "year_review_id": "PU_1993_REVIEW_199"
+        },
+        {
+          "title": "Unlimited Adventures",
+          "platform": "PC",
+          "issue_id": "PU_005",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_202"
+        },
+        {
+          "title": "Crystal Crazy",
+          "platform": "Macintosh",
+          "issue_id": "PU_005",
+          "pdf_page": 58,
+          "year_review_id": "PU_1993_REVIEW_203"
+        }
+      ]
+    },
+    {
+      "score_10": 7.8,
+      "evaluation_count": 6,
+      "evaluations": [
+        {
+          "title": "Paperboy 2",
+          "platform": "Game Gear",
+          "issue_id": "PU_003",
+          "pdf_page": 55,
+          "year_review_id": "PU_1993_REVIEW_113"
+        },
+        {
+          "title": "Sewer Shark",
+          "platform": "Sega CD",
+          "issue_id": "PU_003",
+          "pdf_page": 58,
+          "year_review_id": "PU_1993_REVIEW_121"
+        },
+        {
+          "title": "Goof Troop",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 34,
+          "year_review_id": "PU_1993_REVIEW_134"
+        },
+        {
+          "title": "Haunting Starring Polterguy",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_005",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_187"
+        },
+        {
+          "title": "The Zone of Avoidance",
+          "platform": "Macintosh",
+          "issue_id": "PU_005",
+          "pdf_page": 59,
+          "year_review_id": "PU_1993_REVIEW_205"
+        },
+        {
+          "title": "ABC Sports presenteert: Power Hitter",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_005",
+          "pdf_page": 61,
+          "year_review_id": "PU_1993_REVIEW_207"
+        }
+      ]
+    },
+    {
+      "score_10": 7.7,
+      "evaluation_count": 2,
+      "evaluations": [
+        {
+          "title": "Jurassic Park",
+          "platform": "NES",
+          "issue_id": "PU_003",
+          "pdf_page": 23,
+          "year_review_id": "PU_1993_REVIEW_086"
+        },
+        {
+          "title": "DuckTales 2",
+          "platform": "NES",
+          "issue_id": "PU_004",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_146"
+        }
+      ]
+    },
+    {
+      "score_10": 7.6,
+      "evaluation_count": 2,
+      "evaluations": [
+        {
+          "title": "James Bond 007: The Duel",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_001",
+          "pdf_page": 62,
+          "year_review_id": "PU_1993_REVIEW_034"
+        },
+        {
+          "title": "Another World",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_002",
+          "pdf_page": 32,
+          "year_review_id": "PU_1993_REVIEW_050"
+        }
+      ]
+    },
+    {
+      "score_10": 7.5,
+      "evaluation_count": 16,
+      "evaluations": [
+        {
+          "title": "Dinolympics",
+          "platform": "Lynx",
+          "issue_id": "PU_001",
+          "pdf_page": 32,
+          "year_review_id": "PU_1993_REVIEW_007"
+        },
+        {
+          "title": "Cool World",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 41,
+          "year_review_id": "PU_1993_REVIEW_014"
+        },
+        {
+          "title": "Mega Man 3",
+          "platform": "Game Boy",
+          "issue_id": "PU_001",
+          "pdf_page": 46,
+          "year_review_id": "PU_1993_REVIEW_021"
+        },
+        {
+          "title": "Brawl Brothers",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_001",
+          "pdf_page": 48,
+          "year_review_id": "PU_1993_REVIEW_024"
+        },
+        {
+          "title": "Doomsday Warrior",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 49,
+          "year_review_id": "PU_1993_REVIEW_025"
+        },
+        {
+          "title": "CD Shoot",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_002",
+          "pdf_page": 62,
+          "year_review_id": "PU_1993_REVIEW_081"
+        },
+        {
+          "title": "Final Fight 2",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 31,
+          "year_review_id": "PU_1993_REVIEW_093"
+        },
+        {
+          "title": "Super James Pond",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 32,
+          "year_review_id": "PU_1993_REVIEW_095"
+        },
+        {
+          "title": "The Flintstones",
+          "platform": "NES",
+          "issue_id": "PU_003",
+          "pdf_page": 40,
+          "year_review_id": "PU_1993_REVIEW_103"
+        },
+        {
+          "title": "Space Hulk",
+          "platform": "PC",
+          "issue_id": "PU_003",
+          "pdf_page": 52,
+          "year_review_id": "PU_1993_REVIEW_111"
+        },
+        {
+          "title": "Bubble Bobble Part 2",
+          "platform": "Game Boy",
+          "issue_id": "PU_003",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_117"
+        },
+        {
+          "title": "Super Slap Shot",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 38,
+          "year_review_id": "PU_1993_REVIEW_138"
+        },
+        {
+          "title": "Felix the Cat",
+          "platform": "NES",
+          "issue_id": "PU_004",
+          "pdf_page": 40,
+          "year_review_id": "PU_1993_REVIEW_141"
+        },
+        {
+          "title": "Mystic Quest",
+          "platform": "Game Boy",
+          "issue_id": "PU_004",
+          "pdf_page": 48,
+          "year_review_id": "PU_1993_REVIEW_150"
+        },
+        {
+          "title": "The Battle of Olympus",
+          "platform": "Game Boy",
+          "issue_id": "PU_005",
+          "pdf_page": 49,
+          "year_review_id": "PU_1993_REVIEW_192"
+        },
+        {
+          "title": "Spaceway 2000",
+          "platform": "Macintosh",
+          "issue_id": "PU_005",
+          "pdf_page": 58,
+          "year_review_id": "PU_1993_REVIEW_204"
+        }
+      ]
+    },
+    {
+      "score_10": 7.2,
+      "evaluation_count": 5,
+      "evaluations": [
+        {
+          "title": "Taz-Mania",
+          "platform": "Super NES",
+          "issue_id": "PU_002",
+          "pdf_page": 26,
+          "year_review_id": "PU_1993_REVIEW_041"
+        },
+        {
+          "title": "Snow Brothers",
+          "platform": "NES",
+          "issue_id": "PU_002",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_047"
+        },
+        {
+          "title": "Dark Castle",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_002",
+          "pdf_page": 62,
+          "year_review_id": "PU_1993_REVIEW_080"
+        },
+        {
+          "title": "The Palm Springs Open",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_002",
+          "pdf_page": 63,
+          "year_review_id": "PU_1993_REVIEW_083"
+        },
+        {
+          "title": "Streets of Rage 2",
+          "platform": "Game Gear",
+          "issue_id": "PU_004",
+          "pdf_page": 47,
+          "year_review_id": "PU_1993_REVIEW_148"
+        }
+      ]
+    },
+    {
+      "score_10": 7.0,
+      "evaluation_count": 24,
+      "evaluations": [
+        {
+          "title": "Mario Paint",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 27,
+          "year_review_id": "PU_1993_REVIEW_004"
+        },
+        {
+          "title": "Harley's Humongous Adventure",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_006"
+        },
+        {
+          "title": "Nigel Mansell's World Championship",
+          "platform": "PC",
+          "issue_id": "PU_001",
+          "pdf_page": 33,
+          "year_review_id": "PU_1993_REVIEW_009"
+        },
+        {
+          "title": "Fatal Fury",
+          "platform": "Super NES",
+          "issue_id": "PU_002",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_045"
+        },
+        {
+          "title": "Rockin' Kats",
+          "platform": "NES",
+          "issue_id": "PU_002",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_046"
+        },
+        {
+          "title": "Battle Grand Prix",
+          "platform": "Super NES",
+          "issue_id": "PU_002",
+          "pdf_page": 38,
+          "year_review_id": "PU_1993_REVIEW_056"
+        },
+        {
+          "title": "Veil of Darkness",
+          "platform": "PC",
+          "issue_id": "PU_002",
+          "pdf_page": 41,
+          "year_review_id": "PU_1993_REVIEW_059"
+        },
+        {
+          "title": "Prince of Persia 2",
+          "platform": "PC",
+          "issue_id": "PU_002",
+          "pdf_page": 47,
+          "year_review_id": "PU_1993_REVIEW_061"
+        },
+        {
+          "title": "Battletoads - NES / Ragnarok's World",
+          "platform": "NES",
+          "issue_id": "PU_002",
+          "pdf_page": 50,
+          "year_review_id": "PU_1993_REVIEW_063"
+        },
+        {
+          "title": "Battletoads - Game Boy Ragnarok's World",
+          "platform": "Game Boy",
+          "issue_id": "PU_002",
+          "pdf_page": 50,
+          "year_review_id": "PU_1993_REVIEW_065"
+        },
+        {
+          "title": "Top Rank Tennis",
+          "platform": "Game Boy",
+          "issue_id": "PU_002",
+          "pdf_page": 52,
+          "year_review_id": "PU_1993_REVIEW_067"
+        },
+        {
+          "title": "Spider-Man: Return of the Sinister Six",
+          "platform": "Game Gear",
+          "issue_id": "PU_002",
+          "pdf_page": 57,
+          "year_review_id": "PU_1993_REVIEW_074"
+        },
+        {
+          "title": "Lemmings",
+          "platform": "Lynx",
+          "issue_id": "PU_002",
+          "pdf_page": 64,
+          "year_review_id": "PU_1993_REVIEW_084"
+        },
+        {
+          "title": "Asterix",
+          "platform": "Game Boy",
+          "issue_id": "PU_003",
+          "pdf_page": 25,
+          "year_review_id": "PU_1993_REVIEW_088"
+        },
+        {
+          "title": "Mario is Missing",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_003",
+          "pdf_page": 29,
+          "year_review_id": "PU_1993_REVIEW_091"
+        },
+        {
+          "title": "Return of the Phantom",
+          "platform": "PC",
+          "issue_id": "PU_003",
+          "pdf_page": 64,
+          "year_review_id": "PU_1993_REVIEW_126"
+        },
+        {
+          "title": "Realms of Arkania",
+          "platform": "PC",
+          "issue_id": "PU_003",
+          "pdf_page": 65,
+          "year_review_id": "PU_1993_REVIEW_127"
+        },
+        {
+          "title": "Spider-Man",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_004",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_129"
+        },
+        {
+          "title": "NHLPA Hockey '93",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_004",
+          "pdf_page": 38,
+          "year_review_id": "PU_1993_REVIEW_139"
+        },
+        {
+          "title": "Felix the Cat",
+          "platform": "Game Boy",
+          "issue_id": "PU_004",
+          "pdf_page": 40,
+          "year_review_id": "PU_1993_REVIEW_142"
+        },
+        {
+          "title": "MiG-29 Soviet Fighter",
+          "platform": "NES",
+          "issue_id": "PU_004",
+          "pdf_page": 44,
+          "year_review_id": "PU_1993_REVIEW_143"
+        },
+        {
+          "title": "Jimmy Connors Tennis",
+          "platform": "Lynx",
+          "issue_id": "PU_004",
+          "pdf_page": 51,
+          "year_review_id": "PU_1993_REVIEW_154"
+        },
+        {
+          "title": "Eight Ball Deluxe",
+          "platform": "PC",
+          "issue_id": "PU_004",
+          "pdf_page": 63,
+          "year_review_id": "PU_1993_REVIEW_166"
+        },
+        {
+          "title": "Super James Pond",
+          "platform": "Game Boy",
+          "issue_id": "PU_005",
+          "pdf_page": 48,
+          "year_review_id": "PU_1993_REVIEW_190"
+        }
+      ]
+    },
+    {
+      "score_10": 6.9,
+      "evaluation_count": 2,
+      "evaluations": [
+        {
+          "title": "Backgammon",
+          "platform": "CD-i",
+          "issue_id": "PU_003",
+          "pdf_page": 60,
+          "year_review_id": "PU_1993_REVIEW_122"
+        },
+        {
+          "title": "General Chaos",
+          "platform": "Sega Mega Drive",
+          "issue_id": "PU_005",
+          "pdf_page": 44,
+          "year_review_id": "PU_1993_REVIEW_185"
+        }
+      ]
+    },
+    {
+      "score_10": 6.8,
+      "evaluation_count": 3,
+      "evaluations": [
+        {
+          "title": "McDonaldland",
+          "platform": "Game Boy",
+          "issue_id": "PU_003",
+          "pdf_page": 39,
+          "year_review_id": "PU_1993_REVIEW_101"
+        },
+        {
+          "title": "McDonaldland",
+          "platform": "European NES",
+          "issue_id": "PU_003",
+          "pdf_page": 39,
+          "year_review_id": "PU_1993_REVIEW_102"
+        },
+        {
+          "title": "RC Grand Prix",
+          "platform": "Game Gear",
+          "issue_id": "PU_005",
+          "pdf_page": 50,
+          "year_review_id": "PU_1993_REVIEW_193"
+        }
+      ]
+    },
+    {
+      "score_10": 6.5,
+      "evaluation_count": 7,
+      "evaluations": [
+        {
+          "title": "Barbie Game Girl",
+          "platform": "Game Boy",
+          "issue_id": "PU_001",
+          "pdf_page": 45,
+          "year_review_id": "PU_1993_REVIEW_018"
+        },
+        {
+          "title": "Spot: The Cool Adventure",
+          "platform": "Game Boy",
+          "issue_id": "PU_001",
+          "pdf_page": 45,
+          "year_review_id": "PU_1993_REVIEW_019"
+        },
+        {
+          "title": "Super Mario Kart",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 55,
+          "year_review_id": "PU_1993_REVIEW_028"
+        },
+        {
+          "title": "The Blues Brothers",
+          "platform": "NES / Super Nintendo",
+          "issue_id": "PU_002",
+          "pdf_page": 28,
+          "year_review_id": "PU_1993_REVIEW_043"
+        },
+        {
+          "title": "Spider-Man",
+          "platform": "Game Boy",
+          "issue_id": "PU_004",
+          "pdf_page": 30,
+          "year_review_id": "PU_1993_REVIEW_130"
+        },
+        {
+          "title": "Star Wars",
+          "platform": "Game Boy",
+          "issue_id": "PU_004",
+          "pdf_page": 49,
+          "year_review_id": "PU_1993_REVIEW_152"
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "platform": "NES",
+          "issue_id": "PU_005",
+          "pdf_page": 33,
+          "year_review_id": "PU_1993_REVIEW_178"
+        }
+      ]
+    },
+    {
+      "score_10": 6.2,
+      "evaluation_count": 2,
+      "evaluations": [
+        {
+          "title": "The Terminator",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 41,
+          "year_review_id": "PU_1993_REVIEW_015"
+        },
+        {
+          "title": "Prince Valiant",
+          "platform": "Game Boy",
+          "issue_id": "PU_002",
+          "pdf_page": 54,
+          "year_review_id": "PU_1993_REVIEW_070"
+        }
+      ]
+    },
+    {
+      "score_10": 6.0,
+      "evaluation_count": 11,
+      "evaluations": [
+        {
+          "title": "Power Factor",
+          "platform": "Lynx",
+          "issue_id": "PU_001",
+          "pdf_page": 32,
+          "year_review_id": "PU_1993_REVIEW_008"
+        },
+        {
+          "title": "Chiki Chiki Boys",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_001",
+          "pdf_page": 38,
+          "year_review_id": "PU_1993_REVIEW_012"
+        },
+        {
+          "title": "Lethal Weapon",
+          "platform": "Game Boy",
+          "issue_id": "PU_001",
+          "pdf_page": 44,
+          "year_review_id": "PU_1993_REVIEW_017"
+        },
+        {
+          "title": "Shadowrun",
+          "platform": "Super NES",
+          "issue_id": "PU_002",
+          "pdf_page": 22,
+          "year_review_id": "PU_1993_REVIEW_039"
+        },
+        {
+          "title": "Battletoads - Game Boy basisuitvoering",
+          "platform": "Game Boy",
+          "issue_id": "PU_002",
+          "pdf_page": 50,
+          "year_review_id": "PU_1993_REVIEW_064"
+        },
+        {
+          "title": "Final Fantasy Legend III",
+          "platform": "Game Boy",
+          "issue_id": "PU_004",
+          "pdf_page": 48,
+          "year_review_id": "PU_1993_REVIEW_149"
+        },
+        {
+          "title": "Spectre",
+          "platform": "PC",
+          "issue_id": "PU_004",
+          "pdf_page": 62,
+          "year_review_id": "PU_1993_REVIEW_165"
+        },
+        {
+          "title": "TaleSpin",
+          "platform": "NES",
+          "issue_id": "PU_005",
+          "pdf_page": 35,
+          "year_review_id": "PU_1993_REVIEW_182"
+        },
+        {
+          "title": "Rod Land",
+          "platform": "Game Boy",
+          "issue_id": "PU_005",
+          "pdf_page": 48,
+          "year_review_id": "PU_1993_REVIEW_189"
+        },
+        {
+          "title": "Beauty and the Beast",
+          "platform": "PC",
+          "issue_id": "PU_005",
+          "pdf_page": 56,
+          "year_review_id": "PU_1993_REVIEW_201"
+        },
+        {
+          "title": "Malibu Bikini Volleyball",
+          "platform": "Lynx",
+          "issue_id": "PU_005",
+          "pdf_page": 62,
+          "year_review_id": "PU_1993_REVIEW_208"
+        }
+      ]
+    },
+    {
+      "score_10": 5.0,
+      "evaluation_count": 6,
+      "evaluations": [
+        {
+          "title": "Humans",
+          "platform": "Sega MegaDrive",
+          "issue_id": "PU_001",
+          "pdf_page": 39,
+          "year_review_id": "PU_1993_REVIEW_013"
+        },
+        {
+          "title": "Tom & Jerry",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 53,
+          "year_review_id": "PU_1993_REVIEW_026"
+        },
+        {
+          "title": "Combat Tribes",
+          "platform": "Super NES",
+          "issue_id": "PU_001",
+          "pdf_page": 54,
+          "year_review_id": "PU_1993_REVIEW_027"
+        },
+        {
+          "title": "American Gladiators",
+          "platform": "Super Nintendo",
+          "issue_id": "PU_002",
+          "pdf_page": 31,
+          "year_review_id": "PU_1993_REVIEW_048"
+        },
+        {
+          "title": "Total Recall",
+          "platform": "NES",
+          "issue_id": "PU_002",
+          "pdf_page": 31,
+          "year_review_id": "PU_1993_REVIEW_049"
+        },
+        {
+          "title": "Video Speedway",
+          "platform": "Philips CD-i",
+          "issue_id": "PU_005",
+          "pdf_page": 60,
+          "year_review_id": "PU_1993_REVIEW_206"
+        }
+      ]
+    }
+  ],
+  "highest_per_platform": [
+    {
+      "platform": "CD-i",
+      "evaluation_count": 14,
+      "highest_score_10": 10.0,
+      "winners": [
+        {
+          "title": "Escape from CyberCity",
+          "issue_id": "PU_001",
+          "pdf_page": 60,
+          "reviewer": "Bjorn Bruinsma",
+          "year_review_id": "PU_1993_REVIEW_032"
+        }
+      ]
+    },
+    {
+      "platform": "Game Boy",
+      "evaluation_count": 32,
+      "highest_score_10": 9.0,
+      "winners": [
+        {
+          "title": "Zen: Intergalactic Ninja",
+          "issue_id": "PU_002",
+          "pdf_page": 52,
+          "reviewer": "Michael Schaefer",
+          "year_review_id": "PU_1993_REVIEW_066"
+        }
+      ]
+    },
+    {
+      "platform": "Game Gear",
+      "evaluation_count": 13,
+      "highest_score_10": 9.0,
+      "winners": [
+        {
+          "title": "Krusty's Fun House",
+          "issue_id": "PU_002",
+          "pdf_page": 56,
+          "reviewer": "Michael Schaefer",
+          "year_review_id": "PU_1993_REVIEW_073"
+        },
+        {
+          "title": "Pac-Man",
+          "issue_id": "PU_003",
+          "pdf_page": 55,
+          "reviewer": "Bjorn Bruinsma",
+          "year_review_id": "PU_1993_REVIEW_114"
+        },
+        {
+          "title": "Terminator 2",
+          "issue_id": "PU_005",
+          "pdf_page": 51,
+          "reviewer": "Bjorn Bruinsma",
+          "year_review_id": "PU_1993_REVIEW_195"
+        },
+        {
+          "title": "Mortal Kombat",
+          "issue_id": "PU_005",
+          "pdf_page": 51,
+          "reviewer": "Kees de Koning",
+          "year_review_id": "PU_1993_REVIEW_196"
+        }
+      ]
+    },
+    {
+      "platform": "Lynx",
+      "evaluation_count": 6,
+      "highest_score_10": 8.0,
+      "winners": [
+        {
+          "title": "Gordo 106",
+          "issue_id": "PU_003",
+          "pdf_page": 58,
+          "reviewer": "Adam Eeuwens",
+          "year_review_id": "PU_1993_REVIEW_120"
+        }
+      ]
+    },
+    {
+      "platform": "Macintosh",
+      "evaluation_count": 4,
+      "highest_score_10": 9.5,
+      "winners": [
+        {
+          "title": "Hellcats Over The Pacific",
+          "issue_id": "PU_001",
+          "pdf_page": 64,
+          "reviewer": "David Lemereis",
+          "year_review_id": "PU_1993_REVIEW_036"
+        }
+      ]
+    },
+    {
+      "platform": "NES",
+      "evaluation_count": 19,
+      "highest_score_10": 9.0,
+      "winners": [
+        {
+          "title": "Lolo 3",
+          "issue_id": "PU_004",
+          "pdf_page": 46,
+          "reviewer": "Michael Schaeffer",
+          "year_review_id": "PU_1993_REVIEW_145"
+        }
+      ]
+    },
+    {
+      "platform": "Neo Geo",
+      "evaluation_count": 5,
+      "highest_score_10": 9.5,
+      "winners": [
+        {
+          "title": "Samurai Shodown",
+          "issue_id": "PU_005",
+          "pdf_page": 62,
+          "reviewer": "Kees de Koning",
+          "year_review_id": "PU_1993_REVIEW_209"
+        }
+      ]
+    },
+    {
+      "platform": "PC",
+      "evaluation_count": 25,
+      "highest_score_10": 9.6,
+      "winners": [
+        {
+          "title": "El-Fish",
+          "issue_id": "PU_002",
+          "pdf_page": 36,
+          "reviewer": "David Lemereis",
+          "year_review_id": "PU_1993_REVIEW_054"
+        }
+      ]
+    },
+    {
+      "platform": "Sega CD",
+      "evaluation_count": 4,
+      "highest_score_10": 9.0,
+      "winners": [
+        {
+          "title": "Ecco the Dolphin",
+          "issue_id": "PU_004",
+          "pdf_page": 58,
+          "reviewer": "Adam Eeuwens",
+          "year_review_id": "PU_1993_REVIEW_161"
+        }
+      ]
+    },
+    {
+      "platform": "Sega Mega Drive",
+      "evaluation_count": 29,
+      "highest_score_10": 9.8,
+      "winners": [
+        {
+          "title": "Aladdin",
+          "issue_id": "PU_005",
+          "pdf_page": 40,
+          "reviewer": "David Lemereis",
+          "year_review_id": "PU_1993_REVIEW_183"
+        }
+      ]
+    },
+    {
+      "platform": "Super Nintendo",
+      "evaluation_count": 46,
+      "highest_score_10": 9.6,
+      "winners": [
+        {
+          "title": "StarWing",
+          "issue_id": "PU_001",
+          "pdf_page": 18,
+          "reviewer": "Adam Eeuwens",
+          "year_review_id": "PU_1993_REVIEW_001"
+        },
+        {
+          "title": "Street Fighter II Turbo",
+          "issue_id": "PU_003",
+          "pdf_page": 47,
+          "reviewer": "Kees de Koning",
+          "year_review_id": "PU_1993_REVIEW_106"
+        }
+      ]
+    }
+  ],
+  "edge_cases": [
+    {
+      "year_review_id": "PU_1993_REVIEW_002",
+      "title": "Beyond Cyberpunk",
+      "platform": "Macintosh",
+      "score_10": 8.0,
+      "classification": "REFERENCE_SOFTWARE",
+      "edge_case_flags": [
+        "NON_CONVENTIONAL_VIDEOGAME",
+        "MACINTOSH_HYPERCARD_REFERENCE"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 22
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_004",
+      "title": "Mario Paint",
+      "platform": "Super NES",
+      "score_10": 7.0,
+      "classification": "CREATIVE_SOFTWARE_HYBRID",
+      "edge_case_flags": [
+        "NON_CONVENTIONAL_VIDEOGAME"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 27
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_009",
+      "title": "Nigel Mansell's World Championship",
+      "platform": "PC",
+      "score_10": 7.0,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 33
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_014",
+      "title": "Cool World",
+      "platform": "Super NES",
+      "score_10": 7.5,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 41
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_015",
+      "title": "The Terminator",
+      "platform": "Super NES",
+      "score_10": 6.2,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 41
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_031",
+      "title": "Alien Gate",
+      "platform": "Philips CD-i",
+      "score_10": 8.2,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM",
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 60
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_032",
+      "title": "Escape from CyberCity",
+      "platform": "Philips CD-i",
+      "score_10": 10.0,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM",
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 60
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_033",
+      "title": "Pinball",
+      "platform": "Philips CD-i",
+      "score_10": 7.4,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM",
+        "LEGACY_ARTICLE_TYPE"
+      ],
+      "issue_id": "PU_001",
+      "pdf_page": 61
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_038",
+      "title": "Shadowrun RPG",
+      "platform": null,
+      "score_10": 8.0,
+      "classification": "TABLETOP_RPG",
+      "edge_case_flags": [
+        "TABLETOP_RPG"
+      ],
+      "issue_id": "PU_002",
+      "pdf_page": 21
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_043",
+      "title": "The Blues Brothers",
+      "platform": "NES / Super Nintendo",
+      "score_10": 6.5,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "issue_id": "PU_002",
+      "pdf_page": 28
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_062",
+      "title": "Civilization",
+      "platform": "PC / Macintosh",
+      "score_10": 8.9,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "issue_id": "PU_002",
+      "pdf_page": 48
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_080",
+      "title": "Dark Castle",
+      "platform": "Philips CD-i",
+      "score_10": 7.2,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_002",
+      "pdf_page": 62
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_081",
+      "title": "CD Shoot",
+      "platform": "Philips CD-i",
+      "score_10": 7.5,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_002",
+      "pdf_page": 62
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_082",
+      "title": "Inca",
+      "platform": "Philips CD-i",
+      "score_10": 9.0,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_002",
+      "pdf_page": 63
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_083",
+      "title": "The Palm Springs Open",
+      "platform": "Philips CD-i",
+      "score_10": 7.2,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_002",
+      "pdf_page": 63
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_107",
+      "title": "Mortal Kombat",
+      "platform": "Game Boy / Game Gear",
+      "score_10": 9.5,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "issue_id": "PU_003",
+      "pdf_page": 46
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_110",
+      "title": "Space Hulk",
+      "platform": "Board game",
+      "score_10": 8.0,
+      "classification": "TABLETOP_GAME",
+      "edge_case_flags": [
+        "BOARD_GAME"
+      ],
+      "issue_id": "PU_003",
+      "pdf_page": 52
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_122",
+      "title": "Backgammon",
+      "platform": "CD-i",
+      "score_10": 6.9,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_003",
+      "pdf_page": 60
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_123",
+      "title": "Defender of the Crown",
+      "platform": "CD-i",
+      "score_10": 8.7,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_003",
+      "pdf_page": 60
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_124",
+      "title": "Battleship",
+      "platform": "CD-i",
+      "score_10": 5.5,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_003",
+      "pdf_page": 61
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_125",
+      "title": "V for Victory",
+      "platform": "Macintosh / PC",
+      "score_10": 8.4,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "issue_id": "PU_003",
+      "pdf_page": 62
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_153",
+      "title": "Freddy Pharkas",
+      "platform": "Macintosh / PC",
+      "score_10": 8.9,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "issue_id": "PU_004",
+      "pdf_page": 50
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_159",
+      "title": "Link: The Faces of Evil",
+      "platform": "Philips CD-i",
+      "score_10": 9.0,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_004",
+      "pdf_page": 56
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_160",
+      "title": "Zelda: The Wand of Gamelon",
+      "platform": "Philips CD-i",
+      "score_10": 9.0,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_004",
+      "pdf_page": 57
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_162",
+      "title": "How to Host a Mystery: Star Trek The Next Generation",
+      "platform": "Board game",
+      "score_10": 9.5,
+      "classification": "TABLETOP_GAME",
+      "edge_case_flags": [
+        "BOARD_GAME"
+      ],
+      "issue_id": "PU_004",
+      "pdf_page": 59
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_176",
+      "title": "Populous II",
+      "platform": "Super Nintendo / Sega Mega Drive",
+      "score_10": 8.5,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "COMPOSITE_PLATFORM_LABEL"
+      ],
+      "issue_id": "PU_005",
+      "pdf_page": 30
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_197",
+      "title": "ElfQuest",
+      "platform": "Board game",
+      "score_10": 8.5,
+      "classification": "TABLETOP_GAME",
+      "edge_case_flags": [
+        "BOARD_GAME"
+      ],
+      "issue_id": "PU_005",
+      "pdf_page": 52
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_206",
+      "title": "Video Speedway",
+      "platform": "Philips CD-i",
+      "score_10": 5.0,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_005",
+      "pdf_page": 60
+    },
+    {
+      "year_review_id": "PU_1993_REVIEW_207",
+      "title": "ABC Sports presenteert: Power Hitter",
+      "platform": "Philips CD-i",
+      "score_10": 7.8,
+      "classification": "VIDEO_GAME",
+      "edge_case_flags": [
+        "CD_I_PLATFORM"
+      ],
+      "issue_id": "PU_005",
+      "pdf_page": 61
+    }
+  ]
+}

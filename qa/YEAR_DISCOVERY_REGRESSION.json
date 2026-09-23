@@ -1,0 +1,67 @@
+{
+  "version": "v0.2.10.1a",
+  "patch": "YEAR_DISCOVERY_BRAND_HOTFIX",
+  "tests": [
+    {
+      "question": "Geef me een rondleiding door 1994 tot nu toe.",
+      "expected_route": "YEAR_DISCOVERY",
+      "expected_issues": [
+        6,
+        7
+      ],
+      "expected_coverage": "PARTIAL_DEEP_CANON_YEAR",
+      "must_interpret_tot_nu_toe_as": "current 1994 deep-canon boundary",
+      "must_not_use_primary_evidence_from": [
+        13,
+        14
+      ],
+      "must_not_discuss": "1995 through present unless the user explicitly asks"
+    },
+    {
+      "question": "Wat zijn de opvallendste dingen uit 1994?",
+      "expected_route": "YEAR_DISCOVERY",
+      "expected_issues": [
+        6,
+        7
+      ],
+      "must_frame_scope": "based on completed PU #006 and PU #007"
+    },
+    {
+      "question": "Wat is er interessant aan 1994?",
+      "expected_route": "YEAR_DISCOVERY",
+      "expected_issues": [
+        6,
+        7
+      ]
+    },
+    {
+      "question": "Wat zijn de opvallendste dingen uit 1993?",
+      "expected_route": "YEAR_DISCOVERY",
+      "expected_coverage": "COMPLETE_DEEP_CANON_YEAR",
+      "expected_issues": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "question": "Wat was de top 10 beste games van 1994?",
+      "must_keep_route": "YEAR_CANON_RANKING",
+      "must_not_be_captured_by_year_discovery": true
+    },
+    {
+      "public_brand_guardrail": true,
+      "forbidden_answer_terms": [
+        "BLACKPAPER",
+        "BLACKPAPER-bronnen"
+      ],
+      "preferred_terms": [
+        "PU30JAAR",
+        "PU30JAAR-archief",
+        "archiefbewijs"
+      ]
+    }
+  ]
+}

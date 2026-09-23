@@ -1,0 +1,82 @@
+BLACKPAPER PU #002 — HUMAN PASS LOG (DERIVED FROM ORIGINAL CHECKPOINT)
+=======================================================================
+This log is a deterministic rendering of PU_002_HUMAN_PASS_OBSERVATIONS.jsonl.
+It is not a reconstructed verbatim chat transcript.
+Observations: 47
+
+PU002_HUMAN_001 | p21 | Shadowrun RPG |  | FINAL 8.0 | UNRESOLVED
+  notes: tabletop RPG; no console/platform; FASA; needs pen, paper, fantasy, game master
+PU002_HUMAN_002 | p22 | Shadowrun Superior | GFX 6.5 · SOUND 6.0 | FINAL 6.0 | UNRESOLVED
+  notes: printed headline; SNES Shadowrun; no visible byline
+PU002_HUMAN_003 | p24,25 | The Lost Vikings | GFX 8.9 · SOUND 8.8 | FINAL 9.5 | BJORN
+  notes: direct human visual; byline Bjorn
+PU002_HUMAN_004 | p26 | Taz-Mania | GFX 8.0 · SOUND 7.5 | FINAL 7.2 | ADAM
+PU002_HUMAN_005 | p27 | Bubsy | GFX 8.5 · SOUND 8.7 | FINAL 9.0 | BJORN
+PU002_HUMAN_006 | p28 | The Blues Brothers | GFX 7.0 · SOUND 5.0 | FINAL 6.5 | KEES + MICHAEL
+  notes: printed joint byline: THE PU BROTHERS (KEES EN MICHAEL)
+PU002_HUMAN_007 | p29 | Cool Spot | GFX 8.2 · SOUND 8.5 | FINAL 8.5 | ADAM
+  notes: 'Erg moeilijk' is a negative report bullet
+PU002_HUMAN_008 | p30 | Fatal Fury | GFX 8.0 · SOUND 6.0 | FINAL 7.0 | KEES
+PU002_HUMAN_009 | p30 | Rockin' Kats | GFX 7.0 · SOUND 6.0 | FINAL 7.0 | MICHAEL
+PU002_HUMAN_010 | p30,31 | Snow Brothers | GFX 8.0 · SOUND 7.0 | FINAL 7.2 | MICHAEL
+PU002_HUMAN_011 | p31 | American Gladiators | GFX 7.5 · SOUND 7.0 | FINAL 5.0 | KEES
+  notes: platform visually resolved to Super Nintendo
+PU002_HUMAN_012 | p31 | Total Recall | GFX 5.0 · SOUND 5.0 | FINAL 5.0 | MICHAEL
+PU002_HUMAN_013 | p32 | Another World | GFX 7.4 · SOUND 7.0 | FINAL 7.6 | BJORN
+PU002_HUMAN_014 | p33 | Cybernator | GFX 9.0 · SOUND 7.5 | FINAL 8.5 | KEES
+PU002_HUMAN_015 | p34 | Flashback | GFX 9.0 · SOUND 8.0 | FINAL 9.0 | BEN
+PU002_HUMAN_016 | p35 | Bulls vs Blazers | GFX 8.0 · SOUND 8.0 | FINAL 8.0 | MICHAEL + KEES
+  notes: joint review
+PU002_HUMAN_017 | p36,37 | El-Fish | GFX 9.8 · SOUND 9.2 | FINAL 9.6 | DAVID
+  notes: software/creative computer toy edge case
+PU002_HUMAN_018 | p38 | Sunsetriders | GFX 8.0 · SOUND 7.0 | FINAL 8.0 | MICHAEL
+PU002_HUMAN_019 | p38,39 | Battle Grand Prix | GFX 7.0 · SOUND 7.0 | FINAL 7.0 | KEES
+  notes: platform visually resolved from issue itself
+PU002_HUMAN_020 | p39 | F1 Super Driving | GFX 8.5 · SOUND 8.0 | FINAL 8.5 | KEES
+  notes: printed subtitle/name Aguri Suzuki
+PU002_HUMAN_021 | p40 | Darklands | GFX 8.0 · SOUND 6.0 | FINAL 8.0 | BEN
+PU002_HUMAN_022 | p41 | Veil of Darkness | GFX 7.0 · SOUND 6.0 | FINAL 7.0 | BEN
+  notes: speech slip corrected from 'File of Darkness'
+PU002_HUMAN_023 | p46 | Wolfenstein -3D2 / Spear of Destiny | GFX 8.0 · SOUND 8.0 | FINAL 8.0 | Game girl
+  notes: printed byline/pseudonym 'Game girl'; real-person identity unresolved
+PU002_HUMAN_024 | p47 | Prince of Persia 2 | GFX 8.0 · SOUND 7.0 | FINAL 7.0 | BEN
+PU002_HUMAN_025 | p48,49 | Civilization | GFX 8.2 · SOUND 8.0 | FINAL 8.9 | DAVID
+PU002_HUMAN_026 | p50,51 | Battletoads - NES / Ragnarok's World | GFX 6.0 · SOUND 7.0 | FINAL 7.0 | MICHAEL
+  notes: scorecard on p51, article byline Michael on p50
+PU002_HUMAN_027 | p50,51 | Battletoads - Game Boy basisuitvoering | GFX 5.0 · SOUND 6.0 | FINAL 6.0 | MICHAEL
+  notes: scorecard visually associated on p51
+PU002_HUMAN_028 | p50,51 | Battletoads - Game Boy Ragnarok's World | GFX 8.7 · SOUND 7.7 | FINAL 7.0 | MICHAEL
+  notes: scorecard visually associated on p51
+PU002_HUMAN_029 | p52 | Zen: Intergalactic Ninja | GFX 8.0 · SOUND 8.0 | FINAL 9.0 | MICHAEL
+  notes: all four report bullets visibly use red/down indicators despite positive wording in first three
+PU002_HUMAN_030 | p52 | Top Rank Tennis | GFX 8.0 · SOUND 7.0 | FINAL 7.0 | MICHAEL
+PU002_HUMAN_031 | p53 | Top Gun: Guts & Glory | GFX 4.0 · SOUND 4.0 | FINAL 4.0 | MICHAEL
+PU002_HUMAN_032 | p54 | Robin Hood | GFX 7.8 · SOUND 7.0 | FINAL 8.3 | BJORN
+  notes: speech slip corrected from GameCube to Game Boy
+PU002_HUMAN_033 | p54,55 | Prince Valiant | GFX 6.5 · SOUND 5.9 | FINAL 6.2 | BJORN
+  notes: article-type to verify from scan
+PU002_HUMAN_034 | p55 | Milon's Secret Castle | GFX 7.8 · SOUND 7.6 | FINAL 8.3 | BJORN
+  notes: speech slip corrected from Miles'
+PU002_HUMAN_035 | p56 | Shinobi II: The Silent Fury | GFX 7.8 · SOUND 7.5 | FINAL 8.2 | BJORN
+PU002_HUMAN_036 | p56 | Krusty's Fun House | GFX 9.0 · SOUND 9.0 | FINAL 9.0 | MICHAEL
+  notes: speech slip corrected from Christy's
+PU002_HUMAN_037 | p57 | Spider-Man: Return of the Sinister Six | GFX 8.0 · SOUND 6.0 | FINAL 7.0 | MICHAEL
+  notes: article-type to verify
+PU002_HUMAN_038 | p57 | Vampire: Master of Darkness | GFX 8.0 · SOUND 7.8 | FINAL 8.0 | BJORN
+  notes: article-type to verify
+PU002_HUMAN_039 | p58 | 3 Count Bout | GFX 8.7 · SOUND 9.1 | FINAL 5.4 | DAVID
+PU002_HUMAN_040 | p59 | Sengoku | GFX 8.8 · SOUND 9.1 | FINAL 8.5 | DAVID
+  notes: speech slip corrected from Zenkoku
+PU002_HUMAN_041 | p60 | Jaguar XJ220 | GFX 8.0 · SOUND 8.0 | FINAL 8.8 | ADAM + BJORN
+  notes: final 8.8 recovered directly from visible score panel
+PU002_HUMAN_042 | p61 | Night Trap | GFX 7.0 · SOUND 7.0 | FINAL 6.7 | ADAM
+  notes: article-type to verify
+PU002_HUMAN_043 | p62 | Dark Castle | GFX 6.5 · SOUND 6.7 | FINAL 7.2 | BJORN
+  notes: article-type to verify
+PU002_HUMAN_044 | p62 | CD Shoot | GFX 8.0 · SOUND 7.2 | FINAL 7.5 | BJORN
+  notes: article-type to verify
+PU002_HUMAN_045 | p63 | Inca | GFX 9.5 · SOUND 9.5 | FINAL 9.0 | BJORN
+  notes: CD-i spel van de maand
+PU002_HUMAN_046 | p63 | The Palm Springs Open | GFX 7.5 · SOUND 8.2 | FINAL 7.2 | BJORN
+PU002_HUMAN_047 | p64 | Lemmings | GFX 6.5 · SOUND 6.5 | FINAL 7.0 | ADAM
+  notes: article-type to verify

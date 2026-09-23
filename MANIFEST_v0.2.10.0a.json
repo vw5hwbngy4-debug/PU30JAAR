@@ -1,0 +1,12 @@
+{
+  "version": "v0.2.10.0a",
+  "patch": "MULTI_PLATFORM_SCORECARD_HOTFIX",
+  "base": "v0.2.10.0",
+  "sql_required": false,
+  "canon_data_changed": false,
+  "changes": [
+    "platforms surfaced in canonical structured evidence",
+    "platform included in verified review dedupe key",
+    "multi-platform answer rule added"
+  ]
+}

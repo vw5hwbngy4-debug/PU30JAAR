@@ -1,0 +1,164 @@
+BLACKPAPER PU #009 — RECONCILIATION CONFLICT REPORT v1
+========================================================
+
+Authority order: HUMAN_VISUAL_VERIFIED > DIRECT_ISSUE_TEXT > machine/OCR structuring.
+The original visible magazine page is terminal evidence for printed score/title/report details.
+No external/web knowledge was used.
+
+1. Mega Man X components/final
+   earlier/oral risk: Graphics 8,5; Geluid 8,4; final 8,9
+   reconciled: Graphics 8,2; Geluid 8,4; final 9,3
+   basis: Direct p20 scorecard.
+
+2. Mega Man X page scope
+   earlier/oral risk: single page implied
+   reconciled: p20-p22 feature package
+   basis: p21-p22 continue the same feature.
+
+3. Lost Dimensions title
+   earlier/oral risk: Lost by Menace
+   reconciled: Lost Dimensions
+   basis: Direct p28 heading.
+
+4. Daffy Duck title
+   earlier/oral risk: David Duck and the Marvel Missions
+   reconciled: Daffy Duck: The Marvin Missions
+   basis: Direct p29 heading.
+
+5. Best of the Best title/type
+   earlier/oral risk: Championship Karate review
+   reconciled: Best of the Best: Championship Karate / PROFCHECK
+   basis: Direct p30-p33.
+
+6. ToeJam & Earl scores
+   earlier/oral risk: first dictation 5 / 5 / 9,5
+   reconciled: 9,5 / 9,5 / 9,5
+   basis: User follow-up + direct p35.
+
+7. Castlevania scores
+   earlier/oral risk: partial first dictation
+   reconciled: 7,9 / 7,0 / 7,4
+   basis: User follow-up + direct p36.
+
+8. Dr. Robotnik final
+   earlier/oral risk: unclear first dictation
+   reconciled: 8,6
+   basis: User follow-up + direct p37.
+
+9. Smurfen platform
+   earlier/oral risk: Game Boy
+   reconciled: printed GAME SMURF
+   basis: Direct p45 footer; canonical Game Boy normalization deferred.
+
+10. Road Runner title/scores
+   earlier/oral risk: speech-distorted title; partial score uncertainty
+   reconciled: Desert Speedtrap: Road Runner & Wile E. Coyote, 8,0 / 7,0 / 7,8
+   basis: User follow-up + direct p46.
+
+11. The Jungle Book components
+   earlier/oral risk: 8,0 / 8,0 / 8,7
+   reconciled: 9,0 / 8,4 / 8,7
+   basis: Direct p47.
+
+12. Mega Man IV title
+   earlier/oral risk: Mega Man 5.4 / speech corruption
+   reconciled: Mega Man IV
+   basis: Direct p49.
+
+13. Mega Man 5 components/final
+   earlier/oral risk: 7,5 / 7,5 / 8,7
+   reconciled: 7,8 / 7,5 / 7,9
+   basis: Direct p50.
+
+14. Rodland Graphics
+   earlier/oral risk: 7,5
+   reconciled: 7,8
+   basis: Direct p51.
+
+15. Gabriel Knight final
+   earlier/oral risk: 8,0
+   reconciled: 8,1
+   basis: Direct p54.
+
+16. Police Quest scores
+   earlier/oral risk: corrupt first dictation
+   reconciled: 8,0 / 6,0 / 8
+   basis: User follow-up + direct p55.
+
+17. SimCity 2000 scores
+   earlier/oral risk: garbled first dictation
+   reconciled: 8,4 / 7,8 / 8,7
+   basis: User follow-up + direct p57.
+
+18. Conspiracy title/scores
+   earlier/oral risk: Ghost byrsing; garbled score wording
+   reconciled: Conspiracy, 8,0 / 6,0 / 8,5
+   basis: User follow-up + direct p58-p59.
+
+19. Jump Raven Graphics
+   earlier/oral risk: 7,0
+   reconciled: 9,0
+   basis: Direct p61.
+
+20. Zombie Dinos final
+   earlier/oral risk: 8,9
+   reconciled: 9
+   basis: Direct p64.
+
+21. Mystic Midway: Phantom Express final
+   earlier/oral risk: 9,2
+   reconciled: 7,2
+   basis: Direct p65.
+
+22. CD32 Zool title
+   earlier/oral risk: ZOO
+   reconciled: Zool
+   basis: Direct p66.
+
+23. CD32 Seek & Destroy title/final
+   earlier/oral risk: Sea Canvas Joy; 5,9
+   reconciled: Seek & Destroy; 7,9
+   basis: Direct p66.
+
+24. CD32 Nigel Mansell title/final
+   earlier/oral risk: Nico Mansion World Championship; 5,8
+   reconciled: Nigel Mansell's World Championship; 6,8
+   basis: Direct p66.
+
+25. CD32 reviewers
+   earlier/oral risk: not found
+   reconciled: UNRESOLVED for all three
+   basis: No reliable visible byline on p66; not inferred.
+
+CENSUS RECONCILIATION
+---------------------
+Printed Spellen contents scored game rows: 35
+Canonical scored identities after direct page reconciliation: 35
+Final scored-evaluation census: 35
+
+FINAL HUMAN SCORE COVERAGE
+35 / 35 final scores resolved.
+0 unresolved final scores.
+3 intentional unresolved reviewer identities: Zool; Seek & Destroy; Nigel Mansell's World Championship.
+Those reviewers are not guessed.
+
+SPECIAL MULTI-REVIEW PAGES
+p25: Secret of Mana continuation/scorecard + Metal Marines.
+p28: Lost Dimensions + Super Battle Tank 2.
+p29: Daffy Duck: The Marvin Missions + NBA Jam.
+p66: Zool + Seek & Destroy + Nigel Mansell's World Championship.
+
+FINAL PACKAGING / STRUCTURAL HOTFIX
+===================================
+CANON/KNOWLEDGE v1 contained a packaging-only duplicate record_id defect:
+all 35 review records used PU_009_REVIEW_001.
+
+CANON/KNOWLEDGE v1.1 repairs this to unique sequential IDs
+PU_009_REVIEW_001 through PU_009_REVIEW_035.
+
+No factual canon changed. Scores, titles, reviewers, verdicts and platforms are identical.
+
+Terminal intentional unresolved reviewers remain:
+- Zool
+- Seek & Destroy
+- Nigel Mansell's World Championship

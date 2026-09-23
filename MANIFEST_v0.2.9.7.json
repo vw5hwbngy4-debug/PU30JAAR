@@ -1,0 +1,34 @@
+{
+  "version": "v0.2.9.7",
+  "patch": "PU004_DEEP_CANON",
+  "issue_id": "PU_004",
+  "issue_number": 4,
+  "publication_year": 1993,
+  "source_sha256": "8c928d636aec415c90811d487a2cbcd9ad299240ed3351e723ed25709abb8ef8",
+  "counts": {
+    "pages": 84,
+    "canonical_reviews": 39,
+    "rag_chunks": 185,
+    "entities": 101,
+    "aliases": 19,
+    "editor_evidence": 57,
+    "issue_knowledge": 41,
+    "provenance": 528
+  },
+  "schema_fixes": [
+    "issue_number=4 added to all canonical review records",
+    "issue_number=4 added to all local RAG records"
+  ],
+  "sql_to_run": "database/PU_004_LIVE_IMPORT_ALL_HOSTINGER_SAFE.sql",
+  "sql_files_in_patch": 1,
+  "expected_runtime_totals": {
+    "issues": 4,
+    "reviews": 166,
+    "rag_chunks": 651,
+    "editor_evidence": 229,
+    "issue_knowledge": 122,
+    "aliases": 137,
+    "page_transcripts": 336,
+    "rag_db_chunks": 651
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema_contract": "BLACKPAPER_ISSUE_INGEST_V1",
+  "issue_id": "PU_001",
+  "publication": "Power Unlimited",
+  "issue_number": 1,
+  "publication_year": 1993,
+  "publication_month": "July",
+  "issue_label": "PU 1-1",
+  "pdf_page_count": 84,
+  "source_pdf_sha256": "cd64b1a30e38f8324bb1f29e69468df9eb1dd7bc7e103e79e457edda7e1524a3",
+  "human_machine_complete_run": true,
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURING_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true
+  },
+  "review_census": {
+    "scored_evaluations": 37,
+    "resolved_scores": 37,
+    "unresolved_scores": 0
+  },
+  "historical_semantics": {
+    "REVIEW_bespreking": "Spel is overal officieel te koop, met Nederlandse gebruiksaanwijzing.",
+    "PREVIEW_voorbespreking": "Spel is hier en daar bij gespecialiseerde zaken te koop en in videotheken te huur; meestal Engelse handleiding.",
+    "important_note": "In PU #001 betekent PREVIEW/voorbespreking dus vooral vroege/import-beschikbaarheid, niet automatisch een moderne prerelease-preview van onvoltooide code."
+  },
+  "source_packages": {
+    "user_bundle_1-1(1).zip": "69a0f692fd155361d390e44c29b2fcb7349561a9e2f0436180c981d3bfa583e8",
+    "complete_archive_v2": "ba3ff8821e1330e4e8a8b43ecead2daf764aa00fa8eb180a327ff36d97146bd9",
+    "consolidated_canon_v1.1": "073179e669f561e2a40e76eb1427d164a3a3b7b8022035f6afda107d9860eda3",
+    "game_world_context_v1": "97ba7d75cf3106a8ed8c12ede7026101afbd8f7eef0cd943b40a43fbb6467843",
+    "machine_run_v1": "cd83c43ebd34556ab8bd5008fce27afac1ce78035c1de1a8a4a7a4295dd9993d"
+  },
+  "external_enrichment_records": 37,
+  "created_at": "2026-08-23T12:03:00+02:00"
+}

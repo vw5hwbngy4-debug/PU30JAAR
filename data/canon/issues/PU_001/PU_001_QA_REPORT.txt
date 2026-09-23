@@ -1,0 +1,55 @@
+BLACKPAPER PU #001 — ISSUE INGEST QA REPORT
+============================================
+PDF pages expected: 84
+PDF pages represented: 84
+Pages with transcript: 84
+Pages missing transcript: 0
+Pages marked PARTIAL best-available transcript: 7 ([2, 20, 40, 42, 43, 50, 84])
+Pages still LOW transcript confidence: 5 ([2, 40, 42, 43, 84])
+RAG chunks created: 116
+Review chunks: 24
+Preview chunks: 37
+Editorial/news/feature/masthead/list/letters/column chunks: 19
+Other chunks (including scored-unlabeled, ads, tips, cover, competition): 36
+Human review records expected: 37
+Human review records produced: 37
+Resolved scores: 37
+Unresolved scores: 0
+Direct reviewer bylines: 34
+Direct layout-associated reviewers: 1
+Candidate reviewers: 1
+Unresolved reviewers: 1
+Entities indexed: 96
+Editor evidence records: 49
+Issue knowledge records: 20
+Aliases created: 84
+Provenance records: 487
+Records with page provenance: 454
+Records without page provenance: 33
+External enrichment records available/linked: 37
+Duplicate page keys: []
+Duplicate review IDs: []
+Duplicate chunk IDs: []
+Duplicate entity IDs: []
+Orphan review records: []
+Orphan review RAG chunks: []
+Invalid JSONL lines: []
+
+HARD GATES
+NO_SILENT_PAGE_LOSS: PASS
+NO_SILENT_REVIEW_LOSS: PASS
+NO_SILENT_SCORE_LOSS: PASS
+NO_UNMARKED_INFERENCE: PASS
+NO_EXTERNAL_FACT_PRESENTED_AS_PU_FACT: PASS
+JSONL_VALID: PASS
+NO_DUPLICATE_PRIMARY_IDS: PASS
+NO_ORPHAN_REVIEW_RECORDS: PASS
+
+EVIDENCE NOTES
+- Eight source pages lacked an embedded text layer in the original archive run. Best-available OCR/visual recovery is retained and transparently marked; no page is omitted.
+- Page 20 has human-verified StarWing report/score recovery; some small tip/caption prose remains partial.
+- Page 50 is a graphic feature opener; only clearly legible title text is recovered, while pp51–52 carry the substantive Hacker feature text.
+- External game-world context is used only for canonical identity/aliases and is explicitly marked EXTERNAL_ENRICHMENT.
+- Historical REVIEW/PREVIEW semantics from p17 are preserved rather than projected into modern prerelease terminology.
+
+FINAL QA: PASS

@@ -1,0 +1,130 @@
+{
+  "issue_id": "PU_008",
+  "publication": "Power Unlimited",
+  "issue_number": 8,
+  "publication_year": 1994,
+  "publication_month": "March",
+  "issue_label": "Nummer 3, Jaargang 2",
+  "pdf_page_count": 84,
+  "source_pdf": "008.pdf",
+  "source_pdf_sha256": "f05353e504d403c2b020ff1c447dbb18b3b5ea3586f0ae3a6f250b7249d89cc9",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "toc_platform_rows": 40,
+    "shared_ottifants_duplicate_rows": 1,
+    "indexed_scored_identities": 39,
+    "extra_scored_card_game_outside_spellen": 1,
+    "scored_evaluations": 40,
+    "resolved_scores": 40,
+    "unresolved_scores": 0,
+    "unresolved_reviewers": [
+      "Mean Arenas",
+      "Arabian Nights"
+    ],
+    "reviewer_status_counts": {
+      "DIRECT_BYLINE": 38,
+      "UNRESOLVED": 2
+    },
+    "article_type_counts": {
+      "REVIEW": 29,
+      "POWER PRO": 10,
+      "KAARTSPEL": 1
+    }
+  },
+  "rag_census": {
+    "total_chunks": 196,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 40,
+      "SCORE_VERDICT": 40,
+      "ISSUE_KNOWLEDGE": 52,
+      "PAGE_SECTION": 43,
+      "SECTION_CLUSTER": 16,
+      "LIST_BLOCK": 5
+    }
+  },
+  "page_census": {
+    "page_type_counts": {
+      "COVER": 1,
+      "ADVERTISEMENT": 4,
+      "CONTENTS": 2,
+      "LETTERS": 3,
+      "NEWS": 2,
+      "FEATURE": 8,
+      "OTHER": 21,
+      "REVIEW": 41,
+      "UNKNOWN": 1,
+      "MASTHEAD": 1
+    },
+    "transcript_origin_counts": {
+      "PDF_TEXT_LAYER": 69,
+      "OCR_FALLBACK": 15
+    },
+    "fidelity_confidence_counts": {
+      "LOW": 16,
+      "MEDIUM": 6,
+      "HIGH": 62
+    },
+    "ocr_fallback_pages": [
+      2,
+      8,
+      15,
+      20,
+      30,
+      34,
+      35,
+      48,
+      49,
+      56,
+      58,
+      59,
+      68,
+      69,
+      74
+    ]
+  },
+  "structured_counts": {
+    "entities": 106,
+    "aliases": 32,
+    "editor_evidence": 52,
+    "issue_knowledge": 52
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "known_intentional_uncertainties": [
+    "Mean Arenas reviewer/byline is not visible enough to assign reliably.",
+    "Arabian Nights reviewer/byline is not visible enough to assign reliably."
+  ],
+  "special_canon_notes": [
+    "Ottifants has one shared Sega Mega Drive / Game Gear scorecard.",
+    "Magic is a scored card game outside the Spellen index and has Graphics 9, Geluid n.v.t., final 9.",
+    "Pink Goes to Hollywood final score is 7,9.",
+    "Steel Machine final score is 8,8.",
+    "Microcosm final score is 7,3.",
+    "Flight Sim Toolkit Graphics is 7,9.",
+    "Mean Arenas reviewer remains UNRESOLVED.",
+    "Arabian Nights reviewer remains UNRESOLVED."
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_008_RECONCILIATION_CHECKPOINT_v1.zip": "24f3a0e8b38a435edf91dc92963c826ca103f44173a2d25eb39059c7216136dc",
+    "BLACKPAPER_PU_008_RAW_TEXT_BUILD_v1.zip": "088a3ed8cfce9d1ca308b46d08bce4863ca7f57c965ede021eddd835b73b35ee",
+    "BLACKPAPER_PU_008_CANON_KNOWLEDGE_BUILD_v1.zip": "ab8f6f478d72afa621f4eea72e8a1ef4d513573bf45f220ea6e597b5a26532ad",
+    "BLACKPAPER_PU_008_RAG_BUILD_v1.zip": "cdf4f10ea8b6f08fd9e0ba27af89b5f7461d589c9dbbc3480d9b01793c620706"
+  }
+}

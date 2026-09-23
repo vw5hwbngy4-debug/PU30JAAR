@@ -1,0 +1,67 @@
+{
+  "publication_year": 1993,
+  "policy": "SOURCE_POINTERS_ONLY_NO_ISSUE_MERGE",
+  "input_bundle_sha256": "da6408d2dbae7b57becdb4ab2da6c8add439f60bc1dce2c9a38e4a2b3ddbe37a",
+  "issues": [
+    {
+      "issue_id": "PU_001",
+      "month": "July",
+      "source_package": "PU1.zip",
+      "source_package_sha256": "69a0f692fd155361d390e44c29b2fcb7349561a9e2f0436180c981d3bfa583e8",
+      "authoritative_review_layer": "auth/PU1/BLACKPAPER_PU_001_COMPLETE_ARCHIVE_v2/canon/PU_001_CONSOLIDATED_REVIEW_CANON.jsonl",
+      "page_transcript_layer": "auth/PU1/BLACKPAPER_PU_001_COMPLETE_ARCHIVE_v2/raw_text/PU_001_BEST_MACHINE_TRANSCRIPT_BY_PAGE.jsonl",
+      "issue_knowledge_layer": null,
+      "rag_layer": "auth/PU1/BLACKPAPER_PU_001_COMPLETE_ARCHIVE_v2/raw_text/PU_001_RAG_CHUNKS.jsonl",
+      "review_layer_sha256": "d9d3fe20144420028e322b28bd7df25f04b60e103009c263db4842a1342ec798",
+      "page_layer_sha256": "89bd809b364becde3301ffbf25b7d890533fe7c078be102b288eea7cdab1992c"
+    },
+    {
+      "issue_id": "PU_002",
+      "month": "September",
+      "source_package": "PU2.zip",
+      "source_package_sha256": "006efe55d5e52c8f6e96de95ee0f0f713973f3cc0dc6179464aaf1b4fd490c2e",
+      "authoritative_review_layer": "auth/PU2/PU_002_COMPLETE_INGEST/PU_002_HUMAN_CANON_REVIEWS.jsonl",
+      "page_transcript_layer": "auth/PU2/PU_002_COMPLETE_INGEST/PU_002_PAGE_TRANSCRIPTS.jsonl",
+      "issue_knowledge_layer": "auth/PU2/PU_002_COMPLETE_INGEST/PU_002_ISSUE_KNOWLEDGE.jsonl",
+      "rag_layer": "auth/PU2/PU_002_COMPLETE_INGEST/PU_002_RAG_CHUNKS.jsonl",
+      "review_layer_sha256": "ff0e58e3261098afe10bb0792393a8472b8755c10cd16bf5d5689462b098858d",
+      "page_layer_sha256": "696699cb04000b73c5eca7e3d7fec87110befd3868147b4c3515808a587c33e1"
+    },
+    {
+      "issue_id": "PU_003",
+      "month": "October",
+      "source_package": "PU3.zip",
+      "source_package_sha256": "1a015166e2ac33e70597d7f20cac94624e0c5de6267fbc61e632945abb5dce45",
+      "authoritative_review_layer": "PU3/PU_003_COMPLETE_INGEST/PU_003_HUMAN_CANON_REVIEWS.jsonl",
+      "page_transcript_layer": "PU3/PU_003_COMPLETE_INGEST/PU_003_PAGE_TRANSCRIPTS.jsonl",
+      "issue_knowledge_layer": "PU3/PU_003_COMPLETE_INGEST/PU_003_ISSUE_KNOWLEDGE.jsonl",
+      "rag_layer": "PU3/PU_003_COMPLETE_INGEST/PU_003_RAG_CHUNKS.jsonl",
+      "review_layer_sha256": "289862b31c6b54424bdc1c64ee7b00dfee745de0344d176cdd92290a2eeab7c6",
+      "page_layer_sha256": "2ea76026e559e51202e9af3ce260ca92db760a9b2c4d462f53138d0d8e9ec816"
+    },
+    {
+      "issue_id": "PU_004",
+      "month": "November",
+      "source_package": "PU4.zip",
+      "source_package_sha256": "0e6ffb687a67d596d18d8c1207c5635a89068c37c680146cc2faad7afeebaefd",
+      "authoritative_review_layer": "PU4/PU_004_COMPLETE_INGEST/PU_004_HUMAN_CANON_REVIEWS.jsonl",
+      "page_transcript_layer": "PU4/PU_004_COMPLETE_INGEST/PU_004_PAGE_TRANSCRIPTS.jsonl",
+      "issue_knowledge_layer": "PU4/PU_004_COMPLETE_INGEST/PU_004_ISSUE_KNOWLEDGE.jsonl",
+      "rag_layer": "PU4/PU_004_COMPLETE_INGEST/PU_004_RAG_CHUNKS.jsonl",
+      "review_layer_sha256": "80b08d54fcd1b3a119b75788ce9b64d783e7c45acd1211266cc64aec1e21c742",
+      "page_layer_sha256": "31aa794220c45399e674e0b879b637842228242b59877514b6e261d2dc1db3ff"
+    },
+    {
+      "issue_id": "PU_005",
+      "month": "December",
+      "source_package": "PU5.zip",
+      "source_package_sha256": "febdbac05dab081c272fea25bd24db3e8d7ba1ab5d2586090e3859b844aa4e13",
+      "authoritative_review_layer": "PU5/PU_005_COMPLETE_INGEST/PU_005_HUMAN_CANON_REVIEWS.jsonl",
+      "page_transcript_layer": "PU5/PU_005_COMPLETE_INGEST/PU_005_PAGE_TRANSCRIPTS.jsonl",
+      "issue_knowledge_layer": "PU5/PU_005_COMPLETE_INGEST/PU_005_ISSUE_KNOWLEDGE.jsonl",
+      "rag_layer": "PU5/PU_005_COMPLETE_INGEST/PU_005_RAG_CHUNKS.jsonl",
+      "review_layer_sha256": "1e158fa72baae5fb7d382d8da2e2263efb601c64398a3198f5d01f4b1f9986a0",
+      "page_layer_sha256": "f5c0cad86a6feddfae883d01af307fd47733479e375233d620fc5f8fa9bf1848"
+    }
+  ]
+}

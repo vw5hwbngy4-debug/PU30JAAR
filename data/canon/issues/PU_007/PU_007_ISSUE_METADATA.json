@@ -1,0 +1,119 @@
+{
+  "issue_id": "PU_007",
+  "publication": "Power Unlimited",
+  "issue_number": 7,
+  "publication_year": 1994,
+  "publication_month": "February",
+  "issue_label": "Nummer 2, Jaargang 2",
+  "pdf_page_count": 84,
+  "source_pdf": "007.pdf",
+  "source_pdf_sha256": "9f858f028c914d319ed068c4a4f928f5c62a8b3745ec62951bfc96098fdf0185",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "toc_platform_rows": 42,
+    "shared_super_baseball_duplicate_rows": 1,
+    "shared_dracula_duplicate_rows": 2,
+    "scored_evaluations": 39,
+    "resolved_scores": 39,
+    "unresolved_scores": 0,
+    "unresolved_reviewers": 0,
+    "reviewer_status_counts": {
+      "DIRECT_BYLINE": 39
+    },
+    "article_type_counts": {
+      "PREVIEW": 2,
+      "REVIEW": 27,
+      "SPELFILM_SPECIAL": 4,
+      "BORDSPEL": 1,
+      "POWER PRO": 5
+    }
+  },
+  "rag_census": {
+    "total_chunks": 195,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 39,
+      "SCORE_VERDICT": 39,
+      "ISSUE_KNOWLEDGE": 53,
+      "PAGE_SECTION": 43,
+      "SECTION_CLUSTER": 17,
+      "LIST_BLOCK": 4
+    }
+  },
+  "page_census": {
+    "page_type_counts": {
+      "COVER": 1,
+      "ADVERTISEMENT": 5,
+      "CONTENTS": 2,
+      "LETTERS": 3,
+      "NEWS": 2,
+      "FEATURE": 8,
+      "OTHER": 15,
+      "REVIEW": 41,
+      "UNKNOWN": 4,
+      "PROFCHECK": 2,
+      "MASTHEAD": 1
+    },
+    "transcript_origin_counts": {
+      "PDF_TEXT_LAYER": 74,
+      "OCR_FALLBACK": 10
+    },
+    "fidelity_confidence_counts": {
+      "LOW": 13,
+      "HIGH": 67,
+      "MEDIUM": 4
+    },
+    "ocr_fallback_pages": [
+      10,
+      21,
+      25,
+      32,
+      40,
+      48,
+      71,
+      73,
+      78,
+      79
+    ]
+  },
+  "structured_counts": {
+    "entities": 103,
+    "aliases": 29,
+    "editor_evidence": 53,
+    "issue_knowledge": 53
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "known_intentional_uncertainties": [],
+  "special_canon_notes": [
+    "Super Baseball 2020 has one shared Super Nintendo / Sega Mega Drive scorecard.",
+    "Dracula has one shared Sega Mega Drive / Super Nintendo / Game Boy scorecard.",
+    "Dragon Strike is a scored board game with no Graphics/Geluid components.",
+    "Terminator 2: Rampage is Graphics 9,0 / Geluid 8,0 / final 9.",
+    "NBA Jam pp54-55 is an unscored secondary ProCheck, not a second scored evaluation.",
+    "Sonic Chaos adjacent Plastic Ware material is not a separate scored evaluation.",
+    "Cliffhanger Action Replay code is 7E061F03."
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_007_RECONCILIATION_CHECKPOINT_v1.zip": "5f5d1f67d98db83567d283a79f974a36046269e6a06f54497149bc0b19475ae3",
+    "BLACKPAPER_PU_007_RAW_TEXT_BUILD_v1.zip": "27d72966b927d98ba34d8290f650241485ddf029185a2ae97144b526a39d513f",
+    "BLACKPAPER_PU_007_CANON_KNOWLEDGE_BUILD_v1.zip": "040ab01d1aca4402b807b92b4348deb864d60f0284195bb631bea33c4f0ad46c",
+    "BLACKPAPER_PU_007_RAG_BUILD_v1.zip": "bd9b47e2a5e87f34f47ab1b21c200f527897c43cd96eb6be45a98f59bbc6361e"
+  }
+}

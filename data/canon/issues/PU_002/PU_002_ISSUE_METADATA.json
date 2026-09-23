@@ -1,0 +1,100 @@
+{
+  "issue_id": "PU_002",
+  "publication": "Power Unlimited",
+  "issue_number": 2,
+  "publication_year": 1993,
+  "publication_month": "September",
+  "issue_label": "PU 1-2",
+  "pdf_page_count": 84,
+  "source_pdf": "002.pdf",
+  "source_pdf_sha256": "f979370442714dad6e746c71a9447693a13486002ce56492de7c29cfc28e9b03",
+  "human_machine_complete_run": true,
+  "factory_state": "FINAL_INGEST_PACKAGED",
+  "layers": {
+    "full_raw_transcript": true,
+    "page_transcripts": true,
+    "rag_chunks": true,
+    "human_review_canon": true,
+    "entity_index": true,
+    "alias_map": true,
+    "editor_evidence": true,
+    "issue_knowledge": true,
+    "provenance": true,
+    "external_enrichment": false
+  },
+  "review_census": {
+    "scored_evaluations": 47,
+    "resolved_scores": 47,
+    "unresolved_scores": 0,
+    "reviewer_status_counts": {
+      "UNRESOLVED": 2,
+      "DIRECT_BYLINE": 41,
+      "DIRECT_LAYOUT_ASSOCIATION": 4
+    },
+    "article_type_counts": {
+      "REVIEW": 34,
+      "PREVIEW": 13
+    }
+  },
+  "rag_census": {
+    "total_chunks": 172,
+    "chunk_type_counts": {
+      "REVIEW_ARTICLE": 47,
+      "SCORE_VERDICT": 47,
+      "ISSUE_KNOWLEDGE": 26,
+      "PAGE_SECTION": 44,
+      "SECTION_CLUSTER": 8
+    }
+  },
+  "page_census": {
+    "page_type_counts": {
+      "COVER": 1,
+      "ADVERTISEMENT": 12,
+      "EDITORIAL": 1,
+      "CONTENTS": 2,
+      "LETTERS": 4,
+      "NEWS": 5,
+      "OTHER": 15,
+      "FEATURE": 4,
+      "REVIEW": 31,
+      "PREVIEW": 8,
+      "COLUMN": 1
+    },
+    "transcript_origin_counts": {
+      "PDF_TEXT_LAYER": 82,
+      "OCR_FALLBACK": 2
+    },
+    "fidelity_confidence_counts": {
+      "MEDIUM": 8,
+      "LOW": 5,
+      "HIGH": 71
+    },
+    "ocr_fallback_pages": [
+      6,
+      42
+    ]
+  },
+  "structured_counts": {
+    "entities": 85,
+    "aliases": 14,
+    "editor_evidence": 63,
+    "issue_knowledge": 26
+  },
+  "authority_model": {
+    "tier_1": "HUMAN_VISUAL_VERIFIED / RECONCILED_DIRECT_CANON",
+    "tier_2": "DIRECT_ISSUE_TEXT",
+    "tier_3": "MACHINE_STRUCTURE_OR_INFERENCE",
+    "tier_4": "EXTERNAL_ENRICHMENT"
+  },
+  "known_intentional_uncertainties": [
+    "Shadowrun RPG reviewer unresolved",
+    "Shadowrun Superior reviewer unresolved",
+    "Wolfenstein -3D2 byline printed as pseudonym 'Game girl'; underlying identity unresolved"
+  ],
+  "upstream_artifacts": {
+    "BLACKPAPER_PU_002_RECONCILIATION_CHECKPOINT_v1.zip": "eab6f1f8140b969181a8108c4994c429fcf1dbff57bb86e33e54d90b9b2063cf",
+    "BLACKPAPER_PU_002_RAW_TEXT_BUILD_v1.zip": "05e2ff05fab1a4d1b8c780dbf650d87b8dbb4089042855670394d083e3061bbe",
+    "BLACKPAPER_PU_002_CANON_KNOWLEDGE_BUILD_v1.zip": "2e27cf06fe662379bd4f1a6726a7eb192f85753f8e4353a4aeace9ed6929108a",
+    "BLACKPAPER_PU_002_RAG_BUILD_v1.zip": "c58bfecb27877bf549a147bd6bacc7b40c056a93f2e3de9c1d1063e6f3d31469"
+  }
+}

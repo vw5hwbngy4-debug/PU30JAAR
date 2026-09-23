@@ -1,0 +1,43 @@
+{
+  "version": "v0.2.8.3",
+  "feature": "FULL_SCORECARD_CANON",
+  "regressions": [
+    {
+      "question": "Wat voor cijfer kreeg Mega Man 3?",
+      "expect": [
+        "Graphics 8",
+        "Geluid 8",
+        "Eind 8,5/10",
+        "Kees de Koning"
+      ]
+    },
+    {
+      "question": "Wat zijn alle cijfers uit PU 1?",
+      "expect": [
+        "37 scored evaluations",
+        "Darkwing Duck",
+        "Graphics 8",
+        "Geluid 8",
+        "Eind 8/10",
+        "Mega Man 3",
+        "Eind 8,5/10",
+        "The Empire Strikes Back",
+        "Graphics 7,5",
+        "Eind 7,5/10",
+        "Barbie Game Girl",
+        "Alien Gate",
+        "Escape from CyberCity",
+        "Hellcats Over The Pacific"
+      ]
+    },
+    {
+      "question": "Welke deelcijfers kreeg The Empire Strikes Back in PU 1?",
+      "expect": [
+        "Graphics 7,5",
+        "Geluid 8",
+        "Eind 7,5/10",
+        "Kees de Koning"
+      ]
+    }
+  ]
+}

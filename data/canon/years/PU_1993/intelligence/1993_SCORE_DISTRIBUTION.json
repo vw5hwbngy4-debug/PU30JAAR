@@ -1,0 +1,173 @@
+{
+  "schema": "PU_YEAR_SCORE_DISTRIBUTION_V1",
+  "publication_year": 1993,
+  "evaluation_count": 209,
+  "scale": 10,
+  "mean": 7.7928,
+  "median": 8.0,
+  "min": 4.0,
+  "max": 10.0,
+  "population_stdev": 1.1015,
+  "bands": {
+    "9.0-10.0": 41,
+    "8.0-8.9": 75,
+    "7.0-7.9": 58,
+    "6.0-6.9": 26,
+    "5.0-5.9": 8,
+    "below_5.0": 1
+  },
+  "cumulative": {
+    "9_plus": 41,
+    "8_plus": 116,
+    "below_7": 35,
+    "below_6": 9,
+    "perfect_10": 1
+  },
+  "exact_score_frequencies": [
+    {
+      "score": 10.0,
+      "count": 1
+    },
+    {
+      "score": 9.8,
+      "count": 1
+    },
+    {
+      "score": 9.6,
+      "count": 4
+    },
+    {
+      "score": 9.5,
+      "count": 6
+    },
+    {
+      "score": 9.4,
+      "count": 1
+    },
+    {
+      "score": 9.3,
+      "count": 1
+    },
+    {
+      "score": 9.1,
+      "count": 3
+    },
+    {
+      "score": 9.0,
+      "count": 24
+    },
+    {
+      "score": 8.9,
+      "count": 3
+    },
+    {
+      "score": 8.8,
+      "count": 1
+    },
+    {
+      "score": 8.7,
+      "count": 2
+    },
+    {
+      "score": 8.5,
+      "count": 20
+    },
+    {
+      "score": 8.4,
+      "count": 2
+    },
+    {
+      "score": 8.3,
+      "count": 2
+    },
+    {
+      "score": 8.2,
+      "count": 7
+    },
+    {
+      "score": 8.1,
+      "count": 1
+    },
+    {
+      "score": 8.0,
+      "count": 37
+    },
+    {
+      "score": 7.9,
+      "count": 1
+    },
+    {
+      "score": 7.8,
+      "count": 6
+    },
+    {
+      "score": 7.7,
+      "count": 2
+    },
+    {
+      "score": 7.6,
+      "count": 2
+    },
+    {
+      "score": 7.5,
+      "count": 16
+    },
+    {
+      "score": 7.4,
+      "count": 1
+    },
+    {
+      "score": 7.3,
+      "count": 1
+    },
+    {
+      "score": 7.2,
+      "count": 5
+    },
+    {
+      "score": 7.0,
+      "count": 24
+    },
+    {
+      "score": 6.9,
+      "count": 2
+    },
+    {
+      "score": 6.8,
+      "count": 3
+    },
+    {
+      "score": 6.7,
+      "count": 1
+    },
+    {
+      "score": 6.5,
+      "count": 7
+    },
+    {
+      "score": 6.2,
+      "count": 2
+    },
+    {
+      "score": 6.0,
+      "count": 11
+    },
+    {
+      "score": 5.5,
+      "count": 1
+    },
+    {
+      "score": 5.4,
+      "count": 1
+    },
+    {
+      "score": 5.0,
+      "count": 6
+    },
+    {
+      "score": 4.0,
+      "count": 1
+    }
+  ],
+  "authority": "DETERMINISTIC_FROM_209_YEAR_REVIEW_RECORDS"
+}

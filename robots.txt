@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /wiki/
+Allow: /api/
+Allow: /data/
+
+User-agent: OAI-SearchBot
+Allow: /wiki/
+Allow: /api/
+Allow: /data/
+
+Sitemap: https://pu30jaar.wolken.page/sitemap-wiki.xml
